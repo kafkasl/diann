@@ -1,0 +1,15 @@
+Background
+Little is published about the impact of the 2008 economic crisis on mental health services in Spain.
+Method
+An interrupted time series analysis was conducted to investigate a potential short-term association between the 2008 economic crisis and the number of psychiatric hospital admissions. 
+The timing of the intervention (April 2008) was based on observed changes in Gross Domestic Product (GDP). 
+Data on 1,152,880 psychiatric inpatients from the national Hospital Morbidity Survey, 69 months before and after the onset of the economic crisis (April 2008), were analyzed.
+Results
+Age-adjusted psychiatric (ICD9 290-319) hospital discharge rates significantly increased from April 2008, matching the onset of the crisis, especially for inpatients aged 15-24 years old and to a less extend for inpatients aged 25-34 years old. 
+Other age groups were not affected. 
+There was a significant increase in diagnoses for disturbance of conduct and emotions, depression, neurotic and personality disorders and alcohol and drug disorders; however, diagnoses for mental retardation and organic psychosis for 15-34 years old inpatients were unaffected.
+Conclusions
+Psychiatric hospital admissions abruptly increased in April 2008, coinciding with the onset of the economic crisis. 
+We identified age groups and diagnoses affected. 
+Increased hospitalizations were found only at the age-ranges most affected by the rise in unemployment. 
+The diagnoses affected were those most sensitive to environmental changes.

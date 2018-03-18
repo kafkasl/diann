@@ -1,0 +1,17 @@
+Abstract
+ Objective
+To determine the status of neuroimaging studies of Nuclear Medicine in Spain during 2013 and first quarter of 2014, in order to define the activities of the neuroimaging group of the Spanish Society of Nuclear Medicine and Molecular Imaging (SEMNIM).
+Material and methods
+A questionnaire of 14 questions was designed, divided into 3 parts: characteristics of the departments (equipment and professionals involved); type of scans and clinical indications; and evaluation methods.
+The questionnaire was sent to 166 Nuclear Medicine departments.
+Results
+A total of 54 departments distributed among all regions completed the questionnaire.
+Most departments performed between 300 and 800 neuroimaging examinations per year, representing more than 25 scans per month.
+The average pieces of equipment were three; half of the departments had a PET/CT scanner and SPECT/CT equipment.
+Scans performed more frequently were brain SPECT with 123I-FP-CIT, followed by brain perfusion SPECT and PET with 18F-FDG.
+The most frequent clinical indications were cognitive impairment followed by movement disorders.
+For evaluation of the images most sites used only visual assessment, and for the quantitative assessment the most used was quantification by region of interest.
+Conclusions
+These results reflect the clinical activity of 2013 and first quarter of 2014.
+The main indications of the studies were cognitive impairment and movement disorders.
+Variability in the evaluation of the studies is among the challenges that will be faced in the coming years.

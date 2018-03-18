@@ -1,0 +1,13 @@
+Resumen
+ Introducción y objetivos
+La audición residual se considera uno de los factores pronósticos para la evolución de pacientes con implante coclear, y su determinación de manera objetiva a través de potenciales evocados auditivos de estado estable (PEAee) es de suma importancia.
+Los objetivos en este estudio fueron cuantificar la audición residual y evaluar la utilidad de los PEAee en su medición en pacientes implantados.
+Métodos
+A 12 pacientes con implante coclear se les aplicó audiometría tonal liminar (ATL) pre y postimplantación, así como PEAee postimplante.
+Se realizó estadística descriptiva, correlaciones de Pearson y tablas de contingencia.
+Resultados
+Se conservó la audición residual en el 37,5% de los pacientes para la frecuencia de 125 Hz; para 250 y 500 Hz, la conservaron el 45,45% de los pacientes; en 1.000 Hz, el 27,27%; en 2.000 Hz, el 28,85% conservó la audición posterior al implante coclear; en 4.000 Hz, el 16%, y el 0% en el caso de 8.000 Hz.
+Al realizar PEAee postimplante se observa que no hay respuesta en el oído implantado, en comparación con el oído no implantado, donde encontramos respuesta en las frecuencias de 500 y 1.000 Hz, dado que los pacientes eran portadores de <dis>hipoacusia bilateral profunda</dis>, lo que podría evidenciar destrucción parcial del tejido neural en el oído implantado.
+Conclusiones
+La audición residual en frecuencias graves se conservó en la mayor parte de los pacientes.
+Los resultados en PEAee sugieren que es un estudio útil para evaluar la audición residual.

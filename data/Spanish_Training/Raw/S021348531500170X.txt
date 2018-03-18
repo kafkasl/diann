@@ -1,0 +1,18 @@
+Resumen
+ Objetivo
+Determinar la validez prospectiva del Test Your Memory (TYM) y su sensibilidad al cambio de estado cognitivo.
+Tipo de estudio
+Longitudinal prospectivo.
+Métodos
+Se siguió a 71 enfermos con síntomas cognitivos subjetivos y 48 con defecto cognitivo leve durante un periodo de tiempo medio de 35,2 ± 15 meses.
+Los sujetos no tenían demencia ni depresión al comienzo del seguimiento y a todos se le administró al menos dos veces el TYM.
+Se aplicó un criterio psicométrico para determinar la existencia de defecto cognitivo (≤ 1,5 puntos z en al menos un dominio cognitivo) y la escala Disability Assessment for Dementia para asegurar la indemnidad funcional.
+El criterio de empeoramiento fue el cambio de estadio en la Escala de Deterioro Global.
+Resultados
+Sesenta y un enfermos se mantuvieron cognitivamente estables y 58 empeoraron.
+No hubo diferencia entre ambos grupos con respecto al sexo, el nivel de instrucción, el estadio inicial de la GDS o la puntuación en el primer TYM.
+Los sujetos que empeoraron tenían más edad.
+El TYM aumentó un promedio de 0,04 puntos por mes en los pacientes estables o que mejoraron (IC95% -0,01 a 0,08) y disminuyó una media de 0,14 puntos por mes en los que empeoraron (IC95% -0,19 a -0,09).
+De los sujetos que empeoraron, en los que tenían defecto cognitivo leve la disminución de la puntuación del TYM fue más abrupta que en aquellos con síntomas cognitivos subjetivos.
+Conclusiones
+EL TYM carece de validez prospectiva pero es sensible al cambio de estado cognitivo.

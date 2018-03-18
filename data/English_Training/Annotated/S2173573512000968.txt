@@ -1,0 +1,8 @@
+Abstract
+ In the last decade, tremendous progress has been made very rapidly in the development of Early Hearing Detection and Intervention (EHDI) systems as a major public health initiative.
+The percentage of infants screened annually in Spain has increased significantly since the EHDI systems have expanded to all autonomic regions.
+Historically, high risk indicators have been used for the identification of infants who should receive audiological evaluation but who live in geographic locations where universal hearing screening is not yet available, to help identify infants who pass neonatal screening but are at risk of developing <dis>delayed-onset hearing loss</dis> and to identify infants who may have passed neonatal screening but have <dis>mild forms of permanent hearing loss</dis>.
+In this review, the standard risk factors for <dis>hearing loss</dis> are analysed and the risk factors known to be associated with <dis>late onset or progressive hearing loss</dis> are identified.
+The recommendation for infants with a risk factor that may be considered as low risk is to perform at least one audiology assessment in 24–30 months.
+In contrast, for an infant with risk factors known to be associated with <dis>late onset or progressive hearing loss</dis> (such as cytomegalovirus infection or family history), early and more frequent assessment is appropriate.
+All infants should have an objective standardised screening of global development with a validated assessment tool at 9, 18 and 24–30 months of age or at any time if the health care professional or the family is concerned.

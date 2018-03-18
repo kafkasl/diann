@@ -1,0 +1,7 @@
+The definition of the negative response of the full field electroretinogram is the presence of a b-wave with less amplitude than the a-wave (b/a ratio<1) in the combined response of cones and rods. 
+The presence of this pattern reflects an alteration in the bipolar cells, the Müller cells, or in the transmission of the stimulus from the photoreceptors to the bipolar cells, with preserved photoreceptor function.
+
+This finding can be seen bilaterally and symmetrically in different hereditary conditions, such as congenital stationary night blindness, juvenile X-linked retinoschisis, and Duchenne and Becker muscular dystrophies. 
+On the other hand, it can also be found unilaterally (or asymmetrically) in acquired pathologies, such as some types of immuno-mediated retinitis (Birdshot retinochoroiditis), autoimmune retinopathies, cancer/melanoma associated retinopathy, or retinal toxicity.
+
+The objective of this review is to summarise the characteristics of the pathologies in which this finding can be observed, in order to highlight its usefulness in the differential diagnosis of retinal conditions.

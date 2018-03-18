@@ -1,0 +1,7 @@
+Abstract
+ The unilateral neglect syndrome is defined as the inability or difficulty to identify, refer, orient or respond to stimuli presented contralaterally to a brain injury in the <scp><neg>absence of</neg> <dis>elementary sensory or motor disorders</dis></scp>.
+This syndrome is often associated with right parietal lesions, and the most frequent manifestations are <dis>attentional disturbances</dis>, <dis>perceptual deficits</dis> and <dis>somatosensorial disabilities</dis>.
+We present the case of a 64-year old male suffering from an acute ischemic stroke affecting the complete territory of the right middle cerebral artery.
+After the stroke, the patient had <dis>severe motor and functional deficits</dis>, associated with an <dis>intense attentional deficit</dis> in the context of a left unilateral neglect.
+We carried out a longitudinal study using the Behavioral Inattentional Test to measure the clinical course during a one-year follow-up.
+Our goal has been to show the sequence of clinical, cognitive and functional changes as well as the response of cases having similar severity to our case presented herein to specific rehabilitation programs.

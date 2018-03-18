@@ -1,0 +1,25 @@
+Objetivo
+Observar diferencias entre población étnica y autóctona en la frecuencia de <dis>trastornos mentales</dis>.
+Estudiar datos epidemiológicos y su nivel de registro.
+Diseño
+Estudio descriptivo.
+Emplazamiento
+Área Básica de Salud Raval Sud.
+CAP Drassanes.
+Barcelona.
+Pacientes
+Muestra aleatoria de 112 pacientes inmigrantes, pertenecientes a minorías étnicas, visitados entre enero de 1995 y diciembre de 1997, apareados por edad y sexo con 112 autóctonos.
+Intervenciones
+Se estudiaron variables relacionadas con <dis>patología mental</dis> en inmigrantes: edad, origen, motivo de migración, situación laboral, estado civil, convivientes, estudios, conocimiento del castellano y hábitos tóxicos.
+Se recogieron impresiones diagnósticas como ansiedad, depresión, somatización, psicosis, <dis>trastorno de personalidad</dis>, número de visitas para cada diagnóstico, tratamientos y número de visitas global entre enero de 1995 y diciembre de 1997.
+Estudio estadístico: análisis descriptivo y ji-cuadrado.
+Mediciones y resultados
+Edad media, 39 ± 14; varones, 52,7%; magrebíes, 36,6% (27,6–45,5), e indostaníes, 23,2% (15,4–31).
+Un 43% (33,6–52) comprende el castellano.
+El tabaquismo es superior en los autóctonos (59,8% [50,7–68,9] frente 26,8% [18,5–34,9]; p < 0,001), así como el abuso de alcohol (24,1% [16,1–32] frente al 5,4% [1,1–9,5]; p < 0,001).
+El grupo étnico tiende a presentar mayor porcentaje de depresión (15,2% [8,5–21,8] frente al 13,4% [7–19,7]; p = ns) y trastorno por somatización (10,7% [4,9–16,4] frente al 6,3% [1,7–10,7]; p = ns), pero es infratratado (19,8% [12,4–27,2] frente al 32,1% [23,4–40,7]; p = ns).
+El total de visitas es superior en el grupo autóctono (1.138/1.017), así como las visitas por <dis>trastornos mentales</dis> (17,9% [15,7–20,1] frente al 13% [10,9–15], p = ns).
+Conclusiones
+No hay diferencias en el porcentaje de <dis>trastornos mentales</dis> en inmigrantes, aunque sí tendencia a la depresión y trastorno por somatización.
+Las características de la población de referencia y el bajo nivel de registro de datos observado podrían sesgar el resultado, influenciado por las dificultades comunicativas de los inmigrantes que dificultan el diagnóstico.
+Es necesario formar a los profesionales para mejorar su calidad asistencial.

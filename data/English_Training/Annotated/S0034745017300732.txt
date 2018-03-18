@@ -1,0 +1,14 @@
+Introduction
+<dis>Attention deficit and hyperactivity disorder</dis> (<dis>ADHD</dis>) occurs more frequently in first-degree relatives. 
+It is believed that this risk is not specific to this disorder but also occurs with other psychopathologies. 
+The study of siblings of <dis>ADHD</dis> probands is an interesting field since they share common environmental factors.
+Methods
+This is a narrative literature review. 
+A bibliographic search was performed on PubMed and PsychNet databases and topic-related publications were included without date of publication or study design limits.
+Results
+Siblings of patients with <dis>ADHD</dis> have a higher likelihood of having this disorder when compared to controls, with odds ratios (OR) ranging between 11.4 and 13.5. 
+Among these siblings, <dis>ADHD</dis> prevalence ranges between 26 and 45.2%. 
+Siblings with <dis>ADHD</dis> and those <scp><neg>without</neg> <dis>ADHD</dis></scp> have an increased risk of having other disorders, the most frequent being oppositional defiant disorder (ODD).
+Conclusions
+Siblings of people with <dis>ADHD</dis> have an increased risk of having the same disorder. 
+The risk of having another <dis>psychiatric disorder</dis> markedly increases when the sibling also presents <dis>ADHD</dis>; this is especially true for ODD, substance use disorder and bipolar disorder.

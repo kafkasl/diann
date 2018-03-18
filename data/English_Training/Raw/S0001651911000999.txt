@@ -1,0 +1,13 @@
+Abstract
+ Introduction and objectives
+Genomic medicine investigates groups of genetic markers that determine susceptibility for complex diseases.
+The aim of this review was to introduce genomics to the clinical otorhinolaryngologist.
+Technological advances in genotyping and sequencing that have facilitated genome-wide association studies in common causes of hearing loss during the last years are summarised.
+Methods
+A search strategy in _PubMed_ was designed using the following keywords: (gene OR genomics OR GWAS OR high throughput) AND (hearing loss OR chronic otitis media OR age-related hearing loss OR otosclerosis OR Meniere's disease) during the last 5 years.
+A total of 1,846 references were obtained.
+After filtering by human studies and English as the language of publication, 1,295 summaries were evaluated, selecting 58 papers.
+Results
+The impact of sequencing the human genome in the knowledge of genome architecture, DNA variability and the significance of structural variations in the sequence to cause diseases is presented.
+The evolution of sequencing technology has determined the design and performance of genetic association studies.
+Finally, we present genetic association studies performed in common causes of ear diseases.

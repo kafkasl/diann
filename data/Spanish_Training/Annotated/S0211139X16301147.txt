@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+La prevalencia de obstrucción pulmonar aumenta con la edad y la presencia de comorbilidades.
+Aunque para confirmar su diagnóstico es necesario completar una espirometría, esta puede ser difícil de realizar en ancianos con <dis>deterioro cognitivo</dis> o <dis>dependencia funcional</dis>.
+Recientemente el uso de dispositivos portátiles que utilizan el índice FEV1/FEV6 han demostrado su utilidad para evaluar la presencia de obstrucción pulmonar, con una mayor facilidad de uso, aunque su utilidad en población anciana con pluripatología no ha sido establecida.
+Metodología
+Estudio transversal, realizado en pacientes ingresados en la Unidad de pacientes crónicos complejos del Hospital Universitario Mútua de Terrassa.
+A todos ellos se les realizó un cuestionario que incluía –entre otras– medidas de <dis>dependencia funcional</dis> y <dis>deterioro cognitivo</dis> y se intentaron completar previamente al alta 3 maniobras válidas de FEV1/FEV6 con el aparato Piko-6, considerándose criterio de obstrucción un FEV1/FEV6 ≤ 0,75.
+Se analizaron las características de la población que fue capaz de realizar las pruebas, y la prevalencia de obstrucción pulmonar.
+Resultados
+Se estudiaron 54 pacientes, de los cuales 35 (64,81%) realizaron las maniobras correctamente.
+Los pacientes que no completaron las maniobras tenían más <dis>dependencia funcional</dis> (Barthel 19 vs. 72, p < 0,0001) y más <dis>deterioro cognitivo</dis> (Pfeiffer 1 vs. 9, p < 0,0001; MEC 3/35 vs. 28/35, p < 0,010).
+La prevalencia de obstrucción fue del 71,43%, con un 72% de infradiagnóstico.
+Conclusiones
+En un 35,18% de los pacientes no se consiguió determinar el FEV1/FEV6, por <dis>deterioro cognitivo</dis> o <dis>dependencia funcional</dis>.
+Tanto la prevalencia de obstrucción como el infradiagnóstico superaron el 70%.

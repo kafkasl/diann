@@ -1,0 +1,11 @@
+Abstract
+ Clinical case A patient with chronic, painless, bilateral loss of vision, after significant intake of interferon (IFNα) and ribavirina due to liver transplant.
+Ocular fundus is normal.
+A suspected retrobulbar optic neuropathy is confirmed by a prolongation of the latency of the patient's visual evoked potential.
+There being no prior record of risk factors and with the patient's systemic analysis giving normal results, the clinical improvement and the electro-physiological tests conducted after the drug was withdrawn point to interferon as negatively affecting the bilateral optic nerve.
+Discussion Interferon-α is used in the treatment of viral and neoplastic illnesses.
+Currently the drug is formulated as Interferon alfa pegilado (IFNα-p) in order to reduce toxicity and increase tolerance.
+The most common secondary effects are flu symptoms, asthenia and weigh loss.
+Affected ocular tissue is rare and optic neuropathy is also an infrequent complication: retinopathy at the beginning of treatment is, however, more frequent.
+The most widely accepted hypothesis as to the cause of toxicity is the presence of circulating immune complexes.
+It is, therefore, essential for ophthalmologists to be aware of the toxicity of this drug in order to be able to withdraw it in good time, thus preventing potentially irreversible sight loss.

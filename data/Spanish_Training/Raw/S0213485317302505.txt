@@ -1,0 +1,15 @@
+Introducción.
+El Addenbrooke's Cognitive Examination III (ACE-III) es una adaptación del test de cribado ACE, la cual ha demostrado tener una alta sensibilidad y especificidad para detectar disfunción cognitiva en pacientes con demencia y otras patologías neurológicas y psiquiátricas. 
+Si bien el ACE-III ya ha sido validado en castellano (España), este no ha sido validado en Latinoamérica. 
+El objetivo del presente estudio fue validar el ACE-III en una población argentina y chilena.
+
+Métodos.
+Se evaluó un grupo de pacientes con enfermedad de Alzheimer (n=70), un grupo de pacientes con la variante conductual de la demencia frontotemporal (n=31) y un grupo control (n=139) con la versión en español del ACE-III; reclutados en centros médicos de ambos países.
+
+Resultados.
+La versión argentina-chilena del ACE-III presentó una buena consistencia interna (alfa de Cronbach = 0,87). 
+Se hallaron diferencias significativas en los valores totales del ACE-III entre el grupo control y el grupo de demencias (p< 0,05) y entre ambos grupos de demencia (p< 0,05). 
+Con un punto de corte de 86, el 98,6% de los pacientes con DTA, el 83,9% de pacientes con variante conductual de la demencia frontotemporal y el 84,2% de los controles fue correctamente clasificado.
+
+Conclusiones.
+El presente estudio ha demostrado que el ACE-III continúa siendo una herramienta útil para la detección de la disfunción cognitiva en la demencia.

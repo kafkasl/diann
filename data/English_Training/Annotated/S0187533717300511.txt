@@ -1,0 +1,17 @@
+Introduction.
+The use of steroids in the post-natal period is a common practice, although it is still controversial in neonatology due to its association with adverse effects and risk of neurodevelopment sequelae.
+
+Material and methods.
+A retrospective, observational, analytical study was conducted including patients weighing less than 1500g that received a steroid protocol for extubation between 2008 and 2010 and compared with a control group. 
+Neurodevelopment was evaluated using the Bayley II scale at one and two years of age, as well as an analysis of the demographic variables and morbidity.
+
+Results.
+A total of 132 patients were included, with 46 in the study group and 86 in the control group. 
+No differences were found in the demographic variables, although the length of stay was significantly longer in the study group. 
+An increased risk for arterial hypertension, grade II intraventricular haemorrhage, Patent Ductus Arteriosus, bronchopulmonary dysplasia, and retinopathy was found in the study group. 
+There was no difference as regards <dis>blindness</dis>, <dis>hearing loss</dis>, <dis>cerebral palsy</dis>, and leukomalacia. 
+At 2 years of age an increase in the risk for <dis>mild mental development impairment</dis> was found in the control group and increased risk for <dis>significant delay in psychomotor development</dis> in the study group.
+
+Conclusions.
+Post-natal low dose steroids are effective to accomplish extubation in patients that are ventilation dependent. 
+Significant psychomotor development changes were found at 2 years of age, <scp>with <neg>no evidence of</neg> leukomalacia or <dis>cerebral palsy</dis></scp>.

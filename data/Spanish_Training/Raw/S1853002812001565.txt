@@ -1,0 +1,19 @@
+Resumen
+ Introducción
+Las emociones básicas son estados emocionales determinados biológicamente, cuya expresión y reconocimiento es universal e innato.
+Las emociones complejas surgen de la combinación de las básicas, y su reconocimiento se logra a través de la Teoría de la mente (TdM).
+Objetivo
+Investigar la presencia de alteraciones en el reconocimiento facial de emociones básicas (RFEB) y su relación con el reconocimiento de emociones complejas en un grupo de pacientes con la variante conductual de la demencia frontotemporal (DFTvc).
+Pacientes y métodos
+Se seleccionaron 60 fotografías del set _Pictures of Facial Affect_ basándonos en el trabajo de Calder et al.
+(1996) y se administró una batería para el RFEB, integrada por 3 pruebas.
+Se administró la prueba de emociones complejas Lectura de la mente en los ojos (LMO).
+Se evaluó una muestra de 14 pacientes del Laboratorio de Deterioro Cognitivo del HIGA Eva Perón con diagnóstico de DFTvc y un grupo control para las tareas de RFEB.
+Se llevó a cabo un estudio múltiple de casos aislados.
+Resultados
+Se encontraron diferencias significativas para el RFEB entre controles y pacientes.
+LMO mostró correlaciones con las 3 tareas de RFEB: selección (r: 0,570; p = 0,034), apareamiento (r: 0,600; p = 0,023) y denominación (r: 0,770; p = 0,001).
+Se observan dobles disociaciones entre LMO y tareas de RFEB.
+Conclusiones
+La presencia de correlaciones a nivel de grupo indicaría que las emociones básicas intervienen en la formación de las emociones secundarias.
+Sin embargo, la presencia de dobles disociaciones entre las tareas podría indicar que su ejecución involucra procesos parcialmente independientes.

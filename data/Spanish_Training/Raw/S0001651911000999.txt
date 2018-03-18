@@ -1,0 +1,13 @@
+Resumen
+ Introducción y objetivos
+La medicina genómica estudia la susceptibilidad que determinan grupos de marcadores genéticos para el desarrollo de las enfermedades genéticas complejas.
+El objetivo de esta revisión es introducir al otorrinolaringólogo clínico a la genómica.
+Se resumen los avances tecnológicos en genotipado y secuenciación que se han producido en los últimos años, y que han permitido el desarrollo de estudios de asociación genómica a gran escala en las causas más comunes de hipoacusia.
+Métodos
+Se ha diseñado una estrategia de búsqueda en PubMed mediante los siguientes términos: _(gene OR genomics OR GWAS OR high throughput) AND (hearing loss OR chronic otitis media OR age-related hearing loss OR otosclerosis OR Meniere‘s disease)_ durante los últimos 5 años.
+Se obtuvieron un total de 1.846 referencias, que se filtraron a los estudios en humanos y publicados en inglés.
+Se evaluaron 1.295 resúmenes, seleccionándose finalmente 58 trabajos.
+Resultados
+Se describe el impacto de la secuenciación del genoma humano que ha permitido conocer la arquitectura del genoma, la variabilidad del ADN, y la relevancia de las variaciones estructurales en el desarrollo de las enfermedades.
+Se comenta la evolución de la tecnología de secuenciación, describiéndose los diversos tipos de estudios de asociación génética.
+Finalmente, se presentan los estudios de asociación genética que se han realizado en las enfermedades más comunes del oido.

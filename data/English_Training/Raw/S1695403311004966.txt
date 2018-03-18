@@ -1,0 +1,15 @@
+Abstract
+ Introduction
+Neuronal ceroid lipofuscinoses are a group of inherited autosomal recessive lysosomal diseases, most commonly found in infancy.
+These are neuropathologically characterised by accumulation of an autofluorescent lipopigment in neurons and other cells.
+This condition is clinically characterised by loss of motor and cognitive skills, lack of motor coordination, ataxia, progressive visual impairment, behavioural changes; seizures of difficult to manage seizures, particularly myoclonic, and premature death.
+Ten clinical forms have been described, one of which is late infantile where clinical signs begin between two and four years.
+The gene responsible for this disease is located at 11p15 locus, and the enzyme encoded by this gene is the tripeptidyl peptidase 1.
+Patients and methods
+We standardised the technique for the enzymatic diagnosis of late infantile neuronal ceroid lipofuscinoses from dried blood on filter paper card in 76 healthy individuals adults and children in order to establish a normal range in the Venezuelan population.
+The tripeptidyl peptidase activity was also determined in 9 patients with a clinical diagnosis of late infantile neuronal ceroid lipofuscinoses.
+Results
+Six of the samples showed activity lower than the lowest control value (0.11 to 0.45 nmol/spot) from healthy controls of infantile age, confirming the enzymatic diagnosis.
+Three of the 14 parent samples analysed showed values in the heterozygote ranges.
+Conclusions
+The enzymatic diagnosis of late infantile neuronal ceroid lipofuscinoses from dried blood on filter paper card is a rapid, easier, less expensive and accurate molecular diagnosis tool.

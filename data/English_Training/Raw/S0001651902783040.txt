@@ -1,0 +1,7 @@
+Abstract
+ Diabetes mellitus is considered a risk factor for sensorineural sudden deafness.
+Its pathogenesis remains unknown.
+However, the physiopathological implication of a hyperviscosity syndrom in diabetics and patients bearing of sudden deafness can mean the nexus between the two entities.
+Total blood viscosity and erythrocyte adhesion were haemorheological parameters significatively higher in blood of diabetics with sudden deafness than in normal hearing controls.
+Moreover, erythrocyte filterability and deformability were lower in diabetics, but it was not statistically significative.
+These findings help to guide therapy in these patients towards specific measures to improve blood viscoelastic properties.

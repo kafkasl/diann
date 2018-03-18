@@ -1,0 +1,12 @@
+Objective
+To analyse cognitive skills in patients with <dis>severe unilateral hearing loss</dis> versus those in subjects with normal hearing.
+Methods
+40 adults participated: 20 patients (10 women and 10 men) with <dis>severe unilateral hearing loss</dis> and 20 healthy subjects matched to the study group. 
+Cognitive abilities were measured with the Spanish version of the Woodcock Johnson Battery-Revised; central auditory processing was assessed with monaural psychoacoustic tests. 
+Box plots were drawn and t tests were performed for samples with a significance of P≤.05.
+Results
+A comparison of performances on the filtered word testing and time-compressed disyllabic word tests between patients and controls revealed a statistically significant difference (P≤.05) with greater variability among responses by <dis>hearing impaired subjects</dis>. 
+This same group also showed a better cognitive performance on the numbers reversed, visual auditory learning, analysis synthesis, concept formation, and incomplete words tests.
+Conclusions
+Patients with <dis>hearing loss</dis> performed more poorly than controls on the filtered word and time-compressed disyllabic word tests, but more competently on memory, reasoning, and auditory processing tasks. 
+Complementary tests, such as those assessing central auditory processes and cognitive ability tests, are important and helpful for designing habilitation/rehabilitation and therapeutic strategies intended to optimise and stimulate cognitive skills in subjects with <dis>unilateral hearing impairment</dis>.

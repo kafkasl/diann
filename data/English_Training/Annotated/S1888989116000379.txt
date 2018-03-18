@@ -1,0 +1,12 @@
+Introduction
+People with <dis>severe mental disorder</dis> have <dis>significant difficulties in everyday life that involve the need for continued support</dis>. 
+These needs are not easily measurable with the currently available tools. 
+Therefore, a multidimensional scale that assesses the different levels of need for care is proposed, including a study of its psychometric properties.
+Method
+One-hundred and thirty-nine patients (58% men) with a <dis>severe mental disorder</dis> were assessed using the Required Care Levels for People with Severe Mental Disorder Assessment Scale (ENAR-TMG), the Camberwell Assessment of Need scale, and the Health of the Nation Outcome Scales. 
+ENAR-TMG's psychometric features were examined by: a) evaluating 2 sources of validity evidence (evidence based on internal structure and evidence based on relations to other variables), and b) estimating the internal consistency, temporal stability, inter-rater reliability, and sensitivity to change of scores of the ENAR-TMG's subscales.
+Results
+Exploratory factor analyses revealed a one-factor structure for each of the theoretical dimensions of the scale, in which all but one showed a significant and positive correlation with the Camberwell Assessment of Need (range of r: 0.143-0.557) and Health of the Nation Outcome Scales (range of r: 0.241-0.474) scales. 
+ENAR-TMG subscale scores showed acceptable internal consistency (range of ordinal α coefficients: 0.682-0.804), excellent test-retest (range of intraclass correlation coefficients: 0.889-0.999) and inter-rater reliabilities (range of intraclass correlation coefficients: 0.926-0.972), and satisfactory sensitivity to treatment-related changes (range of η2: 0.003-0.103).
+Conclusions
+The satisfactory psychometric behaviour of the ENAR-TMG makes the scale a promising tool to assess global functioning in people with a <dis>severe mental disorder</dis>.

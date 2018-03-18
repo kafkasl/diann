@@ -1,0 +1,27 @@
+Objetivo.
+Analizar el estado nutricional de pacientes mayores de 65 años incluidos en el programa de atención domiciliaria (PAD).
+
+Diseño.
+Estudio observacional transversal.
+
+Emplazamiento.
+Tres centros de salud.
+
+Participantes.
+Un total de 218 pacientes del PAD.
+
+Método.
+Se aplicó el cuestionario Mini Nutritional Assessment (MNA). 
+Se recogieron 57 variables: sociodemográficas, antropométricas, de dependencia, estados anímico y cognitivo y parámetros analíticos. 
+Se analizaron asociaciones mediante la aplicación de la Chi-cuadrado y análisis de varianza. 
+Se consideró un nivel de significación para p<0,05.
+
+Resultados.
+La edad media fue de 83,9 años (DT=7,4); el 34,9% estaban institucionalizados y el 80,7% eran mujeres. 
+El 21,2% de los pacientes presentaban malnutrición y el 40,1%, riesgo de la misma. 
+Se estableció asociación significativa entre peor estado nutricional y mayor edad, menor IMC, mayor <dis>dependencia en actividades básicas e instrumentales de la vida diaria</dis> y mayor <dis>deterioro cognitivo</dis>. 
+Las menores cifras medias de hemoglobina, albúmina y hierro también se asociaron a desnutrición y riesgo de la misma.
+
+Conclusiones.
+Más de la mitad de los pacientes del PAD presentan desnutrición o riesgo de la misma, y en una proporción elevada, alteración en parámetros analíticos susceptibles de ser corregidos. 
+La <dis>alteración cognitiva</dis> y <dis>dependencia funcional</dis> están relacionadas con la desnutrición, por lo que los pacientes con estas características deberían recibir una mayor atención desde el punto de vista nutricional.

@@ -1,0 +1,20 @@
+Abstract
+ Introduction
+Some treatments are inappropriate for patients with <dis>cognitive decline</dis>.
+We analyse their use in 500 patients and present a literature review.
+Development
+Benzodiazepines produce dependence, and reduce attention, memory, and motor ability.
+They can cause disinhibition or aggressive behaviour, facilitate the appearance of delirium, and increase accident and mortality rates in people older than 60.
+In subjects over 65, low systolic blood pressure is associated with <dis>cognitive decline</dis>.
+Maintaining this figure between 130 and 140 mmHg (145 in patients older than 80) is recommended.
+Hypocholesterolaemia < 160 mg/dL is associated with increased morbidity and mortality, aggressiveness, and suicide; high-density lipoprotein (HDL)-cholesterol < 40 mg/dL is associated with <dis>memory loss</dis> and increased vascular and mortality risks.
+Old age is a predisposing factor for developing <dis>cognitive disorders</dis> or delirium when taking opioids.
+The risks of prescribing anticholinesterases and memantine to patients with <dis>non-Alzheimer dementia</dis> that is not associated with Parkinson disease, <dis>mild cognitive impairment</dis>, or <dis>psychiatric disorders</dis> probably outweigh the benefits.
+Anticholinergic drugs acting preferentially on the peripheral system can also induce cognitive side effects.
+Practitioners should be aware of <dis>steroid-induced dementia</dis> and steroid-induced psychosis, and know that risk of delirium increases with polypharmacy.
+Of 500 patients with <dis>cognitive impairment</dis>, 70.4% were on multiple medications and 42% were taking benzodiazepines.
+Both conditions were present in 74.3% of all suspected iatrogenic cases.
+Conclusions
+Polypharmacy should be avoided, if it is not essential, especially in elderly patients and those with <dis>cognitive impairment</dis>.
+Benzodiazepines, opioids and anticholinergics often elicit <dis>cognitive and behavioural disorders</dis>.
+Moreover, systolic blood pressure must be kept above 130 mmHg, total cholesterol levels over 160 mg/dL, and HDL-cholesterol over 40 mg/dL in this population.

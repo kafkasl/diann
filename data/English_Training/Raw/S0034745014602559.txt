@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+Socio-demographic and genetic factors have been involved in the development of cognitive impairment and its progression to dementia.
+Method
+The present study evaluates socio-demographic characteristics and the ApoE genotype in individuals older than 55 years with mild cognitive impairment (MCI) and Alzheimer's disease (AD), attending a memory clinic.
+Results
+155 individuals (36%) out of the total population who attended the memory clinic in a four-year period met the inclusion criteria.
+The study population was classified in diagnostic groups according to the _Diagnostic and Statistical Manual of Mental Disorders_ (DSM-IV-TR) and to the National Institute of Neurological and Communicative Disorders and Stroke and Alzheimer's Disease and Related Disorders Association (NICNCDS-ADRDA) criteria.
+More AD and MCI individuals worked in mainly manual occupations throughout their lifetime compared to cognitively unimpaired individuals ( _p_ =0.014).
+A high percentage of individuals with MCI and of cognitively unimpaired individuals (43%) left their primary occupation or changed it for a mainly manual occupation after their retirement.
+No other factors associated to the cognitive impairment, including ApoE genotype, were found.
+Conclusion
+These results support a correlation between the primary occupation during lifetime and the development of cognitive impairment in individuals older than 55 years.

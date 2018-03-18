@@ -1,0 +1,16 @@
+Introducción.
+En el cerebro del humano y en el de modelos animales, la enfermedad de Alzheimer (EA) se caracteriza por la acumulación del péptido β-amiloide (βA), de la proteína tau hiperfosforilada, degeneración neuronal y gliosis astrocítica que son prominentes en regiones cerebrales vulnerables (hipocampo y corteza). 
+Estas alteraciones se relacionan con el <dis>deterioro cognitivo</dis> (<dis>pérdida de la memoria</dis>) y no cognitivo en la función motora. 
+El objetivo de este trabajo fue identificar en el modelo (3xTg-AD) los cambios celulares (neuronas y astroglía) y la agregación de βA y tau hiperfosforilada en la corteza motora primaria (M1) en una etapa intermedia de la EA y su relación con el desempeño motor.
+
+Métodos.
+Se utilizaron hembras 3xTg-AD de 11 meses de edad, comparadas con no transgénicas (No-Tg) de la misma edad. 
+En ambos grupos, se evaluaron el desempeño motor (campo abierto) y el daño celular con marcadores específicos: BAM10 (agregados βA extracelulares), tau 499 (hiperfosforilada), GFAP (astrocitos) y Klüver-Barrera (neuronas) en la M1.
+
+Resultados.
+Las hembras 3xTg-AD en etapa intermedia de la patología mostraron alteraciones motoras y celulares asociadas al depósito de βA y tau hiperfosforilada en la M1.
+
+Conclusiones.
+Desde etapas tempranas de la EA se observan signos y síntomas de <dis>deterioro funcional</dis>. 
+Sin embargo, en este estudio reportamos que en la etapa intermedia de la patología se encuentran establecidas las características de daño en la M1 asociadas al desempeño motor. 
+Eventos que se relacionan con el avance de las características clínicas de la patología.

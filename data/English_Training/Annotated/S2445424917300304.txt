@@ -1,0 +1,17 @@
+Abstract
+ Objective
+Previous research supports the relationship between the use of alcohol and other drugs and <dis>mental disorders</dis>.
+The aim of this study was to analyse the association between drug and alcohol use prior to incarceration and the current prevalence of <dis>mental disorders</dis> among the incarcerated population in Spain.
+Material and methods
+A cross-sectional study was conducted, including to 2709 incarcerated subjects (2484 males and 225 females) from a total of 8 prisons.
+A self-administered anonymous and voluntary questionnaire was used.
+The prevalence of psychoactive substance use prior to imprisonment and the current prevalence of <dis>mental disorders</dis> was calculated.
+The association between the two variables was analysed with logistic regression for both genders.
+Results
+Alcohol was the most consumed substance in the 6 months prior to detention for both men and women (68.5 and 48.9%, respectively) followed by cannabis (50.9 and 38.2%, respectively).
+The prevalence of <dis>mental disorders</dis> in prison was statically significant for men and women (24.9 and 34.2%, respectively).
+Most of the psychoactive substances analysed involve a risk factor for current <dis>mental disorder</dis>, especially as regards the use of psychotropic drugs (OR: 2.04, 95% CI: 1.54–2.71) and cannabis (OR: 1.81, 95% CI: 1.47–2.24).
+Discussion
+We found an association between alcohol and drug use and the current prevalence of <dis>mental disorders</dis> among the incarcerated population sample.
+Furthermore, it is recommended to develop effective protocols for treatment and rehabilitation programmes in prison.
+These should suit inmates’ history of drug and alcohol use to improve mental health strategies.

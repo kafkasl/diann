@@ -1,0 +1,8 @@
+Resumen
+ La anemia es frecuente en los ancianos y se asocia con un mayor riesgo de deterioro físico, funcional y cognitivo, hospitalización y mortalidad.
+Aunque desconocemos si es un factor causal o un marcador subrogado de un peor estado de salud, su corrección puede mejorar la capacidad física y funcional.
+Su detección, su clasificación y su tratamiento deberían ser objetivos prioritarios para el sistema de salud.
+Sus principales causas son las deficiencias nutricionales y las enfermedades crónicas, con y sin insuficiencia renal, aunque algunas son de origen desconocido.
+La historia clínica y la exploración física ayudan a aclarar su etiología.
+Un algoritmo diagnóstico basado en los datos del laboratorio permite su clasificación con orientación terapéutica.
+Los suplementos de hierro y factores madurativos y los agentes estimuladores de la eritropoyesis constituyen la base del tratamiento, junto con el de la enfermedad de base, reservándose la transfusión de hematíes para los casos graves.

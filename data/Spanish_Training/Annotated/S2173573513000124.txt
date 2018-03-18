@@ -1,0 +1,16 @@
+Resumen
+ Introducción y objetivos
+Cuantificar la mejoría en la calidad de vida en los pacientes osteoimplantados, teniendo en consideración tanto la indicación del implante como su uso y la presencia de acúfenos.
+Métodos
+Este estudio incluye a 69 pacientes implantados entre junio de 2004 y noviembre de 2010.
+La edad media de los pacientes fue de 40 años.
+El instrumento empleado para la medición de la calidad de vida fue el _Glasgow Benefit Inventory_ (GBI) y un cuestionario con preguntas abiertas, uso del BAHA, modificación del acúfeno y presencia o no de dolor.
+Resultados
+La puntuación media del GBI total fue de 38, y en las subescalas general, social y física: 51, 15 y 7 respectivamente.
+La media de horas al día de utilización fue de 11.
+No se encontró relación significativa entre el sexo, edad y bilateralidad o unilateralidad del proceso con la calidad de vida.
+En cambio se observaron diferencias significativas entre los pacientes con <dis>hipoacusia transmisiva</dis> y con <dis>cofosis unilateral</dis>, si bien en ambos grupos los resultados fueron positivos.
+La presencia de acúfeno disminuyó de un 37,5 a un 20,8%, siendo esta diferencia estadísticamente significativa.
+Conclusiones
+Nuestros resultados muestran que el uso del BAHA se asocia a una clara mejoría en la calidad de vida de los pacientes, menor en <dis>cofosis unilaterales</dis>, siendo necesario individualizar su indicación en este grupo.
+Asimismo muestran que el uso del BAHA tiene un efecto beneficioso sobre el acúfeno.

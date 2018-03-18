@@ -1,0 +1,20 @@
+Objective
+To determine the prevalence and profiles of people with advanced chronic diseases in Primary Care and to analyse the elements related to their mortality in order to orient strategies for improvement in this level of care.
+Design
+An observational, analytical and prospective study during 3 years conducted on a cohort of patients with palliative needs.
+Location
+Three Primary Care teams of Osona (Catalonia).
+Participants
+A total of 251 people identified as advanced patients using a systematic population-based strategy that included the NECPAL tool.
+Main measurements
+Basic demographic and clinical profile (age, gender, type of residence, health stratification level and main disease); date, place, and cause of eventual deaths.
+Results
+1% of the adult Primary Care population suffer from advanced diseases, of which 56.6% are women, and with a median age of 85 years. 
+<dis>Dementia</dis> or advanced frailty is observed in 49.3%, and only 13.7% have cancer. 
+Just under one-quarter (24.3%) live in nursing homes. 
+The accumulated mortality at 3 years is 62.1%, with a median survival of 23 months. 
+Factors significantly associated with the likelihood of dying are cancer, female gender, and over-aging. 
+Patients died at their home (47.3%), in an intermediate care hospital (37.2%), or in an acute care hospital (15.5%), depending on certain explanatory factors.
+Conclusions
+The prevalence and characteristics of advanced community-based disease coincide with that reported in the literature. 
+Potentially, Primary Care is the reference level of care for these patients, especially if it incorporates nursing homes as a usual field of practice.

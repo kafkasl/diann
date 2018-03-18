@@ -1,0 +1,18 @@
+Introducción.
+Se dispone de escasa literatura científica sobre el impacto de la crisis económica de 2008 en los servicios de salud mental en España.
+
+Método.
+Se ha realizado un análisis de serie temporal interrumpido para examinar una posible asociación a corto plazo entre la crisis económica y el número de hospitalizaciones psiquiátricas. 
+El momento de la intervención (abril del 2008) se fijó sobre la base de los cambios observados en el Producto Interior Bruto (PIB). 
+Se analizaron los datos de 1.152.880 hospitalizaciones psiquiátricas proporcionados por la Encuesta Nacional de Morbilidad Hospitalaria, 69 meses antes y después del inicio de la crisis económica (abril del 2008).
+
+Resultados.
+Las tasas de altas hospitalarias psiquiátricas (ICD9.290-319) ajustadas por edad aumentaron significativamente a partir de abril del 2008, coincidiendo con el inicio de la crisis: las hospitalizaciones aumentaron especialmente en pacientes en el rango de edad 15-24 y en menor medida en el rango de edad 25-34. 
+Los restantes rangos de edad no se vieron afectados. 
+Se observa un aumento significativo en los diagnósticos relativos a la <dis>alteración de conducta y emociones</dis>, depresión, <dis>trastornos neuróticos y de personalidad</dis> y trastornos de alcohol y drogas; los diagnósticos relativos al <dis>retraso mental</dis> y psicosis orgánica no se vieron afectados.
+
+Conclusiones.
+Las hospitalizaciones psiquiátricas aumentaron abruptamente a partir de abril del 2008, coincidiendo con el inicio de la crisis económica. 
+Se han identificado los grupos de edad y diagnósticos afectados. 
+El aumento de las hospitalizaciones se observó solo en los rangos de edad más afectados por el desempleo. 
+Los diagnósticos afectados fueron los más sensibles a los cambios ambientales.

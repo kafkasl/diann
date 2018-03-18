@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+Actualmente debido a la ausencia de marcadores biológicos, el cribado de trastornos del espectro autista (TEA) se centra fundamentalmente en la presencia de alteraciones conductuales caracterizadas por alteraciones en la interacción social y comunicación verbal y no verbal.
+Objetivo
+Evaluar los atributos psicométricos de la versión española de la escala de autismo Autism-Tics, AD/HD and other Comorbidities Inventory (A-TAC), como medida de cribado de TEA.
+Material y métodos
+Se incluyó en el estudio a 140 escolares (43% niños, 57% niñas), de edades comprendidas entre los 6 y los 16 años, con TEA (n = 15), discapacidad intelectual (n = 40), enfermedades psiquiátricas (n = 22), tics (n = 12) y participantes controles (n = 51).
+Se analizaron los principales atributos psicométricos como la fiabilidad, asunción escalar, la consistencia interna, la precisión y la validez predictiva.
+Resultados
+La consistencia interna de la A-TAC fue alta (α = 0,93) y el error estándar de medida fue adecuado (1,13 [intervalo de confianza del 95%, –1,08 a 3,34]).
+Las puntuaciones medias de la escala A-TAC fueron más altas en participantes diagnosticados con TEA y discapacidad intelectual comparadas con el resto de participantes (p < 0,001), siendo el área bajo la curva de 0,96 para el grupo de TEA.
+Conclusión
+La subescala de autismo de la escala A-TAC es un instrumento fiable, válido y preciso para el cribado de TEA en la población escolar española.

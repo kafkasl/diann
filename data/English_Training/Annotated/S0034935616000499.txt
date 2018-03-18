@@ -1,0 +1,9 @@
+Abstract
+ Rubinstein–Taybi syndrome (RTS) is a chromosomopathy associated to molecular mutations or microdeletions of chromosome 16.
+It has an incidence of 1:125,000–700,000 live births.
+RTS patients present craniofacial and thoracic anomalies that lead to a probable difficult-to-manage airway and ventilation.
+They also present <dis>mental retardation</dis> and comorbidity, such as congenital cardiac defects, pulmonary structural anomalies and recurrent respiratory infections, which increase the risk of aspiration pneumonia.
+Cardiac arrhythmias have been reported after the use of certain drugs such as succinylcholine and atropine, in a higher incidence than in general population.
+There is an increased risk of postoperative apnea–hypopnea in these patients.
+We report the anesthetic management in a RTS patient undergoing emergent thoracic surgery due to oesophageal perforation and mediastinitis.
+Lung isolation was achieved with a bronchial blocker guided with a fiberoptic bronchoscope and one-lung ventilation was performed successfully.

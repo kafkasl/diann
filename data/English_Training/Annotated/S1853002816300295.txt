@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+Parkinson's Disease diagnosis is supported in clinical criteria, it is frequently observed that the progression of PD varies among different individuals.
+Objective
+To evaluate the clinical progression in 100 PDp with more than five years of follow up in a Movement Disorders Section.
+Materials and methods
+We reviewed 100 Medical records of PDp with more than five years of follow-up.
+We analyzed the demographic characteristics, mean age to diagnosis, the latencies of progression to Hoehn and Yahr (H&Y) I to II, HY II to III, and III to IV.
+Time of onset of the hallucinations, falls, <dis>cognitive impairment</dis> and care needed for activities of daily living (ADL), as milestones of advanced disease.
+Results
+We found similar interval times between the different H&Y stages.
+We observed a faster progression to <dis>cognitive impairment</dis> and needed of care in ADL in patients over 50 years old at the onset of PD _(P_ <.05).
+Falls were the most frequent complaint found as an advanced disease's milestone (43%).
+<dis>Cognitive impairment</dis>, hallucinations and falls were associated to higher needs of care in ADL.
+Conclusions
+The progression of PD and the severity of parkinsonian signs and symptoms differ widely among patients.
+Falls, hallucinations and <dis>cognitive impairment</dis> were related to higher needs of care in ADL, suggesting they may be considered risk factors in the progression of the disease.

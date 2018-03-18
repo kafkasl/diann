@@ -1,0 +1,12 @@
+Objetivo
+Presentamos un estudio transversal cuyo objetivo fue validar una versión de cinco y quince ítems de la escala de depresión geriátrica (GDS-5 y GDS-15) en un centro de Atención Primaria frente al diagnóstico clínico (según criterios de la DSM-IV como patrón de referencia).
+Pacientes y método
+Se incluyeron 301 pacientes mayores de 64 años.
+Fueron excluidos aquéllos con deterioro cognitivo (mini-examen cognoscitivo menor de 20/30), déficit severo de comunicación (cofosis) y negación a la propuesta de participar.
+Se realizaron tanto un análisis descriptivo como un estudio de validación de las escalas.
+Resultados
+La prevalencia de depresión fue del 14,6%.
+La escala GDS-5 tuvo una sensibilidad de 0,86, una especificidad de 0,85, un valor predictivo positivo (VPP) de 0,51, un valor predictivo negativo (VPN) de 0,97, una razón de probabilidad positiva de 6.
+Para GDS-15 la sensibilidad fue 0,82, la especificidad 0,98, el VPP 0,86, el VPN 0,97 y la razón de probabilidad positiva 35,03.
+Conclusiones
+La GDS-5 parece útil como prueba de cribado en Atención Primaria ya que presenta una sensibilidad mayor que la GDS-15 y un área bajo la curva muy similar.

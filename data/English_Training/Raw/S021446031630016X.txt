@@ -1,0 +1,7 @@
+Abstract
+ Hearing loss is a significant problem for the elderly: It is the third most important chronic problem after hypertension and arthritis during ageing.
+Screenings such as the hearing-dependent daily activities Scale –HDDA– were designed to be applied in non-hospital settings in order to detect possible hearing problems that have to be ratified through a complete audiological examination.
+The aim of this paper is to present the results of a research study to test the effectiveness of the HDDA Scale as a tool for detecting hearing loss in a sample of 135 elderly people, considering that some of these people had mild cognitive impairment.
+Hearing loss was explored using pure-tone audiometry and the HDDA Scale, as well as the presence of mild cognitive impairment by Pfeiffer's questionnaire.
+We conclude by showing that the HDDA Scale can be a useful tool to identify individuals with hearing loss, especially when their hearing loss is greater than 40 dB.
+However, it is important to note that, in the case of people with mild cognitive impairment, we observed that their answers to the questionnaire are less reliable and tend to underestimate the potential problems posed by hearing loss in their everyday life.

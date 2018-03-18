@@ -1,0 +1,25 @@
+Abstract
+ Objective
+To determine prevalence and clinical characteristics of elderly diabetic patients in nursing homes.
+Material and method
+Observational and multicentre study in 14 nursing homes in Cádiz (Spain).
+Study variables: age, sex, prevalence of diabetes, duration of diabetes, complications, macrovascular complications, retinopathy, nephropathy, and neuropathy.
+Metabolic control: frequency of baseline blood glucose and HbA1c determinations.
+Metabolic complications suffered.
+Treatment: oral and type of antidiabetics, insulinisation.
+Diabetes education.
+Functional and mental assessment using Barthel index and MMT.
+Data was analysed using SPSS v17.0.
+Results
+A total of 1952 elderly institutionalised patients were studied, with a diabetes prevalence of 26.44%.
+The study included 312 patients with a mean age of 79.7 years, of whom 57.4% were women, and 66.9% knew of their diagnosis of diabetes for over 10 years.
+Vascular events were suffered by 55.1%, with the most common being ischaemic stroke (55.2%), followed by myocardial infarction (18%) and 14.5% with peripheral arterial disease.
+There were 29.6% with retinopathy, 21.3% diabetic nephropathy, and 25.6% suffering from distal symmetric polyneuropathy.
+HbA1c analysis was performed in 90.1% of patients, with 50% levels between 7 and 9%, with a six-monthly assessment rate of 63.4%.
+Metabolic complications: diabetic ketoacidosis 7.1%, hyperosmolar syndrome 2.9%, and 15.7% symptomatic hypoglycaemia.
+Oral hypoglycaemic agents were being taken by 66% of patients, with the most frequently used being metformin (55.3%) followed by gliclazide and repaglinide (10.2%, 3.4%, respectively).
+50.2% were insulinised.
+45.6% <dis>functional dependence</dis>.
+Barthel Index average of 48.4 points, with 46.1% diagnosed with <dis>dementia</dis>, moderate state, 36.7%.
+Conclusions
+Diabetic prevalence in nursing homes is high, and institutionalised patients are elderly, long-standing diabetics, with both macro- and microvascular complications, and have a <dis>significant level of mental and functional disabilities</dis>.

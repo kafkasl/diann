@@ -1,0 +1,7 @@
+Resumen
+ Las proteínas de la vía RAS/MAPK _(mitogen activated protein kinase pathway)_ desempeñan un papel fundamental en la proliferación, diferenciación, supervivencia y muerte celular.
+Desde hace más de 30 años se sabe que el 30% de los cánceres humanos presentan una mutación somática en alguno de los genes que codifican estas proteínas.
+En contraste con el elevado potencial de malignidad de las mutaciones somáticas, las mutaciones en la línea germinal provocan anomalías en el desarrollo del individuo que, si bien dependen específicamente del gen afectado, a menudo se superponen clínicamente.
+Así, todos los pacientes comparten un grado variable de retraso mental o dificultades de aprendizaje, trastornos cardiacos, dismorfismo facial, anomalías cutáneas y, en algunas instancias, predisposición al cáncer.
+Entre estos síndromes, conocidos como rasopatías, se incluyen el síndrome de Noonan, el síndrome de Costello, la neurofibromatosis 1, el síndrome LEOPARD, el síndrome cardio-facio-cutáneo y el síndrome de Legius.
+Es interesante conocer las manifestaciones cutáneas de las rasopatías, ya que estas pueden ayudar a esclarecer el diagnóstico de la enfermedad.

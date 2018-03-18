@@ -1,0 +1,11 @@
+Deafblindness is a unique disability characterized by multisensory deprivation of auditory and visual systems.
+Most of deafblind patients have sensory residuary capacities that may become a fundamental tool in rehabilitation if they can be used as an advantage correctly.
+We proposed auditory evoked potentials (AEP) as a useful alternative to identify objectively auditory residuary capacities in deafblind patients.
+Six subjects (mean age: 13 years) with congenital deafblindness, brain damage and severe to profound hearing losses were included in this study.
+All cases were evaluated (air conduction) with click auditory brainstem response (ABR) and multiple auditory steady state response (MSSR) as a combination of 4 carrier tones amplitude modulated (95 % depth) of 0.5, 1, 2 and 4 kHz.
+Both AEP were recorded using the AUDIX system.
+We have found residual hearing in all the patients even in those which no click ABR was recorded at the maximum stimulation levels.
+The MSSR provides additional information about the contourand degree of the existing hearing impairment.
+The lowest difference between ABR and MSSR mean thresholds was at 4 kHz, and the largest was at 0.5 kHz.
+AEP are reliable techniques for objective evaluation of hearing in deafblind patients.
+The MSSR evaluated more precisely the residual hearing and may provide a potential advantage over click ABR for the audiometric thresholds estimation in deafblind patients with severe or profound hearing losses.

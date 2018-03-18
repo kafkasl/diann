@@ -1,0 +1,14 @@
+Introduction and objective
+Asthma is a chronic disease requiring inhaled treatment and in addition it is a risk factor (RF) of pneumonia. 
+In the oropharyngeal cavity there are numerous species of bacteria that could be dragged to the bronco-alveolar level.
+Objective
+to decide whether oral health is a community acquired pneumonia (CAP) RF in asthmatic patients who are taking inhaled treatment, and determining whether the frequency of use of inhalation devices and the type of inhaled drug are CAP RF.
+Patients and method
+Case-control study in asthmatic population with inhaled treatment. 
+We recruited 126 asthmatic patients diagnosed with pneumonia by clinical and radiological criteria (cases) and 252 asthmatics not diagnosed with pneumonia during the last year (controls), matched by age. 
+The main factor of study was the General Oral Health Assessment Index (GOHAI) score.
+Results
+Bivariated analysis showed a statistically significant association of CAP with a GOHAI score≤57 points (poor oral health) (OR 1.69), anticholinergic treatment (OR 2.41), 6 or more inhalations (3.23), chamber use (OR 1.62), FEV1 (OR 0.98), altered functionality (OR 2.08) and psychiatric disorders or depression (OR 0.41). 
+The multivariated analysis shows an independent association of performing 6 or more inhalations per day (OR 2.74) and functional impairment (OR 1.67).
+Conclusions
+The results suggest that poor oral health may be a CAP RF.

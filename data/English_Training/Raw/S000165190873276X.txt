@@ -1,0 +1,16 @@
+Introduction
+Hyperbilirubinaemia is a neonatal risk factor that has been proved to be associated with sensorineural hearing loss.
+A high concentration of unconjugated bilirubin place newborn children at risk of suffering toxic effects, including hypoacusia.
+Objectives
+Review of the newborn screening results with a diagnosis of pathological hyperbilirubinaemia as part of a hearing-loss early detection protocol in the general population based on otoemissions and evoked potentials.
+Material and method
+Retrospective study of 21 590 newborn children screened between 2002 and 2006.
+The selection criteria for defining pathological hyperbilirubinaemia were bilirubin concentrations in excess of 14 mg/dL in pre-term infants and 20 mg/dL in full-term babies.
+The Universal Neonatal Hearing Screening Programme is a two-phase protocol in which all children are initially subjected to a transient otoacoustic emissions test (TOAE).
+Children presenting risk factors associated with auditory neuropathy were always given brainstem auditory evoked potentials (BAEP).
+Results
+The patients identified as having severe hyperbilirubinaemia in the neonatal period numbered 109 (0.5%) and 96 of these (88.07 %) passed the otoacoustic emissions test at the first attempt and 13 (11.93 %) did not; 11 of the 13 children in whom the otoacoustic emissions test was repeated passed it successfully.
+The 2 children who failed to pass the otoacoustic emissions test has normal BAEP results; 3 (2.75 %) of the newborn infants who passed the TOAE test did not pass the BAEP.
+Discussion
+Hyperbilirubinaemia values previously considered safe may harm the hearing system and give rise to isolated problems in auditory processing without being associated with other signs of classical kernicterus.
+Our results show that hyperbilirubinaemia-related auditory neuropathy reveals changes over time in the audiometric outcomes.

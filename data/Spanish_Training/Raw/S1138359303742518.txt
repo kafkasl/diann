@@ -1,0 +1,16 @@
+Objetivo
+.
+Analizar la mortalidad de la zona funcional Gandhi (ZFG) para identificar problemas de Salud Pública que sean susceptibles de mejora desde la Atención Primaria.
+Métodos
+.
+Estudio descriptivo de mortalidad durante el año 1998 en una zona funcional del Área sanitaria 4 de la Comunidad de Madrid (CM) con una población total de 35.636 personas.
+Se han estandarizado por el método indirecto las tasas de mortalidad por grandes grupos según la CIE-9 y según causas específicas, tomando como referencia la población de la CM del año 1998.
+Resultados
+.
+Globalmente la ZFG presenta la misma tasa de mortalidad ajustada por edad que la CM; sin embargo, por grandes grupos de causas, existe en la ZFG una sobremortalidad en tumores (11%), enfermedades del aparato digestivo (24%), trastornos mentales (15%), enfermedades endocrino-inmunológicas (27%) y enfermedades infecciosas (60%).
+En hombres la mortalidad por enfermedad pulmonar obstructiva crónica (EPOC) y cáncer de pulmón es un 53% y un 36% mayor en la ZFG, en la CM, respectivamente.
+En mujeres la mortalidad por diabetes es un 62% mayor que en la CM, y por demencia un 30% superior.
+Conclusiones
+.
+El análisis de la mortalidad en núcleos pequeños de población puede contribuir a detectar problemas de salud que requieran la actuación de los profesionales de Atención Primaria.
+Para la ZFG el control del tabaquismo en los varones puede ser el principal factor a tener en cuenta para disminuir la mortalidad.

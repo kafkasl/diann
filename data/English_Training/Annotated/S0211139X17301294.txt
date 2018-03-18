@@ -1,0 +1,15 @@
+Introduction
+The aim of this study was to analyse the effect of <dis>cognitive impairment</dis> on <dis>functional decline</dis> in hospitalised patients aged ≥60 years.
+Methods
+Measurements at admission included demographic data, Charlson's comorbidity index, and <dis>cognitive impairment</dis> (according to education level).
+Data were also collected on hospital length of stay, depression, and delirium developed during hospitalisation. 
+The outcome, Barthel Index (BI), was measured at admission, discharge, and 1-month post-discharge. 
+Patients with BI≤75 at admission (n=54) or with a missing BI value were excluded (n=1). 
+Multivariate logistic regression analyses were conducted to explore predictive factors with <dis>functional decline</dis> (BI≤75) from admission to discharge, and 1-month later.
+Results
+Of the 133 patients included, 24.8% and 19.6% had a BI≤75 at discharge and at 1-month, respectively. 
+Compared with men, women had more than double risk for <dis>functional decline</dis> at discharge and 1-month (P<.05). 
+Compared with those without delirium and <scp><neg>without</neg> <dis>cognitive impairment</dis></scp>, those with delirium and <dis>cognitive impairment</dis> had an increased risk for <dis>functional decline</dis> (BI≤75) at discharge (OR 5.15, 95% CI; 1.94-13.67), and at 1-month (OR 6.26, 95% CI; 2.30-17.03). 
+Similarly, those with comorbidity (≥2) had increased <dis>functional decline</dis> at discharge (OR 2.36, 95% CI; 1.14-4.87), and at 1-month after discharge (OR 2.71, 95% CI; 1.25-5.89).
+Conclusion
+Delirium during hospitalisation, together with <dis>cognitive impairment</dis> on admission, was a strong predictor of <dis>functional decline</dis>.

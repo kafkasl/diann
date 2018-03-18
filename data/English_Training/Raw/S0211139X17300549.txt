@@ -1,0 +1,33 @@
+Objectives
+The Hospital Clínico San Carlos Committee against violence established a protocol in 2012 in order to detect and follow-up violence against elderly persons. 
+This article presents the experience after 3years of its introduction, as well as an analysis comparing the differences between those younger and older than 65years of age.
+Material and methods
+All cases were collected during years 2013, 2014, and 2015, and were divided into two groups, A and B, according to age, younger or older than 65years. 
+Parameters studied were: gender, place of detection (emergency department, during hospital admission, or outpatient clinics), type of professional worker who detected each case (social workers, nurses, or physicians), previous history of violence, type of aggression (physical, psychological, financial), institutional procedures once aggression was confirmed, and deaths after one year of follow-up. 
+The SPPS v.18.0 package was used for the statistical analysis.
+Results
+A total of 172 cases were detected, of which 140 of them were included in groupA (65 years, 22.8%). 
+Gender: GroupA: women: 93.5%. 
+GroupB: women: 78.1% (P=.014). 
+Registration site: GroupA: emergency department: 90.7%, hospital wards: 6.4%, outpatient wards: 3.0. 
+GroupB: emergency department: 65.6%, hospital wards: 31.6%, outpatient wards: 2.8% (P=.001). 
+Notification: GroupA: social worker: 25%, physician: 67.8%, nurse: 6.4%. 
+GroupB: social worker: 65.2%, physician: 28.1%, nurse: 6.2% (P<.001). 
+Previous violence history: GroupA: 62.1%. 
+GroupB: 68.7%. 
+Type of abuse: GroupA: physical: 56.4%, psychological: 2.8%, physical +psychological: 30.4%, physical +psychological +economic: 10.1%. 
+GroupB: physical: 31.1%, psychological: 5.1%, neglect: 18.7%, physical +psychological: 10.1, physical +psychological +economic: 9.8, economic: 25.1 (P<.0001). 
+Resources employed and follow-up: Injuries: Group A: 63.5%. 
+Group B: 31.2% (P=.001). 
+Judicial protection measures: GroupA: 12.8. 
+GroupB: 15.6 (P=.773). 
+Removal order: GroupA: 2.1. 
+GroupB: 6.25 (P=.235). 
+More than one-third of patients in groupB, and none of the patients in groupA, died in the year of follow-up.
+Conclusions
+There are more problems detected in the Emergency Department. 
+There is a history of previous violence in more than half of the cases in both age groups. 
+The profile of the victim is an elderly woman with significant physical and cognitive impairment. 
+Economic abuse and neglect are more frequent in the elderly population. 
+In our series, more than one-third of elderly patients who are victims of ill-treatment die each year. 
+The hospital registry is fundamental for the detection and follow-up of abuse in the elderly.

@@ -1,0 +1,5 @@
+Abstract
+ Isolated congenital hypoaldosteronism is a rare disorder that presents as chronic salt-wasting syndrome during infancy.
+Aldosterone synthase deficiency due to mutations in _CYP11B2_ is the underlying cause in most cases.
+Apart from the classical electrolyte disturbances (hyponatremia and hyperkalemia), no other extra-adrenal features have been described to date.
+We report a male child with congenital hypoaldosteronism due to a homozygous missense mutation (Thr318Met) in _CYP11B2_ who also presented with <dis>unexplained sensorineural hearing loss</dis>.

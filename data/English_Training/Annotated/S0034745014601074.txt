@@ -1,0 +1,12 @@
+Abstract
+ Introduction
+Bipolar disorder (BD) is associated with <dis>significant impairment in social, work, and family functioning</dis>, even in euthymic state.
+This could be explained by a <dis>social cognition deficit</dis>.
+Objective
+To review the findings on social cognition in bipolar patients through its main dimensions, and through the various stages of the illness.
+_Method:_ We searched the biomedical literature on Medline, OVID, Proquest, and EMBASE for articles matching the MeSH terms “social cognition”, “theory of mind”, “emotion recognition”, “empathy”, and “emotional processing” to “bipolar disorder”, limiting the results to clinical studies with medium/high methodological quality, in Spanish or English and published in the last 20 years, in children and adults.
+Results
+We selected 83 items referring to this topic but only 24 specifically assessed social cognition in bipolar population.
+Most studies showed a deficit in both the phases of relapse as well as in euthymic state.
+_Discussion:_ From a neurocognitive perspective a number of explanations arise for this <dis>cognitive impairment</dis>, associated with the existence of subsyndromal affective symptoms.
+Finally, we review the rehabilitation strategies that could be useful to reverse this deficit that carries important functional implications.

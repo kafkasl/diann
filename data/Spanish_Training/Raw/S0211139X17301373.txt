@@ -1,0 +1,19 @@
+Introducción.
+La fractura de pelvis (FP) por fragilidad presenta una incidencia creciente y tiene como consecuencias generar un importante deterioro funcional en el paciente e incrementar la morbimortalidad. 
+El objetivo de este estudio fue conocer las características sociodemográficas y funcionales de los pacientes ingresados con FP consultados a un servicio de Geriatría, especialmente su impacto funcional y la posible influencia de la intervención geriátrica.
+
+Material y métodos.
+Estudio retrospectivo en el que se incluyó a todos los pacientes mayores de 65 años ingresados en el servicio de Traumatología con FP con tratamiento conservador consultados de forma consecutiva al servicio de Geriatría entre 1995 y 2015. 
+Se recogieron variables demográficas (edad, sexo y procedencia), datos de la valoración geriátrica (basal y al ingreso), la estancia hospitalaria, la mortalidad intrahospitalaria y la derivación al alta.
+
+Resultados.
+Se incluyó a 271 pacientes de 81,1±7 años de edad media, predominantemente mujeres (81,2%). 
+La mediana de la estancia global fue de 9 (IC: 5-14) días. 
+La capacidad de deambular de forma autónoma disminuyó tras la FP del 72,3 al 3,6%. 
+Aumentaron los casos de incapacidad severa en las actividades de la vida diaria del 7,9 al 79,5%. 
+La mortalidad intrahospitalaria fue del 2,2%. 
+En las interconsultas de seguimiento médico la estancia media se redujo de forma significativa frente a las interconsultas de valoración (10,0±7,8 vs. 16,1±12,0 días, p<0,001).
+
+Conclusión.
+Los pacientes con FP consultados a Geriatría fueron mayoritariamente mujeres de edad muy avanzada con un deterioro funcional severo secundario a la FP. 
+La intervención de un geriatra podría contribuir a optimizar los recursos hospitalarios.

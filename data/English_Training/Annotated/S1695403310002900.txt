@@ -1,0 +1,13 @@
+Abstract
+ Postnatal cytomegalovirus (CMV) infection in the newborn can occur from exposure to maternal cervical secretions during birth, ingestion of breast milk, transfusion of blood products or transmission by body fluids of infected people.
+Breast milk is the main source of infection, given the high rate of CMV-positive mothers excreting CMV in milk.
+Freezing reduces the risk of CMV transmission by breastfeeding, although it does not eliminate it completely.
+Pasteurisation prevents such transmission, but it can alter the immunological properties of breast milk.
+Postnatal CMV infection is usually asymptomatic, as it normally results from viral reactivation in the mother, and the neonate is born with protective antibodies.
+However, in the very low birth weight premature infant the amount of transferred antibodies is smaller and a symptomatic infection can occur.
+Symptomatic posnatal CMV infection in the newborn typically causes hepatitis, neutropenia, thrombocytopenia or sepsis-like syndrome.
+Pneumonitis and enteritis are less common, but very characteristic.
+Diagnosis is based on urine virus detection at the time of onset of symptoms.
+Postnatal CMV infection in the newborn generally resolves spontaneously without antiviral treatment.
+Ganciclovir should be reserved for severe cases.
+Unlike congenital CMV disease, posnatal CMV infection in the preterm infant does not seem to be associated with <dis>hearing loss</dis> or abnormal neuro-development in long term follow-up.

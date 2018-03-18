@@ -1,0 +1,18 @@
+Resumen
+ Fundamento y objetivo
+Determinar el uso de anticoagulantes orales en pacientes pluripatológicos con fibrilación auricular y su impacto sobre la mortalidad y el <dis>deterioro funcional</dis>.
+Pacientes y método
+Estudio observacional, prospectivo y multicéntrico en pacientes pluripatológicos con fibrilación auricular.
+Se recogieron datos demográficos, clínicos, funcionales, sociofamiliares, la escala CHADS2, los valores de hemoglobina, albúmina y creatinina, y el uso de anticoagulantes orales.
+Tras un año de seguimiento se valoró la supervivencia y el estado funcional.
+Resultados
+De 1.632 pacientes pluripatológicos, 532 (32,6%) tenían fibrilación auricular.
+El riesgo embólico fue alto en 505 (94,9%), moderado en 24 (4,5%) y bajo en 3 (0,6%) pacientes.
+Se utilizaron anticoagulantes en el 61% de los pacientes con puntuación ≥ 2 y en el 37,5% con puntuación 1 en la escala CHADS2.
+Se hizo menor uso de anticoagulantes en los pacientes de mayor edad y con más <dis>deterioro funcional y cognitivo</dis>.
+La insuficiencia cardiaca era más frecuente en los pacientes que usaron anticoagulantes.
+No hubo diferencias según la presencia de hipertensión arterial, diabetes, anemia, insuficiencia renal o ictus.
+En el análisis multivariante, el uso de anticoagulantes se asoció de forma independiente con menor edad, menor <dis>deterioro cognitivo</dis>, ausencia de enfermedad hepática y mayor riesgo embólico.
+La prescripción de anticoagulantes se asoció de forma independiente con mayor supervivencia al año, sin repercutir en el estado funcional de los pacientes pluripatológicos.
+Conclusiones
+Los anticoagulantes son infrautilizados en los pacientes pluripatológicos con fibrilación auricular a pesar de asociarse a mayor supervivencia.

@@ -1,0 +1,15 @@
+Introducción.
+El conflicto armado colombiano, además de secuelas sociales y económicas en la población civil, ha implicado otras consecuencias. 
+Los excombatientes, como la otra cara del conflicto, han sido objeto de interrogación sobre su estructura de personalidad y predisposición a conductas violentas. 
+Se ha encontrado en parte de la población asociada al conflicto armado rasgos característicos del <dis>trastorno de personalidad antisocial</dis> (<dis>TPA</dis>) que se relacionarían con los comportamientos en contra de las convenciones sociales.
+
+Métodos.
+Mediante registros electrocardiográficos cuantitativos (qEEG), se evaluaron las diferencias en los patrones de actividad cortical entre un grupo de excombatientes, algunos de ellos con diagnóstico de <dis>TPA</dis>, y un grupo de control ajeno al conflicto armado y <scp><neg>sin</neg> <dis>alteraciones psiquiátricas</dis></scp>. 
+Se empleó la Lista de Chequeo de Psicopatía Revisada (PCL-R) para determinar la presencia de criterios diagnósticos de <dis>TPA</dis>, así como la entrevista diagnóstica para estudios genéticos (DIGS) para clasificar la presencia de otros <dis>trastornos mentales</dis> incluidos en el CIE-10.
+
+Resultados.
+Se encontraron diferencias significativas en los niveles de psicopatía evaluados mediante la PCL-R. 
+Con respecto al análisis de la potencia espectral, se observaron diferencias entre grupos en las ondas alfa-2 y beta, en regiones frontal y temporal izquierda y temporocentral izquierda respectivamente.
+
+Conclusiones.
+La técnica de qEEG permite evidenciar las diferencias entre grupos en el potencial espectral en reposo, las cuales se relacionan con <dis>comportamientos desadaptativos</dis> característicos del <dis>TPA</dis>.

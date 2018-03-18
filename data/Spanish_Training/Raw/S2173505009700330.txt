@@ -1,0 +1,14 @@
+Resumen
+ Introducción y objetivos
+La actividad de los sistemas de activación e inhibición conductual (SAC y SIC) se ha relacionado con diversos trastornos mentales.
+Tener un instrumento que permita evaluar telefónicamente la actividad del SAC y el SIC podría facilitar la investigación.
+El objetivo del presente estudio fue evaluar la validez del procedimiento de administración telefónica del cuestionario sensibilidad al castigo y sensibilidad a la recompensa (CSCSR) como medida de la actividad del SAC y el SIC, mediante sus dos escalas: la escala sensibilidad al castigo (SC) y la escala sensibilidad a la recompensa (SR).
+Métodos
+Un total de 231 sujetos fueron evaluados en dos oportunidades con el CSCSR (una vez por teléfono y otra en formato autoadministrado).
+Se calcularon el coeficiente de correlación intraclase y el índice kappa.
+Además, se exploraron posibles diferencias entre la media de las puntuaciones obtenidas en ambas modalidades y la consistencia interna.
+Resultados
+Los resultados permiten establecer que la evaluación telefónica y en formato autoadministrado del SIC y el SAC, mediante el CSCSR, ofrece resultados similares, lo que avala una adecuada validez del procedimiento de la administración telefónica del cuestionario.
+Hay una tendencia pequeña pero estadísticamente significativa (beta estimada = 0,62; intervalo de confianza del 95%, 0,33–0,92; p < 0,001) a puntuaciones menores para la administración telefónica de la escala SC y para la interacción “primera o segunda evaluación/CSCSR aplicado por teléfono o en formato autoadministrado” para la escala SR (p = 0,023).
+Conclusiones
+Los resultados de este estudio avalan la fiabilidad de la evaluación telefónica del SIC y el SAC mediante el CSCSR.

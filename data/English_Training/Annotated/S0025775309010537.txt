@@ -1,0 +1,17 @@
+Abstract
+ Background
+The Prader-Willi syndrome (PWS) is a disease of genetic origin.
+It is characterized by neonatal hypotonia, hypogonadism, hiperfagia leading to obesity, low stature, <dis>developmental delay</dis>, <dis>moderate mental retardation</dis>, <dis>abnormal behavior</dis> and characteristic facial appearance.
+It is caused by the loss or the inactivation of paternal genes of the imprinted region 15q11-13.
+There are different genetic causes: paternal 15q11-q13 deletion in 70% of patients, maternal uniparental disomy in the 20-25% and less than 5% have an imprinting defect.
+We present the results obtained in the transverse clinical - genetic study of 77 PWS patients.
+Patients and methods
+There has been realized the study of 374 suspected PWS patients.
+Cytogenetics studies of bands G and hybridization in situ fluorescent (FISH) and molecular genetics analysis of microsatellites, Southern blot, MS-PCR and sequenciation were carried out.
+Holm's criteria use for the correlation phenotype - genotype in 48 patients.
+Results
+PWS was confirmed in 77 patients, 46 deletion, 16 uniparental disomy, two imprinting defect and 13 only PWS methylation pattern.
+Significant differences do not observe in the correlation phenotype - genotype.
+Conclusions
+The frequencies of the molecular alterations, 71.87 % deletion, 25 % UPD and 3.12 % DI, they are similar to described in the literature.
+It presents the algorithm of diagnosis used with the MS-PCR as rapid technology to confirm PWS.

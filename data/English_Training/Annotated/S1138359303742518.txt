@@ -1,0 +1,16 @@
+Objective
+.
+Analyze the mortality of the Gandhi functional zone (GFZ) to identify Public Health problems that can be improved from Primary Health Care.
+Methods
+.
+Descriptive study of mortality during the year 1998 in a functional zone of the Health Care Area 4 in the Madrid Community (MC) with a total population of 35,636 persons.
+The mortality rates have been standardized by the indirect method for large groups according to the ICD-9 and according to specific causes, taking the MC population of the year 1998 as reference.
+Results
+.
+Globally, the GFZ presents the same mortality rate adjusted by age as the MC; however, by large groups of causes, in the GFZ, there is an overmortality in tumors (11%), digestive tract diseases (24%), <dis>mental disorders</dis> (15%) endocrine-immunological diseases (27%) and infectious diseases (60%).
+In men, mortality due to COLD and lung cancer is 53% and 36% greater in the GFZ than in the MC, respectively.
+In women, mortality due to diabetes is 62% greater than in the MC and due to <dis>dementia</dis> 30% greater.
+Conclusions
+.
+The analysis of mortality in small population nuclei may contribute to detecting health problems that require the action of the Primary Health Care professionals.
+For the GFZ, control of smoking in males may be the main factor to keep in mind to decrease mortality.

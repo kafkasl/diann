@@ -1,0 +1,13 @@
+Abstract
+ Cognitive impairment is defined as a newly appeared deficit in at least two areas of cognitive functions, including disturbances in memory, executive functioning, attention or speed of information processing, perceptual motor abilities, or language.
+Cognitive impairment is highly prevalent in ESRD patients when compared with the general population.
+It has also been associated with a decreased quality of life.
+Cognitive functions in patients with ESRD showed improvement with dialysis and renal transplantation.
+These findings illustrate the potential importance of evaluating and comparing the effects of hemodialysis and transplantation regarding cognitive performance and thus quality of life in ESRD patients and normal subjects.
+This study was carried out in 100 patients (50 ESRD patients on regular hemodialysis for at least 6 months and 50 post-transplant patients who had maintained successful kidney graft for at least 3 months).
+All patients underwent laboratory and psychometric scoring tests, including trail making test part A, trail making test part B, digit span, and mini-mental state examination.
+Thirty healthy adults matched by age and sex served as a control group.
+The results showed significant differences in cognitive function tests results between transplant and hemodialysis patients ( _P_ < 0.01), suggesting that transplant patients were superior in their cognitive performance, with the correction of anemia being the most important factor for improving cognitive performance in both groups.
+There were no significant differences between transplant patients and control subjects in psychometric measures ( _P_ > 0.05).
+Conclusion
+Renal transplantation as a modality of treatment, in ESRD patients, is superior to hemodialysis in terms of cognitive performance improvement.

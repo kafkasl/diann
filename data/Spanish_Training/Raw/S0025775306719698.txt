@@ -1,0 +1,17 @@
+Fundamento y objetivo
+El proyecto ESEMeD-España es un estudio epidemiológico sobre los trastornos mentales en nuestro país.
+Se presentan la prevalencia-año y prevalencia-vida de los principales trastornos del estado de ánimo, de ansiedad y de abuso de alcohol, así como la influencia de los factores de riesgo sociodemográficos en su presencia y la edad de inicio de los trastornos.
+Sujetos y método
+Encuesta personal domiciliaria realizada a una muestra representativa de la población española mayor de 18 años de 5.473 individuos.
+El instrumento utilizado fue la versión del Composite International Diagnostic Interview (WMH-CIDI) desarrollada para la iniciativa Encuestas de Salud Mental de la Organización Mundial de la Salud (WHO World Mental Health Surveys).
+La tasa de respuesta fue del 78,6%.
+Los resultados se presentan ponderados a la población española.
+Resultados
+Un 19,5% de las personas presentaron un trastorno mental en algún momento de su vida (prevalencia-vida) y un 8,4% en los últimos 12 meses (prevalencia- año).
+El trastorno mental más frecuente es el episodio depresivo mayor, que tiene un 3,9% de prevalencia-año y un 10,5% de prevalencia-vida.
+Después del episodio depresivo mayor, los trastornos con mayor prevalencia-vida son la fobia específica, el trastorno por abuso de alcohol y la distimia.
+Los factores asociados a padecer un trastorno mental son el sexo femenino, estar separado, divorciado o viudo, y estar desempleado, de baja laboral o con una incapacidad.
+La fobia social, la agorafobia y la fobia específica aparecen a edades más tempranas.
+Los trastornos del estado de ánimo (episodio de depresión mayor y distimia), junto con el trastorno de angustia, muestran una aparición más tardía.
+Conclusiones
+El estudio ESEMeD-España puede proporcionar resultados necesarios para conocer el impacto de los trastornos mentales en España.

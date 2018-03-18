@@ -1,0 +1,12 @@
+Introduction
+In humans and animal models, Alzheimer disease (AD) is characterised by accumulation of amyloid-β peptide (Aβ) and hyperphosphorylated tau protein, neuronal degeneration, and astrocytic gliosis, especially in vulnerable brain regions (hippocampus and cortex). 
+These alterations are associated with <dis>cognitive impairment</dis> (<dis>loss of memory</dis>) and <dis>non-cognitive impairment</dis> (<dis>motor impairment</dis>). 
+The purpose of this study was to identify cell changes (neurons and glial cells) and aggregation of Aβ and hyperphosphorylated tau protein in the primary motor cortex (M1) in 3xTg-AD mouse models at an intermediate stage of AD.
+Methods
+We used female 3xTg-AD mice aged 11 months and compared them to non-transgenic mice of the same age. 
+In both groups, we assessed motor performance (open field test) and neuronal damage in M1 using specific markers: BAM10 (extracellular Aβ aggregates), tau 499 (hyperphosphorylated tau protein), GFAP (astrocytes), and Klüver-Barrera staining (neurons).
+Results
+Female 3xTg-AD mice in intermediate stages of the disease displayed motor and cellular alterations associated with Aβ and hyperphosphorylated tau protein deposition in M1.
+Conclusions
+Patients with AD display signs and symptoms of <dis>functional impairment</dis> from early stages. 
+According to our results, M1 cell damage in intermediate-stage AD affects motor function, which is linked to progression of the disease.

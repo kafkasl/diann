@@ -1,0 +1,13 @@
+Resumen
+ Objetivo
+Verificar si el <dis>deterioro cognitivo</dis> puede afectar a la puntuación total obtenida en el test _Freezing of Gait score_ (FOG-score) en pacientes con la enfermedad de Parkinson (EP).
+Material y método
+Se llevó a cabo un estudio no experimental, seccional correlacional en 34 participantes, con EP leve o moderada.
+Los participantes ejecutaron el test de FOG-score y las siguientes pruebas de evaluación cognitiva: Mini examen cognoscitivo (MEC), Frontal Assessment Battery (FAB) y Fuld Object Memory Evaluation (FOME).
+La función motora fue medida mediante el apartado iii de la _Unified Parkinson's Disease Rating Scale_ (UPDRS), referente a los aspectos motores.
+Resultados
+Se halló una correlación significativa negativa entre la puntuación total del FOG y la función cognitiva global (Mini examen cognoscitivo) (r = 0,68; p < 0,001); los parámetros relacionados con la memoria (FOME) (r = 0,64; p < 0,001) y las funciones ejecutivas (FAB) (r = 0,57; p < 0,001).
+Las puntuaciones de los aspectos motores mantienen una menor relación con los parámetros del FOG-score (r = 0,35; p > 0,005).
+Conclusiones
+Los resultados de este estudio sugieren que el <dis>deterioro cognitivo</dis> puede afectar fuertemente en el desarrollo de las tareas del test FOG-score.
+Esto implica la necesidad de ajustar el punto de corte en la evaluación de personas con EP que padecen <dis>disfunción cognitiva</dis>, lo que evitaría que el examinador sobreestimase la existencia y recurrencia de episodios de congelación en esta población.

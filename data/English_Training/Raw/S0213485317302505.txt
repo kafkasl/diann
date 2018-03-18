@@ -1,0 +1,13 @@
+Background
+The Addenbrooke's Cognitive Examination III (ACE-III), an adaptation of the ACE cognitive screening test, has been demonstrated to have high sensitivity and specificity in detecting cognitive impairment in patients with dementia and other neurological and psychiatric disorders. 
+Although the Spanish-language version of the ACE-III has already been validated in Spain, it is yet to be validated in Latin America. 
+The aim of this study was to validate the ACE-III test in an Argentinean and Chilean population.
+Methods
+ACE-III was administered to 70 patients with Alzheimer disease, 31 patients with behavioural variant frontotemporal dementia, and a control group of 139 healthy volunteers. 
+Participants were recruited at centres in both countries.
+Results
+The Spanish-language version of ACE-III was found to have good internal consistency (Cronbach's alpha=0.87). 
+We found significant differences in total ACE-III scores between patients with Alzheimer disease and controls (p< .05) and between patients with Alzheimer disease and bvFTD (p< .05). 
+With a cut-off point of 86, 98.6% of AD patients, 83.9% of behavioural variant frontotemporal dementia patients, and 84.2% of controls were correctly classified.
+Conclusions
+This study shows that the Spanish-language version of ACE-III continues to be an effective tool for detecting cognitive dysfunction in patients with dementia.

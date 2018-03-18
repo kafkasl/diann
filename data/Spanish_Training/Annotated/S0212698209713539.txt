@@ -1,0 +1,18 @@
+Resumen
+ Introducción
+En la enfermedad de Parkinson idiopática (EP) se han observado alteraciones del flujo sanguíneo cerebral regional (FSCr) cuyo patrón característico aún presenta aspectos controvertidos, como la existencia de alteraciones gangliobasales y las áreas corticales más afectadas.
+La neuroimagen funcional permite observar las disfunciones de circuitos neuronales existentes en estos pacientes.
+Los métodos de análisis estadístico basado en vóxeles permiten incrementar la validez de los resultados.
+Objetivo
+Investigar los cambios de la perfusión cerebral existentes en pacientes con EP y su relación con la duración de los síntomas.
+Materiales y métodos
+Treinta pacientes adultos con EP <scp><neg>sin</neg> <dis>demencia</dis></scp> fueron estudiados mediante SPECT cerebral con 99mTc-ECD.
+Se utilizó SPM5 para su comparación estadística con un grupo control de 25 sujetos sanos de edades similares.
+Se introdujo, como covariable en dicha comparación, el tiempo de evolución en años y se analizaron por separado los pacientes con 6 años o menos de evolución y aquellos con más de 6 años.
+Resultados
+Se detectó hipoperfusión significativa en la corteza premotora y parietal posterior bilateral y aumento del flujo en el cerebelo.
+Estas alteraciones se correlacionaron con los años de evolución de la enfermedad.
+Los pacientes con evolución más prolongada presentaron además hipoperfusión talámica, subtalámica y gangliobasal.
+Conclusiones
+Describimos alteraciones del FSCr en la EP que se relacionan con los circuitos implicados en el control del movimiento.
+Las mismas son más evidentes en los pacientes con evolución más prolongada de la enfermedad.

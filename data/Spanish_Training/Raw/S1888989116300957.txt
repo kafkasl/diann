@@ -1,0 +1,18 @@
+Introducción.
+La depresión es un trastorno psiquiátrico incapacitante y frecuente en la edad adulta asociado a mayor mortalidad y discapacidad funcional.
+
+Objetivos.
+Determinar la asociación de las variables clínicas y sociodemográficas con la depresión, en una muestra de personas mayores de 50 años residentes en España, y comparar la prevalencia de depresión con los demás países del estudio Survey of Health, Ageing and Retirement in Europe (SHARE).
+
+Material y métodos.
+Muestra de 5.830 participantes de la muestra española de la «Wave 5», de 2013, del estudio SHARE. 
+Instrumentos: EURO-D (depresión) y CASP-12 (calidad de vida). 
+Análisis estadístico: bivariante y logístico binario.
+
+Resultados.
+En la regresión logística binaria, las variables asociadas a la depresión (EURO-D ≥4) fueron, principalmente, la mala percepción de salud física (OR=13,34; IC 95%: 9,74-18,27), la presencia de más de 2 dificultades en las actividades de la vida diaria (AVD) (OR=4,46; IC 95%: 3,13-6,34) y el género femenino (OR=2,16; IC 95%: 1,83-2,56). 
+La depresión fue más frecuente en los participantes que padecían Alzheimer (76,4%), trastornos emocionales (73,9%), Parkinson (57,4%), fractura de cadera (55,4%) y reumatismos (50,9%). 
+En la comparación con países europeos, España tenía un porcentaje de personas con depresión (29,3%) superior a la media europea (27,9%).
+
+Conclusiones.
+Las variables más relevantes asociadas a la depresión fueron la mala percepción de salud física, la presencia de dificultades en las AVD y el género femenino.

@@ -1,0 +1,16 @@
+Resumen
+ Objetivos
+Analizar los resultados obtenidos con el implante coclear (IC) en pacientes adultos con <dis>hipoacusia profunda postlingual de instauración progresiva</dis> del Hospital Clínico San Cecilio de Granada y valorar el papel de determinadas variables en dichos resultados.
+Material y métodos
+Estudio prospectivo de 42 pacientes adultos con <dis>hipoacusia profunda postlingual de instauración progresiva</dis> implantados con un dispositivo Medel C40+ y con estrategia de codificación CIS+.
+Para valorar la percepción auditiva se utiliza el Protocolo para la valoración de audición desarrollado por la Universidad de Navarra.
+Se valoran en el preimplante, a los 3 meses, 6 meses, 1 año y 2 años postimplante.
+Como variables independientes se utilizan variables relacionadas con el paciente en sí (edad, sexo, edad de implantación, minusvalías asociadas), con su <dis>hipoacusia</dis> (causa, duración, osificación coclear, edad de comienzo) y con el implante (complicaciones, electrodos activados).
+Análisis estadístico utilizando el programa SPSS.
+Resultados
+En todos los test de percepción auditiva se apreció una mejoría significativa (p<0,01-t Student apareadas o test Wilcoxon) entre preimplante, 3 meses y 6 meses.
+Posteriormente la diferencia deja de ser estadísticamente significativa.
+Encontramos diferencias significativas entre grupos, según el porcentaje de vida con <dis>hipoacusia</dis>, el porcentaje de vida sin funcionalidad de los audífonos, la presencia o no de osificación coclear y el nº de electrodos activados.
+Pero esta diferencia fue estadísticamente significativa sólo en la valoración de 3 meses (p<0,05-t Student independientes o test Mann-Withney).
+Conclusiones
+Estos pacientes obtienen un gran beneficio del implante en un corto período de tiempo y los que presentan circunstancias más desfavorables presentan una evolución más lenta pero un resultado final similar

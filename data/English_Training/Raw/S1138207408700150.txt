@@ -1,0 +1,15 @@
+Abstract
+ Background
+Subjects with Down syndrome (DS) have an increased risk of Alzheimer's disease (AD).
+As intellectual ability is lower in DS subjects than among the general population, it is difficult to determine whether cognition has deteriorated with age to the point of fulfilling AD diagnostic criteria.
+The Mini-Mental State Examination (MMSE) and the Severe Impairment Battery (SIB) are standard cognitive tests widely used to assess dementia in the general population.
+There are few studies using the MMSE and the SIB on subjects with DS where dementia is suspected.
+The aim of the present study was to analyse the appropriateness of the SIB and the MMSE in the cognitive assessment of aging subjects with DS.
+Methods
+The SIB and the MMSE were administered to 45 subjects with DS (16 with Alzheimer's disease and 29 without dementia), and the DMR questionnaire was given to their caregivers.
+Results
+DS subjects with dementia had higher impairment levels than DS subjects without dementia in their social and total DMR scores, but no significant differences were found between the two groups in the SIB and MMSE scores or in cognitive DMR performance.
+Overall, SIB scores correlated significantly with MMSE results, total DMR, cognitive DMR, and social DMR.
+MMSE performance correlated significantly with total and cognitive DMR scores as well as SIB score.
+Conclusion
+The SIB and the MMSE are useful assessment tools in monitoring cognitive function among subjects with DS and cognitive loss or dementia.

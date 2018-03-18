@@ -1,0 +1,20 @@
+Abstract
+ Introduction
+In patients with severe mental disorders outcome measurement should include symptoms, cognition, functioning and quality of life at least.
+Shorter and efficient instruments have greater potential for pragmatic and valid clinical utility.
+Our aim was to develop the Spanish UPSA Brief scale (Sp-UPSA-Brief).
+Material and methods
+Naturalistic, 6-month follow-up, multicentre study.
+139 patients with schizophrenia, 57 with bipolar disorder and 31 controls were evaluated using the Sp-UPSA, CGI-S, GAF, and PSP.
+We conducted a multivariate linear regression model to identify candidate subscales for the Sp-UPSA-Brief.
+Results
+The stepwise regression model for patients with schizophrenia showed that communication and transportation Sp-UPSA subscales entered first and second at p < 0.0001 (R2 = 0.88, model _df_ = 2, F = 395.05).
+In patients with bipolar disorder transportation and communication Sp-UPSA subscales entered first and second at p < 0.0001 (R2 = 0.87, model df = 2, F = 132.32).
+Cronbach's _alpha_ was 0.78 in schizophrenia and 0.64 in bipolar patients.
+Test-retest was 0.66 and 0.64 (p < 0.0001) respectively.
+Pearson correlation coefficients between Sp-UPSA and Sp-UPSA-Brief were 0.93 for schizophrenia and 0.92 for bipolar patients (p < 0.0001).
+The Sp-UPSA-Brief discriminated between patients and controls.
+In schizophrenia patients it also discriminated among different levels of illness severity according to CGI-S scores.
+Conclusion
+The Sp-UPSA-Brief is an alternate instrument to evaluate functional capacity that is valid and reliable.
+Having a shorter instrument makes it more feasible to assess functional capacity in patients with severe mental disorders, especially in everyday clinical practice.

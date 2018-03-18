@@ -1,0 +1,13 @@
+Introduction
+The objective of the EPICON Project is to develop a set of recommendations on how to adequately switch from carbamazepine (CBZ) and oxcarbazepine (OXC) to eslicarbazepine acetate (ESL) in some patients with epilepsy.
+Methods
+A steering committee drafted a questionnaire of 56 questions regarding the transition from CBZ or OXC to ESL in clinical practice (methodology and change situation). 
+The questionnaire was then distributed to 54 epilepsy experts in 2 rounds using the Delphi method. 
+An agreement/disagreement consensus was defined when a median ≥ 7 points or ≤ 3 was achieved, respectively, and a relative interquartile range ≤ 0.40. 
+We analysed the results obtained to reach our conclusions.
+Results
+Our main recommendations were the following: switching from CBZ to ESL must be carried out over a period of 1 to 3 weeks with a CBZ:ESL dose ratio of 1:1.3 and is recommended for patients who frequently forget to take their medication, those who work rotating shifts, polymedicated patients, subjects with <dis>cognitive problems</dis>, severe osteoporosis–osteopaenia, dyslipidaemia, or liver disease other than acute liver failure, as well as for men with erectile dysfunction caused by CBZ. 
+The transition from OXC to ESL can take place overnight with an OXC:ESL dose ratio of 1:1 and it is recommended for patients who frequently forget to take their medication, those who work rotating shifts, polymedicated patients, or those with <dis>cognitive problems</dis>. 
+The transition was not recommended for patients with prior rash due to CBZ or OXC use.
+Conclusion
+The EPICON Project offers a set of recommendations about the clinical management of switching from CBZ or OXC to ESL, using the Delphi method.

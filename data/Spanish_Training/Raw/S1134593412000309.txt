@@ -1,0 +1,16 @@
+Resumen
+ Antecedentes
+El tamaño del cuerpo calloso (CC) se ha relacionado con la presencia de déficits cognitivos y emocionales en diversos trastornos neuropsiquiátricos y del estado de ánimo.
+Dado que estos déficits se observan también en la conducta suicida, hemos investigado específicamente la asociación entre la atrofia del CC y dicha conducta.
+Métodos
+Estudiamos a 435 individuos diestros, sin demencia, de una cohorte de base comunitaria formada por personas de edad igual o superior a 65 años (estudio ESPRIT).
+Dividimos a los participantes en 3 grupos: individuos con intentos de suicidio (n = 21), individuos de control afectivos (CA) (n = 180) sin antecedentes de intentos de suicidio pero con antecedentes de depresión, e individuos de control sanos (CS) (n = 234).
+Se utilizaron imágenes de resonancia magnética con ponderación T1 para medir las áreas mesosagitales del CC anterior, medio y posterior.
+Se aplicó un análisis de covarianza multivariado para comparar las áreas del CC de los 3 grupos.
+Resultados
+Los análisis multivariados, con un ajuste en cuanto a edad, sexo, trauma infantil, traumatismo craneal y volumen encefálico total, mostraron que el área del tercio posterior del CC era significativamente menor en los individuos con intentos de suicidio, en comparación con los CA (p = 0,020) y los CS (p = 0,010).
+No se observaron diferencias significativas entre CA y CS.
+No hubo diferencias en cuanto a los tercios anterior y medio del CC.
+Conclusiones
+Nuestros resultados resaltan la presencia de un tamaño reducido del tercio posterior del CC en los individuos con antecedentes de suicidio, lo cual sugiere una disminución de la conectividad interhemisférica y un posible papel del CC en la fisiopatología de la conducta suicida.
+Serán necesarios nuevos estudios para confirmar estos resultados y esclarecer las alteraciones celulares subyacentes que conducen a estas diferencias morfométricas.

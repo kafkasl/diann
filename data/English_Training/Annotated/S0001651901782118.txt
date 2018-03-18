@@ -1,0 +1,7 @@
+Abstract
+ The auditory training with wide-band white noise is a methodology for the qualitative recovery of the <dis>hearing loss</dis> in people suffering from <dis>sensorineural hearing loss</dis>.
+It is based on the application of a wide-band white modified noise.
+In a prospective study, we have assessed the modifications of the recruitment coefficient in a sample of 48 patients who have followed a program of 15 auditory training with wide- band white noise sessions.
+The average improvement of the recruitment coefficient expressed in percentage is a 7.7498%, which comes up to 23.5249% in the case of a binaural recruitment coefficient.
+From our results, it can be deduced that the auditory training with wide-band white noise reduces the recruitment.
+That is to say, the decrease of the recruitment in high intensities both binaurally and in all ears.

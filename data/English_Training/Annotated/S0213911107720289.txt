@@ -1,0 +1,15 @@
+Abstract
+ Objectives
+To determine the pattern of services use and costs of patients requiring care for <dis>mental disorders</dis> (<dis>MD</dis>) in primary care in the context of routine clinical practice.
+Methods
+We performed a retrospective study of patients older than 15 consulting primary care at least once for <dis>MD</dis>, attended by 5 primary care teams in 2004.
+A comparative group was formed with the remaining outpatients <scp><neg>without</neg> <dis>MD</dis></scp>.
+The main measurements were age, gender, case-mix/comorbidity and health resource utilization and corresponding outpatient costs (drugs, diagnostic tests and visits).
+Multiple logistic regression analysis and ANCOVA models were applied.
+Results
+A total of 64,072 patients were assessed, of which 11,128 had some type of <dis>MD</dis> (17.4%; 95% CI, 16.7-18.1).
+Patients consulting for <dis>MD</dis> had a greater number of health problems (6.7 vs. 4.7; p < 0.0001) and higher resource consumption, mainly all-type medical visits/patient/year (10.7 vs. 7.2; p < 0.0001).
+The mean annual cost per patient was higher for patients with <dis>MD</dis> (851.5 vs. 519.2 euros; p < 0.0001), and this difference remained significant after adjusting by age, sex and comorbidities, with a differential cost of euros 72.7 (95% CI, 59.2-85.9).
+All components of outpatient management costs were significantly higher in the <dis>MD</dis> group.
+Conclusions
+Outpatients seeking care for some type of <dis>MD</dis> had a high number of comorbidities and showed greater annual cost per patient in the primary care setting.

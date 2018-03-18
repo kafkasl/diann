@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+Poverty has been associated in some studies with poorer outcomes in mental problems and disorders.
+A circular relationship has been considered in which poverty fosters the appearance of mental illness and this facilitates greater poverty.
+There are no studies in Colombia on this subject.
+Objective
+To describe the association between mental problems and disorders and poverty according to the Multidimensional Poverty Index (MPI) in Colombia.
+Material and methods
+Using the 2015 National Mental Health Survey, adjusted with the expansion factors for the population.
+The prevalences of mental problems and disorders obtained through semi-structured interviews employing the instruments SRQ-20, AUDIT C and A, modified PCL, familiar APGAR and CIDI CAPI.
+The poverty status was determined by the MPI.
+Results
+A total of 13,200 households were interviewed, of which 13.5% were classified as in a poverty condition, 6.3% of the adolescents of poor households reported a life-time prevalence of any mental disorder, and 4.6% in the last 12 months.
+On the other hand, the prevalences for the same age group not in a poverty condition were 7.2% and 3.3%, respectively.
+For adults in poverty, the prevalence of life-time mental disorders were 9.2%, with 4.3% in the last year, while those not considered poor showed prevalences of 9.1% and 3.9% for the same time periods.
+Conclusions
+For the population of Colombia, there is a relationship between not being able to access the basic basket of goods and the presence of mental diseases, although there does not seems to be an association between an increase in poverty and the deterioration of mental health.

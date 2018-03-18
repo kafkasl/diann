@@ -1,0 +1,15 @@
+Resumen
+ Objetivo
+Describir la evolución 4.944 niños que completaron el seguimiento a los 2 años de edad corregida de un total de 10.456 nacidos entre los años 2002-2007 con peso ≤ 1.500 g y dados de alta en los hospitales pertenecientes a la red SEN1500, de los cuales 522 fueron excluidos por presentar algún tipo de malformación.
+El número de niños evaluados supone un 49,76% del total de niños dados de alta sin malformaciones en el conjunto de hospitales integrantes de la red.
+Métodos
+Estudio retrospectivo de los datos recogidos prospectivamente en la base de datos SEN1500.
+Se compararon los datos de crecimiento somatométrico a los 2 años de edad corregida en los grupos según el peso al nacimiento y el sexo.
+Se analizaron entre estos grupos las <dis>alteraciones motoras</dis>, la incidencia de <dis>parálisis cerebral</dis>, las <dis>alteraciones visuales y auditivas</dis> y el desarrollo neuromadurativo anormal para la edad de gestación.
+Se estudió la asociación de <dis>parálisis cerebral</dis> con factores perinatales.
+Resultados
+El 44,2% de los niños seguidos a los 2 años tuvieron un peso < 2 desviaciones estándar; presentaron peor evolución en todos los parámetros somatométricos los niños con peso al nacimiento ≤ 1.000 g.
+El 6,96% de los niños tuvo algún tipo de <dis>dificultad motora</dis>, estando el 4,56% de ellos diagnosticados de <dis>parálisis cerebral</dis>.
+Su incidencia fue mayor entre los varones con peso ≤ 1.000 g.
+Hubo una incidencia de <dis>alteraciones visuales</dis> del 5,21%, siendo <dis>ciegos</dis> de uno o ambos ojos el 0,5% de los niños.
+La <dis>parálisis cerebral</dis> se asoció con retinopatía del prematuro grave, hemorragia intraventricular grave y leucomalacia periventricular, en especial la leucomalacia periventricular quística

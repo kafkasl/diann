@@ -1,0 +1,22 @@
+Objetivo
+Describir las características epidemiológicas, clínicas y los indicadores pronóstico de las meningitis neumocóci-cas ingresadas en un hospital pediátrico de Madrid.
+Pacientes y método
+Estudio retrospectivo de 28 niños que ingresaron en el hospital por meningitis neumocócica diagnosticados mediante la identificación de Streptococcus pneumoniae en sangre o LCR, en el período comprendido entre 1990 y 1999.
+Se analizaron variables relacionadas con la evolu-ción.
+Ningún paciente tenía déficit inmunológico previo, ninguno había recibido vacuna antineumocócica.
+Resultados
+La edad de los pacientes fue 2,7 ± 2,9 años (rango de 2 meses a 11 años).
+El 82% (23 casos) de los niños eran menores de 5 años.
+La relación niño-niña fue de 1:1.
+Los signos más frecuentes al ingreso fueron fiebre (100%), vómitos (57%), cefalea-irritabilidad (53%) y alteraciones hemo-dinámicas (10%).
+Los hallazgos neurológicos fueron: disminución del nivel de conciencia en 22 casos (escala de coma de Glasgow medio de 9,9 ± 3,9); convulsiones en 15 casos (53%); signos meníngeos positivos en 12 casos (42%) y midriasis arreactiva en 9 casos (32%).
+Precisaron ingreso en la unidad de cuidados intensivos 20 pacientes (71%).
+Al alta no presentaban secuelas 15 casos (53%); <dis>sordera</dis> 8 casos (28%); <dis>hemiparesia</dis> 4 casos (14%); hidrocefalia intensa 2 casos (7%), y <dis>retraso mental</dis> un caso (3,5%).
+Cuatro pacientes (14%) fallecieron.
+La baja puntuación en la escala de coma de Glasgow al ingreso y la TC craneal alterada se asociaron de forma significativa a mayor mortalidad y sordera (p < 0,05).
+La presencia de convulsiones, el electroencefalograma (EEG) alterado y la hipoglucorraquia también se asociaron a la <dis>sordera</dis> (p < 0,05).
+Conclusiones
+Las meningitis producidas por Streptococcus pneumo-niae tienen una alta morbimortalidad en la infancia.
+La <dis>sordera neurosensorial</dis> es la secuela más frecuente secundaria a esta patología.
+La baja puntuación en la escala de coma de Glasgow al ingreso, la TC y el EEG alterados, así como las convulsiones y la hipoglucorraquia se relacionaron con un peor pronóstico.
+La nueva vacuna conjugada antineumocócica permitirá una prevención eficaz desde los dos meses de edad y el descenso drástico de esta grave infección.

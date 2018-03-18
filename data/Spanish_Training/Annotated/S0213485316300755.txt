@@ -1,0 +1,15 @@
+Introducción.
+Las microhemorragias cerebrales (MHC) son depósitos de hemosiderina, fagocitados por macrófagos, que se visualizan como imágenes hipointensas en determinadas secuencias de adquisición T2 de resonancia magnética cerebral. 
+Existen muchas incógnitas acerca de su fisiopatología y significado clínico.
+
+Desarrollo.
+Revisión bibliográfica de los principales estudios epidemiológicos, clínicos y anatomopatológicos de MHC en la población general, en pacientes con enfermedad o riesgo vascular y en pacientes con <dis>deterioro cognitivo</dis>. 
+Descripción de la prevalencia, factores de riesgo, mecanismos fisiopatológicos y posibles implicaciones clínicas de las MHC.
+
+Conclusiones.
+La prevalencia de las MHC es muy variable (3-27% en la población general, 6-80% en pacientes con enfermedad o riesgo vascular, 16-45% en pacientes con <dis>deterioro cognitivo</dis>). 
+Las MHC se asocian a la edad, a la enfermedad de Alzheimer y, en particular, a la enfermedad vascular (hemorrágica o isquémica) cerebral. 
+El sustrato patológico es la lipohialinosis (MHC subcorticales) o la angiopatía amiloide cerebral (MHC lobulares). 
+Las MHC contribuyen al <dis>deterioro cognitivo</dis>, posiblemente a través de una desconexión córtico-subcortical e intracortical, y se asocian a una mayor mortalidad, especialmente de causa vascular. 
+Las MHC aumentan el riesgo de sufrir hemorragia cerebral, especialmente en pacientes con múltiples MHC lobulares (probable angiopatía amiloide cerebral), por lo que el tratamiento anticoagulante podría estar contraindicado en estos pacientes. 
+En pacientes con menor riesgo de sangrado, los nuevos anticoagulantes orales y la realización de un seguimiento combinado —clínico y mediante resonancia magnética— podrían ser útiles en la toma de decisiones.

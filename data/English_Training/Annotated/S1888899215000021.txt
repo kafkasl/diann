@@ -1,0 +1,13 @@
+Abstract
+ <dis>Attention-deficit-hyperactivity disorder</dis> (<dis>ADHD</dis>) is a common neuro-behavioural disorder with onset in childhood.
+These children have impaired emotional self- control, self-regulation of drive and motivation.
+Numerous studies have reported <dis>cognitive disabilities in memory, executive functions, spatial abilities and language skills</dis>.
+The main objective of this work is to determine whether a socio-emotional intervention programme could improve executive functions in children with <dis>Attention Deficit Hyperactivity Disorder</dis>.
+The sample of this study consisted of 25 children (8 female and 17 male) aged between 8 and 12 years, diagnosed with <dis>ADHD</dis> and who were not taking any psychopharmacological treatment at the time of the study, and had not taken medication previously.
+Executive functioning was assessed through the Zoo Map test and Tower of Hanoi puzzle in pre-/post-test design.
+A socio-emotional intervention programme was implemented.
+The training consisted of 8 one-hour weekly sessions, on an individual basis.
+Results indicate that such a programme does lead to improved performance in the execution of tasks that evaluate executive functions.
+After the intervention, the children took less time to resolve the Zoo Map test.
+Results for the Hanoi Tower puzzle were also improved after intervention.
+The children needed a lower number of movements to complete the task.

@@ -1,0 +1,8 @@
+Abstract
+ The auditory training with wide-band white noise is a methodology for the qualitative recovery of the <dis>hearing loss</dis> in people suffering from <dis>sensorineural hearing loss</dis>.
+It is based on the application of a wide-band modified noise which we will call "K-noise".
+The auditory trainer GAES 100 KT is a voice amplifier device with earphone outlets.
+It incorporates a wide-band noise generator which produces a noise that is a mixture of all the audibles frequencies.
+Therefore, it estimulates all the sensory cells in the organ of Corti, but from 1000 Hz it has a progressive fall towards the high pitch of 6 db per octave.
+This device consists of a series of controls which make possible to apply both the noise and the phonetic materials -texts and words lists that the therapist´s voice presents- to either one of the ears or to both of them, in diffferent intensities and for different periods of time.
+In this first article of our study of the auditory training with wide-band white noise we will review the different methods of hearing training and present not only the basic concepts on auditory training, but also the systematic we have followed to apply it.

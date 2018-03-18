@@ -1,0 +1,18 @@
+Objective
+To design, carry out and assess a protocol for the early diagnosis of <dis>hearing loss</dis> based on the detection of evoked otoacoustic emissions (EOAE) in the neonatal period.
+Materials and methods
+Five hundred twenty-five infants <scp><neg>without</neg> risk factors for <dis>hearing loss</dis></scp> were studied.
+A hearing screening protocol with EOAE was applied in the first 48 hours of life, with a second test on the fifth day of life, coinciding with phenylketonuria screening if the first test was negative.
+The diagnostic stage took place when the infants were aged 1 month.
+Results
+A total of 98.8 % of the program was completed.
+In the initial test, bilateral EOAE were obtained in 458 infants.
+When the EOAE were performed during the first 24 hours after birth, 72.5 % of newborns achieved a satisfactory result.
+This percentage rose to 93.6 %, 97.9 % and 94.7% when the test was delayed until discharge on, respectively, the second, the fifth and subsequent days of age (p < 0.01).
+All the infants who did not achieve a satisfactory result in the first test underwent a second one.
+A total of 87.5 % of the newborns who had failed the test within the first 24 hours passed it when it was repeated at 48 hours, at the time of discharge.
+A third screening was necessary in seven infants (six on the fifth day of life and one, together with auditory brainstem response [ABR], on 30 days of age).
+One infant showed absence of EOAE in the left ear in the three tests, as well as a threshold above 70 dB to obtain the V wave in the ABR performed at 1 and 3 months of age and was diagnosed with <dis>unilateral moderate deafness</dis>, representing a prevalence of <dis>hearing loss</dis> of 1.9% of live newborns in the general population in our environment.
+Conclusions
+Universal hearing screening with EOAE is logistically and economically feasible.
+The use of a second test on the fifth day of age decreases the number of false positives, thus reducing economic cost and family anxiety, and improves recruitment, since it coincides with metabolic screening.

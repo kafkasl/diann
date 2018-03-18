@@ -1,0 +1,20 @@
+Abstract
+ Background
+The rheumatoid arthritis is a clinical entity capable to cause <dis>hearing impairment</dis> that can be diagnosed promptly with high frequencies audiometry.
+Objective
+To detect <dis>subclinical sensorineural hearing loss</dis> in patients with rheumatoid arthritis.
+Material and methods
+Cross-sectional study on patients with rheumatoid arthritis performing high frequency audiometry 125 Hz to 16,000 Hz and tympanometry.
+The results were correlated with markers of disease activity and response to therapy.
+Results
+High frequency audiometry was performed in 117 female patients aged from 19 to 65 years.
+<dis>Sensorineural hearing loss</dis> was observed at a sensitivity of pure tones from 125 to 8000 Hz in 43.59%, a tone threshold of 10,000 to 16,000 Hz in 94.02% patients in the right ear and in 95.73% in the left ear.
+Hearing was normal in 8 (6.84%) patients.
+<dis>Hearing loss</dis> was observed in 109 (93.16%), and was asymmetric in 36 (30.77%), symmetric in 73 (62.37%), bilateral in 107 (91.45%), unilateral in 2 (1.71%), and no conduction and/or <dis>mixed hearing loss</dis> was encountered.
+Eight (6.83%) patients presented vertigo, 24 (20.51%) tinnitus.
+Tympanogram type A presented in 88.90% in the right ear and 91.46% in the left ear, with 5.98–10.25% type As.
+Stapedius reflex was present in 75.3–85.2%.
+Speech discrimination in the left ear was significantly different ( _p_ = 0.02) in the group older than 50 years.
+No association was found regarding markers of disease activity, but there was an association with the onset of rheumatoid arthritis disease.
+Conclusions
+Patients with rheumatoid arthritis had a high prevalence of <dis>sensorineural hearing loss</dis> for high and very high frequencies.

@@ -1,0 +1,15 @@
+Abstract
+ Objective
+to determine the clinical, functional and mental characteristics of nonagenarians admitted to a medium-stay geriatric unit for hospital-based rehabilitation and to review outcomes at dischargeand 1 year later.
+Patients and method
+we performed a longitudinal observational study of nonagenarians consecutively hospitalised in a medium-stay geriatric unit over a 16-month period.
+On admission, the variables collected were diagnoses, functional and cognitive status, household composition, comorbidity, and serum albumin.
+The global and relative functional gain and rate of institutionalization at discharge were also evaluated.
+After 12 months, the patients were telephoned to establish mortality, functional status, and new admissions.
+Results
+the mean age of the 51 patients studied was 92.06 (SD 2.42) years and 75% were women.
+The mean functional gain at discharge was 23.27 (SD 14.06) in the Barthel Index (BI), with a relative functional gain of 45.4% from impairment at admission.
+At 1 year 31% of the patients were alive and living at home and showed a functional gain of ≥ 20 in the BI from admission.
+These outcomes increased to 59% in patients with better functional status before admission (previous BI ≥ 80) and <scp><neg>absence of</neg> <dis>severe functional and cognitive impairment</dis> at admission</scp> (BI < 20 and Pfeiffer ≥ 5 at admission, respectively).
+Conclusions
+nonagenarians with recent onset of <dis>functional impairment</dis> also benefit from rehabilitation in a medium-stay geriatric unit; those with better functional and cognitive status can achieve results similar to those in younger patients.

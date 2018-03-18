@@ -1,0 +1,8 @@
+Abstract
+ Anaemia is common in the elderly and is associated with an increased risk of <dis>physical, functional, and cognitive impairment</dis>, hospitalisation and mortality.
+Although it is unknown whether anaemia is a causal factor or a subrogated marker of worse health status, its correction can improve the patients’ physical and functional capacity.
+Detection, classification, and treatment of anaemia should be a priority for the health system.
+The main causes of anaemia in the elderly are nutritional deficiencies and chronic disease, with or without kidney failure, although some cases are of indeterminate origin.
+Medical history and physical examination help to clarify its aetiology.
+A diagnostic algorithm based on data from the lab allows anaemia classification with a therapeutic orientation.
+Supplements of iron and maturation factors, as well as erythropoiesis-stimulating agents, constitute the mainstay of treatment, along with that of the underlying disease, whereas red blood cell transfusion should be reserved for severe cases.

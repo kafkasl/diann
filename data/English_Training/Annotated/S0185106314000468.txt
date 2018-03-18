@@ -1,0 +1,15 @@
+Abstract
+ Deep brain electrical stimulation of the ventro-medial globus pallidus in Parkinson's disease (PD) is an alternative in the treatment of rigidity in advanced cases which do not response to conventional pharmacological treatment.
+Objective
+To measure the clinical changes and collateral effects of bilateral electric stimulation of the ventro-medial globus pallidus, in a sample of patients suffering from Parkinson's disease with predominance of rigidity.
+Methodology
+An auto-control study of direct assignation was carried out, open to evaluate the changes according to the Unified Parkinson Disease Rating Scale III (UPDRS III) in a basal period, within 6 and 12 months of follow up same as the collateral effect and the medicament doses.
+Results
+12 patients were included (5 women) with ages of 62.4 ± 12.7 years (media ± DE), history of PD was14.2 ± 5.3 years, with Hoehn and Yahr stages within II and IV.
+UPDRS III score in OFF- medication of 73 ± 11.3.
+Beyond 6 months of follow up, a significant statistical change towards tremor, rigidity, bradykinesia, posture and gait, can be appreciated (p < 0.05).
+The best effect can be observed in the qualification of UPDRS III after implantation (35 to 38 delta points of the scale) and for stimulation particularly for bradykinesia (delta of 11 points).
+There were no significant changes in levodopa doses.
+The collateral effects such as phosphenes, contralateral paresthesias, deviation of labial commissure and <dis>dysarthria</dis>, were avoided with the adjustment of stimulation parameters during the surgery.
+Conclusion
+This study suggest that bilateral implantation of the ventro-medial globus pallidus is an efficient and safe method in patients PD with rigidity implanted in the Hospital Central Militar.

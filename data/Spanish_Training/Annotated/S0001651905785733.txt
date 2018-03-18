@@ -1,0 +1,6 @@
+Resumen
+ La <dis>sordera súbita</dis> continúa siendo una entidad clínica de etiología desconocida para la cual se han propuesto diversas teorías y tratamientos.
+Presentamos un estudio comparativo de dos protocolos diferentes que hemos utilizado en 60 pacientes (divididos en dos grupos de 30) diagnosticados e ingresados por <dis>hipoacusia brusca</dis> entre los años 1989 y 2003.
+El objetivo principal es comprobar si existe diferencia estadísticamente significativa entre ambos, respecto a la mejoría auditiva obtenida, tras al menos dos semanas de tratamiento.
+Aplicamos la aproximación normal de la prueba de Mann-Whitney y defendemos, tras su resultado, nuestro protocolo actual (piracetam, pentoxifilina, metilprednisolona), que comprende 4 días de tratamiento intravenoso y 10 más de tratamiento domiciliario.
+La presencia de síntomas vestibulares asociados ensombrece el pronóstico pues casi el 95% de los pacientes que los presentaban no experimentaron recuperación significativa (p<0,05)

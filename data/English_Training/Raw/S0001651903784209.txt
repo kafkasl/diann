@@ -1,0 +1,8 @@
+Abstract
+Otitis media with effusion is a common disorder in children, associated to hearing loss and recurrent acute otitis media.
+It has three basic treatments: Spontaneous resolution, oral antibiotics and sur-gery including adenoidectomy and/or grommets insertion.
+Through a sensibility analysis on a theo-retical group of 1000 patients our aim is to study the cost-effectiveness of the diff e r e n t therapeutic options, evaluating direct and indirect costs, and identifying the most efficient option (cost-effective).
+We analysed effectiveness and variable costs of each arm of the decision tree, considering ini-tial and rescue treatments.
+As expected, effectiveness grows up to the most through treatment, in-cluding adenoidectomy and grommets insertion, from 92% to 98% of children treated.
+Nevertheless, unitary cost of each child treated also increases, from 302 to 401 euros; that is, choosing the most cost-effective treatment enables to save approximately 100 euros per child.
+But, fixed costs, which are much higher (600 euros per child), will not change, limiting our management resources.

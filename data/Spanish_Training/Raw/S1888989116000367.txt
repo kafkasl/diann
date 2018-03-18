@@ -1,0 +1,18 @@
+Introducción.
+En ocasiones los pacientes con esquizofrenia asumen como propio el estigma social relacionado con la enfermedad y se origina el denominado estigma personal. 
+El estigma personal implica el autoestigma (interiorización de estereotipos negativos), el estigma percibido (percepción de rechazo) y el estigma experimentado (experiencias de discriminación). 
+El estigma personal se relaciona con peor adherencia al tratamiento y peor funcionamiento social; por tanto, es importante contar con medidas adecuadas del estigma personal. 
+Una de las medidas más utilizadas es la escala Internalized Stigma of Mental Illness (ISMI). 
+Esta escala está disponible en español, aunque la versión diseñada no se sometió a un análisis psicométrico riguroso. 
+El presente estudio se plantea analizar las propiedades psicométricas de una nueva versión en español de la ISMI.
+
+Material y métodos.
+La nueva versión se tradujo como Estigma Interiorizado de Enfermedad Mental (EIEM). 
+Se calcularon la consistencia interna y la fiabilidad test-retest en una muestra de 69 pacientes diagnosticados de esquizofrenia o trastorno esquizoafectivo. 
+También se analizó el porcentaje de pacientes que mostraban estigma, y su relación con variables sociodemográficas y clínicas.
+
+Resultados.
+La nueva versión obtuvo valores adecuados de consistencia interna y fiabilidad test-retest para el total de la prueba (0,91 y 0,95 respectivamente) y para las 5 subescalas que integran la EIEM, salvo la subescala de Resistencia al estigma (alfa de Cronbach 0,42).
+
+Conclusiones.
+La EIEM parece una escala adecuada para valorar el estigma personal en población española con trastorno mental grave, al menos en personas con diagnóstico de esquizofrenia o trastorno esquizoafectivo.

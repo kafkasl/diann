@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+El envejecimiento se ha asociado con una mayor prevalencia de deterioro cognitivo, el cual se ha relacionado con alteraciones del equilibrio o trastornos de la marcha.
+El objetivo de este estudio es identificar si existen diferencias entre sujetos sin y con deterioro cognitivo en cuanto a la calidad de la marcha y el equilibrio.
+Material y métodos
+Se llevó a cabo un estudio observacional en ancianos institucionalizados mayores de 65 años (n = 82).
+Tras evaluar el deterioro cognitivo con el Mini Examen del Estado Mental (MMSE), se evaluaron las alteraciones en la marcha y el equilibrio con el test de la marcha de 6 min, medición de la zancada, velocidad de la marcha y la prueba cronometrada «Levántate y Anda».
+Resultados
+Se distribuyeron los participantes en 3 grupos: 28 en el grupo sin deterioro cognitivo (MMSE ≥ 27), 29 con deterioro leve (27 < MMSE ≤ 21) y 26 con deterioro moderado (MMSE < 21).
+Las variables de marcha mostraron diferencias significativas entre grupos en todas las variables analizadas (p < 0,05).
+Las variables de equilibrio evaluadas mostraron peores resultados asociados a la severidad del deterioro cognitivo.
+Conclusión
+La severidad del deterioro cognitivo se encuentra relacionada con las alteraciones del equilibrio y la marcha, por lo que es necesario el seguimiento clínico de estas variables en población en riesgo.

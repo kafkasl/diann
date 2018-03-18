@@ -1,0 +1,16 @@
+Introducción.
+La escala Health of the Nation Outcome Scales for People with Learning Disabilities (HoNOS-LD) fue creada para evaluar de forma breve el funcionamiento de las personas con <dis>trastorno de desarrollo intelectual</dis> y <dis>problemas de salud mental</dis>/<dis>trastornos de conducta</dis>. 
+El objetivo del presente trabajo fue estudiar las evidencias sobre la validez de las puntuaciones obtenidas con la escala HoNOS-LD traducida al castellano.
+
+Material y métodos.
+La muestra estaba formada por 111 participantes que fueron evaluados con la HoNOS-LD traducida al castellano y otros cuestionarios relacionados. 
+Para estudiar la fiabilidad entre examinadores y la fiabilidad test-retest, 33 participantes fueron evaluados por 2 examinadores y reevaluados al cabo de 7 días.
+
+Resultados.
+De acuerdo con criterios clínicos y conceptuales, y con el resultado del análisis paralelo, se seleccionó una solución factorial con único factor. 
+La consistencia interna fue buena (coeficiente omega de 0,87). 
+Las fiabilidades entre examinadores y test-retest fueron excelentes (coeficientes de correlación intraclase de 0,95 y 0,98, respectivamente). 
+Las correlaciones entre secciones de la HoNOS-LD y los instrumentos relacionados fueron en el sentido esperado y altamente significativas (p<0,001), y la puntuación HoNOS-LD aumentaba con el nivel de apoyos necesario de los participantes, resultados que aportaron evidencia sobre la validez de asociación con otras variables externas.
+
+Conclusiones.
+La versión en castellano de la HoNOS-LD representa un instrumento breve, válido y fiable, que permitirá la evaluación rutinaria del funcionamiento con distintas finalidades, incluyendo el diagnóstico y la intervención.

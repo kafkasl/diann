@@ -1,0 +1,24 @@
+Resumen
+ Objetivo
+Conocer la prevalencia y las características clínicas de los ancianos diabéticos en residencias asistidas.
+Material y método
+Estudio observacional, multicéntrico, realizado en 14 residencias geriátricas asistidas de la provincia de Cádiz.
+Variables del estudio: edad, sexo, prevalencia de la diabetes, tiempo de evolución de la diabetes, presencia de complicaciones (macrovasculares, retinopatía, nefropatía y neuropatía).
+Control metabólico: frecuencia de determinación de glucemias basales y de HbA1c.
+Complicaciones metabólicas sufridas; tratamiento utilizado: antidiabéticos orales y tipos, e insulinización; educación diabetológica; valoración funcional y mental.
+Los datos obtenidos se analizaron mediante programa estadístico SPSS v17.0.
+Resultados
+Sobre 1.952 ancianos institucionalizados, la prevalencia de diabetes fue del 26,44%.
+Se incluyen en el estudio 312 pacientes, edad media: 79,7 años y el 57,4% eran mujeres.
+El 66,9% eran diabéticos desde hace más de 10 años.
+El 55,1% han sufrido algún evento vascular: ictus isquémico 55,2%; infarto de miocardio 18%, y arteriopatía periférica el 14,5%.
+El 29,6% padece retinopatía, el 21,3% padece nefropatía diabética y el 25,6% neuropatía diabética.
+El 90,1% de los pacientes dispone de determinación de HbA1c, presentando el 50% niveles entre 7 y 9%, con frecuencia de determinación semestral en el 63,4%.
+Como complicaciones metabólicas, el 7,1% presentó algún episodio de cetoacidosis diabética, el 2,9% síndrome hiperosmolar, y el 15,7% hipoglucemias sintomáticas.
+El 66% de los pacientes tomaban antidiabéticos orales, metformina el 55,3% seguido de glicazida el 10,2% y repaglinida el 3,4%.
+El 50,2% estaba insulinizado.
+El 45,6% sufría dependencia funcional con media en Barthel de 48,4 puntos.
+Y el 46,1% está diagnosticado de <dis>demencia</dis>, encontrándose en fase moderada el 36,7%.
+Conclusiones
+La prevalencia de la diabetes en residencias es alta.
+Los ancianos diabéticos institucionalizados son de edad avanzada, con diabetes de larga evolución que han sufrido complicaciones tanto macro como microvasculares, más de la mitad ya insulinizados, y presentan un <dis>grado de discapacidad mental y funcional importante</dis>.

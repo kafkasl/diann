@@ -1,0 +1,15 @@
+Abstract
+ Background
+Ageing has been linked to a high prevalence of cognitive impairment, which, in turn, has been related to balance disturbances and gait disorders.
+The aim of this study was to identify whether there are differences between subjects with and without cognitive impairment regarding the quality of gait and balance.
+Material and methods
+An observational study was conducted on institutionalised people older than 65 years (n = 82).
+Gait and balance was evaluated after the assessment of cognitive impairment using the Mini-Mental State Examination (MMSE).
+Single and dual tests were used including, the 6-minute walking, stride length, and gait speed.
+Timed Up and Go tests were also used to evaluate balance.
+Results
+The participants were divided into three groups: 28 subjects in the group without cognitive impairment (MMSE ≥ 27), 29 subjects with mild (27 < MMSE ≤ 21) and 26 subjects with moderate cognitive impairment (MMSE < 21).
+Gait assessment showed significant between-groups differences in all the variables ( _P_ < .05).
+The variables assessing balance also showed significantly worse values in those groups with cognitive impairment.
+Conclusion
+The severity of cognitive impairment is related to impaired balance and gait, thus the clinical monitoring of these variables in population at risk is needed.

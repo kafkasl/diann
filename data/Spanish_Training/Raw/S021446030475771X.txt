@@ -1,0 +1,10 @@
+La sordoceguera es una discapacidad única caracterizada por una deprivación multisensorial de los sistemas auditivo y visual.
+La mayoría de la población sordociega presenta capacidades sensoriales residuales, que si se aprovechan adecuadamente constituyen una herramienta fundamental en su rehabilitación.
+En este trabajo se propone la utilización de los potenciales evocados auditivos (PEA) como una alternativa válida para poner de manifiesto de manera objetiva las capacidades auditivas residuals en pacientes sordociegos.
+Se estudiaron seis adolescentes(edad promedio: 13 años) con sordoceguera congénita, lesión cerebral y pérdidas auditivas severas, profundas o ambas.
+Con el sistema AUDIX se exploraron respuestas auditivas (vía aérea) transitorias, y de estado estable multifrecuencia como una combinación de cuatro tonos modulados en amplitud (95 % de profundidad) de 0.5, 1, 2 y 4 kHz.
+Se lograron identificar restos auditivos aprovechables en todos los pacientes.
+Con la técnica multifrecuencia se estimaron curvas audiométricas completas para las frecuencias exploradas, incluso en ausencia de respuestas transitorias.
+La menor diferencia entre los umbrales auditivos estimados con ambos tipos de PEA se obtuvo para el tono de 4000 Hz, y la mayor diferencia para el tono de 500 Hz.
+Se demuestra que los PEA constituyen una técnica útil en la exploración audiológica objetiva de los pacientes sordociegos.
+Los PEA de estado estable multifrecuencia presentan cierta ventaja potencial sobre las respuestas evocadas transitorias en la caracterización de la audición residual en pacientes con pérdidas auditivas severas o profundas

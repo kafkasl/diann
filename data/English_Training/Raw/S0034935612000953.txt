@@ -1,0 +1,8 @@
+Abstract
+ We describe the case of a patient with severe lactic acidosis, as well as presenting some data on its incidence, diagnosis, prognostic factors, and the most appropriate treatment.
+A 76 year-old male patient with diabetes on treatment with metformin, hypertension, dyslipaemia, and with mild cognitive impairment, was admitted to the Intensive Care Unit in a state of circulatory shock, requiring aggressive treatment with vasopressors and volume.
+The patient had acute kidney injury with an anuria of 3 days, probably secondary to dehydration to vomiting and to NSAIDs.
+As a result of the acute renal damage, the patient suffered a severe metformin-associated lactic acidosis.
+The rest of the causes of metabolic acidosis with an increased anion gap were ruled out, as well as a possible sepsis or rhabdomyolysis.
+Metformin-associated lactic acidosis is an uncommon metabolic condition, but with a high mortality.
+To reduce the mortality of these patients, it is important to make an early diagnosis using the clinical records, physical examination, and laboratory tests, with an early resuscitation with volume, vasopressors, bicarbonate, and renal replacement therapy.

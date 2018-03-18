@@ -1,0 +1,18 @@
+Introduction.
+Depression is a common and disabling psychiatric disorder in adulthood and is associated with higher mortality and functional disability.
+
+Objectives.
+To determine the association between clinical and sociodemographic variables with depression in a sample of people over 50 years old living in Spain, and compare the prevalence of depression with the other Survey of Health, Ageing and Retirement (SHARE) countries.
+
+Material and methods.
+There were 5,830 participants in the Spanish sample of the Wave 5, 2013, of SHARE. 
+Tools used: EURO-D (Depression) and CASP-12 (Quality of Life). 
+Statistical analysis: Bivariate, and binary logistic.
+
+Results.
+The variables associated with depression in the binary logistic regression (EURO-D ≥4) were poor self-perceived physical health (OR=13.34; 95% CI: 9.74-18.27), having more than 2 difficulties in Activities of Daily Living (ADL) (OR=4.46; 95% CI: 3.13-6.34) and female gender (OR=2.16; 95% CI: 1.83-2.56). 
+Depression was more common among participants with Alzheimer (76.4%), emotional disorders (73.9%), Parkinson (57.4%), hip fracture (55.4%), and rheumatism (50.9%). 
+Compared with other European countries, Spain had a percentage of people with depression (29.3%) that was higher than the European average (27.9%).
+
+Conclusions.
+The most important variables associated with depression were poor perceived physical health, presence of difficulties in ADL, and female gender.

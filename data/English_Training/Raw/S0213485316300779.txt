@@ -1,0 +1,11 @@
+Introduction.
+Parkinson's disease is a progressive neurodegenerative disorder characterised by a loss of dopaminergic neurons in the substantia nigra pars compacta, which results in a significant decrease in dopamine levels and consequent functional motor impairment.
+
+Development.
+Although its aetiology is not fully understood, several pathogenic mechanisms, including oxidative stress, have been proposed. 
+Current therapeutic approaches are based on dopamine replacement drugs; these agents, however, are not able to stop or even slow disease progression. 
+Novel therapeutic approaches aimed at acting on the pathways leading to neuronal dysfunction and death are under investigation.
+
+Conclusions.
+In recent years, such natural molecules as polyphenols, alkaloids, and saponins have been shown to have a neuroprotective effect due to their antioxidant and anti-inflammatory properties. 
+The aim of our review is to analyse the most relevant studies worldwide addressing the benefits of some phytochemicals used in in vitro models of Parkinson's disease.

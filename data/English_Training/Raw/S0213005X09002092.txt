@@ -1,0 +1,10 @@
+Abstract
+ Primary cytomegalovirus (CMV) infection occurs during pregnancy in 1% to 4% of seronegative women and may be transmitted to the fetus in up to 40% of cases.
+Up to 10% of intrauterine CMV infections result in symptomatic congenital disease at birth.
+Half of these children and 13% of those born with asymptomatic infection will develop significant clinical sequelae in infancy, especially sensorineural hearing loss.
+Routine CMV screening during pregnancy is not recommended in Spain owing to the absence of an effective CMV vaccine, the lack of preventive measures or therapy during pregnancy, the difficulty in diagnosing a reactivated infection, and the possibility of symptomatic congenital infections in children of immune women.
+However, sensitive and specific methods to diagnose primary maternal and fetal infection now exist, and new preventive and therapeutic measures have been developed.
+Currently, these procedures are not universally available and need to be tested in larger trials.
+Furthermore, the prevalence of seropositive status in pregnant women, the frequency of congenital infection, and the percentage of infants born with hearing impairment and mental retardation in our country are not known.
+Therefore, it would not be appropriate to introduce routine screening for CMV in pregnancy at the present time.
+However, increased efforts should be made to inform women about congenital CMV disease, to develop the diagnosis of fetal infection and methods to determine the extent of involvement in the case of suggestive ultrasound findings, and to treat symptomatic infected newborns with antivirals to reduce hearing impairment.

@@ -1,0 +1,16 @@
+Objective
+to detect the percentage of patients with <dis>dementia</dis> admitted to a psychogeriatric department, who have a high risk of falls, and to evaluate acceptance and compliance with hip protectors during their stay in hospital and 2 weeks and 3 months after discharge.
+Material and methods
+we performed a hospital-based prospective cohort study.
+Risk of falling was evaluated on the basis of immediate bipedal standing instability or abnormal semi-tandem posture, a get-up-and-go test time of more than 20 seconds, or clinical judgement.
+Compliance during hospital stay was evaluated through nursing records and compliance outside hospital by telephone interviews at 15 days and 3 months after discharge.
+Results
+a total of 115 patients consecutively admitted to the psychogeriatric department of the Santa Creu Hospital in Vic were assessed.
+Sixty patients (52.2%) were excluded from the study, the main reason being dependence on another person for walking.
+Of the 55 patients included, 44 (80.0%) had a high risk of falls and were candidates for hip protectors.
+In-hospital compliance was 80.5% (95% CI: 65.1-91.2).
+The most common cause of non-compliance was removal of the hip protector by the patient.
+Compliance after discharge was 64.5% (95% CI: 45.4-80.8) at 2 weeks and 57.1% (95% CI: 28.9-82.4) at 3 months.
+Conclusions
+a high risk of falling was found in a large percentage of patients with <dis>dementia</dis> who were <scp><neg>not</neg> <dis>dependent on others for walking</dis></scp>.
+Compliance was not a problem in the use of hip protectors in a high-risk population in the hospital-admission setting but was weaker in the community setting.

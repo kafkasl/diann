@@ -1,0 +1,15 @@
+Introduction
+<dis>Gait impairment</dis>, a frequent sign in multiple sclerosis (MS), places a major burden on patients since it results in <dis>progressive loss of personal and social autonomy, along with work productivity</dis>. 
+This guide aims to provide recommendations on how to evaluate <dis>gait impairment</dis> and use prolonged-release fampridine (PR-fampridine) as treatment for MS patients with <dis>gait impairment</dis> in Spain.
+Development
+PR-fampridine dosed at 10mg every 12hours is currently the only drug approved to treat <dis>gait impairment</dis> in adults with MS. 
+Additionally, PR-fampridine has been shown in clinical practice to significantly improve quality of life (QoL) in patients who respond to treatment. 
+Treatment response can be assessed with the Timed 25-Foot Walk (T25FW) or the 12-item MS Walking Scale (MSWS-12); tests should be completed before and after starting treatment. 
+The minimum time recommended for evaluating treatment response is 2 weeks after treatment onset. 
+Patients are considered responders and permitted to continue the treatment when they demonstrate a decrease in their T25FW time or an increase in MSWS-12 scores. 
+A re-evaluation is recommended at least every 6 months. 
+The SF-36 (Short Form-36) and the MSIS-29 (MS Impact Scale-29) tests are recommended for clinicians interested in performing a detailed QoL assessment. 
+This drug is generally well-tolerated and has a good safety profile. 
+It should be taken on an empty stomach and renal function must be monitored regularly.
+Conclusions
+These recommendations will help ensure safer and more efficient prescription practices and easier management of PR-fampridine as treatment for <dis>gait impairment</dis> in Spanish adults with MS.

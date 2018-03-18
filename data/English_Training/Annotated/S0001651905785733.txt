@@ -1,0 +1,6 @@
+Abstract
+ <dis>Sudden deafness</dis> goes on being a clinical entity of unknown cause for which several theories and treatments have been proposed.
+We are reporting a comparative study of two different protocols that we have performed on 60 patients (divided in two groups of 30) diagnosed and admitted with <dis>sudden hearing loss</dis> between 1989 and 2003.
+The main goal is to prove if there is a statistical and significant difference among both, in respect of the audiologic improvement obtained, after two weeks of therapy at east.
+We have applied the normal approximation of Mann-Whitney´s test and we can argue, after its result, our current protocol (piracetam, pentoxifiline, metilprednisolone), which includes 4 days of endovenous treatment another 10 days at home.
+The presence of vestibular symptoms darkens the prognosis since about 95% of the patients with them have not improved significantly (p<0.05)

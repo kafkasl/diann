@@ -1,0 +1,20 @@
+Objective
+To analyse the nutritional status of patients older than 65 years included in the home care program (PAD).
+Design
+Croos-sectional study.
+Emplacement
+3 urban health centers.
+Participants
+218 patients in the PAD.
+Method
+Mini Nutritional Assessment questionnaire (MNA) was applied. 
+Sociodemographic, anthropometric, dependency, emotional and cognitive status and analytical parameters: 57 variables were collected. 
+Possible associations were analysed by applying the chi square and variance analysis. 
+The level of significance was considered to be P<.05 was considered.
+Results
+The mean age was 83.9 years (SD=7.4); 34.9% were institutionalized and 80.7% were women; 21.2% of patients were malnourished and 40.1% were at risk of it. 
+A significant association was established between poorer nutritional status and older age, lower BMI, greater <dis>dependence on basic and instrumental activities of daily living</dis> and greater <dis>cognitive impairment</dis>. 
+The lowest mean hemoglobin, albumin, and iron levels were also associated with malnutrition and risk of malnutrition.
+Conclusions
+More than half of PAD patients are malnourished or at risk for it, and a high proportion of them some laboratory abnormality susceptible to be corrected. 
+Most <dis>cognitive impairment</dis> and <dis>functional dependence</dis> are closely related to malnutrition; so patients with these characteristics should receive more attention from the nutritional point of view.

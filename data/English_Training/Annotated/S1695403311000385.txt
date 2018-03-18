@@ -1,0 +1,14 @@
+Abstract
+ Background
+As there are no biological markers for <dis>Autism Spectrum Disorders</dis> (<dis>ASD</dis>), screening must focus on behaviour and the presence of a markedly <dis>abnormal development</dis> or a <dis>deficiency in verbal and non-verbal social interaction and communication</dis>.
+Objective
+To evaluate the psychometric attributes of a Spanish version of the autism domain of the Autism-Tics, AD/HD and other Comorbidities Inventory (A-TAC) scale for <dis>ASD</dis> screening.
+Material and methods
+A total of 140 subjects (43% male, 57% female) aged 6-16, with <dis>ASD</dis> (n = 15), <dis>Mental Retardation</dis> (n = 40), <dis>Psychiatric Illness</dis> (n = 22), Tics (n = 12) and controls (n = 51), were included for <dis>ASD</dis> screening.
+The predictive validity, acceptability, scale assumptions, internal consistency, and precision were analysed.
+Results
+The internal consistency was high (α = 0.93), and the standard error was adequate (1.13 [95% CI, -1.08 a 3.34]).
+The mean scores of the Autism module were higher in patients diagnosed with <dis>ASD</dis> and <dis>mental disability</dis> compared to the rest of the patients ( _P_ < .001).
+The area under the curve was 0.96 for the <dis>ASD</dis> group.
+Conclusion
+The autism domain of the A-TAC scale seems to be a reliable, valid and precise tool for <dis>ASD</dis> screening in the Spanish school population.

@@ -1,0 +1,16 @@
+Introduction
+Stroke is the main cause of disability in adults and the second cause of mortality, being more common in elderly people. 
+The aim of this study was to determine the functional outcome at 1 year in all patients older than 85 years who were evaluated by the Rehabilitation Therapy Service after being admitted for stroke in 2014.
+Materials and methods
+A longitudinal, observational, prospective study was conducted in 41 patients. 
+We analysed sociodemographic information, the clinical characteristics of the strokes, neurological status at admission (NIHSS), functional status (Barthel Index and Rankin Scale) and walking capacity at admission, at rehabilitation discharge, and after one year.
+All statistical test were conducted with IBM SPSS Statistics 19 for Windows and statistical significance was set at a p-value of 0.05.
+Results
+The mean age of the patients was 88.6 years (85-97) and 56% were women. 
+The average NIHSS score in the first week was 11.2. 
+The mean length of hospital stay was 15 days. 
+The initial Barthel score was 80.6 and initial Rankin score was 1.51; these scores were 54.5 and 2.79, respectively, at 1 year after stroke. 
+Eighteen patients (41.8%) died. 
+The factors that significantly influenced functional recovery were a better previous functional status, NIHSS score <10, the absence of atrial fibrillation, having fewer comorbidities and the <scp><neg>absence of</neg> <dis>aphasia</dis></scp>.
+Conclusions
+One year after a stroke, elderly patients showed a high mortality rate, and those who survived had <dis>substantial functional loss</dis>.

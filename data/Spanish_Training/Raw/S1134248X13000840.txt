@@ -1,0 +1,28 @@
+Objetivo.
+El programa Saiatu ofrece un conjunto de servicios de ayuda a domicilio de carácter social para mejorar la atención a las personas con enfermedad avanzada/terminal y sus familias. 
+Se presentan los resultados de un estudio realizado tras 17 meses de actividad para conocer las características de los pacientes atendidos, el lugar de fallecimiento y datos de actividad de Saiatu.
+
+Método.
+Estudio observacional transversal descriptivo, realizado en la provincia de Guipúzcoa.
+
+Población de estudio: pacientes atendidos por Saiatu entre el 1 de febrero de 2011 y el 30 de junio de 2012.
+
+Criterios de inclusión: pacientes fallecidos a 30 de junio de 2012.
+
+Muestra: se incluye toda la población (70 pacientes).
+
+Variables de estudio: datos de identificación de paciente y cuidador principal, datos sanitarios, datos al ingreso y al alta de Saiatu.
+
+Resultados.
+Setenta pacientes (61,4% hombres y 38,6% mujeres) con una edad media de 76,79 años. 
+En el 62,9% el cónyuge es el cuidador principal. 
+Un 60% de familias no disponen de ayuda pública o privada. 
+El nivel de dependencia es severa/moderada en el 75,7% de los pacientes.
+
+Un 88,6% fueron oncológicos y un 11,4% no oncológicos, remitidos sobre todo desde hospitalización a domicilio (37,1%).
+
+El 71,4% fallecieron en su domicilio, de los que un 92% deseaban fallecer en su casa. 
+De los fallecidos en el hospital, un 65% deseaba fallecer en domicilio. 
+Globalmente el 79% falleció en el lugar que deseaba.
+
+La edad, la disfagia y las necesidades emocionales se asocian a muerte en domicilio, mientras que la anorexia lo hace con muerte en hospital.

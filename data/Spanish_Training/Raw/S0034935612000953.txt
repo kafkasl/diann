@@ -1,0 +1,8 @@
+Resumen
+ Describimos el caso de un paciente con acidosis láctica grave y presentamos algunos datos acerca de su incidencia, diagnóstico, factores pronósticos y tratamiento más adecuado.
+Un paciente varón de 76 años diabético en tratamiento con metformina, hipertenso, dislipémico y con ligero deterioro cognitivo, ingresó en la Unidad de Cuidados Intensivos en estado de shock circulatorio requiriendo tratamiento agresivo con vasopresores y volumen.
+El paciente presentaba un daño renal agudo con anuria de 3 días probablemente secundario a la deshidratación por vómitos y a la toma de AINES.
+A consecuencia del daño renal agudo el paciente padeció una acidosis láctica grave asociada a metformina.
+Se descartó el resto de causas de acidosis metabólica con anion gap aumentado, así como una posible sepsis o rabdomiolisis.
+La acidosis láctica asociada a metformina es una condición metabólica poco frecuente pero de alta mortalidad.
+Para disminuir la mortalidad de estos pacientes, es importante hacer un diagnóstico precoz mediante la historia clínica, la exploración física y la analítica con una rápida reanimación mediante volumen, vasopresores, bicarbonato y técnica de depuración extra-renal.

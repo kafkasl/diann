@@ -1,0 +1,7 @@
+Abstract
+An hemorheological study on whole blood filterability (wbf) was done in eleven patients bearing of sudden deafness, in a continuous way, even before clinical onset.
+This evaluation is making usually in animal models, but not in humans.
+Independently of clinical diagnosis of each patient (two cases of diabetes mellitus, one of ulcerative colitis, systemic lupus erythematosus, systemic hypertension, after blood transfusion, sepsis with disseminated intravascular coagulation, upper respiratory ways infection, after surgery, and two healthy individuals), all of them showed a decresed wbf when hearing loss appeared (from 19,97±1,15 ?l/sec to 16,87±1,21 ?l/sec).
+This value normalized at six or seven days from the onset in cases with some kind of hearing recovery (18,83±1,01 ?l/sec, n=4), but did not in those with no improvement even at thirty days (17,39±0,77 ?l/sec, n=7).
+There were differences in wbf values of patients with and without hearing recovery in determinations at seven and thirty days from onset.
+Decrease in wbf accompanies this hearing disorder and confirms the cochlear microcirculation susceptibility to the impairment of blood viscoelastic properties.

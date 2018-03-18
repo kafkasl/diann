@@ -1,0 +1,24 @@
+Abstract
+ Aim
+To determine the cardiovascular risk factors (CVRF), level of cardiovascular risk (CVR) and to analyse the relationship between CVR and quality of life in patients with <dis>severe mental illness</dis> (<dis>SMI</dis>).
+Design of study
+Cross sectional study.
+Setting
+Mental Health Service, Consorci Hospitalari de Vic (Barcelona).
+Subjects
+Patients over 18 years diagnosed with <dis>SMI</dis>.
+Main measurements
+Data was collected on, socio-demographic variables, toxic habits, previous pathologies, family history of premature cardiovascular disease, psychiatric diagnoses, physical parameters and laboratory findings.
+The CVR was determined by the SCORE and REGICOR scales.
+Quality of life was measured by Euro-QoL and Seville Questionnaires.
+Results
+A total of 137 patients with <dis>SMI</dis> were included; 64.9% female, and a mean age 51.1 years (SD 12.9).
+Major CVRF distribution: 40.1% smoking, 37.9% hypertension, 56.2% dyslipidemia, and 11.1% diabetes.
+The criteria for obesity and metabolic syndrome were met by 37.9% and 48.4% of the patients, respectively.
+The average major CVRF was 1.5 factors.
+The CVR was high in 4.6% of the sample by SCORE and in 5.4% by REGICOR.
+Neither the patients who accumulated more CVRF or those with high CVR scores showed a worse quality of life.
+Conclusions
+The most prevalent CVRF in patients with <dis>SMI</dis> are smoking and dyslipidemia, with a prevalence that exceeded population-based studies.
+The subgroup of depressive disorders showed a higher CVR and worse quality of life.
+No relationships were found between the CVR and the quality of life.

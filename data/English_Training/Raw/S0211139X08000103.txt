@@ -1,0 +1,13 @@
+Abstract
+ Objective
+To determine the characteristics of elderly persons hospitalized for congestive heart failure and identify the factors associated with functional impairment or death at discharge and 3 months later.
+Material and methods
+We performed a prospective observational study that included 162 patients admitted to an Acute Geriatric Care Unit with a diagnosis of heart failure from February to July 2007.
+Socio-demographic, clinical, functional and cognitive factors were recorded during admission.
+Functional and vital measurements were reported at discharge and 3 months later.
+Results
+The incidence of mortality or functional decline was 48.8% at discharge and was 37.3% 3 months later.
+In the final model, predictors of functional impairment or mortality at discharge were days of hospital stay and a worse Pfeiffer test score (odds ratio [OR]: 1.74; 95% confidence interval [CI]: 1.33–2.29).
+Three months after discharge, independent prognostic factors were age (OR: 1.09; 95% CI: 1.02–1.17), hyponatremia (OR: 0.85; 95% CI: 0.77–0.94), length of QRS in milliseconds (OR: 0.98; 95% CI: 0.97–0.99), absence of ventricular hypertrophy (OR: 0.42; 95% CI: 0.19–0.94), and a poor result in the Pfeiffer Test (OR: 1.40; 95% CI: 1.13–1.73).
+Conclusions
+Cognitive evaluation during hospital admission for heart failure in the elderly helps to select individuals at risk of functional impairment or death at discharge and 3 months later.

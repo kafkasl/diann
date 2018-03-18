@@ -1,0 +1,8 @@
+Summary
+Despite the efficacy of lasar photocoagulation as the treatment for Diabetic Retinopathy, this condition is the leading cause of blindness in developed countries.
+In this survey we have tried to find out whether this lack of effectiveness is due to a lack of adequate control and screening.
+As a proxy measure for this we have developed an indicator called _“Lateness”_ and we have followed a sample of diabetics drawn from the two public hospitals in Vizcaya (Spain).
+Seventy five percent of them were not at regular intervals and half of the sample was late for treatment.
+Among these, Insulin dependent diabetics of older age and with more years of the disease are at a higher of entering late for treatment.
+We could not find any riskfactor lateness among non insulin dependent diabetics.
+We concluded that most of diabetics are not adequately followed up for the prevention of diabetic retinopalhy, and when they are referred to treatment it is too take the most advantage of it.

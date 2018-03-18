@@ -1,0 +1,11 @@
+Introduction
+Although the social and economic consequences of Colombian internal conflicts mainly affected the civilian population, they also had other implications. 
+The ex-combatants, the other side of the conflict, have been the subject of many studies that question their personality structures and antisocial features. 
+Results suggest that ex-combatants usually have characteristics of an <dis>antisocial personality disorder</dis> (<dis>ASPD</dis>) that is related with their behaviour.
+Methods
+Quantitative EEG (qEEG) was used to evaluate differences in cortical activity patterns between an ex-combatants group and a control group. 
+The Psychopathy Checklist-Revised (PCL-R) was used to assess the presence of <dis>ASPD</dis> in the ex-combatants group, as well as the Diagnostic Interview for Genetic Studies (DIGS) for other <dis>mental disorders</dis> classified in the DCI-10.
+Results
+There are significant differences in psychopathy levels between groups, as well as in alpha-2 and beta waves, especially in left temporal and frontal areas for alpha-2 waves and left temporal-central regions for beta waves.
+Conclusions
+qEEG measurements allow spectral resting potential to be differentiated between groups that are related with features typically involved in <dis>antisocial personality disorder</dis>, and to correlate them with patterns in the questionnaires and clinical interview.

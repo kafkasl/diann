@@ -1,0 +1,10 @@
+Abstract
+ Age related macular degeneration (AMD) is the leading cause of blindness in individuals older than 65 years of age.
+It is a multifactorial disorder and identification of risk factors enables individuals to make lifestyle choices that may reduce the risk of disease.
+Collaboration between geneticists, ophthalmologists, and optometrists suggests that genetic risk factors play a more significant role in AMD than previously thought.
+The most important genes are associated with immune system modulation and the complement system, e.g., complement factor H (CFH), factor B (CFB), factor C3, and serpin peptidase inhibitor (SERPING1).
+Genes associated with membrane transport, e.g., ATP- binding cassette protein (ABCR) and voltage-dependent calcium channel gamma 3 (CACNG3), the vascular system, e.g., fibroblast growth factor 2 (FGF2), fibulin-5, lysyl oxidase-like gene (LOXL1) and selectin-P (SELP), and with lipid metabolism, e.g., apolipoprotein E (APOE) and hepatic lipase (LIPC) have also been implicated.
+In addition, several other genes exhibit some statistical association with AMD, e.g., age-related maculopathy susceptibility protein 2 (ARMS2) and DNA excision repair protein gene (ERCC6) but more research is needed to establish their significance.
+Modifiable risk factors for AMD should be discussed with patients whose lifestyle and/or family history place them in an increased risk category.
+Furthermore, calculation of AMD risk using current models should be recommended as a tool for patient education.
+It is likely that AMD management in future will be increasingly influenced by assessment of genetic risk as such screening methods become more widely available.

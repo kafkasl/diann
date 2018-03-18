@@ -1,0 +1,7 @@
+Abstract
+ Case report
+We describe the case of a 35-year-old man who arrived in the Emergency Department with bilateral macular injury caused by accidental exposure to an industrial femtosecond laser.
+Discussion
+Workers operating industrial lasers must protect their eyes properly when handling these devices.
+Otherwise, retina damage may occur which usually is recoverable.
+However, sometimes this damage causes permanent visual loss.

@@ -1,0 +1,12 @@
+Abstract
+ Introduction
+In this study we have analyzed (i) the audiometric frequencies more often affected in acoustic neuroma (AN), (ii) the percentage of patients presenting normal hearing and those with sudden hearing loss, (iii) if there is a correlation between tumor size and hearing loss, and (iv) the relationship between clinical and radiological parameters and audiological data.
+Methods and Material
+Retrospective study of 81 patients undergoing surgical removal of a sporadic AN.
+Results
+The highest threshold in the tumor´s ear was found at 8000 Hz, and the highest interaural difference at 4000 Hz.
+The percentage of patients presenting normal hearing and sudden hearing loss was 2.5% and 9%, respectively.
+No significant association was found between tumor size and hearing loss, preoperative facial palsy or Vth cranial nerve deficit.
+There was a significant association between the degree of hearing loss and Vth cranial nerve deficit, and between hearing loss and preoperative facial palsy.
+Conclusions
+The association between hearing loss and Vth cranial nerve deficit, and between hearing loss and preoperative facial palsy is independent the size of the tumour.

@@ -1,0 +1,15 @@
+Abstract
+ Introduction
+We used data from the Global Burden of Disease, Injuries, and Risk Factors Study 2010 to report on the burden of <dis>neuropsychiatric disorders</dis> in Spain.
+Materials and methods
+The summary measure of burden used in the study was the disability-adjusted life-year (DALY), which sums of the years of life lost due to premature mortality (YLLs) and the years lived with disability (YLDs).
+DALYs were adjusted for comorbidity and estimated with 95% uncertainty intervals.
+Results
+The burden of <dis>neuropsychiatric disorders</dis> accounted for 18.4% of total all- cause DALYs generated in Spain for 2010.
+Within this group, the top five leading causes of DALYs were: depressive disorders, Alzheimer's disease, migraine, substance-use disorders, and anxiety disorder, which accounted for 70.9% of all DALYs due to <dis>neuropsychiatric disorders</dis>.
+Neurological disorders represented 5.03% of total all cause YLLs, whereas <dis>mental and substance-use disorders</dis> accounted for 0.8%.
+<dis>Mental and substance-use disorders</dis> accounted for 22.4% of total YLDs, with depression being the most disabling disorder.
+Neurological disorders represented 8.3% of total YLDs.
+Conclusions
+<dis>Neuropsychiatric disorders</dis> were one of the leading causes of disability in 2010.
+This finding contributes to our understanding of the burden of <dis>neuropsychiatric disorders</dis> in the Spanish population and highlights the importance of prioritising <dis>neuropsychiatric disorders</dis> in the Spanish public health system.

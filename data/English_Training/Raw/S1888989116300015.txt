@@ -1,0 +1,18 @@
+Introduction.
+Suicide is a major public health problem worldwide, and an approach is necessary due to its high potential for prevention. 
+This paper examines the main characteristics of people admitted to hospitals in the Community of Madrid (Spain) with suicidal behaviour, and the factors associated with their hospital mortality.
+
+Material and methods.
+A study was conducted on patients with E950-E959 codes of suicide and self-inflicted injuries of the International Classification of Diseases, Ninth Revision, Clinical Modification, contained in any diagnostic field of the minimum basic data set at hospital discharge between 2003 and 2013. 
+Sociodemographic, clinical and health care variables were assessed by uni- and multivariate logistic regression analysis in the evaluation of factors associated with hospital mortality.
+
+Results.
+Hospital suicidal behaviour predominates in women (58.7%) and in middle-age. 
+Hospital mortality is 2.2% (1.6% in women and 3.2% in men), increasing with age. 
+Mental disorders are detected 3-4 times more in secondary diagnoses. 
+The main primary diagnosis (>74%) is poisoning with substances, with lower mortality (∼1%) than injury by hanging and jumping from high places (≥12%), which have the highest numbers. 
+Other factors associated with increased mortality include different medical comorbidities and severity of the injury, while length of stay and mental disorders are protective factors. 
+Type of hospital, poisoning, and Charlson index are associated differently with mortality in men and women.
+
+Conclusions.
+Hospitalised suicidal acts show a low mortality, mainly related to comorbidities and the severity of injuries.

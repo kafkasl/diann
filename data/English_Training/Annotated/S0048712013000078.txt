@@ -1,0 +1,14 @@
+Abstract
+ Objective
+To determine quality of life (QoL) of adult patients with <dis>cerebral palsy</dis> (<dis>CP</dis>) during the ageing process and to analyze the effect of motor function, <dis>communication disorders</dis>, and <dis>intellectual disability</dis> (<dis>ID</dis>) on QoL.
+Material and method
+A cross-sectional study on adults with <dis>CP</dis> was performed.
+A questionnaire to collect sociodemographic characteristics related to the disability, and two scales to assess the level of motor function Gross Motor Function Classification System (GMFCS) and a scale to measure QoL (GENCAT Scale) were used.
+Statistical analysis: T tests were performed to make a comparison with standard scores, and ANOVAS to analyze the incidence of motor function level, <dis>ID</dis>, and <dis>communication disorders</dis>.
+Results
+Participants were 46 patients (27 males, 19 females; age: M±SD, 50±7.9).
+They presented low levels of QoL in interpersonal relations, self-determination, and social inclusion, and rights, and good levels of emotional well-being.
+No significant effects were found for motor function level, but <dis>ID</dis> and <dis>communication disorders</dis> produced significant effects, and interactions with QoL dimensions were also significant.
+Conclusions
+QoL of adults with <dis>CP</dis> is satisfactory in emotional well-being and lower in self-determination and rights.
+Degree of <dis>motor impairment</dis> has an impact on material and physical well-being; degree of <dis>ID</dis> affects personal development and self-determination; and <dis>communication problems</dis> influence diverse dimensions of QoL, although physical well-being to a lesser degree.

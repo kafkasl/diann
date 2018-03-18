@@ -1,0 +1,14 @@
+Introduction
+Alzheimer disease (AD) is a neurodegenerative disease characterised by <dis>progressive dementia</dis> associated with <dis>global cognitive dysfunction</dis>.
+Methods
+We conducted a systematic review and meta-analysis of clinical trials evaluating omega-3 supplementation in patients with AD.
+Objective
+To determine if there is scientific evidence of the effectiveness of omega-3 supplementation in improving cognitive function in patients with AD.
+Search strategy
+We included only randomised controlled trials (RCTs) from the following databases: Medline, Cochrane Central, Cinahl, and LILACS. 
+An electronic search was also conducted using Google Scholar.
+Study selection
+Six articles met the eligibility criteria. 
+The risk of bias was assessed following the Cochrane method.
+Conclusion
+There is no consistent evidence to support the effectiveness of omega-3 supplementation in improving cognitive function in AD patients in the short and medium term.

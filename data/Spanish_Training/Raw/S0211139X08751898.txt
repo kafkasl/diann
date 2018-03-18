@@ -1,0 +1,15 @@
+Objetivo
+detectar el porcentaje de pacientes con demencia ingresados en una unidad de psicogeriatría con elevado riesgo de caídas y valorar el grado de aceptación y cumplimiento del uso de los protectores de cadera durante el ingreso, a los 15 días y a los 3 meses del alta.
+Material y métodos
+estudio de cohortes prospectivo de base hospitalaria.
+Para la valoración del riesgo de caídas se utilizó la inestabilidad a la bipedestación inmediata o semitándem alterado, o un _Get-up-and-Go_ superior a 20 s o a juicio clínico como resultado de la evaluación geriátrica.
+El cumplimiento intrahospitalario se basó en los registros de enfermería y el cumplimiento extrahospitalario mediante entrevista telefónica a los 15 y 3 meses del alta.
+Resultados
+se evaluó a 115 pacientes admitidos consecutivamente en la Unidad de Psicogeriatría del Hospital de la Santa Creu de Vic.
+Se excluyó a 60 pacientes (52,2%); el motivo principal fue la dependencia para la marcha.
+De los 55 pacientes incluidos, 44 (80,0%) presentaban elevado riesgo de caídas y fueron candidatos a protectores de cadera.
+El cumplimiento intrahospitalario fue del 80,5% (intervalo de confianza [IC] del 95%, 65,1-91,2); la causa más frecuente de no cumplimiento fue la retirada de los protectores por parte del paciente.
+A los 15 días del alta, el cumplimiento extrahospitalario fue del 64,5% (IC del 95%, 45,4-80,8) y a los 3 meses del 57,1% (IC del 95%, 28,9-82,4).
+Conclusiones
+un elevado porcentaje de pacientes dementes no dependientes para la marcha presentaban un alto riesgo de caídas.
+En el ámbito de hospitalización, el cumplimiento no es un problema para la utilización de protectores de cadera en población de alto riesgo, y es discutible en el entorno comunitario.

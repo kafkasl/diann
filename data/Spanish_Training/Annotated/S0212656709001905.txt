@@ -1,0 +1,24 @@
+Resumen
+ Introducción
+La comorbilidad psiquiátrica influye en el impacto, el pronóstico y el manejo de la depresión.
+Objetivos
+Determinar la prevalencia de otros <dis>trastornos mentales comunes</dis> en pacientes con depresión mayor y analizar sus relaciones de comorbilidad.
+Diseño
+Estudio transversal en doble fase: _a)_ cribado (test de Zung), y _b)_ entrevista psiquiátrica estandarizada.
+Emplazamiento
+10 centros de salud de la provincia de Tarragona.
+Pacientes
+Se cribó a 906 pacientes consecutivos.
+En la segunda fase fueron evaluados los 209 pacientes con resultado positivo y 97 con resultado negativo (1/7 aleatorio).
+Análisis
+En el análisis estadístico se usaron ponderaciones atendiendo al muestreo en doble fase.
+Se determinó la frecuencia con que la distimia, el trastorno de ansiedad generalizada, el trastorno de pánico y el trastorno de somatización se presentaban concomitantemente con la depresión mayor.
+Se compararon las características de los pacientes deprimidos según diversos grados de comorbilidad.
+Resultados
+En el 45,7% (intervalo de confianza [IC] del 95%, 32,8–59,2) de los pacientes con depresión mayor coexistía un <dis>trastorno mental</dis> más, dos en el 19,9% (IC del 95%, 13,7–27,9) y tres <dis>trastornos mentales</dis> más en el 8,3% (IC del 95%, 4,5–14,8).
+El trastorno de ansiedad generalizada estaba presente en el 55,2% de los deprimidos (IC del 95%, 41,6–68), el trastorno de pánico en el 33,8% (IC del 95%, 21,1–47,1), la distimia en el 15,7% (IC del 95%, 10,3–23,4) y el trastorno de somatización en el 6,6% (IC del 95%, 3,3–12,8).
+En los grupos de pacientes con comorbilidad la depresión fue más severa y con mayor impacto funcional.
+No hubo diferencias en las variables relacionadas con el manejo clínico.
+Conclusiones
+La comorbilidad psiquiátrica de la depresión es común en atención primaria.
+En la mayoría de los pacientes deprimidos coexisten otros trastornos, frecuentemente de ansiedad.

@@ -1,0 +1,18 @@
+Introducción.
+El suicidio es un importante problema de salud pública mundial, de necesario abordaje por su alto potencial preventivo. 
+Este trabajo estudia las principales características de las personas ingresadas en hospitales de la Comunidad de Madrid (España) con conducta suicida y los factores asociados a su mortalidad intrahospitalaria.
+
+Material y métodos.
+Se estudian los códigos E950-E959 de suicidio y lesiones autoinfligidas de la Clasificación Internacional de Enfermedades, Novena Revisión, Modificación Clínica, contenidos en los campos diagnósticos del conjunto mínimo básico de datos al alta hospitalaria entre 2003 y 2013. 
+Se describen variables sociodemográficas, clínicas y asistenciales mediante análisis uni y multivariante de regresión logística en la valoración de factores asociados a la mortalidad intrahospitalaria.
+
+Resultados.
+La conducta suicida hospitalizada predomina en mujeres (58,7%) y en edades medias. 
+La mortalidad intrahospitalaria es del 2,2% (1,6% en mujeres y 3,2% en hombres), aumentando con la edad. 
+Los <dis>trastornos mentales</dis> se detectan 3-4 veces más en diagnósticos secundarios. 
+El diagnóstico principal mayoritario (>74%) es el envenenamiento por sustancias, con una mortalidad inferior (∼1%) a la de las lesiones por ahorcamiento y precipitación (≥12%), que presentan las cifras más elevadas. 
+Otros factores asociados con una mayor mortalidad son diversas comorbilidades médicas y la gravedad de la lesión, mientras que la estancia y los <dis>trastornos mentales</dis> son factores protectores en ambos sexos. 
+El tipo de hospital, el envenenamiento con sustancias y el índice de Charlson se asocian a la mortalidad de forma diferencial en hombres y mujeres.
+
+Conclusiones.
+Los actos suicidas hospitalizados presentan una baja mortalidad, la cual está principalmente relacionada con las comorbilidades y la gravedad de las lesiones.

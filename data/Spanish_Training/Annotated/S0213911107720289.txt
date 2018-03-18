@@ -1,0 +1,16 @@
+Resumen
+ Objetivos
+Determinar el patrón de uso de servicios y costes en pacientes que demandan atención por <dis>problemas mentales</dis> (<dis>PM</dis>) en asistencia primaria en situación de práctica clínica habitual.
+Métodos
+Estudio retrospectivo.
+Se incluyeron pacientes mayores de 15 años, con al menos una demanda de atención por <dis>PM</dis>, atendidos por 5 equipos de atención primaria durante el año 2004.
+Se formó un grupo comparativo con el resto de pacientes <scp><neg>sin</neg> <dis>PM</dis></scp>.
+Las variables fueron: edad, sexo, casuística/ comorbilidad, utilización de recursos sanitarios y costes ambulatorios correspondientes (medicamentos, procedimientos diagnósticos y visitas).
+Se empleó el análisis de regresión logística múltiple y modelos de ANCOVA.
+Resultados
+Se incluyeron 64.072 pacientes, de los cuales 11.128 presentaron algún <dis>PM</dis> (17,4%; intervalo de confianza [IC] del 95%, 16,7-18,1).
+Los pacientes que demandaron atención por <dis>PM</dis> presentaron un mayor número de problemas de salud (6,7 frente a 4,7; p < 0,0001) y de utilización de recursos sanitarios, particularmente visitas médicas/paciente/año (10,7 frente a 7,2; p < 0,0001).
+El coste medio anual en pacientes con <dis>PM</dis> fue significativamente superior (851,5 frente a 519,2 euros; p < 0,0001) y se mantuvo después de corregir por edad, sexo y comorbilidades, con un coste diferencial de 72,7 euros (IC del 95%, 59,2-85,9).
+Todos los componentes del coste por paciente fueron mayores en el grupo de pacientes con PM.
+Conclusiones
+Los pacientes que han demandado atención por algún <dis>PM</dis> presentan un elevado número de comorbilidades y un mayor coste anual por paciente en el ámbito de la atención primaria.

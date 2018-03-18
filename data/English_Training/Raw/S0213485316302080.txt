@@ -1,0 +1,21 @@
+Background and purpose.
+Pneumonia as a complication of stroke is associated with poor outcomes. 
+The A2DS2 and ISAN scales were developed by German and English researchers, respectively, to predict in-hospital stroke-associated pneumonia. 
+We conducted an external validation study of these scales in a series of consecutive patients admitted to our hospital due to ischaemic stroke.
+
+Method.
+These predictive models were applied to a sample of 340 consecutive patients admitted to hospital in 2015 due to stroke. 
+Discrimination was assessed by calculating the area under the ROC curve for diagnostic efficacy. 
+Calibration was assessed using the Hosmer-Lemeshow goodness-of-fit test and graphing the corresponding curve. 
+Logistic regression analysis was performed to determine the independent predictors of respiratory infection secondary to stroke.
+
+Results.
+We included 285 patients, of whom 45 (15.8%) had respiratory infection after stroke according to the study criteria. 
+Mean age was 71.01±12.62 years; men accounted for 177 of the patients (62.1%). 
+Seventy-two patients (25.3%) had signs or symptoms of dysphagia, 42 (14.7%) had atrial fibrillation, and 14 (4.9%) were functionally dependent before stroke; the median NIHSS score was 4 points. 
+Mean scores on A2DS2 and ISAN were 3.25±2.54 and 6.49±3.64, respectively. 
+Our analysis showed that higher A2DS2 scores were associated with an increased risk of infection (OR=1.576; 95% CI: 1.363-1.821); the same was true for ISAN scores (OR=1.350; 95% CI: 1.214-1.501).
+
+Conclusion.
+High scores on A2DS2 and ISAN were found to be a strong predictor of respiratory infection associated with acute stroke in a cohort of consecutive patients with stroke. 
+These easy-to-use scales are promising tools for predicting this complication in routine clinical practice.

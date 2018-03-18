@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+El Síndrome de Prader-Willi (SPW) es una enfermedad genética que se caracteriza por hipotonía neonatal, hipogonadismo, hiperfagia que conduce a obesidad, estatura baja, <dis>retraso en el desarrollo</dis>, <dis>retraso mental moderado</dis>, <dis>alteración del comportamiento</dis> y apariencia facial característica.
+Se origina por la pérdida o inactivación de genes de expresión paterna incluidos en la región 15q11-13 regulada por impronta genómica.
+Existen diferentes causas genéticas: deleción de la región 15q11-q13 de origen paterno en el 70% de los pacientes, disomía uniparental materna en el 20-25% y menos de un 5% presenta defecto de impronta.
+Se presentan los resultados obtenidos en el estudio transversal clínico-genético de 77 pacientes SPW.
+Pacientes y métodos
+Se ha realizado el estudio de 374 pacientes con sospecha de SPW.
+Se emplean técnicas citogenéticas de cariotipo con bandas G e hibridación in situ fluorescente (FISH) y técnicas moleculares de microsatélites, Southern blot, MS-PCR y secuenciación.
+Se emplean los criterios de Holm para la correlación fenotipo-genotipo en 48 pacientes.
+Resultados
+Se confirma el diagnóstico de SPW en 77 pacientes, 46 con deleción, 16 con disomía uniparental, 2 con defecto de impronta y 13 con solo un patrón de metilación SPW.
+No se observan diferencias significativas en la correlación fenotipo –genotipo.
+Conclusiones
+Las frecuencias de las alteraciones moleculares, 71,87% deleción, 25% DUPmat y 3,12% DI, son similares a las descritas en la literatura.
+Se presenta el algoritmo de diagnóstico utilizado con la MS-PCR como técnica rápida para confirmar el diagnóstico de SPW.

@@ -1,0 +1,8 @@
+Abstract
+The auditory training with wide-band white noise is a methodology for the qualitative recovery of the <dis>hearing loss</dis> in people suffering from <dis>sensorineural hearing loss</dis>.
+It is based on the application of a wide-band white modified noise.
+In a prospective study, we have assessed the modifications of the verbal reception threshold URV), the maximum discrimination (Dmax), and the discrimination coefficient (Kd) in a sample of 48 patients, who have followed a program of 15 auditory training with wide- band white noise sessions.
+The average improvements of the verbal discrimination variables expressed in percentage are 4.23% for the URV, a 9.04% for the kd, a 17.87% for the Dmax, and 4.32%, 10.05%, 13.04% for the binaural URV, Kd and Dmax respectively.
+From our results, it can be deduced that the auditory training with wide-band white noise improves the verbal discrimination measures.
+Not only it allows to reach the verbal reception threshold at a lower intensity, but also it moves the discrimination line towards the left.
+Furthermore, it increases the maximum discrimination both in binaural measurements and in those which consider all the ears.

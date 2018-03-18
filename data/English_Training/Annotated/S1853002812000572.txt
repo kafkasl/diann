@@ -1,0 +1,20 @@
+Abstract
+ Background Introduction
+In recent years, an increasing number of studies published assessing the effectiveness of CT programs in patients with ABD have shown that these therapies may have beneﬁcial effects on cognitive and functional measures.
+On the other hand, the efficacy of these type of treatment in patients with ND is still under debate.
+Objective
+To evaluate and compare the effectiveness of a Cognitive Training (CT) program in patients with Acquired Brain Damage (ABD) and neurodegenerative diseases (ND).
+Design/Methods
+144 patients were assessed with neuropsychological, neurological, neuropsychiatry and functional assessments.
+The sample was divided in three groups: ABD (G1), ND (G2) and mixed disorders (G3).
+G1 included mainly patients with Traumatic Brain injury and Stroke.
+G2 included patients with <dis>degenerative dementias</dis> and <dis>mild cognitive impairment</dis>.
+Groups were matched for age, education and number of CT sessions.
+The effects on cognition, behavioral, functional and quality of life (QOL) were considered as the primary outcome measures, and evaluated at the beginning and at the end of the CT program.
+Results
+Within G1 patients (n = 43) an improvement was found in patient's basic (-1.55;p0.04) and instrumental (-1.63;p0.007) activities of daily living (ADL) scores, subjective memory measures (13.36;p0.02) and in the Neuropsychiatric Inventory (7.73;p0.03).
+In G2 (n = 34) an improving trend was found in instrumental ADL (-1.3;p0.08) and in some aspects of QOL (-1.59;p0.06).
+No significant differences were observed within G3 patients (n = 12).
+Conclusions
+These results suggest that persons with ABD and neurodegenerative disease may improve some cognitive, behavioral, functional and QOL measures following a CT program.
+CT shows greater benefit for ABD patients.

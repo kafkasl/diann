@@ -1,0 +1,4 @@
+Abstract
+ <dis>Cognitive impairment</dis> may compromise driving skills and represent a public health risk by increasing traffic accidents.
+<dis>Mild Cognitive Impairment</dis> and <dis>Dementia</dis> are characterized by <dis>cognitive impairment</dis> affecting to a greater or lesser degree the instrumental activities of daily living and fitness to drive.
+The Argentine Neurologic Society Working Group on Behavioural Neurology and Cognitive Neurosciences has prepared this clinical practice guideline to help physicians evaluate patients suspected to present <dis>cognitive impairment</dis> or <dis>dementia</dis> and detect and prevent risky behaviors.

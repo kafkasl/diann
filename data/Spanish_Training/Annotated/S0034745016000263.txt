@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+La pobreza se ha relacionado en algunos estudios con peores desenlaces en <dis>problemas y trastornos mentales</dis>.
+Se lo considera un círculo en el cual la pobreza favorece la aparición de la <dis>enfermedad mental</dis> y esta a su vez conduce a mayor pobreza.
+En Colombia no existen estudios al respecto.
+Objetivo
+Describir la asociación en Colombia entre <dis>problemas y trastornos mentales</dis> y la condición de pobreza según el Índice de Pobreza Multidimensional (IPM).
+Material y métodos
+Empleando la muestra de la Encuesta Nacional de Salud Mental 2015, ponderada por los factores de expansión para la población, mediante entrevistas semiestructuradas se emplearon los instrumentos SRQ-20, AUDIT C y A, PCL- modificado, APGAR familiar y CIDI-CAPI, para establecer la prevalencia de problemas y trastornos mentales, clasificando entre pobres y no pobres según el IPM.
+Resultados
+Se entrevistó en total a 13.200 hogares, el 13,5% de ellos en condición de pobreza; en estos, el 6,2% de la población adolescente reportó algún trastorno a lo largo de la vida y el 4,6% en los últimos 12 meses; en contraste, en el mismo grupo de edad, pero no en condición de pobreza, las tasas fueron del 7,2 y el 3,3% respectivamente.
+En adultos en pobreza, la prevalencia de trastornos a lo largo de la vida fue del 9,2 y el 4,3% en el último año; los no pobres mostraron prevalencias del 9,1 y el 3,9 respectivamente.
+Conclusiones
+Existe una relación entre no acceder de manera suficiente a la canasta de bienes básica y la presencia de <dis>afecciones mentales</dis> en la población colombiana; no obstante, no parece que haya asociación entre la exacerbación de la pobreza y un mayor deterioro de la salud mental.

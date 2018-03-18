@@ -1,0 +1,15 @@
+Objetivo
+Analizar la eficacia diagnóstica de la espectroscopia de resonancia magnética de protón (1H ERM) en pacientes con <dis>deterioro cognitivo</dis> y establecer la complementariedad de la información de imagen de resonancia magnética (RM) mediante curvas ROC.
+Material y métodos
+Se estudian 64 pacientes con <dis>deterioro cognitivo</dis>, incluyendo enfermedad de Alzheimer (EA) (N = 31), <dis>demencia vascular</dis> (N = 6), <dis>deterioro cognitivo leve</dis> (<dis>DCL</dis>) (N = 9) y depresión mayor (N = 18).
+Todos se exploraron con RM cerebral y 1H ERM usando dos tiempos de eco (TE, 31 y 136 ms) con volumen único en la circonvolución cingular posterior y lóbulo temporal derecho.
+Los metabolitos analizados fueron N-acetilaspartato (NAA), mio-Inositol (mi), colina (Co), y creatina (Cr) calculando las relaciones Co/Cr, mI/Cr, NAA/ml y NAA/Cr.
+Para diferenciar entre las distintas formas de <dis>deterioro cognitivo</dis>, las alteraciones en imagen y en espectroscopia fueron graduadas de 0 a 4, así como la combinación promedio de las mismas, obteniéndose posteriormente curvas ROC.
+Resultados
+Se obtuvieron diferencias estadísticamente significativas entre los espectros de pacientes con <dis>demencia</dis> (EA y <dis>demencia vascular</dis>) y los que <scp><neg>no</neg> presentaban <dis>demencia</dis></scp> (<dis>DCL</dis> y depresión) en la circunvolución cingular posterior.
+La relación NAA/ml proporcionó la mejor área bajo la curva ROC con la mayor sensibilidad (82,5%) y especificidad (72,7%) en el diagnóstico de EA.
+Los cocientes NAA/ml y mI/Cr diferenciaron entre las cuatro patologías degenerativas de <dis>deterioro cognitivo</dis>.
+La combinación de imagen de RM y ERM mejoró significativamente el diagnóstico de la EA.
+Conclusiones
+Las diferencias metabólicas encontradas mediante ERM entre pacientes con <dis>deterioro cognitivo</dis> pueden ser útiles para diferenciar la EA, <dis>demencia vascular</dis>, <dis>DCL</dis> y depresión.
+La combinación de espectroscopia e imagen de RM es útil para el diagnóstico de la EA.

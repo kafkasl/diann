@@ -1,0 +1,9 @@
+Abstract
+ Dementia is a syndrome characterized by acquired cognitive deficit, or behavioral syntoms that interfere with the ability to function at work or at usual activities.
+Its prevalence increases with age, and in those aged >65 years ranges between 5-14,9%, and progressive aging of the population predicts a significant increase in it.
+Globally the most common cause is Alzheimer disease.
+In addition to age, several genetic and environmental factors that increase the risk of developing dementia.
+Diagnosis is based on clinical criteria.
+The initial evaluation intends to detect cognitive impairment, to determine the decline from previous levels of functioning and to rule out other entities that may present with cognitive complaints.
+Dementia is usually divided into primary and secondary categories.
+Ancillary tests are used to rule out the latter.

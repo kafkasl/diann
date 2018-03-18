@@ -1,0 +1,7 @@
+Resumen
+En once pacientes que presentaron un cuadro de sordera súbita pudo efectuarse un estudio reológico de la filtrabilidad en sangre total (fst) de una forma seriada, incluso días antes del debut del trastorno.
+La evaluación de este hallazgo previo a la instauración de la hipoacusia es algo habitual en modelos experimentales, pero no en humanos.
+Independientemente del contexto clínico en que cada paciente se desenvolvía (2 casos de diabetes mellitus, uno de colitis ulcerosa, lupus eritematoso sistémico, hipertensión arterial, postrasfundido, sepsis con coagulación intravascular diseminada, infección de vías respiratorias altas, postquirúrgico, y dos individuos sanos) en todos se detectó un descenso en la fst al aparecer la sordera (de 19,97±1,15 a 16,87±1,21 ?l/seg).
+Este valor tendió a normalizarse a los 6 ó 7 días del debut en los individuos en que existió algún tipo de recuperación auditiva (18,83±1,01 ?l/seg, n=4), pero no lo hizo en los que no recuperaron ni siquiera a los 30 días (17,39±0,77 ?l/seg, n=7).
+Existieron diferencias en la fst de los pacientes con y sin recuperación auditiva en las determinaciones a los siete y treinta días del debut.
+El descenso en esta prueba acompaña al trastorno auditivo y confirma la susceptibilidad de la microcirculación coclear al deterioro de las características viscoelásticas de la sangre.

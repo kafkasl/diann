@@ -1,0 +1,15 @@
+Objetivo
+Describir la situación social y médica de los pacientes centenarios que requirieron atención hospitalaria urgente en los últimos 8 años.
+Métodos
+Estudio retrospectivo de los pacientes mayores de 100 años atendidos en el servicio de Urgencias de un hospital general.
+Posteriormente se comparó el porcentaje de ingresos y la mortalidad con los de los pacientes mayores de 65 años.
+Resultados
+Se registraron 51 consultas en 41 pacientes, con edad media de 101,2 años.
+El número de consultas aumenta progresivamente en el tiempo (p = 0,008).
+El 92,6% de los pacientes vivían con su familia, preferentemente en el medio rural.
+Las patologías más prevalentes fueron el síndrome prostático (en varones), la insuficiencia cardíaca y la obstrucción crónica al flujo aéreo.
+Sólo un 20% presentaban demencia.
+El 64,2% de las consultas realizadas precisaron ingreso hospitalario, con una mortalidad en este grupo del 20,5%.
+Los diagnósticos al alta más frecuentes fueron la insuficiencia cardíaca y el accidente cerebrovascular agudo.
+Conclusiones
+Se espera un aumento progresivo de atenciones hospitalarias a pacientes centenarios, los cuales presentan un aceptable estado de salud, aunque con un riesgo elevado de fallecimiento durante el ingreso.

@@ -1,0 +1,17 @@
+Abstract
+ Background and objectives
+Residual hearing is considered a prognostic factor in patients with cochlear implants.
+Objective determination of residual hearing by steady-state evoked potential (SSEP) is of the utmost importance.
+The aims of this study were to quantify residual hearing and evaluate the usefulness of SSEP measurement in patients with cochlear implants.
+Methods
+Liminal pure-tone audiometry was applied in 12 patients before and after cochlear implantation.
+SSEP were evaluated post-implantation.
+Descriptive statistics and Pearson correlations were carried out and contingency tables were constructed.
+Results
+Residual hearing at a frequency of 125 Hz was preserved in 37.5% of the patients, at 250 and 500 Hz in 45.45%, and at 1000 Hz in 27.27%.
+After implantation, residual hearing at 2000 Hz was retained in 28.85%, at 4000 Hz in 16%, and at 8000 Hz in 0%.
+Post-implantation SSEP showed no response in the implanted ear as compared with the non-implanted ear at frequencies of 500 and 1000 Hz.
+Because the patients had bilateral profound hearing loss, this finding suggested partial destruction of the neural tissue in the implanted ear.
+Conclusions
+Residual low frequency hearing was preserved in most patients.
+Our results suggest that SSEP is useful in the assessment of residual hearing.

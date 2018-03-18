@@ -1,0 +1,19 @@
+Introduction
+REM sleep behaviour disorder (RBD) is characterised by violent behaviours (screaming, kicking, vivid dreams) during REM sleep. 
+It has a prevalence of 1% to 2% of the general population and is especially frequent in men and the population older than 60. 
+In the last decade, RBD has been suggested to be a prodrome of neurodegenerative disease. 
+We analysed associated neurological diseases and responses to drug treatment in 33 patients with RBD treated in the multidisciplinary sleep disorders unit at Hospital Infanta Sofía.
+Patients and methods
+We conducted an observational descriptive retrospective analysis of patients diagnosed with RBD and treated in our multidisciplinary sleep disorders unit between October 2012 and December 2015. 
+We recorded age, sex, associated diseases, and treatments administered to these patients.
+Results
+A total of 365 patients were attended at our unit, including 33 with RBD: 13 women (40%) and 20 men (60%). 
+Mean age was 62.72 years. 
+An associated disorder was identified in 48%, with the most common being mild cognitive impairment (69%). 
+The percentage of patients with RBD and an associated disorder among patients older than 60 was 68%. 
+Eighty-two percent of the patients required treatment. 
+The most commonly used drug was clonazepam (76%), followed by melatonin (9%), gabapentin (6%), and trazodone (3%).
+Discussion
+In our series, 48% of the patients had an associated disorder. 
+The likelihood of detecting an associated disorder increases with patients’ age. 
+The vast majority of patients required drug treatment due to symptom severity; the most frequently administered drug was clonazepam (76%).

@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+El Fototest es un test cognitivo breve aplicable a analfabetos, válido y útil para la detección de deterioro cognitivo y demencia.
+Nuestro objetivo es completar el proceso de desarrollo del instrumento llevando a cabo un estudio normativo y de fiabilidad.
+Métodos
+El estudio normativo se realizó en una muestra de conveniencia de 223 sujetos voluntarios sanos entre 20 y 85 años.
+La fiabilidad test-retest (Ftr) se evaluó mediante un diseño transversal de medidas repetidas en una muestra de 50 sujetos sin deterioro cognitivo; la fiabilidad interobservador (Fio) se determinó mediante la evaluación a ciegas de 10 aplicaciones del test por 30 observadores independientes; en ambos casos se utilizó el coeficiente de correlación intraclase.
+La evaluación de la consistencia interna (CI) se llevó a cabo mediante el coeficiente alfa de Cronbach.
+Resultados
+Los resultados del Fototest se distribuyen normalmente y no están influenciados por el sexo ni el nivel educativo, pero sí por la edad.
+La Ftr del Fototest es 0,89 (IC 95%: 0,81-0,93), la Fio es de 0,98 (IC 95%: 0,96-0,99) y 0,94 la CI.
+Conclusiones
+El Fototest está libre de influencias educativas y tiene una adecuada fiabilidad, tanto Ftr como Fio, y una alta consistencia interna, por tanto, es un instrumento adecuado para ser usado en el seguimiento de pacientes con deterioro cognitivo y demencia sobre todo en entornos en que cambien los evaluadores, en especial en poblaciones con bajo nivel educativo.

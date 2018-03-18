@@ -1,0 +1,8 @@
+Resumen
+ La otitis media serosa (OMS) es una enfermedad muy frecuente en la infancia, estando relacionada con el desarrollo de hipoacusia y episodios de otitis media aguda de repetición.
+Las alternativas terapéuticas para la misma son básicamente tres: la evolución espontánea, el tratamiento con antibióticos orales, o la cirugía de adenoides y/o drenajes timpánicos.
+Mediante un análisis de decisión sobre un grupo teórico de 1.000 pacientes se pretende estudiar el coste- efectividad de las alternativas terapéuticas, valorando el coste directo y el coste indirecto de cada una, llegando a identificar la opción más eficiente (coste-efectiva).
+Se analiza la efectividad y el coste variable de cada rama del árbol de decisión, considerando el tratamiento inicial y el de rescate.
+La efectividad es creciente hasta la opción terapéutica más completa, que incluye adenoidectomía y drenajes timpánicos, desde el 92% hasta el 98% de los niños tratados.
+Sin embargo, también se incrementa el coste de cada niño que es curado con esta última opción, desde 302 euros a 401 euros; es decir, la elección del tratamiento más coste- efectivo de la OMS infantil permite un ahorro de unos 100 euros por niño tratado.
+No obstante, los costes fijos del proceso, que son mucho mayores (600 euros por niño), no varían, limitando nuestra capacidad de gestión.

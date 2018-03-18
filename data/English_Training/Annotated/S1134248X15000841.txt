@@ -1,0 +1,26 @@
+Abstract
+ Objective
+To describe the socio-demographic and clinic characteristics and aspects related to information of non-oncological patients (NOP) with advanced disease, which are included in a palliative-home care support unit.
+To identify the variables that could be associated with the death of NOP at home.
+Material and method
+A retrospective descriptive study was performed by reviewing the clinical histories of NOP attended by a Palliative-home Care Support Unit during the period from November 2009 to March 2013.
+An analysis was performed on the socio-demographic and clinical data of the patients and their main caregivers, as well as the analysed, diagnostic and prognostic information provided by the family and the patient, preferences about end of life care of both parties, and the place of death.
+The data analysis was performed with the computer pack SPSS® v. 21.
+Results
+Of the 371 clinical histories reviewed, 249 patients met the inclusion criteria.
+The NOP represented the 36.19% of the activity, with a mean age of 81.4 years.
+The most common disease was <dis>dementia</dis> (22.1%).
+More than two-thirds (67.5%) of the patients came from Primary Care and residential homes for the elderly.
+The main reason for referral was to control symptoms in 85.5%, with the most frequent being asthenia, dyspnoea, and pain.
+A high comorbidity, geriatric symptoms, <dis>cognitive impairment</dis> was observed in 65%, and an <dis>important functional impairment</dis> (mean Barthel Index of 21.52, and Palliative Performance Scale score of 38.18).
+The majority of main caregivers were women, and the patient's daughter, and the burden of caring was identified in 55.4%.
+In the group <scp><neg>without</neg> <dis>cognitive impairment</dis></scp>, the diagnosis was known by 83%, and 30% knew the prognosis.
+Staying at home to receive end of life care was preferred by 95%, and 78% kept this preference for dying.
+Two-thirds (66%) of all the patients died at home or in residential homes for the elderly.
+The statistical analysis of the possible factors associated with dying at home showed a significant odds ratio when the patient lived in rural areas, and preferred home as the place of death.
+Another factor is when the main caregiver does not suffer care burden and has a subjective perception of good health.
+Conclusions
+The predominance of NOP in end of life situations is characterised by advanced age, high comorbidity, increased symptomatic burden, significant overall <dis>functional impairment</dis> on admission, and high mortality.
+More than the half of the caregivers showed excessive burden of caring.
+In conclusion, they are patients with similar needs to those with advanced oncological disease.
+The high prevalence of <dis>cognitive impairment</dis> suggested that only half of the patients were able to participate in the information and in the advanced care planning.

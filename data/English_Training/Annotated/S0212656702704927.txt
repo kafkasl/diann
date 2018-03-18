@@ -1,0 +1,25 @@
+Aim
+To observe the differences between ethnic groups and the autochthonous population in the frequency of <dis>mental disorders</dis>.
+To study epidemiological data and the accuracy of recording of such data.
+Design
+Descriptive study.
+Setting
+Raval Sud Basic Health Care Area.
+Drassanes Primary Health Care Center, Barcelona, Spain.
+Patients
+A random sample of 112 immigrant patients belonging to ethnic minorities, seen between January 1995 and December 1997, matched for age and sex with autochthonous patients.
+Interventions
+We studied variables related with <dis>mental disorders</dis> in immigrants.
+Variables included age, country of origin, reason for immigrating, employment status, marital status, other persons in household, educational level, knowledge of Spanish and toxic habits.
+We recorded the following impressions of diagnosis: anxiety, depression, somatization, psychosis, <dis>personality disorder</dis>, number of visits for each diagnosis, treatment, and overall number of visits between January 1995 and December 1997.
+Statistical studies consisted of descriptive analysis and chi-squared tests.
+Measures and results
+Mean age was 39 ± 14 years, 52.7% of the immigrant patients were men, 36.6% (95% CI, 27.6–45.5%) were from the Maghreb region, and 23.2% (95% CI, 15.4–31.0%) were Hindustani.
+43% (95% CI, 33.6–52.0%) understood Spanish.
+Smoking was more frequent among autochthonous patients (59.8%; 95% CI, 50.7–68.9%) than in immigrant patients (26.8%; 95% CI, 18.5–34.9%; p < 0.001), as was alcohol abuse (24.1%; 95% CI, 16.1–32.0%, versus 5.4%; 95% CI, 1.1–9.5%; p < 0.001).
+Depression tended to be more frequent in patients belonging to ethnic groups (15.2%; 95% CI, 8.5–21.8%) than in autochthonous patients (13.4%; 95% CI, 7.0–19.7%; p = ns), as did somatization disorder (10.7%; 95% CI, 4.9–167.4%, versus 6.3%; 95% CI, 1.7–10.7%, p = ns), but was undertreated (19.8%; 95% CI, 2.4–27.2%, versus 32.1%; 95% CI, 23.4–40.7%; p = ns).
+The total number of visits during the study period was higher in autochthonous patients (1138 versus 1017), as was the number of visits for <dis>mental disorders</dis> (17.9%; 95% CI, 15.7–20.1%, versus 13%; 95% CI, 1.9–15.0%; p = ns).
+Conclusions
+There were no differences in the percentages of <dis>mental disorders</dis> between immigrants and autochthonous residents, although depression and somatization disorder tended to be more frequent in the former group.
+The characteristics of the reference population, and the frequency with which epidemiological data were missing from the medical record, might have biased the results; this in turn might have been influenced by communication problems which make the diagnosis in immigrants more difficult.
+Health professionals should be appropriately trained to enable them to provide better care.

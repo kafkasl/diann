@@ -1,0 +1,19 @@
+Despite its high prevalence, <dis>mental disorders</dis> are often underdiagnosed.
+
+Objective.
+To determine the magnitude of the underdiagnosis <dis>mental disorders</dis> and its associated characteristics.
+
+Methodology.
+A descriptive cross-sectional study performed in Lanzarote (2011) on 310 patients selected by cluster random sampling. 
+A self-completed questionnaire was used that contained the General Health Questionnaire-28, as well as structured interview using the Mini International Neuropsychiatric Interview to confirm the diagnosis of <dis>mental disorder</dis>. 
+The current diagnosis registered in the DRAGO-AP electronic medical record was also recorded.
+
+Results.
+Of the 75 patients detected with the interview, 14 (18.67%) had a diagnosis recorded in the medical record (sensitivity=0.19; IC 95% CI; 0.09-28). 
+The positive predictive value of being in the medical record was 0.56.
+
+With respect to sensitivity, only the “number of visits made to the health centre in the last 3 months” was significantly higher in the group of patients also with a diagnosis of any <dis>mental disorder</dis> in the medical record (5 vs. 2.77; p=.002).
+
+Conclusions.
+There is an important underdiagnosis of the <dis>mental disorders</dis> in our environment. 
+More visits to the health centre are associated with this diagnosis.

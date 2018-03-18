@@ -1,0 +1,16 @@
+Abstract
+ Objective
+To determine the prospective validity of Test Your Memory (TYM) and its sensitivity to change in cognitive state.
+Methods
+This longitudinal prospective study followed 71 patients with subjective cognitive symptoms and 48 with mild cognitive impairment for a mean time period of 35.2 ± 15 months.
+Subjects did not have dementia or depression at the beginning of follow-up and each participant was given the TYM at least two times.
+A psychometric threshold was established to determine presence of a cognitive deficit (z-score ≤ 1.5 on at least one cognitive domain) and the Disability Assessment for Dementia scale was used to ensure full functional ability.
+The criterion for deterioration was a change in the stage on the Global Deterioration Scale.
+Results
+Sixty-one patients remained cognitively stable and 58 worsened.
+There were no differences between them with respect to sex, educational attainment, the initial stage on the GDS, or the score on the first TYM.
+Subjects who worsened were older than those who did not.
+The TYM increased an average of 0.04 points per month in patients who remained stable or improved (95% CI, -0.01 to 0.08) and decreased an average of 0.14 points per month in those whose condition worsened (95% CI, -0.19 to -0.09).
+Subjects with mild cognitive impairment who worsened displayed a sharper loss of TYM points than did subjects with subjective cognitive symptoms.
+Conclusions
+While the TYM lacks prospective validity, it is sensitive to changes in cognitive state.

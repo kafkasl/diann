@@ -1,0 +1,5 @@
+Abstract
+ Pain is a prevalent symptom in cancer geriatric patients, appearing in up to 90% of patients with terminal cancer.
+This requires a multidimensional approach, as there is a high percentage of inappropriate assessments and treatments.
+Unrecognized or poorly treated pain in the geriatric population, especially in cancer patients, leads to the development of disabling symptoms such as depression, anxiety, isolation, <dis>sleep disturbances</dis>, and appetite, and very especially, <dis>loss of functional capacity and quality of life</dis>.
+In this review an analysis is made on the most relevant studies on the diagnosis and management of cancer pain in the geriatric population.

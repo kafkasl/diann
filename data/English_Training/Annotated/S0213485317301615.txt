@@ -1,0 +1,14 @@
+Introduction
+This paper analyses the correlations between scores on scales assessing impairment, psychological distress, disability, and quality of life in patients with <dis>peripheral facial palsy</dis> (<dis>PFP</dis>).
+Material and methods
+We conducted a retrospective cross-sectional study including 30 patients in whom <dis>PFP</dis> had not resolved completely. 
+We used tools for assessing impairment (Sunnybrook Facial Grading System [FGS]), psychological distress (Hospital Anxiety and Depression Scale [HADS]), disability (Facial Disability Index [FDI]), and quality of life (Facial Clinimetric Evaluation [FaCE] scale).
+Results
+We found no correlations between FGS and HADS scores, or between FGS and FDI social function scores. 
+However, we did find a correlation between FGS and FDI physical function scores (r=0.54; P<.01), FDI total score (r=0.4; P<.05), FaCE total scores (ρ=0.66; P<.01), and FaCE social function scores (ρ=0.5; P<.01). 
+We also observed a correlation between HADS Anxiety scores and FDI physical function (r=–0.47; P<.01), FDI social function (r=–0.47; P<.01), FDI total (r=–0.55; P<.01), FaCE total (ρ=–0.49; P<.01), and FaCE social scores (ρ=–0.46; P<.05). 
+Significant correlations were also found between HADS Depression scores and FDI physical function (r=–0.61; P<.01), FDI social function (r=–0.53; P<.01), FDI total (r=–0.66; P<.01), FaCE total (ρ=–0.67; P<.01), and FaCE social scores (ρ=–0.68; P<.01), between FDI physical function scores and FaCE total scores (ρ=0.87; P<.01) and FaCE social function (ρ=0.74; P<.01), between FDI social function and FaCE total (ρ=0.66; P<.01) and FaCE social function scores (ρ=0.72; P<.01), and between FDI total scores and FaCE total (ρ = 0,87; P<.01) and FaCE social function scores (ρ=0.84; P<.01).
+Conclusion
+In our sample, patients with more severe impairment displayed greater <dis>physical and global disability</dis> and poorer quality of life without significantly higher levels of <dis>social disability</dis> and psychological distress. 
+Patients with more disability experienced greater psychological distress and had a poorer quality of life. 
+Lastly, patients with more psychological distress also had a poorer quality of life.

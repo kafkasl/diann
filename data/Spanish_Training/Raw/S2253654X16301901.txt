@@ -1,0 +1,15 @@
+Resumen
+ Objetivo
+conocer la situación de los estudios de neuroimagen de Medicina Nuclear que se realizaron en España en el año 2013 y primer trimestre del 2014, con el fin de definir las actividades del grupo de trabajo de Neuroimagen de la Sociedad Española de Medicina Nuclear e Imagen Molecular (SEMNIM).
+Material y métodos
+Se diseñó un cuestionario de 14 preguntas dividido en 3 partes: características de los servicios (equipamiento y profesionales involucrados), tipo de exploraciones e indicaciones clínicas y métodos de evaluación.
+El cuestionario se remitió a los 166 servicios de Medicina Nuclear que figuraban en la secretaría de la Sociedad Española de Medicina Nuclear e Imagen Molecular.
+Resultados
+Respondieron a la encuesta un total de 54 centros distribuidos entre todas las comunidades autónomas.
+La mayoría de los centros realizaron entre 300 y 800 exploraciones de neuroimagen al año, representando más de 25 exploraciones al mes.
+La media de equipos por servicio era de 3, teniendo la mitad de ellos equipos PET/TC y SPECT/TC.
+Las exploraciones realizadas con más frecuencia son la SPECT cerebral con 123I-FP-CIT, seguida de la SPECT cerebral de perfusión y de la PET con 18F-FDG, siendo las indicaciones clínicas más frecuentes los estudios de deterioro cognitivo seguidos por los de trastornos del movimiento.
+Para la evaluación de las pruebas la mayoría de los centros utilizaron únicamente la valoración visual, en la valoración cuantitativa la cuantificación por regiones de interés fue la más utilizada.
+Conclusiones
+Los resultados reflejan cuál fue la actividad clínica del año 2013 y primer trimestre del 2014, siendo las indicaciones principales los estudios de deterioro cognitivo y trastorno del movimiento.
+La variabilidad en la evaluación de los estudios PET y la colaboración con los especialistas clínicos que demandan las exploraciones de neuroimagen de Medicina Nuclear son algunos de los retos que debemos afrontar en los próximos años.

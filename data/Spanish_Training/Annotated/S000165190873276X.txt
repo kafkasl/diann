@@ -1,0 +1,16 @@
+Introducción
+La hiperbilirrubinemia es un factor de riesgo neonatal que tiene probada asociación con la <dis>hipoacusia neurosensorial</dis>.
+Una concentración elevada de bilirrubina no conjugada pone al neonato en situación de riesgo de efectos tóxicos, entre los que se encuentra la <dis>hipoacusia</dis>.
+Objetivos
+Revisión de los resultados del cribado de neonatos con diagnóstico de hiperbilirrubinemia patológica dentro de un protocolo de detección precoz de la <dis>hipoacusia</dis> en la población basado en otoemisiones y potenciales evocados.
+Material y método
+Estudio retrospectivo de 21.590 neonatos cribados entre 2002 y 2006.
+Los criterios de selección para definir hiperbilirrubinemia patológica fueron las concentraciones de bilirrubina mayor de 14 mg/dl en el pretérmino y 20 mg/dl en el neonato a término.
+El Programa de Cribado Auditivo Neonatal Universal es un protocolo de dos fases en el que inicialmente todos los niños se someten a un test de otoemisiones acústicas transitorias (OEAT).
+A los niños que presentan factores de riesgo asociados a la neuropatía auditiva siempre se les realiza potenciales evocados auditivos de tronco cerebral (PEATC).
+Resultados
+Se identificó a 109 (0,5 %) pacientes con hiperbilirrubinemia severa en el período neonatal, 96 (88,07 %) de ellos superaron la prueba de otoemisiones en el primer intento y 13 (11,93 %) no pasaron; 11 de los 13 niños a quienes se repitió la prueba de otoemisiones la superaron.
+En los 2 niños que no superaron las otoemisiones acústicas los PEATC fueron normales; 3 (2,75 %) neonatos que pasaron la prueba de OEAT no superaron los PEATC.
+Discusión
+Los valores de hiperbilirrubinemia previamente considerados seguros pueden dañar el sistema auditivo y ocasionar problemas aislados en el procesamiento auditivo sin asociarse a otros signos del kernicterus clásico.
+Nuestros resultados indican que la neuropatía auditiva en relación con la hiperbilirrubinemia muestra cambios en los resultados audiométricos con el tiempo.

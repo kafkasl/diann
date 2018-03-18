@@ -1,0 +1,14 @@
+Resumen
+ Objetivo
+Determinar la calidad de vida (CV) de los pacientes adultos con parálisis cerebral (PC) en proceso de envejecimiento, y analizar el efecto de la función motora, los trastornos de la comunicación y la discapacidad intelectual (DI) sobre la CV.
+Material y método
+Estudio transversal en personas adultas con PC.
+Se administró un cuestionario para recoger las características sociodemográficas relacionadas con la discapacidad, y 2 escalas para evaluar el nivel de la función motora _Gross Motor Function Classification System_ (GMFCS) y de la CV (escala GENCAT).
+Análisis estadístico: se realizaron la prueba de la _t_ de Student para comparar con las puntuaciones estándar, y el análisis ANOVA para analizar la incidencia del nivel de función motora, la DI y los trastornos de comunicación .
+Resultados
+Participaron 46 pacientes (27 varones y 19 mujeres; edad: M ± DE = 50 ± 7,9).
+Presentaron niveles inferiores de CV en relaciones interpersonales, autodeterminación, inclusión social y derechos, y buenos niveles en bienestar emocional.
+No se obtuvieron efectos significativos del nivel de función motora, pero sí del grado de DI y de los trastornos de comunicación, y fueron significativas las interacciones con las dimensiones de CV.
+Conclusiones
+La CV de los adultos con PC es buena en bienestar emocional, no tanto en autodeterminación y derechos.
+El grado de afectación motora incide sobre el bienestar material y físico; el grado de DI, sobre el desarrollo personal y la autodeterminación; y los problemas de comunicación, sobre las diferentes dimensiones de CV, aunque en menor medida sobre el bienestar físico.

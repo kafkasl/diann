@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+The aim of this study was to evaluate discontinuation of quetiapine treatment in adolescents (12–18 years) in a 6-month naturalistic follow-up study and to assess the influence of distinct demographic and clinical factors on quetiapine discontinuation.
+Material and methods
+We performed a naturalistic 6-month follow-up study in 61 antipsychotic-naïve patients [39 boys (64%)] who initiated quetiapine treatment.
+The dependent variable was treatment discontinuation for any cause (continuation/discontinuation was a dichotomic variable).
+The independent variables were age, gender, race, duration of mental illness, Global Assessment of Functioning (GAF) score at treatment initiation, adverse effects in the first 16 days of treatment, the presence of involuntary movements before starting treatment, and abusive consumption or toxic dependency.
+Results
+Of the 61 patients participating in the study, 42 (68.9%) complied with quetiapine treatment for 6 months, while 19 (31.1%) discontinued the treatment (for any cause).
+The presence of Parkinson-like symptoms before starting treatment was a risk factor for discontinuation (Hazard ratio=8.3, _P_ =.007).
+Conclusions
+Continuation/discontinuation of quetiapine was influenced by the presence of motor symptoms before treatment initiation, which therefore affected the patient's overall prognosis.
+Consequently, we recommend that the presence of motor symptoms be evaluated before treatment with antipsychotic drugs is started.

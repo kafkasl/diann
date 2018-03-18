@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+The theory of mental simulation argues that we represent the mental states of other people by internally imitating them.
+Before recognizing the facial expression of emotions, we automatically simulate them.
+The motor simulation mechanism is activated by observing symbolic gestures, which activates our representations of these same actions.
+The aim was to study the relationship between motor simulation and mental simulation by evaluating praxias and the facial recognition of basic emotions, with consideration of both conceptual components and production components in the production of gestures in patients with behavioral variant frontotemporal dementia.
+Methods
+We examined 13 subjects diagnosed with behavioral variant frontotemporal dementia at the Neurology Service of HIGA Eva Perón.
+To assess the recognition of emotions, we administered recognition, selection and pairing tasks.
+In turn, we used battery praxias, and considered both content errors and temporospatial errors.
+Results
+92.3% of patients had apraxia and 61.5% showed alterations in facial emotion recognition.
+The latter correlated with five measures of praxias with a significant association between both batteries.
+Temporospatial errors correlated with emotion recognition tasks.
+Conclusions
+Based on the associations found, we suggest that there is a relationship between motor simulation and mental simulation.
+This relationship is based on the spatiotemporal component and not on the conceptual aspect of the production of gestures.

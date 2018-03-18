@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+Este estudio trata de poner a prueba la eficacia de un programa individual, delimitado y semiestructurado de reminiscencia como estrategia de intervención para la reducción de la sintomatología depresiva en personas mayores portuguesas.
+Material y métodos
+Se elabora un programa semiestructurado de reminiscencia que se desarrolla a través de 5 sesiones individuales.
+Para el análisis del impacto del programa en la sintomatología depresiva se implementa un diseño experimental en el que han participado 90 personas con más de 65 años de edad, con sintomatología depresiva, sin medicación antidepresiva y <scp><neg>sin evidencia</neg> de <dis>demencia</dis></scp>.
+Cada persona se asigna aleatoriamente a uno de los 3 grupos: _a)_ grupo experimental (sesiones de reminiscencia); _b)_ grupo control, o _c)_ grupo control-placebo (sesiones semanales de relajación).
+Mediante la Center for Epidemiologic Studies Depression Scale (CES-D) (adaptación de Gonçalves y Fagulha, 2000–2001, de la escala original desarrollada por Radloff en 1977) se realizaron evaluaciones pretest y postest de la sintomatología depresiva de todos los sujetos separadas por el mismo intervalo de tiempo.
+Resultados
+Los resultados obtenidos indican mejoras significativas en el grupo experimental en cuanto a la sintomatología depresiva (t [29]=19,70; p<0,01); el valor medio baja de 39,87 (desviación típica [DT]=7,90) a 13,60 (DT=5,14).
+En el grupo control la sintomatología depresiva tiende a agravarse (prueba de Wilcoxon [z]=−2,83; p<0,001); el valor medio sube de 30,93 (DT=7,07) a 34,10 (DT=8,76).
+En el grupo control-placebo los resultados también indican una disminución de la sintomatología depresiva (t [29]=2,52; p<0,05) de 33,967 (DT=7,37) a 30,57 (DT=9,94), aunque se trate de una diferencia con un nivel de significación inferior al del grupo experimental.
+Conclusiones
+Los resultados sugieren que la recuperación y la elaboración de los recuerdos autobiográficos positivos y negativos, la estimulación de reminiscencias instrumentales y de integración y el relato de recuerdos autobiográficos específicos y positivos, son una estrategia de intervención psicológica útil para la reducción de la sintomatología depresiva en la vejez.

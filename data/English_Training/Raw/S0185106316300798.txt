@@ -1,0 +1,15 @@
+Abstract
+ Background
+Sensorineural hearing loss (SNHL) is a clinically and genetically heterogeneous disease.
+In some populations, c.365delG mutation in the _GJB2_ gene represents the most frequent cause of hereditary SNHL.
+The great diversity of mutations in the _GJB2_ gene worldwide highlights the participation of ethnic background in SNHL.
+Objective
+To describe the presence of homozygous c.del35G mutation in the _GJB2_ gene in a Mexican family with SNHL.
+Materials and methods
+A Mexican family with SNHL was included in the study.
+Analysis of the _GJB2_ gene was performed through whole exome sequencing (WES) and DNA direct sequencing analysis in all members of the family and in 100 normal controls.
+Results
+Affected sibs showed the homozygous c.del35G mutation in the _GJB2_ gene.
+Parents of the families were heterozygous for the molecular defect and had normal audition.
+Conclusion
+We describe a homozygous c.del35G mutation in the _GJB2_ gene through WES analysis, a homozygous mutation with a very low occurrence in Mexican population.

@@ -1,0 +1,15 @@
+Objective
+To establish the validity and reliability of the Montreal Cognitive Assessment in Spanish (MoCA-S) to identify <dis>mild cognitive impairment</dis> (<dis>MCI</dis>) and <dis>dementia</dis> in the Mexican elderly population.
+Material and methods
+168 participants from a memory clinic in Mexico City were enrolled and divided into 3 groups: 59 cognitively healthy (CHG), 52 with <dis>mild cognitive impairment</dis> (<dis>MCI</dis>) (DSM-5 criteria) and 57 with <dis>dementia</dis> (NINCDS-ADRDA criteria). 
+The MoCA-S and Mini-Mental State Evaluation (MMSE) were applied at baseline and during the last months to establish intra-observer reliability. 
+ROC curves and a multinomial regression model were constructed to evaluate the effect of age and education on MoCA-S performance.
+Results
+The mean age of the participants was 76±8.1 years and the education rate was 10.7±5.2. 
+The MoCA-S scores by group were: CHG, 27.3±1.9; MCI, 22.9±2.9; and <dis>dementia</dis>, 13.7±4.9 (p<0.001). 
+The reliability of the MoCA-S was 0.89 and the intraclass correlation coefficient was 0.955. 
+Sensitivity was 80% and specificity was 75%, with a cut-off point of 26 points for <dis>MCI</dis> (area under the curve, 0.886; p<0.001). 
+For the <dis>dementia</dis> group, the sensitivity was 98% and specificity was 93%, with a cut-off point of 24points (area under the curve, 0.998; p<0.001). 
+The multinomial regression showed no association with education and age for both the <dis>MCI</dis> and <dis>dementia</dis> groups.
+Conclusions
+The MoCA-S is a valid and reliable instrument for <dis>MCI</dis> and <dis>dementia</dis> screening in the Mexican population, even after adjusting for age and education.

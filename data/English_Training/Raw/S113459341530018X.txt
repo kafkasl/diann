@@ -1,0 +1,7 @@
+Abstract
+ Antipsychotic drugs are widely used in the treatment of bipolar disorder due to their mood stabilizing, antimanic and antidepressant properties.
+Bipolar disorder has a high rate of comorbidity with other psychiatric disorders, in particular anxiety disorders, substance abuse, eating disorders, personality disorders and attention deficit disorder and hyperactivity.
+In this paper, a summary is provided of the various studies assessing antipsychotic efficacy when bipolar disorder presents another comorbid psychiatric disorder.
+In general, these drugs have proved useful for anxiety disorders (in particular generalized anxiety disorder), alcohol consumption and borderline personality disorder.
+Drugs that have been studied more commonly within this population include olanzapine, risperidone, quetiapine and aripiprazole.
+This work is intended as a guide for clinicians, to provide stronger evidence for the antipsychotic in question at the time of treating comorbid bipolar disorder.

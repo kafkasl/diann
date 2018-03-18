@@ -1,0 +1,11 @@
+Introducción
+Se han desarrollado numerosas pruebas para ayudar en el diagnóstico de la enfermedad inmunomediada del oído interno (EIOI), si bien su utilidad es motivo de controversia.
+Material y método
+Se ha revisado los estudios diagnósticos de cohortes de pacientes con sospecha de EIOI en los que se hubieran realizado diferentes tests serológicos y se ha recogido la respuesta al tratamiento inmunosupresor.
+Resultados
+Tras un análisis de 790 artículos, se ha observado una gran heterogeneidad tanto en las características clínicas de los pacientes incluidos en los estudios (<dis>sordera súbita</dis>, <dis>sordera fluctuante</dis>, <dis>sordera rápidamente progresiva</dis>, enfermedad de Ménière), los criterios de inclusión y exclusión, la dilación entre el diagnóstico y la instauración del tratamiento médico o los criterios de respuesta a éste.
+La sensibilidad y la especificidad de las pruebas se sitúan en torno a 0,5, con un intervalo muy amplio.
+Conclusiones
+El diagnóstico de la EIOI se basa en la presentación clínica y la respuesta a los corticoides.
+En este momento no hay ninguna prueba estándar para el diagnóstico de la EIOI.
+Los tests serológicos pueden apoyar el diagnóstico, pero se necesita de más estudios con un alto rigor metodológico para conocer su verdadera importancia en la práctica clínica diaria.

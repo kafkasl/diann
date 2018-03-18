@@ -1,0 +1,7 @@
+Abstract
+ Proteins belonging to the RAS/mitogen activated protein kinase (MAPK) pathway play key roles in cell proliferation, differentiation, survival, and death.
+For more than 30 years now we have known that 30% of human cancers carry somatic mutations in genes encoding proteins from this pathway.
+Whereas somatic mutations have a high malignant potential, germline mutations are linked to <dis>developmental abnormalities</dis> that are often poorly clinically differentiated, although each is dependent upon the specific gene affected.
+Thus, all patients share varying degrees of <dis>mental retardation</dis> or <dis>learning difficulties</dis>, heart disease, facial dysmorphism, skin anomalies, and, in some cases, predisposition to cancer.
+These syndromes, known as rasopathies, include Noonan syndrome, Costello syndrome, neurofibromatosis-1, LEOPARD syndrome, cardiofaciocutaneous syndrome, and Legius syndrome.
+Recognizing the skin manifestations of rasopathies can facilitate diagnosis of these syndromes.

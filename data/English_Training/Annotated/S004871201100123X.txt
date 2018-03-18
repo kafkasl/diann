@@ -1,0 +1,18 @@
+Abstract
+ Introduction
+The presence of <dis>dysphagia</dis> has been associated to dehydration, nutritional disorders, pneumonia and even death of the patient, this having an affect on the health care costs.
+There are methods to detect <dis>dysphagia</dis> early based on evaluation of the clinical signs and methods that can be used at the bedside of the patient.
+Objectives
+To determine the utility of the evaluation of the clinical signs (CS) and the volume-viscosity test (V-VST) and evaluate their efficacy to detect risk of aspiration in the acute and subacute phase of stroke.
+Patients and method
+A retrospective evaluation of a cohort of 79 stroke patients was performed.
+We compared the clinical signs and V-VST with the results observed with the videofluoroscopy (VFC).
+The variables that determine accuracy and overall value of a diagnostic method, that is, sensitivity, specificity, and positive (PPV) and negative (NPP) predictive values, were calculated.
+Results
+A sensitivity of 69% and specificity of 28.8% was obtained for the Clinical Signs to detect severe dysphagia (Aspiration).
+V-VST detected aspiration with 100% sensitivity and 13.6% specificity.
+NPP was 62.5% and 100%, respectively.
+Diagnostic accuracy was 0.38 for clinical signs and 0.48 for V-VST.
+Conclusion
+Using CS and V-VST for the evaluation of the <dis>dysphagic patient</dis> is a low-cost screening method that is easy to apply and highly sensitive.
+The V-VST offers a higher sensitivity, specificity and accuracy and makes it possible to modify the diet early and to decide whether instrumental assessment is indicated.

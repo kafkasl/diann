@@ -1,0 +1,17 @@
+Resumen
+ Objetivos
+Conocer la prevalencia de <dis>patología psiquiátrica</dis> en atención primaria en la Galicia atlántica.
+Métodos
+Se realizó un estudio observacional, descriptivo, transversal de prevalencia, en 9 consultas de A Coruña y Pontevedra, con una población de 8.293 niños, entre septiembre y noviembre del 2015.
+Se incluyó a 1.286 pacientes entre 0 y 14 años que acudieron a las consultas en unos días aleatoriamente seleccionados.
+Se registraron los siguientes datos de la historia clínica: edad, sexo, diagnóstico psiquiátrico establecido por criterios DSM-IV-TR en sus 5 ejes.
+Se determinó qué profesionales intervinieron en el diagnóstico y tratamiento del proceso y qué tipo de tratamiento recibían.
+Se obtuvo la autorización del Comité de Ética de Investigación de Galicia número 2015/427.
+Resultados
+Ciento cuarenta y ocho de los 1.286 pacientes presentaban <dis>patología psiquiátrica</dis> (11,5%, IC del 95%, 9,73-13,29), 68% varones.
+Entre los 0 y 5 años la prevalencia fue del 4,5%; entre los 6 y 10 del 18,5% y entre los 11 y 14, del 22%.
+El tiempo de duración de los síntomas tenía una mediana de 25 meses.
+Las patologías más frecuentes en los 1.286 pacientes fueron TDAH (5,36%), <dis>trastornos del lenguaje</dis> (3,42%), <dis>trastornos del aprendizaje</dis> (3,26%) trastornos ansioso-depresivos (2,4%) y <dis>trastornos de la conducta</dis> (1,87%).
+De los 148 casos, el 47% presentaba comorbilidad con otro <dis>trastorno mental</dis>; la mayoría precisó atención por múltiples profesionales del ámbito social, sanitario y educativo; un 33% recibía tratamiento psicofarmacológico.
+Conclusiones
+La prevalencia de <dis>patología psiquiátrica</dis> en pediatría de atención primaria es frecuente, crónica y compleja, aumenta con la edad y precisa muchos recursos sanitarios, educativos y sociales.

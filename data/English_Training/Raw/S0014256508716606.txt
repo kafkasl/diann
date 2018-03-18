@@ -1,0 +1,20 @@
+Objectives
+To analyze clinical, functional, mental, sociofamiliar, and evolutional characteristics of pluripathological patients (PP) in Primary Health Care setting.
+Patients and method
+Prospective, multiinstitutional cohort study in four Primary Health Care Institutions by active identification of PP from a computerized registry using the Spanish Andalusian Health Care Council criteria.
+A clinical interview was proposed to all identified patients.
+The clinical data, Barthel index (BI), Pfeiffer scale, clinical vulnerability (CV), sociofamiliar features by the Gijon scale, and 1-year admissions and mortality were analyzed.
+An univariant and multivariant analysis was performed in order to know the risk factors associated to previously described variables.
+Results
+Overall, 806 PP were detected (1.38% of the population).
+Cardiovascular categories were the most prevalent.
+A total of 662 patients (69%) were eligible for the interview.
+Median BI was 90 (0-100), and 24% of patients had severe functional impairment (BI < 60).
+Twenty-nine percent of them had been admitted to hospital at least once in the last 3 months.
+Patients with more functional impairment and CV were older, having more defining categories, especially E category.
+A total of 174 patients (37.75%) had cognitive impairment.
+This group was older, with more functional impairment, and worse sociofamiliar support.
+One-year mortality was 6.1%, and was correlated with CV and older age.
+Conclusions
+The definition of PP used selects in the Primary Care setting a population with a high level of multidimensional frailty having a high prevalence of functional, cognitive deterioration, sociofamiliar problems, CV and consumption of health care resources.
+Due to this multidimensional deterioration, it is recommendable to make an integral evaluation in the health care practice of these patients.

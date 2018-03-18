@@ -1,0 +1,17 @@
+Abstract
+ Aim
+To analyse the differences between men and women as regards the prevalence of the frailty syndrome, its association with different sociodemographic and bio- psychosocial health factors, and its impact on the level of dependence of institutionalised elderly men and women <scp>with <neg>no</neg> <dis>severe cognitive decline</dis></scp>.
+Methods
+A cross-sectional, descriptive and multicenter study was conducted in 16 nursing homes in Cuenca (Spain).
+A representative sample of 281 elderly who fulfilled the inclusion criteria was randomly selected.
+Measures: frailty following Fried's criteria, age, gender, morbidity, geriatric syndromes, level of dependence, cognitive status, mood and quality of life.
+Results
+The overall prevalence of frailty was 53.7% (60% among women).
+The following criteria were associated with frailty: age, respiratory diseases, arthritis, diabetes, sensory deficits, urinary and faecal incontinences, polypharmacy, hospitalization in the past year, <dis>functional impairment</dis>, <dis>cognitive decline</dis> and depressive symptoms.
+The states of frailty were independently associated with dependence (OR=5.1), more strongly in men (OR=7.3) than in women (OR=3.6).
+Clinical criteria of frailty that best predicted dependence were: exhaustion in women (OR=4.7) and low physical activity in men (OR=12.3).
+Conclusions
+The prevalence of frailty found among the institutionalised elderly population was greater than that expected for a general population.
+Older frail adults had poorer biological and psychosocial health results, suggesting that the physical decline is accompanied by an identity crisis.
+Frailty expresses differently in men and women.
+Women have a higher prevalence, but its impact on their dependence is less than men.

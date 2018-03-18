@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+Los sujetos con síndrome de Down (SD) tienen un riesgo aumentado de desarrollar la enfermedad de Alzheimer (EA).
+Puesto que en el SD se parte de un nivel intelectual menor que en la población general, a veces resulta difícil objetivar si existe o no, en el envejecimiento, una reducción de sus capacidades para cumplir los criterios diagnósticos de EA.
+El «Mini-Mental State Examination» (MMSE) y el «Severe Impairment Battery» (SIB) son pruebas cognitivas estandarizadas ampliamente utilizadas para detectar demencia en la población general.
+Escasos estudios han utilizado el MMSE y la SIB en sujetos con SD con sospecha de demencia.
+El objetivo del presente estudio consistió en analizar la utilidad del MMSE y la SIB en la valoración de las funciones cognitivas de sujetos con SD.
+Método: Se administró el MMSE y la SIB a 45 sujetos con SD (16 con EA y 29 sin demencia) y el cuestionario «Dementia Questionnaire for Mentally Retarded Persons» (DMR) a sus cuidadores.
+Resultados
+Los sujetos con SD y demencia mostraron una mayor alteración que los sujetos con SD sin demencia en la DMR-social y DMR-total, pero no se hallaron diferencias significativas entre ambos grupos en el rendimiento de la SIB, MMSE ni DMR-cognitivo.
+Las puntuaciones en la SIB correlacionaron significativamente con las del MMSE, DMR-total, DMR-cognitivo y DMR-social.
+El rendimiento en el MMSE correlacionó significativamente con el del DMR-total, DMR-cognitivo y SIB.
+Conclusiones
+El MMSE y la SIB son herramientas útiles para el seguimiento de las funciones cognitivas en sujetos con SD y deterioro cognitivo o demencia.

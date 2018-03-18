@@ -1,0 +1,16 @@
+Introduction
+Patients with schizophrenia sometimes internalise social stigma associated to <dis>mental illness</dis>, and they develop personal stigma. 
+Personal stigma includes self-stigma (internalisation of negative stereotypes), perceived stigma (perception of rejection), and experienced stigma (experiences of discrimination). 
+Personal stigma is linked with a poorer treatment adherence, and worst social functioning. 
+For this reason, it is important to have good measurements of personal stigma. 
+One of the most frequently used measurements is the Internalised Stigma of Mental Illness (ISMI) scale. 
+There is a Spanish version of the scale available, although its psychometric properties have not been studied. 
+The main aim of this study is to analyse the psychometric properties of a new Spanish version of the ISMI scale.
+Material and methods
+The new version was translated as Estigma Interiorizado de Enfermedad Mental (EIEM). 
+Internal consistency and test-retest reliability were calculated in a sample of 69 patients with a diagnosis of schizophrenia or schizoaffective disorder. 
+The rate of patients showing personal stigma was also studied, as well as the relationship between personal stigma and sociodemographic and clinical variables.
+Results
+The adapted version obtained good values of internal consistency and test-retest reliability, for the total score of the scale (0.91 and 0.95 respectively), as well as for the five subscales of the EIEM, except for the Stigma Resistance subscale (Cronbach's alpha 0.42).
+Conclusions
+EIEM is an appropriate measurement tool to assess personal stigma in a Spanish population with <dis>severe mental disorder</dis>, at least in those with a diagnosis of schizophrenia or schizoaffective disorder.

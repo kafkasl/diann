@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+Functional deficits are commonly observed in bipolar disorder after symptomatic remission.
+Social cognition deficits have also been reported, which could contribute to dysfunction in patients with bipolar disorder in remission.
+Material and methods
+Twelve bipolar disorder patients in symptomatic remission (7 patients with bipolar disorder type I and 5 with bipolar disorder type II) and 12 healthy controls completed the Reading the Mind in the Eyes Test and the Faux Pas Test to evaluate theory of mind (ToM).
+Both groups also completed the Functional Assessment Short Test (FAST).
+Results
+The performance of the bipolar patients in the cognitive component of ToM was below normal, although the difference between the control group was not statistically significant ( _P_ = .078), with a trend to a worse performance associated with a higher number of depressive episodes ( _P_ = .082).
+There were no statistically significant differences between groups for the emotional component of ToM.
+Global functionality was significantly lower in bipolar patients compared to the control group ( _P_ = .001).
+Significant differences were also observed between both groups in five of the six dimensions of functionality assessed.
+No significant correlation was found between functionality and theory of mind.
+Conclusions
+Bipolar patients in symptomatic remission exhibit impairments in several areas of functioning.
+Cognitive ToM appears more affected than emotional ToM.
+Deficits in ToM were not related to functional impairment.

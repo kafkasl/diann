@@ -1,0 +1,17 @@
+Abstract
+ Objectives
+To determine the prevalence of <dis>psychiatric disorders</dis> in primary care pediatrics in Atlantic Galicia.
+Methods
+An observational, descriptive, cross-sectional prevalence study was carried out in 9 outpatient clinics in A Coruña and Pontevedra with a population of 8293 children between September and November 2015.
+A total of 1286 randomly selected patients from 0 to 14 years of age were included.
+From the medical history was registered: age, sex, psychiatric diagnosis established by DSM-IV- TR criteria in its five axes, professionals who participated in the diagnosis and treatment of the process and what type of treatment was received.
+Authorization was obtained from the Research Ethics Committee of Galicia number 2015/427.
+Results
+148 of 1286 patients presented psychiatric pathology (11,5% IC 95% 9.73-13,29), 68% male.
+Between 0 and 5 years, the prevalence was 4.5%; between 6 y and 10y, 18.5% and between 11y and 14y 22%.
+Symptoms lasted a median of 25 months.
+The most frequent pathologies in 1286 patients were ADHD (5.36%), <dis>language disorders</dis> (3.42%), <dis>learning disorders</dis> (3.26%), anxiety-depressive disorders (2.4%) and <dis>behavior disorders</dis> (1.87%).
+Of the 148 cases, 47% had comorbidity with another <dis>mental disorder</dis>.
+Most of them required attention by multiple social, health and educational professionals; 33% received psychopharmacological treatment.
+Conclusions
+The prevalence of <dis>psychiatric disorders</dis> in pediatric primary care is frequent, chronic and complex, increases with age and requires many health, educational and social resources.

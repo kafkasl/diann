@@ -1,0 +1,19 @@
+Abstract
+ Introduction
+Basic emotions are biologically determined emotional states, their expression and recognition is universal and innate.
+Complex emotions arise from the combination of basic emotions and their recognition is achieved by means of Theory of Mind (ToM).
+Objective
+To investigate the presence of alterations in facial recognition of basic emotions (FRBE) and its relation to the recognition of complex emotions in a group of patients with <dis>beheavioural variant of Frontotemporal Dementia</dis> (<dis>bvFTD</dis>).
+Patients and methods
+Sixty pictures from the Pictures of Facial Affect set were selected based on Calder et al.
+(1996) selection and a three tests battery for FRBE was administrated.
+The test of complex emotions Reading the Mind in the Eyes (RME) was also administered.
+Subjects: A cohort of 14 patients diagnosed with <dis>bvFTD</dis> from Laboratorio de Deterioro Cognitivo - HIGA Eva Perón, and a control group for FRBE tasks.
+A multiple study of isolated cases was conducted.
+Results
+Significant differences between controls and patients were found for FRBE.
+RME showed correlations with the three tasks FRBE: Selection (r: .570, _P_ = .034), Mating (r: .600, _P_ = .023), and Naming (r: .770, _P_ = .001).
+Double dissociations were observed between LMO and RFEB tasks.
+Conclusions
+The presence of group-level correlations could indicate that basic emotions are involved in the formation of secondary emotions.
+However, the presence of double dissociations between tasks could indicate that its execution involves partially independent processes.

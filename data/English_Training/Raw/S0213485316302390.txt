@@ -1,0 +1,20 @@
+Objective.
+Thirty percent of the patients for whom code stroke is activated have stroke mimics, the most common being epilepsy. 
+Our purpose was to evaluate the usefulness of multiparametric CT for differentiating between seizure-related symptoms and vascular events.
+
+Material and methods.
+We conducted a retrospective observational study; data were gathered prospectively during one year. 
+We studied multiparametric CT images of patients admitted following code stroke activation and finally diagnosed with epilepsy.
+
+Results.
+The study included a total of 11 patients; 36% were men and mean age was 74.5 years. 
+Three patients had right hemisphere syndrome, 4 displayed left hemisphere syndrome, and the remaining 4 had isolated aphasia. 
+Maximum time from symptom onset to multiparametric CT study was 8.16hours. 
+Perfusion CT results were normal in 2 patients. 
+Nine patients showed longer or shorter times to peak (Tmax); cerebral blood volume (CBV) and cerebral blood flow (CBF) maps varied. 
+EEG was performed a maximum of 47.6hours after symptom onset. 
+Four patients showed findings compatible with status epilepticus, 2 displayed focal epileptiform activity, and 5 showed post-ictal slowing ipsilateral to perfusion CT abnormalities.
+
+Conclusion.
+The most sensitive parameter for differentiating between stroke and epilepsy in our series was increased time to peak in multilobar cortical locations in the absence of large-vessel occlusion and basal ganglia involvement. 
+Multiparametric CT is a fast, readily available, and useful tool for the differential diagnosis of acute-onset neurological signs of epileptic origin in patients initially attended after code stroke activation.

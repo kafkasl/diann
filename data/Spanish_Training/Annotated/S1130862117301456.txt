@@ -1,0 +1,17 @@
+Objetivo.
+Evaluar el impacto de una intervención socioeducativa para mejorar la calidad de vida en pacientes con fibromialgia.
+
+Método.
+De 132 elegibles, participaron 128 pacientes mayores de 18 años, con diagnóstico de fibromialgia (ACR 1990/2010), que <scp><neg>no</neg> tuvieron <dis>problemas cognitivos</dis> o <dis>trastornos mentales</dis> en fase aguda</scp> y pertenecieron al área de influencia de los CAP participantes. 
+Los pacientes recibieron durante 5 semanas una intervención para fortalecer la autogestión del dolor y mejorar la calidad de vida. 
+Se estudiaron las variables sociodemográficas, satisfacción y calidad de vida (SF-36). 
+Las mediciones pre-post se hicieron en los 128 participantes y el seguimiento a los 2 meses en 120 (8 no aceptaron ser contactados).
+
+Resultados.
+Al comparar las puntuaciones pre-postintervención (test no paramétrico de Wilcoxon), se encontró que el 71,09% refirió mayor percepción de la calidad de vida en el dominio Salud mental y menor porcentaje de mejoría (28,91%) en el dominio Rol físico. 
+Al comparar las puntuaciones pre-postseguimiento (prueba de Friedman), la media de percepción mejoró en todos los dominios y se mantuvo a los 2 meses de seguimiento (p<0,001). 
+Finalmente, la media de satisfacción con la intervención recibida fue de 90,55% (DE 9,86; mín. 41, máx. 100).
+
+Conclusiones.
+Al valorar el impacto de la intervención, se observó una mejora en las puntuaciones post y seguimiento. 
+Este hallazgo puede deberse a que la intervención fortalece en el paciente el autodominio de sus habilidades para controlar el dolor y mejorar la percepción de la calidad de vida.

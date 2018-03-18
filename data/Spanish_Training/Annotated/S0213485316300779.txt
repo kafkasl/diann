@@ -1,0 +1,11 @@
+Introducción.
+La enfermedad de Parkinson es un trastorno neurodegenerativo progresivo caracterizado por la pérdida de neuronas dopaminérgicas de la sustancia nigra pars compacta, promoviendo una disminución significativa en los niveles de dopamina y en consecuencia el <dis>deterioro funcional del circuito motor</dis>.
+
+Desarrollo.
+Aunque su etiología no está bien esclarecida, se han propuesto varios mecanismos patogénicos, entre ellos destaca el estrés oxidativo. 
+La terapia actual se basa en medicamentos que reemplazan la dopamina, sin embargo, no son capaces de detener o incluso ralentizar la progresión de la enfermedad. 
+En la actualidad están siendo investigados nuevos enfoques terapéuticos con la intención de influir en las vías que conducen a la disfunción y muerte neuronal.
+
+Conclusiones.
+En los últimos años, se ha evidenciado el efecto neuroprotector de moléculas naturales debido a sus propiedades antioxidantes y antiinflamatorias dentro de los cuales destacan los polifenoles, los alcaloides y las saponinas. 
+El objetivo de esta revisión es recopilar los estudios más importantes a nivel mundial que establecen las propiedades benéficas de algunos fitoquímicos utilizados en modelos in vitro de la enfermedad de Parkinson.

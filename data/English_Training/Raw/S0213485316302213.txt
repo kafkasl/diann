@@ -1,0 +1,25 @@
+Introduction.
+A considerable percentage of events initially diagnosed as ischaemic stroke have non-cerebrovascular causes; these are called stroke mimics (SM). 
+Currently available evidence about these events is heterogeneous and comes from studies with small samples.
+
+Objective.
+The purpose of our study is to identify conditions that may present as SM, define their epidemiological and clinical characteristics, and determine the percentage of cases of SM treated with intravenous fibrinolysis.
+
+Methods.
+Prospective study including all patients admitted to a tertiary university hospital between June 2005 and April 2015 with a diagnosis of acute stroke. 
+We analysed demographic data, cardiovascular risk factors, time from code stroke activation to admission, stroke severity (NIHSS), final destination after discharge, degree of disability (mRS), and treatment. 
+We compared SM and ischaemic strokes. 
+We ruled out patients with intracranial haemorrhage, subarachnoid haemorrhage, or other causes of SM that may be detected on the baseline CT scan.
+
+Results.
+Four hundred four of the 4,570 included patients (8.8%) were found to have SM. 
+Patients with SM were younger (70.3 vs. 74, P<.0001), less likely to exhibit cardiovascular risk factors and atrial fibrillation (13 vs. 34%, P<.0001), scored lower on the NIHSS at baseline (2 vs. 4, P<.0001), and included fewer cases of aphasia (9.4 vs. 19.6%, P<.02) and dysphagia (1.2 vs. 17%, P<.0001) than patients with stroke. 
+SM caused fewer code stroke activations (28 vs. 40%, P<.0001). 
+Patients with SM required shorter hospital stays (4.9 vs. 7.8 days, P<.0001), were less frequently admitted to the stroke unit (47 vs. 60%, P<.0001) and more frequently discharged home (95 vs. 62%, P<.0001), and had better outcomes (mRS scores 0-2; 76 vs. 54%, P<.0001). 
+Intravenous fibrinolysis was administered to 4.7% of these patients. 
+Epileptic seizures were the most frequent cause of SM (26%).
+
+Conclusions.
+In our sample, 8.8% of all diagnoses of ischaemic stroke were SM. 
+These events have different demographic, clinical, and prognostic characteristics; epilepsy is the most common aetiology. 
+Despite receiving specialised emergency care, 19 patients with SM (4.7%) were treated with intravenous fibrinolysis.

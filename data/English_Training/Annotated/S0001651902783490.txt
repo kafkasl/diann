@@ -1,0 +1,16 @@
+Abstract
+ Introduction
+<dis>Sensorineural deafness</dis> is a very common disorder in humans, which affects approximately 10% of the population.
+Genetic causes are suggested to be responsible for more than half of the cases.
+The A1555G mutation in the mitochondrial 12S rRNA gene and the 35delG mutation in the GJB2 gene are the most common mutations for <dis>sensorineural deafness</dis> in the Spanish population.
+Methods
+A genetic study was carried out in order to determine the frequency of the mutations A1555G in the mitochondrial DNA and 35delG in the connexin-26 gene in 21 patients from 21 non-consanguineous unrelated families affected by <dis>late- onset bilateral non-syndromic sensorineural hearing loss</dis> from Cantabria.
+Results
+The A1555G mutation was found in 6 patients.
+Five of these 6 patients had been treated with aminoglycosides.
+In all of them the <dis>auditory impairment</dis> affected mainly the high frequencies.
+The 35delG mutation was not found in any of the patients.
+Conclusions
+The A1555G mutation in the mitochondrial DNA has been found to be the most common amongst the Cantabrian population.
+The A1555G mutation should be suspected in those members of families affected by <dis>sensorineural hearing impairment</dis> with a maternal inheritance pattern and ototoxicity from treatment with aminoglycoside antibiotics.
+The 35delG mutation in the GJB2 gene does not seem to be a major cause of <dis>deafness</dis> in families with <dis>late-onset non-syndromic sensorineural hearing loss</dis> in our area.

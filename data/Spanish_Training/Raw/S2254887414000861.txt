@@ -1,0 +1,6 @@
+Resumen
+ La enfermedad de Lesch-Nyhan es una enfermedad genética considerada dentro de las enfermedades raras, caracterizada por un déficit en la función de la enzima hipoxantina-guanina fosforribosil transferasa (HPRT).
+Los pacientes afectados presentan hiperuricemia, trastornos motores, retraso mental y, en los casos más graves, automutilaciones.
+Las manifestaciones clínicas dependen de la actividad enzimática de la HPRT, que clásicamente se vincula al tipo de alteración en el gen HPRT, habiéndose encontrado más de 400 mutaciones.
+En la actualidad uno de los aspectos controvertidos de la enfermedad es la relación existente entre el genotipo y el fenotipo, habiéndose descrito casos en ausencia de mutación (como el paciente que presentamos), así como familias que, a pesar de compartir un mismo defecto genético, muestran afectaciones con distinta gravedad.
+Los procesos epigenéticos, que modifican la expresión genética sin alterar la secuencia del ácido desoxirribonucleico (ADN), podrían explicar la variabilidad clínica observada en esta enfermedad.

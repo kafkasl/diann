@@ -1,0 +1,18 @@
+Background
+Our aims were to develop a Spanish version of the short portable mental status questionnaire (SPMSQ) (Pfeiffer’s test) and to validate the resultant Spanish version of the test among a general population aged 65 years or older.
+Patients, Material And Methods
+First, we developed the Spanish version of the SPMSQ by means of a cross- cultural adaptation methodology.
+Patients were the assessed by independent teams in two sessions the same day.
+The first team (two trained psychiatrists and one trained family physician) carried out a standardised neuropsychological assessment to diagnose cognitive impairment/dementia according to ICD-10 criteria wich was regarded as the reference “gold standard” to calculate validity parameters (sensitivity and specificity).
+The second team (family physicians/nurses) assessed the presence of cognitive impairment with the Spanish version of the SPMSQ.
+Results
+255 subjects (66.7%, females) underwent the assessment.
+Mean age was 74.5 years and 65.5% of them were illiterate.
+The inter-rater reliability and test- retest reliability of the SPMSQ Spanish version were 0.738 (p < 0.001), and 0.925 (p < 0.001), respectively, with a convergent validity of 0.74 (p < 0.001) and a discriminant validity of 0.230 (p < 0.001).
+The internal consistency was high with an αvalue of 0.82.
+The area under the ROC curve was 0.89.
+Sensitivity and specificity were 85.7 and 79.3, respectively (cut-off of 3 or more).
+Conclusions
+The Spanish version of the SPMSQ test has a good reliability and validity.
+For clinical use, a cut-off of 3 appears to be most useful.
+When illiterate patients are assessed, the it is recommended to employ a cut-off of 4 or more.

@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+La ansiedad tiene efectos negativos sobre el rendimiento cognitivo y el ajuste psicosocial de las personas mayores.
+Dada la elevada prevalencia de los síntomas de ansiedad en personas con deterioro cognitivo, se ha indicado que podrían ser un marcador precoz de demencia.
+Una de las pruebas más utilizadas para valorar el nivel de ansiedad en personas mayores es el Inventario de Ansiedad Estado-Rasgo (STAI).
+No obstante, en la medida en que puede resultar una escala larga para los mayores, sería deseable contar con una versión abreviada de la misma.
+Métodos
+Se reclutó una muestra de 489 participantes mayores de 68 años cognitivamente sanos, todos ellos eran voluntarios en un proyecto de investigación longitudinal sobre la enfermedad de Alzheimer (Proyecto Vallecas).
+La muestra se subdividió en 2 grupos homogéneos: el grupo A se utilizó para reducir el número de ítems y de opciones de respuesta, y el grupo B para obtener las propiedades psicométricas de la nueva escala reducida (STAIr).
+Resultados
+Se empleó el modelo de Rasch dicotómico para obtener el STAIr.
+Las variables sociodemográficas no mostraron asociación con las puntuaciones de la nueva versión.
+Se estudiaron las propiedades psicométricas y se hallaron los datos normativos del STAIr.
+Conclusiones
+La nueva versión STAIr se compone de 13 ítems y presenta una adecuada bondad psicométrica.
+En la medida en que es una escala rápida y sencilla para las personas mayores, su aplicación resulta útil en los contextos clínico e investigador.

@@ -1,0 +1,21 @@
+Objective
+To describe the epidemiological characteristics, clinical features and prognostic indicators of pneumococcal meningitis in children admitted to a children's hospital in Madrid.
+Patients and method
+We retrospectively studied 28 children with a diagnosis of pneumococcal meningitis based on identification of S. pneumoniae in the blood or cerebrospinal fluid between 1990 and 1999.
+None of the children had previous immunological deficit or had received antipneumococ-cal vaccine.
+Results
+The mean age of patients was 2.7 ± 2.9 years (range: 2 months to 11 years).
+Eighty-two percent of the children were younger than 5 years old.
+Male to female ratio was 1:1.
+The most frequent signs on admission were fever (100%), vomiting (57%), headache and irritability (53%), and shock (10%).
+Neurologic findings were lowered level of consciousness in 22 patients (mean Glasgow Coma Scale score 9.9 ± 3.9); seizures in 15 (53%); neck stiffness in 12 patients (42%) and arreactive mydriasis in 9 patients (32%).
+Twenty patients (71%) required admission to the intensive care unit.
+On discharge 15 patients (53%) had no sequelae; 8 patients (28%) suffered <dis>deafness</dis>; 4 (14%) had <dis>hemiparesis</dis>; 2 (7%) had severe hydrocephalus and 1 patient (3.5%) had <dis>mental retardation</dis>.
+Four patients (14%) died.
+Findings with the strongest predictive value for death or <dis>deafness</dis> (p > 0.05) were coma and alterations in cranial computer tomography (CT).
+Seizures, alterations in electroencephalogram (EEG) and hypogly-corrhachia were also prognostic indicators for <dis>deafness</dis> (p < 0.05).
+Conclusions
+Meningitis caused by S. pneumoniae is a significant cause of morbidity and mortality in children.
+<dis>Deafness</dis> is one of the most common and serious sequelae of pneu-mococcal meningitis.
+Sequelae were asociated with coma, alterations in CT scan, seizures and hypoglycorrhachia.
+The new, antipneumococcal conjugated vaccine will confer effective prevention from the age of 2 months and will produce a dramatic decrease in the incidence of this serious infection.

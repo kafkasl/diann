@@ -1,0 +1,24 @@
+Introducción.
+Un porcentaje de casos diagnosticados inicialmente como infartos isquémicos son de causa no cerebrovascular o stroke mimics (SM). 
+Los datos publicados al respecto son heterogéneos y, generalmente, con cohortes pequeñas.
+
+Objetivo.
+Nuestro objetivo es establecer qué enfermedades cursan como SM, definir sus características epidemiológicas y clínicas e identificar el porcentaje de casos tratados con fibrinólisis.
+
+Métodos.
+Registro prospectivo de los eventos considerados cerebrovasculares desde junio del 2005 a abril del 2015, analizando datos demográficos, factores de riesgo cardiovascular, activación de Código Ictus e ingreso, severidad (NIHSS), destino al alta, morbilidad (mRS) y tratamiento recibido. 
+Se han comparado los ictus isquémicos con los SM. 
+Se excluyeron las hemorragias intracraneales, subaracnoideas y las causas de SM detectables en la TC inicial.
+
+Resultados.
+Sobre 4.570 casos, 404 (8,8%) son SM. 
+Los pacientes con SM son más jóvenes (70,3 vs. 74 años, p<0,0001), tienen menos factores de riesgo cardiovascular y fibrilación auricular (13 vs. 34%, p<0,0001), una menor puntuación en NIHSS (2 vs. 4, p<0,0001) y menos afasia (9,4 vs. 19,6%, p<0,02) y disfagia (1,2 vs. 17%, p<0,0001). 
+En los SM se activan menos códigos ictus (28 vs. 40%, p<0,0001) y requieren menos días de ingreso (4,9 vs. 7,8; p<0,0001) y menos ingresos en la unidad de ictus (47 vs. 60%, p<0,0001). 
+Los SM son dados de alta a domicilio con mayor frecuencia (95 vs. 62%, p<0,0001) y con menor discapacidad (mRS 0-2; 76 vs. 54%, p<0,0001). 
+Un 4,7% de los SM recibieron fibrinólisis. 
+La primera causa de SM fueron las crisis epilépticas (26%).
+
+Conclusiones.
+Los SM supusieron el 8,8% de los ingresos con diagnóstico inicial de ictus isquémico. 
+Los SM tienen características demográficas, clínicas y pronósticas diferentes, siendo la epilepsia la etiología más frecuente. 
+Pese a recibir atención urgente especializada, 19 pacientes (4,7%) fueron trataron con fibrinólisis.

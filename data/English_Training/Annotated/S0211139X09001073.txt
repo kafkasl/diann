@@ -1,0 +1,6 @@
+Abstract
+ The elderly population is currently increasing.
+In this population there is a high incidence of <dis>cognitive decline</dis> and <dis>dementia</dis>, which has a negative influence on personal life and family functioning, as well as economic and healthcare repercussions.
+The present article aims to indicate possible predictors of <dis>cognitive decline</dis> with a view to predicting this situation and intervening before the <dis>cognitive impairment</dis> is unavoidable.
+Some predictors of <dis>cognitive impairment</dis> could be the following: age, sex, education, a family history of <dis>dementia</dis>, objective and subjective difficulties with memory, several medical problems (hypertension and diabetes), <dis>sensory- motor difficulties</dis>, hypometabolism in some cerebral areas, reduced hippocampal size, carrying one or two apolipoprotein e4 alleles, a low score in cognitive tasks (especially immediate and delayed recall), deficits in associative learning and naming, low cognitive plasticity, depression, a low literacy level, poor general cognitive functioning, low participation in social activities, low physical activity, lack of social support, the use of medication and, finally, sleep-related problems.
+All of these factors could be important in predicting <dis>cognitive decline</dis> in very old age.

@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+The study of administrative prevalence from cumulative psychiatric case registers allows the mental health state of the studied region and the functioning of its Health Services to be estimated.
+Methods
+Data were extracted from the Asturias Cumulative Psychiatric Case Register (RACPAS) between January 1st 1998 and December 3rd 2010.
+Characteristics of the population of the catchment area were studied, and their relationship with the administrative prevalence was analysed.
+Results
+The mean population in the studied period was 1,078,406 inhabitants.
+The Fritz index and the Youth and replacement indices of the active population decreased throughout the period.
+There was no significant increase in the prevalence of organic mental disorders, psychosis, mood disorders, and substance use in males, or behavioural disorders associated with somatic factors and physiological dysfunctions in females.
+There were significant gender differences in the prevalence of all disorders, except for personality disorders and organic mental disorders.
+Population ageing had a significant influence on the increase in the prevalence of most mental disorders in both males and females.
+Conclusions
+A slight general increase in the administrative prevalence of mental disorders is observed during the studied period, and it was influenced by population ageing.

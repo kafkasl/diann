@@ -1,0 +1,17 @@
+Objective
+To analyse the degree of monitoring by doctors, nurses, and other health professionals of patients taking psychotropic medication.
+Design
+Retrospective, observational study of patients of both sexes and over 15 years old, who took psychotropic medication and had attended a minimum of ten times the same doctor-nurse primary care unit (PCU).
+Their monitoring during 2 year- long periods was studied: a first period (the first year after diagnosis) and a second period from October 2001 to October 2002.
+Setting
+Primary care in the Raval Sud District, Barcelona, Spain.
+Participants
+A total of 730 clinical histories were reviewed, of which 200 (27%) met inclusion criteria.
+Results
+The most common diagnosis was anxiety-depression disorder (58%), and 14.5% of patients had no recorded diagnosis.
+35.5% were patients taking more than one medicine.
+The most common drug group was the benzodiazepines (60.4%).
+Significant differences in the number of controls were found between the 2 periods and between different PCUs.
+The mean difference between periods was −0.5, with 95% CI at −1.0: clearly the degree of monitoring drops over time.
+Conclusions
+These patients’ follow-up was not monitored well, which poses the need to create clear aims and protocols for the doctor-nurse team, to thus assist the treatment of patients with <dis>mental health problems</dis>.

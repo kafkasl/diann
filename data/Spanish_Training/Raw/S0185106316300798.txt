@@ -1,0 +1,13 @@
+Resumen
+ Antecedentes
+La pérdida auditiva neurosensorial (HNS) es una enfermedad clínica y genéticamente heterogénea.
+En algunas poblaciones, la mutación c.365delG en el gen _GJB2_ representa la causa más frecuente de la HNS hereditaria.
+La gran diversidad de mutaciones presentes en el gen _GJB2_ en todo el mundo pone de relieve la participación del genotipo étnico en HNS.
+Objetivo
+Describir la presencia de la mutación homocigota c.del35G en el gen _GJB2_ en una familia mexicana con HNS.
+Materiales y métodos
+Una familia mexicana con HNS se incluyó en el estudio.
+EL análisis del gen _GJB2_ se realizó a través de la secuenciación del exoma (WES) y el análisis de la secuenciación directa del DNA en todos los miembros de la familia y en 100 controles normales Resultados Los hermanos afectados presentaron la mutación c.del35G homocigótica en el gen _GJB2_.
+Los padres de los pacientes fueron heterocigotos para el defecto molecular con una audición normal.
+Conclusión
+Se describe la mutación homocigota c.del35G en el gen _GJB2_ a través del análisis de WES, una mutación homocigota observada en una muy baja incidencia en la población mexicana.

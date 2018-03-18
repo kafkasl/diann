@@ -1,0 +1,22 @@
+Abstract
+ Background and objetive
+Brain creatine (Cr) deficiencies are a group of inborn errors of metabolism that are characterized by an absence or severe reduction of brain Cr.
+Clinically, these patients can display <dis>psychomotor/mental retardation</dis> and <dis>language disorders</dis>, commonly associated with epilepsy or <dis>movement disorders</dis>.
+Three metabolic defects are known: two affect synthesis – guanidinoacetate metiltransferase (GAMT) and glycine amidinotransferase (AGAT) deficiencies– and one affect the Cr transporter (CRTR).
+We present the first three Spanish patients with GAMT deficiency, and we compare their clinical phenotype and treatment response with other published cases.
+Patients and method
+The three patients presented <dis>mental retardation</dis>, epilepsy and <dis>autistic behaviour</dis>.
+Patient 1 also had severe chorea.
+Diagnosis was done by biochemical and genetic procedures (guanidinoacetate quantification, determination of GAMT activity and mutation analysis in the GAMT gene).
+Results
+An increase of guanidinoacetate was detected in urine and plasma.
+Brain magnetic resonance spectroscopy revealed low Cr levels.
+Enzymatic studies revealed a decreased GAMT activity in fibroblasts.
+Molecular analysis detected pathogenic mutations in the GAMT gene.
+After the deficiency was confirmed, the patients started treatment with Cr.
+In addition, patient 2 and 3 received an arginine-restricted diet and ornithine supplements.
+All them showed a partial improvement.
+Conclusions
+Patients with GAMT deficiency have an unspecific but relatively constant clinical presentation.
+Brain Cr deficiency should be considered in patients with <dis>mental retardation</dis> of unknown aetiology, specially in those with <dis>movement disorders</dis> or epilepsy.
+Early diagnosis is important in cases with known treatment such as GAMT deficiency.

@@ -1,0 +1,20 @@
+Introducción.
+El ictus constituye la primera causa de discapacidad en el adulto y la segunda de mortalidad, siendo más frecuente en pacientes ancianos. 
+El objetivo de este trabajo es conocer la evolución funcional al año de todos los pacientes mayores de 85 años que fueron valorados por el Servicio de Rehabilitación tras ingresar por un ictus en nuestro hospital durante el año 2014.
+
+Material y métodos.
+Estudio prospectivo longitudinal, observacional realizado en 41 pacientes. 
+Se analizaron: datos sociodemográficos, características clínicas del ictus, situación neurológica al ingreso (NIHSS), situación funcional (Índice Barthel, Escala Rankin) y capacidad de marcha, al ingreso, al alta de rehabilitación y al año.
+
+Todos los análisis estadísticos se realizaron mediante el IBM SPSS Statistics 19 para Windows y se fijó como valor de significación estadística 0,05.
+
+Resultados.
+La edad media fue 88,6 años (85-97), 56% mujeres. 
+El valor medio del NIHHS en la 1.a semana fue de 11,2. 
+Estancia media hospitalaria, 15 días. 
+El Índice de Barthel previo al ictus fue de 80,6 y el Rankin 1,51, al año del ictus, 54,5 y 2,79 respectivamente. 
+Fallecieron 18 pacientes (41,8%). 
+Los factores que influyeron de forma significativa en la recuperación funcional fueron: la mejor situación funcional previa, el NIHSS <a 10, la ausencia de fibrilación auricular, la menor comorbilidad y la no afasia.
+
+Conclusión.
+Al año de haber sufrido un ictus los pacientes muy ancianos presentan una gran mortalidad y los que sobreviven tienen una pérdida funcional importante.

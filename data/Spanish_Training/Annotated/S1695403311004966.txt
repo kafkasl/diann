@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+Las ceroidolipofuscinosis neuronales (CLN) representan un grupo de enfermedades lisosomales hereditarias de herencia autosómica recesiva, de presentación más frecuente durante la niñez, caracterizadas neuropatológicamente por acumulación de lipopigmentos autofluorescentes en los lisosomas de neuronas y otras células.
+Clínicamente se presentan con <dis>pérdida de las habilidades psicomotoras adquiridas</dis>, incoordinación motora, <dis>ataxia</dis>, <dis>pérdida de la visión</dis>, cambios de conducta, convulsiones de difícil tratamiento asociadas a mioclonías y una corta expectativa de vida.
+En la actualidad, se conocen 10 formas genéticamente distintas de esta enfermedad, entre ellas la forma infantil tardía donde las manifestaciones clínicas aparecen entre el segundo y cuarto año de vida.
+El gen responsable de la enfermedad es el TPP1 ubicado en 11p15 y codifica la enzima tripeptidil peptidasa 1.
+Pacientes y métodos
+Se estandarizó la técnica para el diagnóstico enzimático de la ceroidolipofuscinosis neuronal infantil tardía a través de sangre seca en papel de filtro en 76 individuos sanos en edad preescolar y adulta de población venezolana.
+La actividad enzimática de la TPP1 fue determinada en 9 pacientes con diagnóstico clínico de ceroidolipofuscinosis infantil tardía 2 (CLN2).
+Resultados
+Seis pacientes mostraron valores de actividad muy por debajo del rango establecido (0,11-0,45 nmol/mancha) para los controles sanos en edad preescolar, confirmando el diagnostico enzimático.
+Tres de los 14 padres estudiados presentaron valores en el rango de heterocigotos.
+Conclusiones
+El diagnóstico enzimático de CLN2 a través de la determinación de la actividad enzimática de la enzima TPP1 mediante la técnica de sangre seca en papel de filtro permite un diagnóstico rápido, sencillo, económico y confiable.

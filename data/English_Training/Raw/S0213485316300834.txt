@@ -1,0 +1,17 @@
+Introduction.
+We aim to describe the use of emergency electroencephalogram (EmEEG) by the on-call neurologist when nonconvulsive status epilepticus (NCSE) is suspected, and in other indications, in a tertiary hospital.
+
+Subjects and methods.
+Observational retrospective cohort study of emergency EEG (EmEEG) recordings with 8-channel systems performed and analysed by the on-call neurologist in the emergency department and in-hospital wards between July 2013 and May 2015. 
+Variables recorded were sex, age, symptoms, first diagnosis, previous seizure and cause, previous stroke, cancer, brain computed tomography, diagnosis after EEG, treatment, patient progress, routine control EEG (rEEG), and final diagnosis. 
+We analysed frequency data, sensitivity, and specificity in the diagnosis of NCSE.
+
+Results.
+The study included 135 EEG recordings performed in 129 patients; 51.4% were men and their median age was 69 years. 
+In 112 cases (83%), doctors ruled out suspected NCSE because of altered level of consciousness in 42 (37.5%), behavioural abnormalities in 38 (33.9%), and aphasia in 32 (28.5%). 
+The EmEEG diagnosis was NCSE in 37 patients (33%), and this was confirmed in 35 (94.6%) as the final diagnosis. 
+In 3 other cases, NCSE was the diagnosis on discharge as confirmed by rEEG although the EmEEG missed this condition at first. 
+EmEEG performed to rule out NCSE showed 92.1% sensitivity, 97.2% specificity, a positive predictive value of 94.6%, and a negative predictive value of 96%.
+
+Conclusions.
+Our experience finds that, in an appropriate clinical context, EmEEG performed by the on-call neurologist is a sensitive and specific tool for diagnosing NCSE.

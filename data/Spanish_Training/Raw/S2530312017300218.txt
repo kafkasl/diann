@@ -1,0 +1,21 @@
+Resumen
+ Introducción
+La enfermedad mental se ha asociado con comportamientos violentos.
+En Colombia poco se ha estudiado la población de enfermos mentales con comportamiento criminal.
+Métodos
+Estudio descriptivo retrospectivo a partir de fuente secundaria.
+Se analizaron variables sociodemográficas, clínicas y legales de 127 pacientes inimputables.
+Se realizó análisis descriptivo de las variables cuantitativas a través de medidas de tendencia central, y para las variables cualitativas se obtuvieron frecuencias y porcentajes.
+La información se analizó con el _software_ SPSS ® versión 21.0.
+La investigación fue aprobada por el Comité de Investigación de la Universidad CES.
+Resultados
+La mediana de edad fue 34 [intervalo intercuartílico, 19] años; el 92,1% eran varones.
+El diagnóstico principal fue esquizofrenia en el 63%.
+En el momento de cometer el crimen, el 66,9% consumía alcohol y el 58,3%, drogas.
+El 29,1% tenía antecedentes delictivos y el tipo de delito más frecuente (44,1%) fue el homicidio.
+El 50,3% de las víctimas tenían algún grado de consanguinidad con el paciente.
+Discusión
+En los sujetos del estudio había más analfabetismo y menor nivel educativo que en la población general carcelaria colombiana.
+La esquizofrenia fue el principal diagnóstico y el homicidio, el delito más prevalente, lo cual coincide con la literatura que refleja que los inimputables son responsables de un 5-20% de los casos de homicidio en el mundo.
+Conclusiones
+Disminuir la brecha para el diagnóstico y el tratamiento de los trastornos mentales, especialmente la esquizofrenia, estaría entre las acciones concretas para prevenir la violencia y la conducta criminal asociada a enfermedad mental.

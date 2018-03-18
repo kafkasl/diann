@@ -1,0 +1,16 @@
+Fundamento
+Se realiza la adaptación transcultural y validación del Short Portable Mental Status Questionnaire (SPMSQ) de Pfeiffer para la detección de posible <dis>deterioro cognitivo</dis> en personas de más de 65 años.
+Pacientes y método
+Inicialmente se realizó la adaptación transcultural, obteniendo la versión española del cuestionario (SPMSQ-VE).
+En una segunda fase, el médico/enfermera de cada sujeto aplicó el cuestionario a personas mayores que acudían al centro de salud.
+De éstos, 30 fueron examinados por dos profesionales para medir la fiabilidad interobservador y cincuenta pacientes se citaron a la semana para medir la fiabilidad intraobservador.
+Posteriormente, otro investigador, de forma ciega, realizó a todos los sujetos una evaluación neuropsicológica estableciendo el diagnóstico de <dis>demencia</dis> según los criterios establecidos en la CIE-10.
+El resultado final de esta exploración fue considerado como el Patrón Oro de referencia para el cálculo de los parámetros de validez.
+Resultados
+Completaron el estudio 255 sujetos, el 66,7% mujeres y el 65,5% sin ningún grado de escolarización y con una media de edad de 74,5 años.
+La fiabilidad inter e intraobservador del SPMSQ-VE fue de 0,738 y 0,925, respectivamente, alcanzando la consistencia interna un valor de 0,82.
+La validez convergente fue del 0,74 y la discriminación del 0,23.
+El área bajo la curva ROC fue de 0,89, siendo la sensibilidad y especificidad de 85,7 y 79,3, respectivamente, para un punto de corte de 3 o más errores, observándose variaciones según nivel de escolarización y edad.
+Conclusiones
+Los parámetros de la adaptación transcultural realizada han demostrado ser aceptables y similares a los del cuestionario en su versión original.
+El punto de corte que parece más recomendable para el SPMSQ-VE sería de 3 o más errores, en el caso de personas que al menos sepan leer y escribir, y de 4 o más para los analfabetos.

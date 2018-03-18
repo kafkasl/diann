@@ -1,0 +1,22 @@
+Objetivo.
+Identificar factores predictores de hiperfrecuentación en Atención Primaria (AP) en una muestra de pacientes hiperfrecuentadores (HF) en servicios de urgencias hospitalarios (SUH).
+
+Diseño.
+Estudio observacional retrospectivo multicéntrico.
+
+Participantes.
+Se seleccionaron pacientes mayores de 14 años HF en el SUH entre el 1 de enero y el 31 de diciembre de 2013. 
+Emplazamiento: se reclutaron pacientes atendidos en los SUH de 17 hospitales públicos de la Comunidad de Madrid.
+
+Método.
+Se recogieron variables relativas a la visita índice del SUH. 
+Se analizó la muestra en función de ser o no HF en AP. 
+Se considera HF al paciente que realizó al menos 10 visitas en cada nivel asistencial durante un año.
+
+Resultados.
+Se incluyeron 1.284 pacientes HF en SUH. 
+Se analizaron 423 (32,9%) HF en AP con 16 visitas (RIC 12-25) frente a 861 (67,1%) pacientes no HF en AP con 4 visitas (RIC 2-6). 
+Factores independientes predictores de HF en AP fueron la edad>65 años (OR: 1,51; IC 95%: 1,07-2,13; p=0,019), el deterioro cognitivo (OR: 1,63; IC 95%: 1,01-2,65; p=0,049), el número de fármacos ≥3 (OR: 1,56; IC 95%: 1,06-2,30; p=0,025) y vivir en la comunidad frente a vivir institucionalizado o en la calle (OR: 3,05; IC 95%: 1,14-8,16; p=0,026).
+
+Conclusiones.
+En una muestra de pacientes HF en los SUH, el hecho de ser mayor de 65 años, tomar 3o más fármacos, presentar deterioro cognitivo y vivir en la comunidad se consideran factores predictores de ser HF también en AP.

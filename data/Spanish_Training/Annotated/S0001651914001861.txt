@@ -1,0 +1,9 @@
+Resumen
+ La <dis>hipoacusia neurosensorial</dis> es un problema que se debe principalmente a la pérdida de células ciliadas cocleares, con la consecuente desaferenciación de las neuronas del ganglio espiral.
+En los humanos no existe regeneración celular endógena en el oído interno, ni una terapia exógena que permita la sustitución de las células dañadas.
+El tratamiento actual se basa en las prótesis auditivas y los implantes cocleares.
+Estos dispositivos presentan resultados variables entre pacientes, con limitaciones en la discriminación auditiva y una vida útil limitada.
+La tecnología, cada vez más avanzada, está limitada por la capacidad funcional de las neuronas restantes del ganglio espiral.
+Las terapias emergentes, con células madre y reprogramación celular, han desarrollado varias posibilidades para inducir la regeneración endógena o para trasplantar células madre que puedan sustituir las células dañadas y restaurar la función auditiva.
+El conocimiento de la biología celular y molecular del oído interno y su desarrollo embrionario permite plantear el uso de células madre inducidas como modelos _in vitro_ de enfermedad y terapia celular sustitutiva.
+La investigación traslacional en la <dis>hipoacusia neurosensorial</dis> está orientada al desarrollo de una terapia celular con aplicación clínica para el tratamiento de la <dis>hipoacusia neurosensorial profunda</dis>.

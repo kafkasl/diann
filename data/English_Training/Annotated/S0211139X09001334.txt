@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+This study analyzed the effectiveness of an individual, delimited, semi- structured reminiscence program as an intervention strategy to reduce depressive symptomatology in a population of Portuguese old people.
+Material and methods
+A semi-structured reminiscence program was developed in 5 individual sessions.
+The program's impact on depressive symptomatology was tested in 90 subjects aged over 65 years with depressive symptoms, no antidepressive medication, and <scp><neg>no</neg> signs of <dis>dementia</dis></scp>.
+In a randomized experimental design, participants were assigned to one of 3 groups: _a)_ experimental group (exposed to the program); _b)_ control group, or _c)_ placebo-control group (with weekly relaxation sessions).
+Pre and post-test score differences in Center for Epidemiologic Studies Depression Scale (CES-D) (adapted by Gonçalves and Fagulha, 2000-2001, from the original developed by Radloff, 1977), were analyzed in all participants at the same time intervals.
+Results
+In the experimental group, significant improvements were found in depressive symptomatology (t [29]=19.70, _p_ <0.01); the mean values decreased from 39.87 (standard deviation [SD]=7.90) to 13.60 (SD=5.14).
+In the control group, a significant increase in depressive symptomatology was observed (z=−2.83; _p_ <0.001); the mean values rose from 30.93 (SD=7.07) to 34.10 (SD=8.76).
+In the placebo-control group, depressive symptomatology was reduced (t [29]=2,52; _p_ <0.05) from 33.967 (SD=7.37) to 30.57 (SD=9.94), although the difference was less significant than that observed in the experimental group.
+Conclusions
+The results suggest that elaboration of positive and negative autobiographical memories, stimulation of instrumental and integrative reminiscences and narration of specific and positive autobiographical memories using the reminiscence program, as designed and analyzed in this study, may be a tool for psychological intervention to reduce depressive symptomatology in old age.

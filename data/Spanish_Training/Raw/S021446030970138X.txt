@@ -1,0 +1,8 @@
+Resumen
+ El Estudio Longitudinal Donostia ha investigado el efecto de las intervenciones de tipo no farmacológico en personas mayores sin deterioro cognitivo, con deterioro cognitivo leve y con demencia.
+El presente trabajo se deriva de dicho estudio y pretende profundizar en el perfil lingüístico de las personas participantes, así como realizar una primera aproximación empírica al efecto de una intervención de tipo multicomponente en variables de tipo lingüístico.
+Para ello se ha contado con una muestra de 395 sujetos distribuidos entre los estadios 1 y 4 de la Global Deterioration Scale (GDS).
+Se han realizado tres grupos por cada estadio: uno de ellos siguió una intervención de acuerdo a un modelo de deterioro por estadios, el segundo realizó tareas de estimulación sin ningún modelo prefijado y el tercero no recibió ningún tipo de intervención.
+Los resultados muestran un mejor rendimiento en los participantes con GDS 1 y 2 respecto a aquellos que presentan deterioro cognitivo.
+Entre GDS 3 y 4, se producen diferencias en vocabulario, escritura y fluidez semántica, pero no en comprensión auditiva, comprensión escrita y fluidez fonológica.
+Respecto al efecto de la intervención estimulativa, se observa una mejora en las variables que miden procesos léxicofonológicos en aquéllos participantes que no presentan deterioro cognitivo.

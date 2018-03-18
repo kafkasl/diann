@@ -1,0 +1,15 @@
+Resumen
+ Introducción
+Se analizaron los datos españoles relacionados con los <dis>trastornos neurológicos, mentales</dis> y por consumo de sustancias procedentes del estudio Global Burden of Diseases (GBD 2010), Injuries and Risk Factors.
+Materiales y métodos
+Se calcularon los años de vida ajustados por discapacidad (AVAD), que son el resultado de la combinación de los años de vida perdidos por mortalidad prematura (AVP) y los años vividos con discapacidad (AVD).
+Los AVAD se ajustaron por comorbilidad y se estimaron con intervalos de confianza del 95%.
+Resultados
+La carga de los <dis>trastornos neuropsiquiátricos</dis> supuso el 18,4% del total de AVAD generados en España en 2010.
+Dentro de este grupo, las 5 causas principales de AVAD fueron: depresión, enfermedad de Alzheimer, migrañas, trastornos por consumo de sustancias y trastornos de ansiedad, que representaron el 70,9% del total de los <dis>trastornos neuropsiquiátricos</dis>.
+Los trastornos neurológicos supusieron el 5,03% del total de AVP, mientras que los <dis>trastornos mentales y por consumo de sustancias</dis> representaron el 0,8%.
+Los <dis>trastornos mentales y por consumo de sustancias</dis> constituyeron el 22,4% del total de AVD, siendo la depresión la enfermedad más incapacitante.
+Por otra parte, los trastornos neurológicos sumaron el 8,3% del total de AVD.
+Conclusiones
+Los <dis>trastornos neuropsiquiátricos</dis> fueron en España una de las principales causas de discapacidad en 2010.
+Este estudio contribuye al entendimiento de la carga que suponen dichos trastornos en la población española y pone de manifiesto la necesidad de dar prioridad a los <dis>trastornos neuropsiquiátricos</dis> en la sanidad pública española.

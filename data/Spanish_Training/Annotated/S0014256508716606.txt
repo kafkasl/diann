@@ -1,0 +1,17 @@
+Objetivos
+Analizar las características clínicas, funcionales, mentales, sociofamiliares y evolutivas de los pacientes pluripatológicos (PP) en Atención Primaria (AP).
+Pacientes y método
+Estudio prospectivo multicéntrico de cuatro Centros de Salud mediante identificación activa de PP desde la historia informatizada, según los criterios de la Consejería de Salud de la Junta de Andalucía.
+A todos los pacientes se les propuso una entrevista, en la que se analizaron datos clínicos, el índice de Barthel (IB), la escala de Pfeiffer, la vulnerabilidad clínica (VC) y la escala de Gijón, así como la mortalidad y las hospitalizaciones tras un año de seguimiento.
+Posteriormente se realizó un análisis univariante y multivariante de los factores asociados a dichas variables.
+Resultados
+Los PP identificados fueron 806 (1,38% de la población) y las categorías más prevalentes fueron las de daño vascular.
+Fueron elegibles para hacer la entrevista un total de 662 (69%) pacientes.
+La mediana del IB fue 90 (0-100) y un 24% presentó un IB < 60\.
+Un 29,1% había tenido al menos un ingreso en los últimos 3 meses.
+Los PP con mayor <dis>deterioro funcional</dis> y VC fueron los de mayor edad, mayor número de categorías y los que tenían la categoría E.
+Un total de 174 (37,75%) pacientes presentó <dis>deterioro cognitivo</dis> y este grupo se caracterizó por tener mayor edad, mayor <dis>deterioro funcional</dis> y peor soporte familiar.
+La mortalidad al año fue del 6,1% y se relacionó con la VC y con la edad.
+Conclusiones
+La definición de PP utilizada selecciona en AP a una población frágil con una alta prevalencia de <dis>deterioro funcional, cognitivo</dis>, problemas sociofamiliares, VC y consumo de recursos sanitarios.
+Este deterioro multidimensional hace aconsejable la realización de una valoración integral en la práctica asistencial de estos pacientes.

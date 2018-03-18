@@ -1,0 +1,19 @@
+Resumen
+ Fundamento y objetivo
+Los síndromes de deficiencia cerebral de creatina (Cr) constituyen un grupo de enfermedades neurometabólicas caracterizadas por deficiencia o ausencia de Cr en el cerebro.
+Cursan con retraso del desarrollo/mental y trastornos del lenguaje, y puede asociarse a epilepsia o a trastornos del movimiento.
+Se conocen 3 defectos: 2 de la síntesis —deficiencia de guanidinoacetato metiltransferasa (GAMT) y argininaglicina amidinotransferasa (AGAT)— y uno del transporte (CRTR).
+En este trabajo presentamos los 3 primeros pacientes españoles con deficiencia de GAMT y comparamos su fenotipo clínico y respuesta al tratamiento con otros casos publicados.
+Pacientes y método
+Los pacientes presentan retraso mental, epilepsia y conducta autista.
+La paciente 1 asocia corea grave.
+El diagnóstico se realizó mediante estudios bioquímicos para cuantificar metabolitos específicos y actividad enzimática y genéticos del gen _GAMT_.
+Resultados
+En orina y plasma se detectó aumento de guanidinoacetato.
+La resonancia magnética con espectroscopia reveló reducción marcada de Cr cerebral.
+Los estudios enzimáticos mostraron disminución de la actividad GAMT en fibroblastos y el estudio molecular reveló mutaciones en el gen _GAMT_.
+Tras el diagnóstico, se inició tratamiento con suplemento de Cr, y se asoció en los pacientes 2 y 3 una dieta restringida en arginina y suplemento de ornitina, con mejoría parcial.
+Conclusiones
+Los pacientes con deficiencia de GAMT presentan un fenotipo inespecífico pero relativamente constante.
+Deben buscarse los síndromes de deficiencia cerebral de Cr en pacientes con retraso mental/psicomotor de etiología desconocida, especialmente si se acompañan de trastornos del movimiento y epilepsia.
+Es importante el diagnóstico precoz en casos tratables como la deficiencia de GAMT.

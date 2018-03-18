@@ -1,0 +1,16 @@
+Abstract
+ Background
+Cigarette smoking is a modifiable risk factor for cognitive impairment, while the relationship between current smoking and cognitive impairment is not fully understood.
+The objectives were to identify a possible association between current smoking and cognitive impairment depending on age in the Chinese rural population.
+Methods
+Data for the study consisted of 1782 participants (40 years and older) who lived in a rural village in the vicinity of Xi’an, China.
+Data about smoking history and cognitive function were collected.
+Cognitive function was scored by the Mini-Mental State Examination.
+The effect of age on the relationship between current smoking and cognitive impairment was analyzed with interaction and stratified analysis by logistic regression models.
+Results
+Interaction analysis showed that current smoking is positively related with cognitive impairment (odds ratio [OR] = 9.067; 95% confidence interval [95% CI] 1.305–62.979; _P_ = 0.026).
+However, the interaction term, age by current smoking, is negatively related with cognitive impairment (OR = 0.969; 95%CI 0.939–0.999; _P_ = 0.045).
+Stratified logistic regression showed that in the 40–65 years of age sublayer, OR of current smoking is 1.966 ( _P_ = 0.044), whereas in the >65 years of age sublayer, the OR is 0.470 ( _P_ = 0.130).
+This means that the association between current smoking and cognitive impairment with age might be positive (OR > 1) in lower age sublayers, but no significant difference in higher age sublayers.
+Conclusions
+In conclusion, current smoking might be positively associated with cognitive impairment in the middle-aged but the relationship declines with increasing age.

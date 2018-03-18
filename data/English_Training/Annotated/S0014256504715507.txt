@@ -1,0 +1,20 @@
+Basis
+.
+To describe the evolution and results of the rehabilitation of elderly disabled cared in an average stay geriatric unit, and to define the factors associated with functional improvement and post-discharge institutionalization.
+Patients and method
+.
+Observational longitudinal study in 459 patients with <dis>functional disability</dis> consecutively hospitalized between May 2000 and December 2001.
+Basal variables collected included the clinical, functional, mental, and sociodemographic manifestations previous to the admission.
+The favorable functional response (defined as a functional gain during the admission of ≥ 20 points in the Barthel index) and the post-discharge institutionalization were regarded the main result variables.
+Results
+.
+The average age of patients was 80.56 (SD:± 7.45) years, 64.9% were women and 81% came from acute hospital units; the main cause of disability was stroke (48.5%) followed by orthopedic pathology (26.2%) and immobility for different causes (23.5%).
+72.5% of patients get functional improvement and 16.4% were institutionalized after the discharge.
+The main independent risk factors for poor functional response found in the multivariate analysis were a scoring in Pfeiffer's cognitive test of 5-7 points (OR: 0.42; 95% CI: 0,22-0.78) and ≥ 8 (OR: 0.29; 95% CI: 0.12-0.71), and a scoring in Barthel's index < 60 prior to the deterioration (OR: 0.36; 95% CI: 0.14-0.93).
+Independent risk factors for institutionalization after the discharge were age (OR: 1.06; 95% CI: 1.01-1.12), and a scoring in the Gijon's sociofamiliar scale ≥ 9 (OR: 6.83; 95% CI: 1.91-24.47).
+A <dis>functional disability</dis> after the discharge in the Barthel's index < 40 also was independently associated to post-discharge institutionalization (OR: 3,07; 95% CI: 1.04-10.06).
+Conclusions
+.
+Most of elderly with recent disability benefit functionally from care in specific hospital geriatric units.
+<dis>Moderate or severe cognitive deterioration</dis> after hospitalization is associated to lower recovery probability.
+Very advanced age, higher social precariousness and severe disability after discharge are associated with higher risk of institutionalization.

@@ -1,0 +1,15 @@
+Resumen
+ Antecedentes
+El consumo de tabaco es un factor de riesgo modificable para el <dis>deterioro cognitivo</dis>, no entendiéndose plenamente la relación entre dichas situaciones.
+El objetivo de este trabajo fue identificar la posible asociación entre el consumo actual de tabaco y el <dis>deterioro cognitivo</dis>, dependiendo de la edad, en la población rural de China.
+Métodos
+El estudio incluyó a 1.782 participantes (de 40 años de edad o más) que vivían en un pueblo rural de las cercanías de Xi’an (China).
+Se recogieron datos acerca del historial de consumo de tabaco y la función cognitiva.
+La función cognitiva se puntuó mediante la escala _Mini-Mental State Examination._ El efecto de la edad en la relación entre el consumo de tabaco actual y el <dis>deterioro cognitivo</dis> se analizó mediante análisis de interacción y estratificación, utilizando modelos de regresión logística.
+Resultados
+El análisis de interacción reflejó que el consumo de tabaco actual guarda una relación positiva con el <dis>deterioro cognitivo</dis> ( _odds ratio_ [OR] = 9,067; intervalo de confianza del 95% [IC 95%] 1,3056-2,979; p = 0,026).
+Sin embargo, el plazo de interacción y la edad del tabaquismo actual guardan una relación negativa con el <dis>deterioro cognitivo</dis> (OR = 0,969; IC 95% 0,939-0,999; p = 0,045).
+La regresión logística estratificada reflejó que en el subestrato de 40 a 65 años, la OR del tabaquismo actual es de 1,966 (p = 0,044), mientras que en el subestrato > 65 años, la OR es de 0,470 (p = 0,130).
+Esto significa que la asociación entre el tabaquismo actual y el <dis>deterioro cognitivo</dis> con la edad podría ser positiva (OR > 1) en los subestratos de menor edad, aunque no existe una diferencia significativa en subestratos de mayor edad.
+Conclusiones
+En conclusión, el tabaquismo actual podría estar positivamente asociado al <dis>deterioro cognitivo</dis> en la edad mediana, aunque dicha relación disminuye con el incremento de la edad.

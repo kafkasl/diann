@@ -1,0 +1,19 @@
+Background and objective
+<dis>Alternating hemiplegia of childhood</dis> (<dis>AHC</dis>) is a rare disease of unknown etiology characterized by early onset of recurrent episodes of <dis>hemiplegia</dis>, tonic or dystonic attacks and abnormal ocular movements with a fatal outcome to severe encephalopathy.
+Our aim was to describe the clinical manifestations, precipitating factors, complementary studies results, long-term outcome and response to treatment in a series of <dis>AHC</dis> patients.
+Patients and method
+Descriptive, retrospective and multicenter study in 17 Spanish patients aged between 1-24 years who fulfilled diagnostic criteria of <dis>AHC</dis>.
+Results
+12 cases fulfilled criteria of <dis>typical AHC</dis> and 5 were atypical.
+Mean age at diagnosis was 26 months.
+47% cases had a family history of migraine.
+Mean age at onset of hemiplegic attacks was 9.6 months.
+Symptoms disappeared during sleep and precipitating factors were present in 94% cases.
+Most patients developed <dis>mental retardation</dis> with <dis>ataxia</dis> and <dis>dysarthria</dis>.
+Work-up tests (metabolic, neurophysiologic and radiologic) were normal or nonspecific.
+In 3 patients mutations in _CACNA1A, ATP1A2_ were ruled out.
+Positive responses to flunarizine was observed in 81%.
+Conclusions
+The characteristic clinical symptoms are still the clue to make the diagnosis of this mysterious disease, with a lack of genetic, biochemical or radiological specific studies.
+Early diagnosis avoids invasive tests, repeating procedures, using ineffective and potentially toxic treatments, and allows to start treatment with flunarizine without delay.
+More genetic studies are needed in broader series of patients.

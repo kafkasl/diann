@@ -1,0 +1,5 @@
+Abstract
+ 3q29 microduplication (MIM 611936) is rare syndrome characterized by moderate mental retardation, craniofacial dysmorphic features and musculoskeletal anomalies.
+The size of the minimal critical region is about 1.73 Mb.
+It is flanked by repetitive sequences and it is similar in size to the reciprocal 3q29 microdeletion, suggesting a non-allelic homologous recombination event (NAHR) at flanking LCR sequences as its aetiological mechanism.
+We describe a new familial case with variable expressivity.

@@ -1,0 +1,16 @@
+Abstract
+Background
+Corpus callosum (CC) size has been associated with <dis>cognitive and emotional deficits</dis> in a range of <dis>neuropsychiatric and mood disorders</dis>.
+As such deficits are also found in suicidal behavior, we investigated specifically the association between CC atrophy and suicidal behavior.
+Methods
+We studied 435 right-handed individuals <scp><neg>without</neg> <dis>dementia</dis></scp> from a cohort of community-dwelling persons aged 65 years and over (the ESPRIT study).
+They were divided in three groups: suicide attempters (n = 21), affective control subjects (AC) (n = 180) without history of suicide attempt but with a history of depression, and healthy control subjects (HC) (n = 234).
+T1-weighted magnetic resonance images were traced to measure the midsagittal areas of the anterior, mid, and posterior CC.
+Multivariate analysis of covariance was used to compare CC areas in the 3 groups.
+Results
+Multivariate analyses adjusted for age, gender, childhood trauma, head trauma, and total brain volume showed that the area of the posterior third of CC was significantly smaller in suicide attempters than in AC ( _P_ = .020) and HC ( _P_ = .010) individuals.
+No significant differences were found between AC and HC.
+No differences were found for the anterior and mid thirds of the CC.
+Conclusions
+Our findings emphasize a reduced size of the posterior third of the CC in subjects with a history of suicide, suggesting a diminished interhemispheric connectivity and a possible role of CC in the pathophysiology of suicidal behavior.
+Further studies are needed to strengthen these results and clarify the underlying cellular changes leading to these morphometric differences.

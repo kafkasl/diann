@@ -1,0 +1,17 @@
+Objective.
+To evaluate the impact of a socio-educational intervention to improve the quality of life of patients with fibromyalgia.
+
+Method.
+Out of 132 eligible candidates, 128 patients participated with a diagnosis of fibromyalgia (ACR 1990/2010), over 18 years of age, who did <scp><neg>not</neg> have <dis>cognitive problems</dis> or <dis>mental disorders</dis> in acute phase</scp> and lived in the catchment area of the participating CAPs. 
+The patients underwent intervention for 5 weeks to strengthen self-management of pain and improve quality of life. 
+Socio-demographic variables, satisfaction and quality of life (SF-36) were studied. 
+Pre-post measurements were made on the 128 participants and follow-up at 2 months on 120 (8 did not agree to be contacted).
+
+Results.
+Comparing the pre-post-intervention scores (non-parametric Wilcoxon test), it was found that 71.09% reported a higher perception of quality of life in the Mental health domain and lower percentage of improvement (28.91%) in the Physical role domain. 
+When comparing pre-post-follow-up scores (Friedman's test), mean perception improved in all domains and remained at 2-month follow-up (P<.001). 
+Finally, the average satisfaction with the intervention received was 90.55% (SD 9.86; min. 41, max. 100).
+
+Conclusions.
+When assessing the impact of the intervention, there was an improvement in the post and follow-up scores. 
+This finding is largely due to the fact that the intervention strengthens the patient's self-mastery of their abilities to control pain and improve their perception of quality of life.

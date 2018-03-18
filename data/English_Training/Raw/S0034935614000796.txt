@@ -1,0 +1,5 @@
+Abstract
+ Friedreich ataxia (FA) is an inherited autosomal recessive disease characterized by a neurological degenerative process of the cerebellum, spinal cord, and peripheral nerves.
+FA is associated with ataxia, dysarthria, motor and sensory impairment, scoliosis, cardiomyopathy, and diabetes.
+There is a significant risk of perioperative major complications during the anesthetic management of these patients.
+We present the case of a fourteen-year-old patient with FA, who had a posterior spinal fusion and instrumentation underwent to total intravenous anesthesia.

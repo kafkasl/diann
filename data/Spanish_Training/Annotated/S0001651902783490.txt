@@ -1,0 +1,15 @@
+Resumen
+ Introducción
+La <dis>hipoacusia neurosensorial</dis> es un trastorno con una gran trascendencia social, que afecta aproximadamente al 10% de la población general.
+Se calcula que en más del 50% de los casos tiene una causa genética.
+Las dos mutaciones más frecuentemente encontradas en la población española responsables de <dis>hipoacusia neurosensorial</dis> son la mutación A1555G en el gen del RNA ribosómico 12S del genoma mitocondrial y la mutación 35delG en el gen GJB2 (conexina 26, cromosoma 13).
+Métodos
+Mediante estudio genético se ha determinado la frecuencia de las mutaciones A1555G en el ADN mitocondrial y 35delG en el gen de la conexina 26 en 21 pacientes pertenecientes a 21 familias no consanguíneas y no relacionadas entre sí, con <dis>hipoacusia neurosensorial bilateral postlocutiva no sindrómica</dis> de Cantabria.
+Resultados
+El estudio mostró la presencia de la mutación A1555G en 6 pacientes, de los cuales 5 tenían antecedentes de exposición a aminoglucósidos.
+En todos ellos la <dis>pérdida auditiva</dis> afectaba sobre todo a altas frecuencias.
+No se detectó la mutación 35delG en ningún paciente.
+Conclusiones
+La mutación A1555G del ADN mitocondrial es frecuente en la población de Cantabria.
+Debe sospecharse esta mutación y evitar la administración de aminoglucósidos en pacientes pertenecientes a familias con transmisión materna de la <dis>hipoacusia</dis> y con presencia de miembros con <dis>sordera</dis> inducida por estos fármacos.
+La mutación 35delG en el gen GJB2 no parece constituir una causa frecuente en casos familiares de <dis>hipoacusia neurosensorial no sindrómica de manifestación postlocutiva</dis> en nuestro medio.

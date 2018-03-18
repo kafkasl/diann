@@ -1,0 +1,20 @@
+Fundamento
+.
+Describir la evolución y resultados de la rehabilitación de ancianos incapacitados atendidos en una unidad geriátrica de media estancia y conocer los factores asociados a mejoría funcional e institucionalización al alta.
+Pacientes y metodo
+.
+Estudio longitudinal observacional de 459 pacientes ingresados consecutivamente entre mayo de 2000 y diciembre de 2001 con <dis>incapacidad funcional</dis>.
+Como variables basales se recogieron las características clínicas, funcionales, mentales y sociodemográficas previas y al ingreso.
+Como variables principales del resultado se consideraron la respuesta funcional favorable (definida como una ganancia funcional durante el ingreso de ≥ 20 puntos en el índice de Barthel) y la institucionalización al alta.
+Resultados
+.
+La edad media de los pacientes fue de 80,56 (DS: ± 7,45) años; 64,9% fueron mujeres; el 81% procedían de unidades de hospitalización aguda, siendo la principal causa de incapacidad ictus (48,5%) seguida de patología ortopédica (26,2%) e inmovilismo por diferentes causas (23,5%).
+El 72,5% obtuvieron mejoría funcional y el 16,4% fueron institucionalizados al alta.
+Como principal factor de riesgo independiente de mala respuesta funcional se objetivaron en el análisis multivariante una puntuación de la prueba cognitiva de Pfeiffer de 5-7 puntos (OR: 0,42; IC 95%: 0,22-0,78) y ≥ 8 (OR: 0,29; IC 95%: 0,12-0,71) y una puntuación en índice de Barthel< 60 previo al deterioro (OR: 0,36; IC 95%: 0,14-0,93).
+Factores de riesgo independientes de institucionalización al alta fueron la edad (OR: 1,06; IC 95%: 1,01-1,12) y puntuación en la escala sociofamiliar de Gijon de ≥ 9 (OR: 6,83; OR: 1,91-24,47).
+Una <dis>incapacidad funcional</dis> al alta en el indice de Barthel < 40 también se asoció de forma independiente a la institucionalización al alta (OR: 3,07; IC 95%: 1,04-10,06).
+Conclusiones
+.
+Los ancianos con incapacidad reciente en su mayoría se benefician funcionalmente del tratamiento en unidades geriátricas hospitalarias específicas.
+La presencia de <dis>deterioro cognitivo</dis> al ingreso moderado o severo se asocia con menor probabilidad de recuperación.
+La presencia de edad muy avanzada, mayor precariedad social e incapacidad severa al alta se asocian con mayor riesgo de institucionalización.

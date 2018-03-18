@@ -1,0 +1,19 @@
+Resumen
+ Introducción
+Algunos fármacos resultan inconvenientes en pacientes con <dis>deterioro cognitivo</dis>.
+Se analiza su uso en 500 pacientes y se revisa la bibliografía.
+Desarrollo
+Las benzodiacepinas producen dependencia y reducen la atención, memoria y agilidad motora.
+Pueden inducir desinhibición o agresividad, facilitan los episodios confusionales e incrementan los accidentes y la mortalidad en mayores de 60 años.
+En mayores de 65, la presión sistólica baja se asocia a <dis>deterioro cognitivo</dis>.
+Es recomendable mantenerla en 130-140 mmHg (145 en ≥ 80 años).
+La colesterolemia < 160 mg/dl se asocia a mayor morbimortalidad, agresividad y suicidio, y el colesterol unido a las lipoproteínas de alta densidad (c-HDL) < 40 mg/dl empeora la memoria y aumenta el riesgo vascular y la mortalidad.
+La edad avanzada predispone para que los opioides produzcan <dis>alteración cognitiva</dis> y confusión.
+En demencias no Alzheimer y no asociadas a Parkinson, <dis>deterioro cognitivo ligero</dis> y enfermedades psiquiátricas, los efectos adversos de anticolinesterásicos y memantina probablemente superan al beneficio.
+La <dis>alteración cognitiva</dis> por anticolinérgicos de acción preferentemente periférica también es posible.
+Hay que conocer la <dis>demencia o psicosis por corticoides</dis>, y saber que la polifarmacia facilita el síndrome confusional.
+El 70,4% de 500 pacientes con <dis>disfunción cognitiva</dis> analizados recibía polifarmacia y el 42%, benzodiacepinas.
+Los que compartían ambas situaciones representaron el 74,3% de los casos en los que se sospechó iatrogenia.
+Conclusiones
+En personas con edad avanzada o <dis>deterioro cognitivo</dis>, es necesario evitar la polifarmacia innecesaria y tener presente que las benzodiacepinas, los opioides y los anticolinérgicos producen frecuentemente <dis>alteraciones cognitivas y conductuales</dis>.
+Además, deben evitarse la presión sistólica < 130 mmHg, el colesterol < 160 mg/dl y el colesterol HDL < 40 mg/dl.

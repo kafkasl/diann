@@ -1,0 +1,18 @@
+Introducción.
+El objetivo de este trabajo es analizar la correlación entre escalas de deficiencia, afectación psicológica, discapacidad y calidad de vida en personas que han sufrido una parálisis facial periférica (PFP).
+
+Material y métodos.
+Se realizó un estudio transversal retrospectivo con 30 pacientes que habían presentado una PFP cuya resolución fue incompleta. 
+Se utilizaron cuestionarios de deficiencia (Sunnybrook Facial Grading System [FGS]), afectación psicológica (Hospital Anxiety and Depression Scale [HADS]), discapacidad (Facial Disability Index [FDI]) y calidad de vida (Facial Clinimetric Evaluation Scale [FaCE]).
+
+Resultados.
+No encontramos correlación entre FGS y HADS, ni entre FGS y FDI Social. 
+Existe correlación entre FGS y FDI Física (r=0,54; p<0,01), FDI total (r=0,4; p<0,05), FaCE total (ρ = 0,66; p<0,01) y FaCE Social (ρ = 0,5;p<0,01). 
+Observamos correlación entre HADS Ansiedad y FDI Física (r=–0,47; p<0,01), FDI Social (r=–0,47; p<0,01), FDI Total (r=–0,55; p<0,01), FaCE Total (ρ = –0,49; p<0,01) y FaCE Social (ρ = –0,46; p<0,05). 
+También entre HADS Depresión y FDI Física (r=–0,61; p<0,01), FDI Social (r=–0,53; p<0,01), FDI Total (r=–0,66; p<0,01), FaCE Total (ρ = –0,67; p<0,01) y FaCE Social (ρ = –0,68; p<0,01). 
+Encontramos correlación entre FDI Física y FaCE Total (ρ = 0,87; p<0,01) y FaCE Social (ρ = 0,74; p<0,01), FDI Social y FaCE Total (ρ = 0,66; p<0,01) y FaCE Social (ρ = 0,72; p<0,01), y FDI Total y FaCE Total (ρ = 0,87; p<0,01) y FaCE Social (ρ = 0,84; p<0,01).
+
+Conclusión.
+En nuestro grupo de estudio, los pacientes con mayor déficit presentan mayor discapacidad física y global y peor calidad de vida, aunque no mayor discapacidad social ni mayor afectación psicológica. 
+Los pacientes con mayor discapacidad presentan mayor afectación psicológica y peor calidad de vida. 
+Los pacientes con mayor afectación psicológica presentan peor calidad de vida.

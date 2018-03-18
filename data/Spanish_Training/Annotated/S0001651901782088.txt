@@ -1,0 +1,8 @@
+Resumen
+El objetivo de este trabajo fue presentar los resultados de las otoemisiones acústicas evocadas transitorias (OEAT) al utilizarlas como test de cribaje para la detección de <dis>hipoacusias</dis> en recién nacidos.
+Nosotros estudiamos 9.951 de los 11.405 recién nacidos en nuestra ciudad, desde el 1 de enero de 1995 al 31 de diciembre de 1998.
+Se realizaron OEAT a los neonatos antes del alta hospitalaria y se les repitieron a la semana si fallaron las primeras OEAT.
+Aquellos niños con sospecha de <dis>hipoacusia</dis> fueron sometidos a potenciales evocados auditivos del tronco cerebral (PEATC) a los 3 meses.
+Se consideró <dis>hipoacusia</dis> cuando no se detectó en los PEATC onda V a 20 dB.
+Ciento cincuenta y siete niños (1,5%) tuvieron déficit auditivo.
+El cribaje con OEAT fue suficientemente sensible en la identificación de <dis>hipoacusias congénitas</dis>, aumentando la eficacia de la prueba conforme mejoraba la experiencia del explorador.

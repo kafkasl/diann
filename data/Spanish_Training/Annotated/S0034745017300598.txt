@@ -1,0 +1,18 @@
+Objetivo.
+Establecer la validez y confiabilidad del Montreal Evaluación Cognitiva en Español (MoCA-E) para identificar <dis>deterioro cognitivo leve</dis> (<dis>DCL</dis>) y <dis>demencia</dis> en adultos mayores mexicanos.
+
+Material y métodos.
+Se incluyó a 168 participantes en una clínica de memoria de la ciudad de México, en 3 grupos: 59 cognitivamente sanos (GCS), 52 con <dis>DCL</dis> (criterios del DSM-V) y 57 con <dis>demencia</dis> (criterios NINCDS-ADRDA). 
+Se aplicó el MoCA-E y el Mini-Mental State Evaluation al inicio y en los últimos meses, para establecer la confiabilidad intraobservador. 
+Se construyeron curvas ROC y un modelo de regresión multinomial para evaluar el efecto de la edad y la escolaridad en el desempeño del MOCA-E.
+
+Resultados.
+El promedio de edad de los participantes era 76±8,1 años; la tasa de escolaridad, 10,7±5,2. 
+Las puntuaciones de MoCA-E por grupo fueron: GCS, 27,3±1,9; DCL, 22,9±2,9, y <dis>demencia</dis>, 13,7±4,9 (p < 0,001). 
+La confiabilidad del MoCA-E fue 0,89 con un coeficiente de correlación intraclase de 0,955. 
+La sensibilidad fue del 80% y la especificidad, del 75% con el punto de corte de 26 puntos para <dis>DCL</dis> (área bajo la curva=0,886; p <0,001). 
+Para <dis>demencia</dis>, la sensibilidad fue del 98% y la especificidad, del 93% con el punto de corte de 24puntos (área bajo la curva=0,998; p<0,001). 
+La regresión multinomial no mostró asociación con la escolaridad y la edad tanto para <dis>DCL</dis> como para <dis>demencia</dis>.
+
+Conclusiones.
+El MoCA-E es un instrumento con validez y confiabilidad para el cribado de <dis>DCL</dis> y <dis>demencia</dis> en la población mexicana, aun después de ajustar por edad y escolaridad.

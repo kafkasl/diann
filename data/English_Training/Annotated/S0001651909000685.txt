@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+Intratympanic drug delivery for labyrinth diseases is a non-aggressive outpatient procedure where drugs reach high concentrations in the cochlea and minimum systemic diffusion.
+The aim of this review is to update the delivery techniques and report on the results obtained with different substances in cochleovestibular disorders.
+New perspectives in drug development and gene therapy are discussed.
+Material and method
+We have analyzed the literature published to date using the MEDLINE and EMBASE databases.
+The categories chosen for the review where the delivery techniques, the results using corticosteroids and aminoglucosides (gentamicin) and isolated papers related with new drugs or pathways to introduce the substance in the inner ear.
+Results
+Intratympanic steroid therapy has been shown to be effective for cochleovestibular symptoms after failure of systemic steroids for <dis>sudden deafness</dis> and for control of Ménière's disease.
+Intratympanic gentamicin using a titration method showed vertigo control in 80% of the patients with a 0–25% risk of <dis>hearing impairment</dis> in Ménière's disease.
+Conclusions
+Intratympanic delivery is an effective procedure for the control of cochleovestibular disorders such as <dis>sudden deafness</dis> and Ménière's disease.
+Future perspectives could increase the indications for steroid and gentamicin treatment and open the door to new drugs and gene therapy.

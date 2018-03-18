@@ -1,0 +1,16 @@
+Introducción y objetivo.
+El asma es una enfermedad crónica que precisa tratamiento inhalado y que, a su vez, es factor de riesgo (FR) de neumonía. 
+En la cavidad orofaríngea existen numerosas especies de bacterias que podrían ser arrastradas a nivel broncoalveolar. 
+Objetivo: determinar si la salud bucodental es un FR de neumonía adquirida en la comunidad (NAC) en pacientes asmáticos que realizan tratamiento inhalado y determinar si la frecuencia de utilización de los dispositivos de inhalación y el tipo de fármaco inhalado son FR de NAC.
+
+Pacientes y método.
+Estudio de casos y controles en población asmática con tratamiento inhalado. 
+Se seleccionaron 126 pacientes asmáticos diagnosticados de neumonía por criterios clínicos y radiológicos (casos) y 252 asmáticos no diagnosticados de neumonía durante el último año (controles), emparejados por edad. 
+El principal factor de estudio fue la puntuación del General Oral Health Assessment Index (GOHAI).
+
+Resultados.
+El análisis bivariado muestra una asociación estadísticamente significativa de la NAC con un índice de GOHAI≤57 puntos (mala salud bucodental) (OR 1,69), el tratamiento anticolinérgico (OR 2,41), realizar 6 o más inhalaciones al día (OR 3,23), el uso de cámara (OR 1,62), el FEV1 (OR 0,98), una alteración de la funcionalidad (OR 2,08) y los trastornos psiquiátricos o la depresión (OR 0,41). 
+El análisis multivariante muestra una asociación independiente de realizar 6 o más inhalaciones al día (OR 2,74) y de las alteraciones de la funcionalidad (OR 1,67).
+
+Conclusiones.
+Los resultados evidencian que una mala salud bucodental podría ser un FR de NAC.

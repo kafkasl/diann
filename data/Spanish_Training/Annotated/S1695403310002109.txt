@@ -1,0 +1,6 @@
+Resumen
+ El hipoaldosteronismo congénito aislado es una enfermedad infrecuente que se manifiesta como un síndrome pierde sal durante la lactancia.
+La deficiencia de aldosterona sintetasa debida a mutaciones en el gen _CYP11B2_ es la causa subyacente más frecuente.
+Al margen de las anomalías electrolíticas clásicas (hiponatremia e hiperkaliemia), no se han descrito hasta el momento otras patologías extra-suprarrenales.
+Se describe un caso de hipoaldosteronismo congénito debido a una mutación sin sentido en homocigosis (Thr318Met) en _CYP11B2_.
+Además del cuadro clínico clásico, el paciente presentó una <dis>pérdida auditiva neurosensorial no filiada</dis>.

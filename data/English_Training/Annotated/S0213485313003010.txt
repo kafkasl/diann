@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+Anxiety has negative effects on the cognitive performance and psychosocial adjustment of elderly people.
+Given the high prevalence of anxiety symptoms in patients suffering from <dis>cognitive impairment</dis>, it has been suggested that these symptoms may be an early marker of <dis>dementia</dis>.
+The State-Trait Anxiety Inventory (STAI) is one of the most widely-used scales for evaluating anxiety in elderly people.
+However, inasmuch as the STAI may be difficult to apply to older people, having a short form of it would be desirable.
+Methods
+The participants comprised 489 community-dwelling individuals aged 68 years and over.
+All of them were volunteers in a longitudinal study for early detection of Alzheimer’ Disease (Proyecto Vallecas).
+The full sample was divided in two homogeneous subgroups: Group A, used to reduce the number of items and response options, and Group B, the group used to determine the psychometric properties of the new short form (STAIr).
+Results
+A dichotomous Rasch model was used to obtain the STAIr.
+No statistically significant differences for STAIr scores were found with respect to sociodemographic variables.
+Psychometric properties and normative data were obtained for the new short version.
+Conclusions
+The STAIr is composed of 13 items and data fits the model well.
+Since it is short and easy to apply to elderly people, STAIr will be very useful in clinical and research settings.

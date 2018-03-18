@@ -1,0 +1,9 @@
+Resumen
+ En el contexto de las limitaciones de la imagen estructural, los estudios de perfusión y metabolismo cerebral con SPECT y PET han aportado información relevante en el estudio del deterioro cognitivo.
+La introducción de radiotrazadores de amiloide cerebral ha replanteado la estrategia diagnóstica en torno a la enfermedad de Alzheimer (EA), considerada actualmente un «continuum».
+En este nuevo paradigma, la carga amiloide creciente se asocia al estadio preclínico y de deterioro cognitivo leve (DCL) de la enfermedad y ha podido ser objetivada en exploraciones «in vivo» gracias a la introducción del 11C-PIB y los tomógrafos PET.
+Las características de la imagen 11C-PIB son una elevada retención específica cortical cerebral en los casos positivos, con distribución topográfica característica y no retención en los negativos.
+Junto a la PET con 18F-FDG constituye la base de la neuroimagen molecular como biomarcador y se está valorando su significado pronóstico en estudios longitudinales.
+La PET con 11C-PIB se ha consolidado como la técnica óptima para valorar la presencia de amiloide cerebral, pero la necesidad de un ciclotrón cercano para su síntesis limita su disponibilidad, por lo que se están introduciendo trazadores análogos marcados con 18F.
+Nuestra experiencia en los 2 últimos años aplicando el 11C-PIB, primero en fase investigadora y después en la clínica, ha constatado la utilidad de la técnica en el campo asistencial, tanto de forma aislada como en combinación con la FDG.
+Así pues, la imagen de amiloide ha demostrado ser una herramienta útil en el diagnóstico diferencial de la demencia y un método prometedor de diagnóstico precoz y evaluación de tratamientos futuros.

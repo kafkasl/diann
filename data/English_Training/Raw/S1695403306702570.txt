@@ -1,0 +1,5 @@
+Anomalies in WT-1 (Wilms’ tumor gene), mapped to 11p13, cause Denys-Drash, Frasier and WAGR syndromes.
+WAGR syndrome is characterized by Wilms’ tumor (W), aniridia (A), genitourinary anomalies (G) and mental retardation (R).
+In the early human fetus, WT-1 is expressed in the pleural and abdominal mesothelium, and consequently this gene may play a role in diaphragm development.
+The first report of an association between WAGR syndrome and congenital diaphragmatic hernia has recently been published.
+We present another infant with aniridia, left cryptorchidism with testicular dysgenesis, right-sided posterolateral diaphragmatic hernia and moderate psychomotor retardation, in whom genetic study showed a deletion of 11p13 and PAX-6, confirming the diagnosis of WAGR syndrome.

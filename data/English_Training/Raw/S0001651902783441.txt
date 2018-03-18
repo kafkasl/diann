@@ -1,0 +1,12 @@
+Abstract
+ This report describes a patient with Von Hippel-Lindau disease revealed by an endolymphatic sac tumor.
+Endolymphatic sac tumor (EST) was only recently recognized as a manifestation of Von Hippel-Lindau (VHL) disease.
+EST are vascular lesions that destroy and expand bone.
+We report a recently treated case of an EST.
+A 30-year-old woman presented with otalgia and hearing loss.
+Computed tomography and magnetic resonance imaging showed typical features of an EST.
+We checked for VHL and found this disease in the patient.
+VHL disease is a hereditary cancer syndrome caused by germline mutations of the VHL tumor suppressor gene.
+A molecular diagnosis of VHL is nowadays available, and this has change the clinical management of patients and their families.
+Diagnosis of VHL has to be suspected in patients with a VHL-related tumor without familial history and especially in those cases of hemangioblastoma or endolymphatic sac tumors.
+Such patients should be systematically investigated for clinical and molecular evidence of VHL disease.

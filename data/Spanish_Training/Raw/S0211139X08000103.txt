@@ -1,0 +1,12 @@
+Resumen
+ Objetivo
+Describir las características de pacientes ancianos hospitalizados con un diagnóstico de insuficiencia cardíaca y establecer las variables asociadas con el desarrollo de deterioro funcional o defunción al alta y a los 3 meses.
+Materia y métodos
+Estudio observacional y prospectivo en el que se incluyó a 162 pacientes con el diagnóstico de insuficiencia cardíaca que ingresaron en una unidad de agudos de geriatría entre febrero y julio de 2007.
+Durante la hospitalización se recogieron variables clínicas, sociodemográficas, funcionales y cognitivas, y al alta y a los 3 meses, datos sobre su estado funcional y vital.
+Resultados
+La incidencia de mortalidad o deterioro funcional al alta y a los 3 meses fue del 48,8 y el 37,3%, respectivamente.
+En el modelo final permanecieron como predictores de deterioro funcional o defunción al alta los días de estancia hospitalaria y una peor puntuación en el cuestionario de Pfeiffer _(odds ratio_ [OR]=1,74; intervalo de confianza [IC] del 95%, 1,33–2,29).
+A los 3 meses las variables relacionadas fueron la edad (OR=1,09; IC del 95%, 1,02–1,17), la hiponatremia (OR=0,85; IC del 95%, 0,77–0,94), el tamaño del QRS en milisegundos (OR=0,98; IC del 95%, 0,97–0,99), la ausencia de HVI (OR=0,42; IC del 95%, 0,19–0,94) y la prueba de Pfeiffer alterada (OR=1,40; IC del 95%, 1,13–1,73).
+Conclusiones
+La valoración cognitiva durante la hospitalización de un anciano por insuficiencia cardíaca facilita la selección de individuos susceptibles de deterioro funcional o defunción al alta y a los 3 meses.

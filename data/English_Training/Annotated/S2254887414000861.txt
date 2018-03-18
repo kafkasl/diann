@@ -1,0 +1,7 @@
+Abstract
+ Lesch-Nyhan disease is a rare genetic disease characterized by a deficiency in the function of the enzyme hypoxanthine-guanine phosphoribosyltransferase (HGPRT).
+Patients affected by this disease experience hyperuricemia, <dis>motor disorders</dis>, <dis>mental retardation</dis> and, in the most severe cases, self-mutilation.
+Its clinical manifestations depend on the enzymatic activity of HGPRT, which is classically linked to the type of alteration in the HGPRT gene.
+More than 400 mutations of this gene have been found.
+At present, one of the controversial aspects of the disease is the relationship between the genotype and phenotype; cases have been described lacking a mutation, such as the patient presented in this article, as well as families who despite sharing the same genetic defect show disorders with differing severity.
+Epigenetic processes, which modify the genetic expression without changing the sequence of the deoxyribonucleic acid (DNA), could explain the clinical variability observed in this disease.

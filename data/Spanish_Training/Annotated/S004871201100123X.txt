@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+La presencia de <dis>disfagia</dis> condiciona complicaciones como la desnutrición, deshidratación, neumonía e incluso la muerte del paciente, repercutiendo en los costes sanitarios.
+Existen métodos de detección precoz de la <dis>disfagia</dis> basados en signos clínicos y métodos instrumentados que pueden aplicarse en la cabecera del enfermo.
+Objetivos
+Determinar la utilidad del la valoración de Signos Clínicos y del Método de Exploración Clínica de Volumen-Viscosidad (MECV-V) y evaluar su eficiencia para detectar la broncoaspiración en la fase aguda y subaguda del ictus.
+Pacientes y métodos
+Estudio retrospectivo de una cohorte de 79 pacientes.
+Se comparan los parámetros clínicos y el MECV-V con los resultados objetivados con la videofluoroscopia (VFC).
+Se calculan las variables que determinan la fiabilidad y el valor global de un método diagnóstico: sensibilidad, especificidad y valores predictivos.
+Resultados
+Los signos clínicos para detectar <dis>disfagia grave</dis> (aspiración) obtuvimos una sensibilidad del 69% y una especificidad del 28,8%, El MECV-V detectó aspiración con una sensibilidad del 100% y una especificidad del 13,6%.
+El valor predictivo negativo fue respectivamente del 62,5 y 100%, la eficiencia diagnóstica fue de 0,38 y del 0,44% respectivamente.
+Conclusión
+La valoración del paciente disfágico basado en los datos de exploración clínica y el MECV-V resulta en un cribaje de bajo coste, de fácil aplicación y muy sensible.
+El MECV-V presenta mayor sensibilidad, especificidad y eficiencia, permitiendo ajustar dietas precozmente y decidir si precisa de una valoración instrumentada.

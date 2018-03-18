@@ -1,0 +1,18 @@
+Introducción.
+Nuestro objetivo fue analizar el efecto del <dis>deterioro cognitivo</dis> sobre el <dis>deterioro funcional</dis> en pacientes hospitalizados≥60 años.
+
+Métodos.
+Las medidas a la admisión incluyeron datos demográficos, índice de comorbilidad de Charlson y <dis>deterioro cognitivo</dis> (de acuerdo al nivel educativo). 
+También se midieron estancia hospitalaria, depresión y delirium desarrollado durante la hospitalización. 
+La variable resultado, el Índice de Barthel (IB) se midió al ingreso, al alta y al mes después. 
+Para realizar análisis de regresión logística multivariante y predecir el <dis>deterioro funcional</dis> (un IB≤75) desde el ingreso hasta el alta y al mes después. 
+Se excluyeron los pacientes con IB≤75 (n=54) al ingreso o con valor perdido de IB (n=1).
+
+Resultados.
+De 133 pacientes incluidos el 24,8% tenían IB≤75 al alta y el 19,6% tenían IB≤75 al mes después. 
+Comparado con los hombres, las mujeres tenían más del doble de riesgo para <dis>deterioro funcional</dis> al alta y al mes (p<0,05). 
+Comparados con aquellos sin delirium y <scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>, aquellos con delirium y <dis>deterioro cognitivo</dis> tuvieron un riesgo aumentado de <dis>deterioro funcional</dis> (IB≤75) al alta (OR 5,15; IC del 95%: 1,94-13,67) y al mes (OR 6,26; IC del 95%: 2,30-17,03). 
+En forma similar, aquellos con comorbilidad (≥2) tuvieron un riesgo aumentado de <dis>deterioro funcional</dis> al alta (OR 2,36 IC del 95% 1,14-4,87) y al mes (OR 2,71 IC del 95% 1,25-5,89).
+
+Conclusión.
+El delirium durante la hospitalización superpuesto en el <dis>deterioro cognitivo</dis> al momento del ingreso fue un predictor mayor del <dis>deterioro funcional</dis>.

@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+Age at onset of bipolar disorder has been reported as a variable that may be associated with different clinical subtypes.
+Objective
+To identify patterns in the distributions of age at onset of bipolar disease and to determine whether age at onset is associated with specific clinical characteristics.
+Methods
+Admixture analysis was applied to identify bipolar disorder subtypes according to age at onset.
+The EMUN scale was used to evaluate clinical characteristics and principal components were estimated to evaluate the relationship between subtypes according to age at onset and symptoms in the acute in the acute phase, using multivariable analyses.
+Results
+According to age at onset, three distributions have been found: early onset: 17.7 years (S.D. 2.4); intermediate-onset: 23.9 years (S.D. 5.6); late onset: 42.8 years (S.D. 12.1).
+The late-onset group is antisocial, with depressive symptoms, thinking and language disorders, and socially disruptive behaviors.
+Conclusions
+In patients having bipolar disorder, age at onset is antisocial with three groups having specific clinical characteristics.

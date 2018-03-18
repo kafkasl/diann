@@ -1,0 +1,4 @@
+Abstract
+ Otosclerosis is a primary osteodystrophy of the temporal bone that causes progressive conductive hearing loss.
+The diagnosis is generally clinical, but multidetector CT (MDCT), the imaging technique of choice, is sometimes necessary.
+The objective of this article is to systematically review the usefulness of imaging techniques for the diagnosis and postsurgical assessment of otosclerosis, fundamentally the role of MDCT, to decrease the surgical risk.

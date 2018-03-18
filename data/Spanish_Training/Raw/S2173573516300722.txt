@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+A pesar de su importancia, la existencia de falsos negativos (pacientes a los que se les dice que oyen bien, pero en realidad son hipoacúsicos) no suele ser evaluada en los programas de detección precoz de hipoacusia.
+El objetivo de este estudio es determinar las variables que pueden a llevar a un retraso diagnóstico, en especial la existencia de falsos negativos así como la falta de registro de factores de riesgo.
+Métodos
+Se ha realizado un estudio observacional retrospectivo de prevalencia, analizando las historias clínicas de los pacientes con hipoacusia neurosensorial nacidos entre 2005 y 2012 en las áreas de salud del estudio.
+Resultados
+De 32 niños con hipoacusia neurosensorial, 16 pasaron las OEA, 12 no pasaron las OEA y a 4 no se les realizaron.
+De los pacientes con hipoacusia pero que pasaron las OEA, el 57% tiene una hipoacusia severa y/o profunda.
+El 66% de los niños con hipoacusia presentaban algún factor de riesgo de hipoacusia, siendo los antecedentes familiares de hipoacusia el más frecuente, pero solo el 7% de los que tenían antecedentes familiares fueron incluidos en el grupo de riesgo.
+La tasa de pacientes falsos negativos en el estudio es muy elevada.
+Conclusiones
+Los resultados del estudio indican que el diagnóstico tardío de las hipoacusias infantiles en las áreas estudiadas está relacionado con la presencia de falsos negativos a las OEA y con la falta de registro de los factores de riesgo.

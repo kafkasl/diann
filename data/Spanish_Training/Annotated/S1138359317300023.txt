@@ -1,0 +1,19 @@
+A pesar de su alta prevalencia, los <dis>trastornos mentales</dis> son con frecuencia infradiagnosticados.
+
+Objetivo.
+Conocer la magnitud del infradiagnóstico y las características relacionadas con el mismo.
+
+Metodología.
+Estudio descriptivo transversal realizado en Lanzarote (2011) sobre 310 pacientes elegidos mediante muestreo aleatorizado por conglomerados. 
+Se empleó un cuestionario autocumplimentado que contenía el «General Health Questionnaire-28» y la entrevista estructurada «Mini International Neuropsychiatric Interview» para confirmar el diagnóstico de <dis>trastorno mental</dis>. 
+También se recogieron los diagnósticos actuales registrados por el médico de familia en la historia clínica electrónica DRAGO-AP.
+
+Resultados.
+De 75 pacientes detectados con la entrevista, 14 tenían recogido el diagnóstico en la historia clínica: 18,67% (sensibilidad=0,19; IC 95%:0,09-0,28). 
+El valor predictivo positivo del registro de historias clínicas fue de 0,56.
+
+Con respecto a la sensibilidad, solo el «número de visitas realizadas al centro de salud los últimos 3 meses» fue significativamente superior en el grupo de pacientes con algún <dis>trastorno mental</dis> que fueron también diagnosticados en la historia clínica (5 vs. 2,77; p=0,002).
+
+Conclusiones.
+Existe un importante infradiagnóstico de los <dis>trastornos mentales</dis> en nuestro medio. 
+El mayor número de visitas al centro de salud facilita dicho diagnóstico.

@@ -1,0 +1,14 @@
+Abstract
+ Introduction and objectives
+The activity of behavioral inhibition and activation systems (BIS and BAS) has been related to several mental disorders.
+The availability of a validated questionnaire to assess BIS and BAS over the telephone could aid research.
+The objective of the present study was to evaluate the procedural validity of telephone administration of the sensitivity to punishment/sensitivity to reward questionnaire (SPSRQ) as a measure of BIS and BAS activity (by means of its two scales: the sensitivity to punishment [SP] scale and the sensitivity to reward [SR] scale).
+Methods
+A total of 231 participants were assessed with the SPSRQ twice (over the telephone and in a self-administered format).
+Intraclass correlation coefficients and kappa indices were calculated.
+Additionally, possible differences between the mean scores obtained with the two assessment procedures and internal consistency were explored.
+Results
+Telephone and self-assessment of BIS and BAS, by means of the SPSRQ, provided similar results, supporting the procedural validity of telephone administration.
+A slight but statistically significant tendency (estimated betha = 0.62; 95% CI, 0.33–0.92; p < 0.001) toward lower scores was observed for the telephone-administered SP scale and for the interaction “first or second assessment/telephone or self-administered SPSRQ” for the SR scale (p = 0.023).
+Conclusions
+The results of the present study support the reliability of telephone assessment of BIS and BAS by means of the SPSRQ.

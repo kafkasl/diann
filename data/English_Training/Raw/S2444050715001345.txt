@@ -1,0 +1,19 @@
+Abstract
+ Background
+Primary empty sella is a herniation of the sellar diaphragm into the pituitary space.
+It is an incidental finding and patients may manifest neurological, ophthalmological and/or endocrine disorders.
+Episodes of vertigo, dizziness, and hearing loss, have been reported.
+Objective
+To determine the conditional probability, as well as the statistical dependency, through the Bayesian analysis in patients with primary empty sella and audiovestibular disorders.
+Patients
+Individuals who attended the National Rehabilitation Institute from January 2010 to December 2011, diagnosed with primary empty sella and audiovestibular disorders.
+Material and methods
+An analysis was performed on a sample of 18 patients with a diagnosis of primary empty sella confirmed with magnetic resonance studies and who had signs of vertigo, hearing loss and dizziness.
+Results
+Of the 18 patients studied, 3 (16.66%) had primary empty sella as the only clinical evidence.
+In 9 patients (50%) empty sella was associated with vertigo, and 16 patients (88.88%) were diagnosed with hearing loss, with sensorineural hearing loss being the most frequent (77.77%).
+The intersection between the proportions of primary empty sella with the presence and type of hearing loss was calculated.
+Thus for sensorineural hearing loss, the calculated ratio was _P_ ( _AB_ ) = 0.6912, and for conductive and mixed hearing loss the value of _P_ ( _AB_ ) = 0.0493 in both cases.
+Conclusions
+Bayesian analysis and conditional probability enables the dependence between two or more variables to be calculated.
+In this study both mathematical models were used to analyse comorbidities and audiovestibular disorders in patients diagnosed with primary empty sella.

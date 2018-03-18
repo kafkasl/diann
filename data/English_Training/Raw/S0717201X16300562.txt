@@ -1,0 +1,5 @@
+Abstract
+ Otosclerosis is a common cause of progressive hearing loss in the young adult population.
+Most of the time the diagnosis is suspected based on consistent clinical symptoms and physical examination.
+The role of imaging in this pathology consists of confirmation of doubtful cases, ruling out by differential diagnoses, level of affection, and the pre-postoperative evaluation of patients.
+High-resolution computed tomography of the temporal bone is the imaging method of choice.

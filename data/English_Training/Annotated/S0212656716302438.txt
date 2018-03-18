@@ -1,0 +1,22 @@
+Objective.
+To identify predictors of frequent attenders (HF) in Primary Health Care (PHC) centres in a sample of frequent attenders (HF) in Emergency Departments (ED).
+
+Design.
+This was an observational, retrospective, multicentre cohort study.
+
+Participants.
+The HF patients were selected from patients seen in the ED between January 1 and December 31, 2013. 
+Setting Patients were recruited from 17 public hospitals of the Community of Madrid, Spain.
+
+Method.
+Variables on the index visit to the ED were collected. 
+The sample was analysed in terms of being or not being an HF user in PHC. 
+An HF user is considered a patient who made at least 10 visits in each level of care for a year.
+
+Results.
+A total of 1284 HF patients were included. 
+An analysis was performed on 423 (32.9%) HF users in ED with 16 (12-25) visits to PHC vs. 861 (67.1%) non-HF users in ED, with 4 (2-6) visits to PHC. 
+Independent predictors of HF in PHC: over 65 years (OR: 1.51; 95% CI: 1.07-2.13; P=.019), <dis>cognitive impairment</dis> (OR: 1.63; 95% CI: 1.01-2.65; P=.049), taking >3 drugs (OR: 1.56; 95% CI: 1.06-2.30; P=.025), and living in the community vs. nursing home or homeless (OR: 3.05; 95% CI: 1.14-8.16; P=.026).
+
+Conclusions.
+Among HF patients in the ED, the fact that of being over 65 years, taking 3or more drugs, suffering <dis>cognitive impairment</dis>, and living in the community, are also considered to be predictors of HF in PHC.

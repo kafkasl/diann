@@ -1,0 +1,7 @@
+La respuesta negativa del electrorretinograma de campo completo se define como una disminución de la onda b con conservación de la onda a (ratio b/a<1) en la respuesta combinada de conos y bastones. 
+La presencia de este patrón denota una alteración en las células bipolares, en las células de Müller o en la transmisión del estímulo fotorreceptor-células bipolares, con preservación de la función de conos y bastones.
+
+Este hallazgo puede verse de forma bilateral y simétrica en diferentes enfermedades hereditarias como la <dis>ceguera nocturna estacionaria congénita</dis>, la retinosquisis juvenil ligada a X y las distrofias musculares de Duchenne y Becker. 
+Por otro lado, también se puede encontrar de forma unilateral en enfermedades adquiridas como algunos tipos de retinitis inmunomediadas (retinocoroiditis en perdigonada o Birdshot), retinopatías autoinmunes, retinopatía asociada a cáncer/melanoma o toxicidad retiniana.
+
+El objetivo de esta revisión es resumir las características de las afecciones en las que puede observarse este hallazgo, de gran utilidad en el diagnóstico diferencial de enfermedades de la retina.

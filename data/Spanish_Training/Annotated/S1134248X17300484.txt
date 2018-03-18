@@ -1,0 +1,17 @@
+Objetivo.
+Analizar las características de los pacientes con <dis>demencia</dis> atendidos por un equipo de soporte de atención domiciliaria y establecer si existen diferencias en cuanto a la actuación en pacientes con otras enfermedades.
+
+Material y métodos.
+Estudio analítico prospectivo, comparativo de 2 cohortes de pacientes atendidos en sus domicilios (una afecta de <dis>demencia</dis> y la segunda sin dicho antecedente), comparando edad, sexo, cuidador principal, número de visitas y tiempo de seguimiento, motivo de alta, antecedentes médicos, índices de Barthel previo a intervención y en la primera visita del equipo de soporte de atención domiciliaria, cuestionario de Pfeiffer, tipo de <dis>demencia</dis> y escala Global Deterioration Scale de Reisberg, número de fármacos previos, presencia de síntomas (dolor, disnea, náuseas, ansiedad, depresión, insomnio, agitación) tratamiento de síntomas o modificación de tratamiento previo, necesidad de sedación. 
+Análisis de datos con programa SPSS 15.0.
+
+Resultados.
+Del total de pacientes atendidos (N=638), 195 constituyeron la cohorte de pacientes con <dis>demencia</dis> (30,7%). 
+La causa más frecuente fue <dis>demencia vascular</dis> 40,4% (N=74). 
+El Global Deterioration Scale medio resultó 6±1,05, con una puntuación media de 8,87 errores en el test de Pfeiffer y con un índice de Barthel medio de 11,9±23. 
+En pacientes <scp><neg>sin</neg> <dis>demencia</dis></scp>, se obtienen diferencias significativas en cuanto a la situación funcional y cognitiva (índice de Barthel de 52,34±38 y test de Pfeiffer con una puntuación media de 1,48±3,2 (p<0,001)). 
+El paciente con <dis>demencia</dis>, más frecuentemente institucionalizado (el 37,9% frente a 11,8% en no dementes), presenta en mayor cuantía síndrome de inmovilidad (70,3 frente al 24%) y presencia de úlceras por presión (el 19,6 frente al 3,9%), menor presencia de clínica salvo agitación y menor necesidad de sedación paliativa (el 8,2 frente al 20,4%). 
+Son pacientes con una menor mortalidad el 31,8 frente al 53,1%) y una menor necesidad de hospitalización (el 6,7 frente al 17,5%), sin evidenciarse diferencias en la actividad asistencial.
+
+Conclusiones.
+Nuestros resultados muestran que estos pacientes presentan un perfil sintomático y funcional lentamente progresivo que requerirá una atención centrada en los momentos de crisis, pudiendo disminuir ingresos hospitalarios mediante un adecuado control de síntomas.

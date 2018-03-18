@@ -1,0 +1,14 @@
+Resumen
+ Antecedentes
+El aracnoidocele selar es una herniación del diafragma selar hacia el espacio hipofisario, es un hallazgo incidental y los pacientes pueden manifestar trastornos neurológicos, oftalmológicos y/o endocrinológicos, así como episodios de vértigo, mareo e hipoacusia.
+Objetivo
+Determinar la probabilidad condicional, así como la dependencia estadística por medio del análisis bayesiano en pacientes con aracnoidocele selar y enfermedad audiovestibular.
+Pacientes
+Individuos que acudieron al Instituto Nacional de Rehabilitación entre enero de 2010 a diciembre de 2011, con diagnóstico de aracnoidocele selar y enfermedad audiovestibular.
+Material y métodos
+Se analizó una muestra conformada por 18 pacientes con diagnóstico de aracnoidocele selar, confirmado con estudios de resonancia magnética y que manifestaron vértigo, hipoacusia y mareo.
+Resultados
+Tres (16.66%) pacientes presentaron aracnoidocele selar como única evidencia clínica; en 9 (50%) pacientes se asoció con vértigo; 16 (88.88%) se diagnosticaron con hipoacusia, la sensorineural fue la más frecuente con el 77.77%.
+Se calculó la intersección entre las proporciones de aracnoidocele selar con la presencia y el tipo de pérdida auditiva, así para la hipoacusia sensorial, la proporción fue _P_ ( _A_ ∩ _B_ ) = 0.6912 y para la hipoacusia conductiva y mixta el valour de _P_ ( _A_ ∩ _B_ ) = 0.0493 en ambos casos.
+Conclusiones
+El análisis bayesiano y de probabilidad condicional permiten calcular la dependencia entre 2 o más variables; en este estudio se utilizaron ambos modelos matemáticos para analizar las comorbilidades y las enfermedades audiovestibulares en pacientes diagnosticados con aracnoidocele selar.

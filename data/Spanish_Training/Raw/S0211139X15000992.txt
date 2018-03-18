@@ -1,0 +1,19 @@
+Resumen
+ Objetivo
+Analizar la asociación entre el diagnóstico principal que motiva el ingreso hospitalario en una unidad geriátrica de agudos (UGA) y el riesgo de mortalidad intrahospitalaria y al año del alta.
+Material y métodos
+Estudio longitudinal de los pacientes que ingresaron en la UGA del Hospital Central de la Cruz Roja de Madrid durante 2009.
+El diagnóstico de ingreso se agrupó por grupos relacionados por el diagnóstico (GRD).
+La fecha de fallecimiento fue recogida del informe médico y del Índice Nacional de Defunciones del Ministerio de Sanidad.
+Como variable resultado se analizó la asociación entre diagnósticos al ingreso y deterioro funcional al alta (medido como una pérdida de 10 o más puntos entre el Índice de Barthel al alta respecto al previo al ingreso), mortalidad durante el ingreso, a los 3 meses y al año del alta.
+El análisis se ajustó por edad, sexo, comorbilidad, situación funcional y cognitiva, y niveles de albúmina sérica.
+Resultados
+Se estudiaron 1.147 pacientes, con una edad media de 86,7 años (DE: ± 6,7), 66% eran mujeres.
+Fallecieron durante el ingreso un 10,1% y presentaron deterioro funcional al alta el 36,6%.
+La mortalidad postalta fue del 25,5% a los 3 meses y el 42,2% al año.
+La frecuencia de los principales diagnósticos al ingreso (entre paréntesis su mortalidad intrahospitalaria y al año) fueron insuficiencia cardiaca 21,4% (8,1 y 37,4%), neumonía no aspirativa 13,3% (12,3 y 46,4%) y neumonía aspirativa 4,7% (27,5 y 71%), bronconeumopatías 13,3% (6,6 y 38,2%), infección urinaria 10,2% (5,1 y 42,7%) e ictus (excluyendo AIT) 9,9% (13,3 y 46,9%).
+En el análisis multivariante solo el ingreso por neumonía aspirativa se asociaba de forma independiente con mayor riesgo de mortalidad intrahospitalaria (odds ratio-2,23; IC95% = 1,13-44,42) y el ingreso por ictus a la presencia de deterioro funcional al alta (odds ratio-6,01; IC95% = 3,42-10,57).
+Ningún diagnóstico se asoció de manera independiente con aumento del riesgo de muerte a los 3 meses y al año.
+Conclusiones
+El ingreso por neumonía aspirativa conlleva un mayor riesgo de muerte en ancianos hospitalizados por patología médica aguda.
+Tras el alta, el riesgo aumentado de muerte debe ser atribuido a otros factores diferentes al diagnóstico.

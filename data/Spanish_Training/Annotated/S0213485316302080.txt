@@ -1,0 +1,22 @@
+Antecedentes y objetivo.
+La neumonía asociada al ictus es una complicación relacionada con mal pronóstico. 
+Las escalas A2DS2 e ISAN se han desarrollado recientemente por un grupo alemán e inglés, respectivamente, para predecir la neumonía intrahospitalaria tras un ictus agudo. 
+Realizamos una validación externa de estas escalas en una serie consecutiva de pacientes ingresados por ictus isquémico en nuestro centro.
+
+Método.
+El modelo pronóstico se realiza sobre una muestra de 340 sujetos consecutivos ingresados por ictus en 2015. 
+La discriminación se evaluó mediante el cálculo del área bajo la curva de eficacia diagnóstica (curva ROC). 
+La calibración se evaluó mediante la realización del test de bondad de ajuste de Hosmer-Lemeshow y la representación gráfica de la curva. 
+Se realiza un análisis de regresión logística para determinar los predictores independientes de infección respiratoria después del ictus.
+
+Resultados.
+La muestra final evaluada fue de 285 sujetos, entre los cuales 45 pacientes (15,8%) tuvieron infección respiratoria tras el ictus según unos criterios preestablecidos. 
+La edad media de los pacientes fue de 71,01(DE 12,62) años. 
+De ellos, 177 (62,1%) fueron varones. 
+Setenta y dos pacientes (25,3%) tenían síntomas o signos de <dis>disfagia</dis>, 42 (14,7%) tenían fibrilación auricular, 14 (4,9%) tenían situación de dependencia previa al ictus y la mediana de la puntuación NIHSS fue de 4 puntos. 
+La puntuación media de la escala A2DS2 fue 3,25 (DE 2,54) y la de ISAN fue 6,49 (DE 3,64). 
+El análisis muestra que por cada punto en la escala A2DS2 se incrementa el riesgo de infección respiratoria (OR=1,576; IC 95%: 1,363-1,821), al igual que en la escala ISAN (OR=1,350; IC 95%: 1,214-1,501).
+
+Conclusión.
+La puntuación alta en las escalas A2DS2 e ISAN son un fuerte predictor de infección respiratoria asociada al ictus agudo en una cohorte consecutiva de pacientes con ictus. 
+Estas escalas son simples de usar y realizar, siendo herramientas prometedoras para la predicción de esta complicación en la práctica habitual.

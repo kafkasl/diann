@@ -1,0 +1,6 @@
+El objetivo de este trabajo es estudiar los efectos de un programa de intervención diseñado para mejorar habilidades gramaticales en alumnado con trastorno específico del lenguaje (TEL). 
+La muestra la conforma un grupo de 34 alumnos diagnosticados con TEL y 34 niños con desarrollo típico. 
+Para su selección se utiliza el test CELF-3, el test Peabody, los subtests de Asociación Auditiva y Asociación Visual del ITPA y el test de Inteligencia K-BIT. 
+El programa de intervención se lleva a cabo a lo largo de 216 sesiones de 40minutos de duración cada una, combinando actividades de narraciones orales con otras relacionadas con la automatización de habilidades morfosintácticas. 
+Los resultados indican mejoras significativas en el grupo de alumnado con TEL en comparación con los controles en términos de reducción de oraciones agramaticales y de errores sintácticos y morfológicos. 
+En conclusión, un programa combinado de estimulación de habilidades narrativas y morfosintácticas mejora el rendimiento gramatical del alumnado con TEL.

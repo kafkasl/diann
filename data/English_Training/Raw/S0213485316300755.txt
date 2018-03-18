@@ -1,0 +1,14 @@
+Introduction
+Brain microbleeds (BMB) are haemosiderin deposits contained within macrophages, which are displayed as hypointense images in some T2-weighted magnetic resonance imaging sequences. 
+There are still many questions to be answered about the pathophysiology and clinical relevance of BMB.
+Development
+We conducted a literature review of the main epidemiological, clinical, and anatomical pathology studies of BMB performed in the general population, in patients at risk of or already suffering from a vascular disease, and in patients with cognitive impairment. 
+We analysed the prevalence of BMB, risk factors, and potential pathophysiological mechanisms and clinical implications.
+Conclusions
+The prevalence of BMB is highly variable (3%-27% in the general population, 6%-80% in patients with vascular risk factors or vascular disease, and 16%-45% in patients with cognitive impairment). 
+BMB are associated with ageing, Alzheimer disease (AD), and in particular haemorrhagic or ischaemic cerebrovascular disease. 
+The pathological substrate of BMB is either lipohyalinosis (subcortical BMB) or cerebral amyloid angiopathy (lobar BMB). 
+BMB exacerbate cognitive impairment, possibly through cortical-subcortical and intracortical disconnection, and increase the risk of death, mostly due to vascular causes. 
+BMB also increase the risk of cerebral haemorrhage, particularly in patients with multiple lobar BMB (probable erebral amyloid angiopathy). 
+Therefore, anticoagulant treatment may be contraindicated in these patients. 
+In patients with lower risk of bleeding, the new oral anticoagulants and the combination of clinical and magnetic resonance imaging follow-up could be helpful in the decision-making process.

@@ -1,0 +1,13 @@
+Resumen
+ Fundamento y objetivo
+Un amplio espectro de enfermedades mitocondriales está producido por mutaciones de _POLG_ y se caracterizan por una alteración en la integridad del genoma mitocondrial.
+La oftalmoplejía progresiva externa suele ser el marcador clínico en los casos de deleciones múltiples, pero no lo es en aquellas enfermedades que cursan con depleción del ácido desoxirribonucleico mitocondrial (ADNmt).
+En este trabajo presentamos un paciente con la tríada clínica que define el síndrome de neuropatía sensorial atáxica, disartria y oftalmoplejía, las mutaciones del gen _POLG_ y la presencia inusual de una marcada disminución en el contenido del ADNmt en el músculo esquelético.
+Paciente y método
+El paciente presentó un cuadro clínico caracterizado por neuropatía sensorial atáxica, disartria y oftalmoplejía.
+El diagnóstico se realizó mediante estudios histológicos y análisis molecular del ADNmt y del gen _POLG_.
+Resultados
+La biopsia del nervio sural detectó una pérdida intensa de las fibras nerviosas mielinizadas gruesas.
+El estudio molecular reveló mutaciones en el gen _POLG_ , así como deleciones múltiples y una marcada depleción del genoma mitocondrial.
+Conclusiones
+Los pacientes con síndromes atáxicos de origen mitocondrial presentan fenotipos mitocondriales moleculares diferentes, por lo que se aconseja la búsqueda de mutaciones del gen _POLG_ en todos ellos, independientemente de la anomalía que presenten en el genoma mitocondrial.

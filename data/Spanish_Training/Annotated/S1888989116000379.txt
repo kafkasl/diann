@@ -1,0 +1,15 @@
+Introducción.
+Las personas con <dis>trastorno mental grave</dis> (<dis>TMG</dis>) presentan <dis>importantes dificultades en la vida cotidiana que conllevan la necesidad de una ayuda continuada</dis>. 
+Estas necesidades no son fácilmente evaluables con los instrumentos actuales. 
+Por ello se propone una escala multidimensional que evalúa los diferentes niveles de necesidad de atención, y se estudia el comportamiento psicométrico de dicho instrumento.
+
+Método.
+Ciento treinta y nueve pacientes (58% hombres) con <dis>trastorno mental grave</dis> fueron evaluados con la Escala de valoración de los Niveles de Atención Requerida para personas con Trastorno Mental Grave (ENAR-TMG) y las versiones españolas del Camberwell Assessment of Needy la Health of the Nation Outcome Scales. 
+Se examinó el comportamiento psicométrico de la ENAR-TMG: a) aportando evidencias de validez basadas en su estructura interna y en la relación con otras variables, y b) estimando la consistencia interna, la estabilidad temporal, la fiabilidad entre evaluadores y la sensibilidad al cambio de las puntuaciones de la ENAR-TMG.
+
+Resultados.
+Con respecto a las evidencias de validez, cada una de las dimensiones teóricas del instrumento mostró una estructura unifactorial y, menos en un caso, una correlación significativa y positiva con las escalas Camberwell Assessment of Need (rango de r: 0,143-0,557) y Health of the Nation Outcome Scales (rango de r: 0,241-0,474). 
+Asimismo, las puntuaciones de cada una de dichas dimensiones mostraron una consistencia interna aceptable (rango de coeficientes α ordinal: 0,682-0,804), unas excelentes fiabilidades test-retest (rango de coeficientes de correlación intraclase: 0,889-0,999) y entre evaluadores (rango de coeficientes de correlación intraclase: 0,926-0,972), y una sensibilidad al cambio satisfactoria (rango de η2: 0,003-0,103).
+
+Conclusiones.
+El adecuado comportamiento psicométrico de la ENAR-TMG la convierte en un prometedor instrumento para la evaluación del estado y las necesidades de las personas con <dis>trastorno mental grave</dis>.

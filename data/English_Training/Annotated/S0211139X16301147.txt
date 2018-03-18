@@ -1,0 +1,17 @@
+Abstract
+ Background
+The prevalence of lung obstruction increases with age and the presence of comorbidities.
+Although a complete spirometry is necessary to confirm the diagnosis, this may be impractical in elderly patients with <dis>cognitive impairment</dis> or <dis>functional dependence</dis>.
+Recently, the use of portable devices using the FEV1/FEV6 ratio have shown to be useful for assessing the presence of lung obstruction, with greater ease of use, but its usefulness has not been established in the elderly population with multiple morbidities.
+Methods
+A cross-sectional study was conducted on patients hospitalised in the complex chronic patients Unit of the University Hospital Mútua de Terrassa.
+All of them completed a questionnaire that included –among other things– measurements of <dis>functional dependence</dis> and <dis>cognitive impairment</dis>.
+Three manoeuvres validated with the Piko-6 device were attempted before discharge, and considering an FEV1/FEV6 < 0.75 as criteria for obstruction.
+An analysis was performed on the characteristics of the population that was able to perform the tests, as well as the prevalence of pulmonary obstruction.
+Results
+A total of 54 patients were included in the study, of which 35 (64.81%) performed the manoeuvres correctly.
+Patients who were unable to complete the manoeuvres of the Piko-6 had more <dis>functional dependence</dis> (Barthel 19 vs. 72, _P_ < .0001) and <dis>cognitive impairment</dis> (Pfeiffer 1 vs. 9, _P_ < .0001; MEC 28/35 vs. 3/35, _P_ < .010).
+The prevalence of obstruction was 71.43%, with an underdiagnosis of 72%.
+Conclusions
+The FEV1/FEV6 ratio was not determined in 35.18% of the patients due to <dis>cognitive impairment</dis> or <dis>functional dependence</dis>.
+The prevalence of obstruction and underdiagnosis exceeded 70%.

@@ -1,0 +1,20 @@
+Resumen
+ Introducción
+Se ha publicado que los tratamientos de Intervención Cognitiva (IC) resultan eficaces en pacientes con deterioro secundario a daño neurológico focal (DNF), no sucediendo lo mismo en pacientes con enfermedades neurodegenerativas (EN).
+Objetivo
+Estudiar la efectividad de los tratamientos de IC comparando los resultados entre pacientes con DNF y EN.
+Diseño/métodos
+Se seleccionaron para el _screening_ un total de 144 pacientes, que fueron divididos en 3 grupos: DNF (G1), EN (G2) y causas mixtas (G3).
+En G1 se incluyeron particularmente pacientes con secuelas cognitivas postraumatismo de cráneo y accidente cerebrovascular.
+En G2 se incluyeron pacientes con demencias y deterioro cognitivo leve de etiología degenerativa.
+Los grupos fueron pareados según edad/escolaridad.
+Se compararon variables cognitivas, conductuales, funcionales y calidad de vida al inicio y al final del tratamiento.
+Resultados
+Con posterioridad al tratamiento se encontraron diferencias significativas entre los grupos en algunos aspectos de calidad de vida y memoria subjetiva.
+Con respecto a la evolución en G1 (n = 43) se produjeron mejorías en actividades básicas (-1,55; p = 0,04) e instrumentales (AIVD) (-1,63; p = 0,007) de la vida diaria, escala de memoria subjetiva (13,36; p = 0,02) e inventario neuropsiquiátrico (7,73; p = 0,03).
+En G2 (n = 34) se encontró una tendencia en mejorar AIVD (-1,3; p = 0,08) y aspectos de calidad de vida (-1,591; p = 0,06).
+En G3 (n = 12) no se evidenciaron cambios significativos.
+Conclusiones
+En nuestra muestra la IC produjo mejorías significativas en algunos aspectos cognitivos, conductuales, funcionales y de calidad de vida.
+El beneficio fue mayor en pacientes con DNF.
+Este trabajo representa los resultados preliminares de un estudio a mayor escala poblacional.

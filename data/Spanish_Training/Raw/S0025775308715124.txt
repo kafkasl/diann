@@ -1,0 +1,19 @@
+Fundamento y objetivo
+La hemiplejía alternante de la infancia (HAI) es una enfermedad rara y de etiología desconocida.
+Se caracteriza por episodios recurrentes de hemiplejía, crisis tónicas y/o distónicas y trastornos de la motilidad ocular de inicio precoz, que evolucionan hacia una encefalopatía grave.
+Nuestro objetivo ha sido describir los síntomas clínicos, los desencadenantes,el resultado de exámenes complementarios, la evolución a largo plazo y la respuesta al tratamiento en una serie de pacientes con HAI.
+Pacientes y método
+Se ha realizado un estudio descriptivo, retrospectivo y multicéntrico en 17 pacientes españoles de 1-24 años de edad que cumplían criterios diagnósticos de HAI.
+Resultados
+Un total de 12 casos cumplían criterios de HAI típica y 5 de HAI atípica.
+La edad media en el momento del diagnóstico fue de 26 meses y un 47% tenía historia familiar de migraña.
+La edad media de inicio de la hemiplejía fue 9,3 meses.
+Los síntomas desaparecían durante el sueño en todos los casos y en el 94% había algún desencadenante de las crisis.
+La enfermedad evolucionó a retraso cognitivo con dificultades en la marcha y disartria.
+Los exámenes realizados (bioquímicos, neurofisiológicos, neurorradiológicos) resultaron normales o inespecíficos.
+En 3 pacientes se descartaron mutaciones en los genes _CACNA1A y ATP1A2_.
+En un 81% se observó respuesta a la flunaricina.
+Conclusiones
+Los síntomas clínicos característicos siguen siendo la clave para el diagnóstico de esta entidad misteriosa, en ausencia de marcadores genéticos, bioquímicos, radiológicos y neurofisiológicos.
+El diagnóstico precoz evita la realización de pruebas invasivas, la repetición de exámenes y el uso de fármacos ineficaces y potencialmente tóxicos, y permite iniciar el tratamiento con flunaricina.
+Es necesaria la realización de estudios genéticos en series amplias de pacientes, aunque hay limitaciones por la baja frecuencia de HAI y porque la mayoría de los casos corresponden a formas esporádicas.

@@ -1,0 +1,10 @@
+Abstract
+ Creutzfeldt-Jakob disease (CJD) is a rare neurodegenerative disorder presenting with <dis>rapidly progressive memory impairment</dis>, behavioral changes, lack of coordination and/or <dis>visual disturbances</dis>.
+This condition is part of a group of diseases known as spongiform encephalopathies or prionic diseases, which are caused by accumulation of a pathological prion protein (PrP) in the central nervous system, and may occur in sporadic, hereditary or acquired form.
+Symptoms usually begin around 60-70 years old and, as the disease advances, progressive neuronal damage due to PrP deposits leads to a more pronounced <dis>mental deterioration</dis>, appearance of <dis>movement disorders</dis>, <dis>blindness</dis> and coma, reaching a high mortality rate (90%) within first year.
+We present a case of a 65 year-old woman who came to the emergency room complaining of <dis>progressive language disturbance</dis> and abnormal posture of her right arm that had begun one month earlier.
+After detailed clinical and neuropsychological examinations CJD was suspected and complementary examinations such as EEG, brain MRI and lumbar puncture were performed.
+The patient showed <dis>rapid and global cognitive deterioration</dis>, leading to her death two months after admission.
+A subsequent pathological study confirmed the diagnosis of CJD.
+It is important to know the disease in order to provide adequate nursing care.
+The rapid progression of the disease and the level of dependence make it necessary to continually reappraise these patients.

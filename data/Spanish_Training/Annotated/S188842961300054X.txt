@@ -1,0 +1,10 @@
+Resumen
+ La degeneración macular asociada a la edad (DMAE) constituye la causa principal de <dis>ceguera</dis> en personas mayores de 65 años.
+Se trata de un trastorno multifactorial, en el que la identificación de los factores de riesgo permite a las personas la elección de aquellos estilos de vida que pueden reducir el riesgo de la enfermedad.
+La colaboración entre genetistas, oftalmólogos y optometristas sugiere que los factores genéticos de riesgo juegan un papel más significativo en la DMAE que lo que se pensaba hasta ahora.
+Los genes más importantes están asociados a la modulación del sistema inmune y al sistema del complemento, como el factor H (CFH), el factor B (CFB) y el factor C3 del complemento, y el inhibidor de la peptidasa tipo serpina (SERPING1).
+También se ha implicado a los genes asociados al transporte a través de membranas, como las proteínas cassette de unión a ATP (ABC) y la subunidad gamma 3 de los canales del calcio dependientes de voltaje (CACNG3), al sistema vascular, como el factor 2 de crecimiento de fibroblastos (FGF2), la fibulina 5, los genes de tipo lisil oxidasa (LOXL1) y la selectina-P (SELP), y al metabolismo lipídico, como la apolipoproteína E (APOE) y la lipasa hepática (LIPC).
+Además, diversos otros genes muestran también cierta asociación estadística con la DMAE, como la proteína 2 de susceptibilidad a la maculopatía asociada a la edad (ARMS2) y el gen de la proteína de reparación de la escisión de ADN (ERCC6), aunque se precisa seguir investigando para establecer su significación.
+Los factores modificables del riesgo de DMAE deberán ser discutidos con los pacientes cuyo estilo de vida y/o historia familiar les sitúan en una categoría de riesgo incrementado.
+Además, debería recomendarse el cálculo del riesgo de DMAE utilizando los modelos actuales, como herramienta de educación al paciente.
+Es previsible que el tratamiento futuro de la DMAE se vea crecientemente influenciado por la evaluación del riesgo genético, y que por tanto estos métodos sean cada vez mas ampliamento aplicados.

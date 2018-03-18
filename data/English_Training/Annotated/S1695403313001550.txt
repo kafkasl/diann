@@ -1,0 +1,17 @@
+Abstract
+ Objective
+To describe growth and neurodevelopmental status of 4,944 children who completed a follow-up at two years of corrected age out of the 10,456 newborns with weight ≤ 1500 g born between the years 2002-2007 and discharged from hospitals within the network SEN1500.
+A total of 522 newborns were excluded as they had some type of malformation.
+The total number of children assessed represents the 49.76% of children discharged alive and without malformations.
+Methods
+A retrospective review was conducted using prospectively collected data in the SEN1500 database.
+We compared growth data at two years of corrected age according to birth weight and sex.
+<dis>Motor impairment</dis>, incidence of <dis>cerebral palsy</dis>, <dis>visual and hearing disabilities</dis>, and abnormal neurodevelopment for gestational age were analysed between groups.
+We studied the associations between <dis>cerebral palsy</dis> (<dis>CP</dis>) and perinatal factors.
+Results
+At 2 years of age 44.2% of children had a weight < 2 SD for corrected age.
+Children with birth weight ≤ 1000 g showed worse outcomes in growth.
+Some type of <dis>motor impairment</dis> was observed in 6.96% of the infants, and 4.56% of them were diagnosed with <dis>CP</dis>.
+The incidence was higher among males with birth weight ≤ 1000g. 
+There was an incidence of 5.21% of <dis>visual disability</dis>, with 0.5% of children being <dis>blind</dis> in one or both eyes.
+<dis>Cerebral palsy</dis> was associated with retinopathy of prematurity, severe intraventricular haemorrhage, and periventricular leukomalacia, in particular cystic periventricular leukomalacia.

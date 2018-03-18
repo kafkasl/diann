@@ -1,0 +1,19 @@
+Abstract
+ Introduction
+<dis>Mental illness</dis> has been associated with violent behaviour.
+Criminal behaviour in the mentally ill population in Colombia has not been well studied.
+Methods
+This is a retrospective, descriptive study, from a secondary source.
+An analysis was made of the sociodemographic, clinical, and legal variables of 127 unfit to plead patients.
+A descriptive analysis of quantitative variables was performed by measures of central tendency, and frequencies and percentages were calculated for the qualitative variables.
+The software SPSS® version 21.0 was used to analyse the data, and the study was approved by the Research Committee of the CES University.
+Results
+The median age was 34 years, interquartile range 19 years, and 92.1% were men.
+The primary diagnosis was schizophrenia in 63%, 66.9% consumed alcohol, and 58.3% other drugs at the time they committed the crime.
+Almost one/third (29.1%) had a criminal record, and the most common type of crime was murder in 44.1% of cases.
+Around half (50.3%) of the victims had some degree of consanguinity with the patient.
+Discussion
+The study subjects had higher illiteracy and lower educational levels than the Colombian prison population.
+Schizophrenia was the main diagnosis, and homicide the most prevalent crime, which agrees with the literature where non- indictable patients are responsible for 5–20% of murder cases worldwide.
+Conclusions
+To reduce the gap between the diagnosis and treatment of <dis>mental disorders</dis>, especially schizophrenia, should be within the specific actions to prevent violence and criminal behaviour associated with <dis>mental illness</dis>.

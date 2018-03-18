@@ -1,0 +1,19 @@
+Abstract
+ Introduction
+The Edmonton Frailty Scale was developed in Alberta (Canada).
+It has been applied in different scenarios, such as acute units, day hospitals, and outpatient care.
+There are no studies published describing the usefulness of this scale in Colombia.
+Materials and methods
+A cross-sectional study and secondary diagnostic test analysis was designed with the objective of studying the criterion validity of the Edmonton Frail Scale using Fried's frailty criteria as standard.
+Patients 60 years old and over from the community were included.
+Patients with <dis>severe dementia</dis>, <dis>limited mobility</dis>, and unable to perform the tests were excluded.
+Results
+The study included 101 patients from the community in Floridablanca, Colombia.
+The mean age was 68.9 years, and 74% were women.
+The median walking speed was 1.1 m/sec.
+According to the Fried's criteria, 46% were vigorous elderly, and the prevalence of frailty was 7.9%.
+Using the EFS, 78% were vigorous elderly, with a prevalence of frailty of 8.9%.
+Taking 6 or more points as a cut-off, the sensitivity of this scale was 75% and had a specificity of 88%.
+Conclusions
+A similar frequency of frailty was found on applying the two measurement scales.
+It is important to highlight the multidimensional view of the Edmonton scale, complementing the data of the most physical and sarcopenia-centred phenotype of Fried's criteria.

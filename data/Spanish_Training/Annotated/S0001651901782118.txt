@@ -1,0 +1,5 @@
+Resumen
+ El entrenamiento auditivo con ruido blanco de banda ancha es una metodología para la recuperación cualitativa de la <dis>pérdida auditiva</dis> en personas con <dis>hipoacusia neurosensorial</dis> basado en la aplicación de un ruido blanco de banda ancha modificado.
+Hemos valorado en un estudio prospectivo las modificaciones del coeficiente de reclutamiento (Kr) en una muestra de 48 pacientes que han seguido un programa de 15 sesiones de entrenamiento auditivo con ruido blanco de banda ancha.
+Las mejoría media del coeficiente de reclutamiento expresada en porcentaje es del 7.7948% y para el coeficiente de reclutamiento binaural del 23.5294%.
+De nuestros resultados se concluye que el entrenamiento auditivo con ruido blanco de banda ancha disminuye el reclutamiento, considerando como tal la caída de la discriminación en intensidades elevadas, tanto binauralmente como considerando todos los oídos.

@@ -1,0 +1,9 @@
+Abstract
+ Diabetic retinopathy (DR) is the most frequent complication of diabetes and is one of the main causes of blindness in the population of working age in industrialized countries.
+In the last few years, two studies (FIELD and ACCORD-EYE) have shown that fenofibrate is a therapeutic option in the early stages of DR.
+In the FIELD study, a 30% reduction was found in the need for laser photocoagulation therapy in the group of patients treated with fenofibrate.
+This beneficial effect was confirmed in the ACCORD-EYE study, which showed a 40% reduction in DR progression in patients treated with fenofibrate and simvastatin compared with those treated with simvastatin and placebo.
+Despite the solidity of these clinical results, the mechanisms through which fenofibrate exerts a beneficial effect in DR remain unclear.
+However, these effects have been related to its antioxidant and anti- inflammatory action, an antiapoptotic effect, its ability to preserve the function of the blood-retinal barrier, and possible neuroprotective and antiangiogenic effects.
+Fenofibrate may also act through «non-classical» lipid mechanisms such as an increase in apoA1 or its ability to decrease small, dense LDL particles.
+Knowledge of these mechanisms will provide a clearer perspective on the role of this drug in the management of DR and will also help to develop new therapeutic strategies to alleviate the devastating effects of this complication of diabetes.

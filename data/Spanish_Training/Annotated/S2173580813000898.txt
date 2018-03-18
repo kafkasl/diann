@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+La APP es un síndrome clínico caracterizado por un <dis>deterioro progresivo del lenguaje de etiología neurodegenerativa</dis>.
+En los últimos años se han realizado importantes avances que han contribuido a un mayor conocimiento de esta entidad, que puede ser el modo de presentación de diferentes enfermedades neurodegenerativas.
+Desarrollo
+Se revisan los principales aspectos epidemiológicos, clínicos, diagnósticos, etiológicos y terapéuticos de la APP.
+La mayoría de los casos son esporádicos, iniciándose en torno a los 50-70 años.
+Se han descrito 3 subtipos clínicos principales: APP-no fluente o agramatical; APP-semántica; y APP-logopénica.
+Cada subtipo se ha asociado de forma preferencial a una anatomía patológica concreta, aunque la capacidad predictiva del diagnóstico clínico no es completa.
+Entre los biomarcadores disponibles, destacan la neuroimagen anatómica y funcional.
+Se han ensayado diferentes tratamientos, sin demostrarse un beneficio claro.
+No obstante, los inhibidores de acetilcolinesterásica pueden estar indicados, especialmente en la variante logopénica.
+Conclusiones
+La APP es un síndrome emergente, con una prevalencia probablemente mayor de la esperada.
+Considerada previamente como parte del <dis>espectro de la demencia frontotemporal</dis>, también está relacionada con la enfermedad de Alzheimer.
+El diagnóstico clínico, completado con el uso de biomarcadores, puede predecir la anatomía patológica subyacente, lo que a su vez supondrá mayores oportunidades en el tratamiento.

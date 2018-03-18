@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+La enfermedad de Creutzfeldt-Jakob (ECJ) es una encefalopatía espongiforme transmisible, debido al acúmulo de una isoforma alterada de la proteína priónica (PrPsc) en el encéfalo.
+El cuadro clínico consiste en <dis>demencia rápidamente progresiva</dis>, <dis>ataxia</dis> y mioclonías, con alteraciones en el electroencefalograma (EEG), proteína 14-3-3 positiva en líquido cefalorraquídeo y alteraciones en resonancia magnética (RM).
+Su diagnóstico definitivo es anatomopatológico.
+Caso clínico
+Mujer de 64 años con <dis>ataxia rápidamente progresiva</dis>, <dis>trastornos visuales</dis>, <dis>disartria</dis>, disdiadococinesia dismetría y distonía axial.
+Apraxia, amiotrofia mioclonías y crisis convulsivas.
+Fallece a los 4 meses de inicio con <dis>marcado deterioro motor</dis>, rigidez y postura en flexión, con <dis>escaso deterioro cognitivo conductual</dis>.
+Se realiza estudio anatomopatológico con biología molecular.
+Conclusiones
+Presentamos un caso de ECJ «definida» con clínica infrecuente de <dis>ataxia</dis>, mioclonías, <scp><neg>sin</neg> <dis>deterioro cognitivo</dis> para su genotipo</scp> (M/V1).
+Aún con EEG atípico y proteína 14-3-3 no concluyente, nuestra sospecha diagnóstica fue guiada principalmente por la rápida velocidad de instalación de los síntomas.
+En este caso nos ha resultado muy importante el estudio mediante RM encefálica de alto campo, con las secuencias adecuadas, para demostrar imágenes típicas y arribar al diagnóstico definido.

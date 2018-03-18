@@ -1,0 +1,17 @@
+Abstract
+ Introduction
+There is little information on the limitation of therapeutic effort (LTE) in patients admitted to hospital internal medicine units.
+Objectives
+To describe the indicated LTE regimens in the departments of internal medicine and the characteristics of the patients who undergo them.
+Patients and methods
+An observational, descriptive retrospective study was conducted on 4 hospitals of the Community of Madrid.
+The study collected demographic and comorbidity data and the LTE orders prescribed for all patients who died during a period of 6 months.
+Results
+The study included 382 patients with a mean age of 85 ± 10 years; 204 were women (53.4%) and 222 (58.1%) came from their homes.
+Some 51.1% of the patients were terminal, 43.2% had moderate to severe dementia, and 95.5% presented at least moderate comorbidity.
+Some type of LTE was performed in 318 patients (83.7%); the most common orders were “No cardiopulmonary resuscitation” (292 patients, 76.4%; 95% CI 72.1-80.8), “Do not use aggressive measures” (113 patients, 16.4%; 95% CI 13.7-19.4) and “Do not transfer to an intensive care unit” (102 cases, 14.8%, 95% CI 12.3-17.7).
+Some type of LTE was performed in 318 patients (83.7%); the most common orders were “No cardiopulmonary resuscitation” (292 patients, 76.4%; 95% CI 72.1-80.8), “Do not use aggressive measures” (113 patients, 16.4%; 95% CI 13.7-19.4) and “Do not transfer to an intensive care unit” (102 cases, 14.8%, 95% CI 12.3-17.7).
+Conclusions
+LTE is common among patients who die in Internal Medicine.
+The most widely used regimens were “No CPR” and the unspecific statement “Do not use aggressive measures”.
+The patients were elderly and had significant comorbidity, terminal illness and advanced dementia.

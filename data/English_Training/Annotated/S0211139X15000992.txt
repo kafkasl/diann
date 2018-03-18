@@ -1,0 +1,19 @@
+Abstract
+ Objective
+To analyse the relationship between the primary diagnosis on admission to an Acute Geriatric Unit (AGU) and the risk of hospital mortality and one year after discharge
+Material and methods
+A longitudinal study was conducted on patients admitted to the Central Hospital AGU Red Cross in Madrid in 2009.
+The admission diagnosis was grouped by Diagnosis Related Groups (DRGs).
+The date of death was collected from the medical charts and the National Death Index Ministry of Health report.
+The main outcome of study was the association between diagnoses on admission and <dis>functional impairment</dis> at discharge (measured as a loss of 10 or more points between the Barthel Index at discharge and that on admission), mortality during hospitalization, at 3 months and one year after discharge.
+The multivariate analysis was adjusted for age, sex, comorbidity, functional and cognitive status, and serum albumin.
+Results
+The study included1147 patients, with a mean age of 86.7 years (SD ± 6.7), and 66% were women.
+During admission, 10.1% of patients died and 36.6% had <dis>functional impairment</dis> at discharge.
+After discharge, 25.5% died at 3 months, and 42.2% at one year.
+The distribution of the primary diagnoses at admission (between parentheses hospital mortality and at year) were heart failure, 21.4% (8.1% and 37.4%), pneumonia,13.3% (12.3% and 46.4%), and aspiration pneumonia, 4.7% (27.5%, y 71%), respiratory diseases,13.3% (6.6% and 38.2%), urinary infection,10.2% (5.1% and 42.7%), and stroke (excluding AIT), 9.9% (13.3% and 46.9%).
+In the multivariate analysis, only admissions due to aspiration pneumonia were independently associated with increased risk of hospital mortality (odds ratio, 2.23; 95% CI = 1.13 to 44.42), and stroke with increased risk of <dis>functional impairment</dis> at discharge (odds ratio, 6.01; 95% CI = 3.42-10.57).
+No diagnosis was independently associated with increased risk of death at 3 months and at year
+Conclusions
+Admission from aspiration pneumonia carries an increased risk of death in elderly patients hospitalised for acute medical conditions.
+After discharge, the risk of death must be attributed to factors other than the admission diagnosis

@@ -1,0 +1,16 @@
+Resumen
+ Introducción
+Existe escasa información sobre la limitación del esfuerzo terapéutico (LET) en pacientes ingresados en unidades de hospitalización de medicina interna.
+Objetivos
+Describir las pautas de LET indicadas en los servicios de medicina interna y las características de los pacientes que las reciben.
+Pacientes y métodos
+Estudio observacional descriptivo y retrospectivo de 4 hospitales de la Comunidad de Madrid.
+Se recogieron datos demográficos, de comorbilidad y las órdenes de LET pautadas en todos los pacientes fallecidos en un periodo de 6 meses.
+Resultados
+Se incluyeron 382 pacientes cuya edad media fue de 85 ± 10 años; 204 eran mujeres (53,4%) y 222 (58,1%) procedían de su domicilio.
+El 51,1% eran enfermos terminales, el 43,2% tenían <dis>demencia moderada/grave</dis> y el 95,5% presentaban comorbilidad al menos moderada.
+En 318 pacientes (83,7%) se realizó algún tipo de LET, siendo las más frecuentes las órdenes de «no reanimación cardiopulmonar» (292 enfermos, 76,4%; IC 95%: 72,1-80,8), «no usar medidas agresivas» (113 pacientes, 16,4%; IC 95%: 13,7-19,4) y «no ingresar en unidad de cuidados intensivos» (102 casos, 14,8%; IC 95%: 12,3-17,7).
+Conclusiones
+La LET es muy frecuente en los pacientes que fallecen en medicina interna.
+Las pautas más utilizadas son «no reanimación cardiopulmonar» y la expresión poco concreta de «no usar medidas agresivas».
+Los pacientes son de edad avanzada, con importante comorbilidad, enfermedad terminal y <dis>demencia avanzada</dis>.

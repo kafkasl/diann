@@ -1,0 +1,13 @@
+Purpose
+Cross-sectional study to validate a Spanish version of the 5 and 15 items Geriatric Depression Scale (GDS 5 and 15) in a non-selected community dwelling older population, compared with the clinical diagnosis of depression (using DSM-IV criteria) as gold standard.
+Patients and method
+A total of 301 subjects randomly selected from the >64 years old population served by a public Primary Care Center in Madrid were included.
+<dis>Severe cognitive impairment</dis> (MMSE < 20/30), <dis>severe hearing impairment</dis> and denial to participate were exclusion criteria.
+A descriptive and a screening study were performed.
+Results
+The prevalence of depression in this population was 14.6%.
+The 5- item GDS had a sensitivity of 0.864 (0.762-0.965), specificity of 0.856 (0.813-0.899), PPV 0.507 (0.394-0.62), NPV 0.973 (0.952-0.994), and positive likelihood ratio 6 (4.34-8.26).
+The 15-item GDS had a sensitivity of 0.818 (0.704-0.932), specificity of 0.977 (0.958-0.995), PPV 0.857 (0.751-0.963), NPV 0.969 (0.948-0.99), and positive likelihood ratio 35.03 (28.76-40.77).
+Conclusions
+GDS-5 may be useful screening test for depression in non selected elderly patients in primary care.
+It has better sensitivity than GDS-15 and similar area under curve.

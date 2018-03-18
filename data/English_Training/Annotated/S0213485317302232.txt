@@ -1,0 +1,15 @@
+Objective
+The aim of this study was to evaluate the effects of deep brain stimulation of the subthalamic nucleus (DBS-SN) on cognitive function in patients with Parkinson's disease (PD) 5 years after surgery.
+Material and methods
+We conducted a prospective study including 50 patients with PD who underwent DBS-SN (62.5% were men; mean age of 62.2±8.2 years; mean progression time of 14.1±6.3 years). 
+All patients were assessed before the procedure and at one year after surgery; 40 patients were further followed up until the 5-year mark. 
+Follow-up assessments included the following neuropsychological tests: Mini–Mental State Examination (MMSE), Mattis Dementia Rating Scale (MDRS), letter-number sequencing of the WAIS-III (WAIS-III-LN), clock-drawing test, Rey auditory verbal learning test (RAVLT), Benton Visual Retention Test (BVRT), Judgment of Line Orientation (JLO) test, FAS Phonemic Verbal Fluency Test, Stroop test, and the Montgomery-Asberg Depression Rating Scale (MADRS).
+Results
+Patients were found to score lower on the MMSE (−0.89%), clock-drawing test (−2.61%), MDRS (−1.72%), and especially phonemic (−13.28%) and sematic verbal fluency tests (−12.40%) at one year after surgery. 
+Delayed recall on the RAVLT worsened one year after the procedure (−10.12%). 
+At 5 years, impairment affected mainly verbal fluency; scores decreased an additional 16.10% and 16.60% in semantic and phonemic verbal fluency, respectively. 
+Moderate decreases were observed in immediate recall (−16.87%), WAIS-III-LN (−16.67%), and JLO test (−11.56%).
+Discussion
+In our sample, DBS-SN did <scp><neg>not</neg> result in <dis>global cognitive impairment</dis> 5 years after surgery</scp>. 
+<dis>Verbal function was found to be significantly impaired</dis> one year after the procedure. 
+<dis>Impaired learning and visuospatial function</dis> may be attributed to degeneration associated with PD.

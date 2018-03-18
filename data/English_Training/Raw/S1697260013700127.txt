@@ -1,0 +1,9 @@
+Abstract
+ Outcome prediction is an important component of treatment planning and prognosis.
+However, reliable predictors of intensive behavioral intervention (IBI) have not been clearly established.
+IBI is an evidence-based approach to the systematic teaching of academic, social, verbal, and daily living skills to individuals with autism spectrum disorder.
+Incorporating longitudinal analysis to IBI outcome studies may help to identify outcome predictors of clinical value.
+Twenty-four children with autism underwent on average two years of IBI and completed language, daily living skills, cognitive, and motor assessments (Early Learning Accomplishment Profile and the Learning Accomplishment Profile-Diagnostic, 3rd edition) every six months.
+We used multilevel analysis to identify potential longitudinal predictors including gender, age, intervention intensity, intervention duration, total intervention time, and pre-intervention functioning.
+Results indicated that total intervention time, pre-intervention functioning, and age caused the greatest increase in goodness-of-fit of the longitudinal multilevel models.
+Longitudinal analysis is a promising analytical strategy to identify reliable predictors of the clinical outcome of IBI.

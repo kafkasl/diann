@@ -1,0 +1,6 @@
+Abstract
+The auditory training with wide-band white noise is a methodology for the qualitative recovery of the hearing loss in people suffering from sensorineural hearing loss.
+It is based on the application of a wide-band white modified noise.
+In a prospective study, we have assessed the modifications of the total auditory threshold (UAt), the conversational auditory threshold (UAc), and the pain threshold (Ud) in a sample of 48 patients, who have followed a program of 15 auditory training with wide-band white noise sessions.
+The average improvements of the variables expressed in percentage are 0.78% for the UAt, 0.64% for the UAc, and 5.31% for the Ud.
+From our results, it can be deduced that the auditory training with wideband white noise does not modify the pure tone thresholds, but it moves the pain threshold towards higher intensities, enlarging the dinamic auditory field.

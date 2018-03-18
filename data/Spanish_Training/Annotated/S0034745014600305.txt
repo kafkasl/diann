@@ -1,0 +1,13 @@
+Resumen
+ Introducción
+En los trastornos bipolares, la edad de inicio se ha sugerido como una variable que puede asociarse con diferentes subtipos clínicos.
+Objetivo
+Identificar patrones en la distribución de la edad de inicio de la enfermedad bipolar y determinar si la edad de inicio se asocia con características clínicas específicas.
+Métodos
+Se usó análisis de distribuciones normales mezcladas para identificar subtipos de trastorno bipolar de acuerdo con la edad de inicio.
+Se aplicó la escala EMUN para evaluar las características clínicas y se estimaron componentes principales para evaluar la relación entre subtipos, según edad de inicio y síntomas en la fase aguda de la enfermedad, utilizando análisis multivariables.
+Resultados
+De acuerdo con la edad de inicio, se encontraron tres distribuciones: inicio temprano: 17,7 años (S. D. 2,4); inicio intermedio: 23,9 años (S. D. 5,6); inicio tardío: 42,8 años (S. D. 12,1).
+El grupo de inicio tardío es asocial, con síntomas depresivos, <dis>trastornos del pensamiento y el lenguaje</dis>, y comportamientos socialmente peligrosos.
+Conclusión
+En pacientes con enfermedad bipolar, la edad de inicio es asocial, con tres grupos que tienen características clínicas específicas.

@@ -1,0 +1,14 @@
+Resumen
+ Introducción
+El síndrome Cornelia de Lange (SCdL) se produce por afectación de los genes que codifican proteínas reguladoras o estructurales del complejo de cohesinas.
+La cardiopatía congénita (CC) no es criterio mayor de enfermedad, pero afecta a numerosos individuos.
+El objetivo de este trabajo ha sido estudiar la incidencia y tipo de CC en pacientes con SCdL.
+Material y método
+Se han evaluado los hallazgos cardiológicos en 149 pacientes con SCdL y su posible relación con variables clínicas y genéticas.
+Resultados
+Un 34,9% presentan CC (defectos septales 50%, estenosis pulmonar 27%, coartación aórtica 9,6%).
+La presencia de CC se relaciona con hospitalización neonatal (p = 0,04), <dis>hipoacusia</dis> (p = 0,002), mortalidad (p = 0,09) y menor <dis>hiperactividad</dis> (p = 0,02); es más frecuente en pacientes _HDAC8_ \+ (60%), seguido de _NIPBL_ \+ (33%) y _SMC1A_ \+ (28,5%).
+Mientras que en _NIPBL_ \+ predominan los defectos septales, en _HDAC8_ \+ es más frecuente la estenosis pulmonar.
+Conclusiones
+Los pacientes con SCdL tienen una incidencia elevada de CC, que varía según el gen afectado, siendo los hallazgos más frecuentes los defectos septales y la estenosis pulmonar.
+Se sugiere realizar estudio cardiológico en todos estos pacientes.

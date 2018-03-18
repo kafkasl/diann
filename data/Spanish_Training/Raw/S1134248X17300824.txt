@@ -1,0 +1,22 @@
+Objetivo.
+Describir cómo los familiares de los pacientes ingresados en residencias de ancianos califican la muerte y determinar qué factores influyen en esta calificación.
+
+Método.
+Estudio descriptivo y retrospectivo. 
+Se envió un cuestionario a 52 familiares de pacientes fallecidos de 8 hogares de ancianos. 
+Para evaluar los diferentes aspectos de la muerte del paciente se usaron el Inventario Buena Muerte (Good Death Inventory) y la escala de evaluación de síntomas de Edmonton (ESAS), además de preguntas abiertas sobre la toma de decisiones al final de la vida. 
+Se realizaron pruebas no paramétricas para comprobar si había diferencias entre la calificación respecto a variables sociodemográficas y clínicas, síntomas físicos, toma de decisiones y calidad del fin de vida.
+
+Resultados.
+Treinta y cuatro familiares respondieron al cuestionario. 
+El 67,6% fueron mujeres, con una edad media de 57,03 años (DT = 12,35). 
+En cuanto a los pacientes fallecidos, la mayoría de ellos fueron mujeres (61,8%), con una edad media de 86 años (DT = 7,23). 
+El 48,3% tenía deterioro cognitivo y el síntoma más intenso en los últimos días de vida de fue la depresión (media [m] = 7,75; DT = 2,44). 
+La dimensión que los familiares puntuaron mejor fue «Ser respetado como individuo» (m = 6,01; DT = 1,56) y la peor «Independencia» (m = 1,72; DT = 1,28). 
+Los familiares de pacientes con demencia reportaron en menor porcentaje de una buena muerte (23,1% vs. 61,1%, p = 0,00) que el resto. 
+Las dimensiones «Bienestar físico y psicológico» (p = 0,00), «Mostrar esperanza y placer» (p = 0,03) y «Sentir que su vida vale la pena vivirla» (p = 0,01) obtuvieron mayores puntuaciones en los casos que se informó de una buena muerte.
+
+Discusión.
+Casi la mitad de los familiares de los pacientes fallecidos en hogares de ancianos informó de una buena calidad de muerte. 
+Aspectos tales como el respeto humano y la intimidad fueron valorados positivamente. 
+La demencia es un factor que debe tenerse en cuenta en futuros estudios.

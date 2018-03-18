@@ -1,0 +1,11 @@
+Resumen
+ Caso clínico
+Varón de 30 años con ictiosis, <dis>retraso intelectual</dis>, epilepsia y espasticidad.
+La exploración oftalmológica presenta agudeza visual corregida de 0,5 y maculopatía cristalina bilateral.
+La tomografía de coherencia óptica (OCT) muestra depósitos hiperrefringentes y pequeños quistes intrarretinianos foveales.
+Se diagnostica de síndrome de Sjögren-Larsson (SSL) y se confirma con el análisis genético.
+Discusión
+El SSL ocurre por mutaciones en el gen ALDH3A2.
+Se identifica una nueva mutación, la c.681-14T>G, no descrita previamente.
+La OCT permite analizar la mácula y detectar cambios, incluso no visibles oftalmoscópicamente.
+Su empleo es importante, porque ofrece imágenes específicas del SSL y ayuda al diagnóstico de esta rara enfermedad sistémica.

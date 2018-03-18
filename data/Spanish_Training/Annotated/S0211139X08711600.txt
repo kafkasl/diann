@@ -1,0 +1,13 @@
+Objetivo
+analizar la prevalencia de sintomatología depresiva y <dis>deterioro cognitivo</dis> en las mujeres mayores no institucionalizadas de la ciudad de Cali (Colombia).
+Material y métodos
+para la presente investigación se llevó a cabo un estudio descriptivo de corte transversal, donde se aplicaron 2 instrumentos: la escala de depresión de Yesavage (versión de 15 ítems) y la prueba de Pfeiffer.
+Se seleccionó a 416 mujeres mayores de 60 años de la ciudad de Cali (Colombia) que asistían a diferentes centros de día de la ciudad.
+La selección se realizó durante el primer semestre del 2004 mediante un muestreo no probabilístico.
+La asociación de las variables sociodemográficas y clínicas con <dis>deterioro cognitivo</dis> se evaluó mediante un modelo de regresión logística.
+Resultados
+la prevalencia encontrada de sintomatología depresiva fue del 19,95% (intervalo de confianza [IC] del 95%, 15,99-23,91%) y de <dis>deterioro cognitivo</dis> del 2,64% (IC del 95%, 0,98- 4,31%).
+En el análisis multivariante no se apreciaron factores predictores, aunque sí existe un mayor riesgo de sufrir <dis>deterioro cognitivo</dis> entre las mujeres que presentan sintomatología depresiva ( _odds ratio_ [OR] = 3,171; IC del 95%, 0,833-12,081%) y entre las más mayores (OR = 5,979; IC del 95%, 0,990-36,131%); parece que disponer de mayores ingresos es un factor protector (OR = 0,160; IC del 95%, 0,018-1,446%).
+Conclusiones
+la sintomatología depresiva y el <dis>deterioro cognitivo</dis> presentan una moderada prevalencia en las mujeres no institucionalizadas.
+Es importante conocer la prevalencia de estos trastornos en cada centro de atención, con el objetivo de diseñar programas de intervención que contribuyan a mejorar la calidad de vida de las mujeres adultas mayores y disminuyan los factores causales de depresión y del <dis>deterioro cognitivo</dis>.

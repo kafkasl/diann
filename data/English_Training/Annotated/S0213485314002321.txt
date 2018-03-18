@@ -1,0 +1,11 @@
+Abstract
+ Background
+Fragile X syndrome, the most common inherited cause of <dis>intellectual disability</dis>, is associated with a broad spectrum of disorders across different generations of a single family.
+This study reviews the clinical manifestations of fragile X-associated disorders as well as the spectrum of mutations of the fragile X mental retardation 1 gene ( _FMR1_ ) and the neurobiology of the fragile X mental retardation protein (FMRP), and also provides an overview of the potential therapeutic targets and genetic counselling.
+Development
+This disorder is caused by expansion of the CGG repeat (> 200 repeats) in the 5 prime untranslated region of _FMR1_ , resulting in a deficit or absence of FMRP.
+FMRP is an RNA-binding protein that regulates the translation of several genes that are important in synaptic plasticity and dendritic maturation.
+It is believed that CGG repeat expansions in the premutation range (55 to 200 repeats) elicit an increase in mRNA levels of _FMR1_ , which may cause neuronal toxicity.
+These changes manifest clinically as developmental problems such as <dis>autism</dis> and <dis>learning disabilities</dis> as well as neurodegenerative diseases including fragile X-associated tremor/ataxia syndrome (FXTAS).
+Conclusions
+Advances in identifying the molecular basis of fragile X syndrome may help us understand the causes of <dis>neuropsychiatric disorders</dis>, and they will probably contribute to development of new and specific treatments.

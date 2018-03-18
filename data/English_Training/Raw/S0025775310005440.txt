@@ -1,0 +1,13 @@
+Abstract
+ Background and objetive
+A broad spectrum of clinical disorders is produced by mutations in the DNA polymerase gamma mitochondrial ( _POLG_ ) gene which are associated with altered mitochondrial DNA (mtDNA) integrity.
+The majority of disorders characterized by multiple mtDNA deletions present with progressive external ophthalmoplegia, though this feature is not usually found in syndromes caused by mtDNA depletion.
+We report on a patient having the clinical triad of sensory ataxic neuropathy, dysarthria and ophthalmoplegia (SANDO), _POLG_ mutations and reduced muscle mtDNA content.
+Patient and methods
+The patient presented with sensory ataxic neuropathy, dysarthria and ophthalmoplegia.
+Diagnosis was established by using histological and genetic procedures (nerve biopsy, mtDNA molecular analysis in skeletal muscle and mutation screening in the _POLG_ gene).
+Results
+Sural nerve biopsy showed marked loss of large myelinated fibers.
+Skeletal muscle analysis revealed multiple mtDNA deletions, a marked decrease in mtDNA copy number and pathogenic mutations in the _POLG_ gene.
+Conclusions
+ _POLG_ mutations must be considered in all patients with the cardinal findings of the SANDO phenotype, without taking into account the type of abnormalities encountered in the mitochondrial genome.

@@ -1,0 +1,27 @@
+Objetivo.
+Determinar prevalencias y perfiles de las personas con enfermedades crónicas avanzadas en atención primaria y analizar elementos relacionados con su mortalidad para orientar estrategias de mejora.
+
+Diseño.
+Estudio observacional, analítico y prospectivo durante 3años de una cohorte de personas con necesidades paliativas.
+
+Emplazamiento.
+Tres equipos de atención primaria del Área de Gestión Asistencial de Osona (Cataluña).
+
+Participantes.
+Un total de 251 personas identificadas como enfermos avanzados mediante una estrategia poblacional sistemática que incluye el test NECPAL.
+
+Mediciones principales.
+Perfil demográfico y clínico básico (edad, sexo, tipo de domicilio, nivel de estratificación y enfermedad principal); fecha, lugar y causa de los eventuales fallecimientos.
+
+Resultados.
+El 1% de la población adulta analizada presenta enfermedades avanzadas. 
+El 56,6% son mujeres, con una mediana de edad de 85años. 
+El 49,3% son personas con <dis>demencia</dis> o fragilidad avanzada, el 13,7% tienen cáncer. 
+El 24,3% viven en residencias. 
+La mortalidad acumulada a los 3años es del 62,1%, con una mediana de supervivencia de 23meses. 
+Los factores significativamente relacionados con la probabilidad de morir son tener cáncer, el sexo femenino y el sobreenvejecimiento. 
+Los pacientes fallecen en su domicilio (47,3%), en un hospital de atención intermedia (37,2%) o en un hospital de agudos (15,5%) en función de determinados factores explicativos.
+
+Conclusiones.
+En la población analizada la prevalencia y características de la enfermedad avanzada comunitaria coinciden con la reportada en la literatura. 
+La atención primaria es el nivel de atención potencialmente referente de estos pacientes, especialmente si incorpora el entorno residencial en su ámbito de actuación.

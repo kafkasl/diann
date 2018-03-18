@@ -1,0 +1,14 @@
+Resumen
+ Antecedentes y objetivo
+La evaluación funcional es relevante en pacientes con <dis>deterioro cognitivo</dis> (<dis>DC</dis>).
+La escala _Disability Assessment for Dementia_ (DAD) mide la capacidad funcional y su uso está cada vez más extendido.
+El objetivo es realizar una traducción y adaptación cultural de la escala DAD para generar una versión española: DAD-E.
+Pacientes y método
+Se ha desarrollado un proceso de doble traducción y traducción inversa, un estudio piloto con 14 cuidadores de pacientes con <dis>deterioro cognitivo</dis> y 3 reuniones de consenso.
+Resultados
+El DAD-E mantiene los 40 ítems originales.
+Se han añadido a la codificación de respuestas y puntuaciones originales 4 opciones de respuesta y 8 puntuaciones con el objetivo de detectar la <dis>discapacidad funcional</dis> exclusivamente causada por <dis>DC</dis>.
+Se han modificado y ampliado las instrucciones de administración para mejorar la fiabilidad del contenido.
+Conclusiones
+La versión DAD-E supone una adaptación lingüística y cultural equivalente de la escala original, lo que permite su uso en nuestro contexto español.
+Puede ser un instrumento de gran utilidad clínica, ya que proporciona una evaluación más precisa de la <dis>discapacidad funcional</dis> causada por <dis>DC</dis>.

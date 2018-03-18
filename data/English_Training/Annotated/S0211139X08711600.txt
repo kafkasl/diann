@@ -1,0 +1,15 @@
+Objective
+to analyze the prevalence of depressive syndrome and <dis>cognitive impairment</dis> in elderly non-institutionalized women in Cali (Colombia).
+Material and methods
+we performed a cross-sectional descriptive study.
+The Yesavage depression scale (15-item version) and the Pfeiffer test were applied.
+A total of 416 women over the age of 60 years old living in the city of Cali and attending distinct health centres were chosen during the first semester of 2004, using non-probabilistic sampling.
+The association of sociodemographic and clinical variables with <dis>cognitive impairment</dis> was evaluated using a logistic regression model.
+Results
+the prevalence of depression was 19.95% (95% CI, 15.99-23.91%) and that of <dis>cognitive deterioration</dis> was 2.64% (95% CI, 0.98-4.31%).
+No predictive factors were found in the multivariate analysis, although a higher risk of <dis>cognitive deterioration</dis> was observed in women with depression (OR = 3.171; 95% CI, 0.833-12.081%).
+Among the oldest women (OR = 5.979; 95% CI, 0.990-36.131%), higher income seemed to be a protective factor (OR = 0.160; 95% CI, 0.018-1.446%).
+Conclusions
+a moderate prevalence of depressive symptomatology and <dis>cognitive impairment</dis> was found in non-institutionalized elderly women.
+The prevalence of these disorders should be determined in each health centre.
+This would enable intervention programs aimed at improving quality of life in these women to be designed and would help to reduce the factors causing depression and <dis>cognitive impairment</dis>.

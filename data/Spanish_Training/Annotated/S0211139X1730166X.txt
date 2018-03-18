@@ -1,0 +1,20 @@
+Introducción.
+La prevalencia de <dis>deterioro cognitivo</dis> <scp><neg>libre de</neg> <dis>demencia</dis></scp> (<dis>DCLD</dis>) varía entre el 5,1 y el 35,9%, con un aumento entre los 65 y los 85 años. 
+El <dis>DCLD</dis> incrementa el riesgo de <dis>demencia</dis>. 
+Factores como nivel educativo, ocupación y actividades sociales se asocian con el riesgo de <dis>deterioro cognitivo</dis>. 
+El objetivo principal de este estudio fue analizar la asociación entre la principal ocupación a lo largo de la vida y el <dis>DCLD</dis> en una muestra de población general de mayores de 55 años.
+
+Material y métodos.
+En la fase I del proyecto ZARADEMP se entrevistó a una muestra (n=4.803) de personas mayores de 55 años. 
+La medida del <dis>DCLD</dis> se obtuvo a través del Examen Cognoscitivo Mini Mental. 
+La actividad laboral se recodificó en cuello blanco, cuello azul, labores del hogar y agricultores. 
+Se estimó la asociación entre las variables ocupación y <dis>DCLD</dis> a través de odds ratio e intervalos de confianza del 95% mediante ecuaciones de regresión logística.
+
+Resultados.
+La prevalencia de <dis>DCLD</dis> en la muestra fue del 28,2%. 
+Con respecto a los trabajadores de cuello blanco, la odds ratio de diagnóstico de <dis>DCLD</dis> fue un 53% mayor para aquellos trabajadores de cuello azul, un 77% mayor para mujeres que desempeñaron labores del hogar y casi el doble para los agricultores, tras controlar por variables sociodemográficas, conductuales y clínicas. 
+Todos los resultados fueron estadísticamente significativos.
+
+Conclusiones.
+La frecuencia de <dis>DCLD</dis> está influida por la ocupación laboral previa de los sujetos. 
+Una ocupación con mayores requerimientos intelectuales puede ayudar a mantener las funciones cognitivas intactas durante más tiempo.

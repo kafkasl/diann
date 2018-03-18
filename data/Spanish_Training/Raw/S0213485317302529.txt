@@ -1,0 +1,20 @@
+Introducción.
+La enfermedad de Alzheimer (EA) es una patología neurodegenerativa caracterizada por demencia de carácter progresivo asociada a una perdida global de funciones cognitivas.
+
+Métodos.
+Se realizó una síntesis de evidencia a través de una revisión sistemática con metaanálisis de ensayos clínicos que hayan evaluado la suplementación de omega-3 en pacientes con EA.
+
+Objetivo.
+Determinar si existe evidencia científica que avale la efectividad de la suplementación omega-3 en la mejoría de la función cognitiva de pacientes con EA.
+
+Estrategia de búsqueda.
+La estrategia de búsqueda incluyó solo ensayos clínicos aleatorizados (ECA). 
+Las bases de datos usadas fueron: Medline, Cochrane Central, Cinahl y Lilacs. 
+Además, se realizó una búsqueda electrónica en Google Scholar.
+
+Selección de estudios.
+Se obtuvieron 6 artículos que cumplían con nuestros criterios de elegibilidad. 
+Se evaluó el riesgo de sesgo según el método Cochrane.
+
+Conclusión.
+No hay evidencia consistente que avale la suplementación de omega-3 versus placebo en la mejoría de la función cognitiva de pacientes con EA a corto y mediano plazo.

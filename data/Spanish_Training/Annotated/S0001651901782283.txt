@@ -1,0 +1,5 @@
+Resumen
+El entrenamiento auditivo con ruido blanco de banda ancha es una metodología para la recuperación cualitativa de la <dis>pérdida auditiva</dis> en personas con <dis>hipoacusia neurosensorial</dis> basado en la aplicación de un ruido blanco de banda ancha modificado.
+Hemos valorado en un estudio prospectivo las modificaciones del umbral auditivo total (UAt), el umbral auditivo conversacional (UAc) y el umbral de dolor o algiacusia (Ud) en una muestra de 48 pacientes que han seguido un programa de 15 sesiones de entrenamiento auditivo con ruido blanco de banda ancha.
+Las mejorías medias de las variables expresadas en porcentaje son 0,78% para el UAt, 0.64% para el UAc, y 5,31% para el Ud.
+De nuestros resultados se concluye que el entrenamiento auditivo con ruido blanco de banda ancha no modifica significativamente los umbrales para los tonos puros, pero desplaza los umbrales de algiacusia hacia intensidades mayores ampliando el campo dinámico auditivo.

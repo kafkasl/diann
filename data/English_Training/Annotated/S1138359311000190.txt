@@ -1,0 +1,4 @@
+Abstract
+ <dis>Cognitive impairment</dis> is becoming increasingly more common in primary care, and not all is due to Alzheimer's disease or <dis>Vascular Dementia</dis>.
+Other diagnostic possibilities, such as normotensive hydrocephalus or chronic adult hydrocephalus also have very similar signs.
+A clinical case of normotensive hydrocephalus is presented, a condition that is characterised by a typical triad: <dis>Gait disturbance</dis>, <dis>dementia</dis> and urinary incontinence.

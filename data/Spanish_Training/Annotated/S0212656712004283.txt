@@ -1,0 +1,24 @@
+Resumen
+ Objetivo
+Determinar los factores de riesgo cardiovascular (FRCV), estratificar el riesgo cardiovascular (RCV) y analizar la relación entre RCV y calidad de vida en pacientes con <dis>trastorno mental severo</dis> (<dis>TMS</dis>).
+Diseño
+Estudio descriptivo transversal.
+Emplazamiento
+Servicio de Salud Mental, Consorcio Hospitalario de Vic (Barcelona).
+Participantes
+Pacientes con <dis>TMS</dis> mayores de 18 años.
+Mediciones principales
+Se recogieron variables sociodemográficas, hábitos tóxicos, enfermedades previas, antecedentes familiares de enfermedad cardiovascular prematura, diagnósticos psiquiátricos, y parámetros físicos y analíticos.
+El RCV se determinó por las escalas SCORE y REGICOR.
+La calidad de vida se midió con los cuestionarios Euro-QOL y Sevilla.
+Resultados
+Se incluyeron 137 pacientes con <dis>TMS</dis>, 64,9% mujeres, edad media de 51,1 años (DE: 12,9).
+Distribución de los FRCV mayores: 40,1% tabaquismo, 37,9% hipertensión arterial, 56,2% dislipidemia y 11,1% diabetes.
+Un 37,9% cumplían criterios de obesidad y el 48,4% de síndrome metabólico.
+La media de FRCV mayores fue de 1,5 factores.
+El RCV fue alto en el 4,6% de la muestra según la SCORE y del 5,4% según REGICOR.
+Ni los pacientes que acumulaban más FRCV ni los que tenían RCV elevado presentaron puntuaciones peores en calidad de vida.
+Conclusiones
+Los FRCV más prevalentes en los pacientes con <dis>TMS</dis> son el tabaquismo y la dislipidemia, con prevalencias que superan a la de los estudios de base poblacional.
+El subgrupo de trastornos depresivos presentó un RCV mayor y peores resultados en la calidad de vida.
+No se observó relación entre el RCV y la calidad de vida.

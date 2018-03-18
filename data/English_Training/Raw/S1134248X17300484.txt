@@ -1,0 +1,14 @@
+Objective
+to Analyze the characteristics of patients with dementia attended by a home care support team and to establish whether there are differences from patients with other diseases.
+Material and methods
+A prospective, comparative analytical study of 2 cohorts of patients attended at home, one with dementia and one without, comparing age, sex, principal caregiver, number of visits and time of follow-up, reason for discharge, medical comorbidity, Barthel index prior to intervention and on the first home care support team visit, Pfeiffer questionnaire, type of dementia and Global Deterioration Scale of Reisberg, amount of previous medication, presence of symptoms (pain, dyspnoea, nausea, anxiety, depression, insomnia, agitation) treatment of symptoms or modification of previous treatment, need for sedation. 
+Data analysis with SPSS 15.0 software.
+Results
+Of all patients attended (N=638), 195 comprised the cohort of patients with dementia (30.7%). 
+The most common cause was vascular dementia 40.4% (N=74). 
+The average Global Deterioration Scale was 6±1.05, with an average score of 8.87 errors in the Pfeiffer test and average Barthel index of 11.9± 23. 
+In the patients without dementia, significant differences were obtained in terms of functional and cognitive status (Barthel index of 52.34±38 and Pfeiffer test with an average score of 1.48 ±3.2 (P<.001)). 
+The patients with dementia, most commonly institutionalised (37.9% versus 11.8% in non-demented), presented a greater amount of immobility syndrome (70.3% versus 24%) and pressure ulcers (19.6% compared to 3.9%), fewer symptoms other than agitation and less need for palliative sedation (8.2% versus 20.4%). 
+These are patients with lower mortality 31.8% versus 53.1%) and a reduced need for hospitalisation (6.7% versus 17.5%), with no differences in clinical activity.
+Conclusions
+Our results suggest that these patients have a slowly progressive symptomatic and functional profile that will require attention at times of crisis, hospital admissions could be reduced by adequate control of symptoms.

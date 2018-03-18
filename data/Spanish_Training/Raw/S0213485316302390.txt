@@ -1,0 +1,20 @@
+Objetivo.
+Tras la activación del código ictus, hasta un 30% de los pacientes presentan cuadros imitadores del ictus, siendo la epilepsia el más frecuente. 
+Evaluamos la utilidad de la TC cerebral multiparamétrica para la diferenciación de los déficit de origen comicial versus vascular.
+
+Material y métodos.
+Estudio observacional retrospectivo con recogida prospectiva de datos. 
+Se revisan imágenes de TC multiparamétrica de pacientes atendidos como código ictus durante un año que finalmente fueron diagnosticados de etiología comicial.
+
+Resultados.
+N=11 (varones 36%, edad media 74,5años). 
+Tres pacientes presentaban focalidad neurológica derecha, 4 focalidad izquierda y 4 afasia aislada. 
+El tiempo máximo desde el inicio de la clínica hasta la realización de la TC multiparamétrica fue de 8,16 h. 
+La TC perfusión fue normal en 2 pacientes. 
+Nueve pacientes mostraron alargamiento/acortamiento del tiempo al pico (Tmáx), siendo los mapas de flujo y volumen variables. 
+El electroencefalograma se realizó con un tiempo máximo de evolución desde el inicio de la clínica de 47,6h. 
+Cuatro registros mostraron hallazgos compatibles con estatus epiléptico, 2 actividad epileptiforme focal y los 5 restantes lentificación poscrítica ipsolateral a las anomalías de la TC perfusión.
+
+Conclusión.
+El alargamiento del tiempo al pico en una distribución cortical multilobar en ausencia de oclusión de gran vaso y con respeto de ganglios de la base ha resultado el parámetro más sensible para la diferenciación de estas entidades en nuestra serie. 
+Consideramos que la TC cerebral multiparamétrica es una herramienta rápida, disponible y útil para el diagnóstico diferencial de síntomas neurológicos deficitarios de inicio brusco debidos a etiología comicial que son atendidos como código ictus.

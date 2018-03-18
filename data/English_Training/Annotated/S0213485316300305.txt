@@ -1,0 +1,12 @@
+Introduction
+Repetitive transcranial magnetic stimulation (rTMS) is a therapeutic reality in post-stroke rehabilitation. 
+It has a neuroprotective effect on the modulation of neuroplasticity, improving the brain's capacity to retrain neural circuits and promoting restoration and acquisition of new compensatory skills.
+Development
+We conducted a literature search on PubMed and also gathered the latest books, clinical practice guidelines, and recommendations published by the most prominent scientific societies concerning the therapeutic use of rTMS in the rehabilitation of stroke patients. 
+The criteria of the International Federation of Clinical Neurophysiology (2014) were followed regarding the inclusion of all evidence and recommendations.
+Conclusions
+Identifying stroke patients who are eligible for rTMS is essential to accelerate their recovery. 
+rTMS has proven to be safe and effective for treating stroke complications. 
+Functional brain activity can be optimised by applying excitatory or inhibitory electromagnetic pulses to the hemisphere ipsilateral or contralateral to the lesion, respectively, as well as at the level of the transcallosal pathway to regulate interhemispheric communication. 
+Different studies of rTMS in these patients have resulted in improvements in <dis>motor disorders</dis>, <dis>aphasia</dis>, <dis>dysarthria</dis>, <dis>oropharyngeal dysphagia</dis>, depression, and <dis>perceptual-cognitive deficits</dis>. 
+However, further well-designed randomized controlled clinical trials with larger sample size are needed to recommend with a higher level of evidence, proper implementation of rTMS use in stroke subjects on a widespread basis.

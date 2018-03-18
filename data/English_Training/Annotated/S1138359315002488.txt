@@ -1,0 +1,6 @@
+Abstract
+ Diabetic retinopathy (DR) is considered the most common cause of <dis>blindness</dis> in the working-age population in industrialised countries, with diabetic macular oedema being the most common reason of decreased visual acuity in diabetics.
+According to the results of large multicentre studies, <dis>blindness</dis> prevention for RD involves conducting periodic check-ups, which include examinations of the back of the eye, so they can be treated in time.
+The use of non-mydriatic cameras and telemedicine have been shown to be useful in this regard (sensitivity > 80% and specificity > 90%).
+If this procedure is followed, the first retinography should be performed 5 years from diagnosis in type 1 diabetics and immediately after diagnosis in type 2 diabetics.
+Therefore the role of the Primary Care physician is crucial to enable early diagnosis of this disease.

@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+The Fototest is a brief cognitive test suitable for illiterate persons, and valid and accurate for detecting <dis>cognitive impairment</dis> or <dis>dementia</dis>.
+Our aim was to conclude the development of this instrument carrying out a normative and reliability study.
+Method
+The normative study was performed on a convenience sample of 223 healthy volunteers aged between 20 and 85 years.
+The test-retest reliability was assessed through a repeated-measures cross-sectional design on a sample of 50 subjects <scp>with <neg>no</neg> <dis>cognitive impairment</dis></scp>; the inter-rater reliability was determined by the blind assessment of 10 test applications performed by 30 independent observers; in both instances, reliability was expressed as intra- class correlation coefficient.
+Internal consistency was analysed by Cronbach's alpha coefficient.
+Results
+The results on the Fototest are normally distributed and are not influenced by gender or educational level but they do vary with age.
+The test-retest reliability of the Fototest was 0.89 (95% CI: 0.81-0.93); the inter-rater reliability, 0.98 (95% CI: 0.96-0.99); and the internal consistency, 0.94.
+Conclusions
+The Fototest is free from educational influence and shows appropriate test- retest and inter-rater reliabilities, as well as a high internal consistency.
+Therefore, it is a suitable psychometric instrument to be used in the follow- up of patients with <dis>cognitive impairment</dis> or <dis>dementia</dis>, especially in contexts where evaluators are not the same on different occasions, or with patients of low educational level.

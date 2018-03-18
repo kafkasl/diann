@@ -1,0 +1,10 @@
+Resumen
+ Caso clínico Paciente que acude por <dis>pérdida crónica de visión bilateral indolora</dis> en el que destaca el uso de Interferón alfa (IFNα) y ribavirina para un trasplante hepático.
+Con un fondo de ojo normal, la sospecha de neuropatía óptica retrobulbar viene confirmada por la prolongación de la latencia de los potenciales evocados visuales.
+Sin antecedentes de riesgo y con un estudio sistémico normal, la mejoría clínica y de las pruebas electrofisiológicas tras retirar el fármaco señalan al IFNα como causa de la afectación del nervio óptico bilateral.
+Discusión El IFNα es un tratamiento usado en enfermedades virales y neoplásicas.
+Actualmente es formulado como Interferón alfa pegilado (IFNα-p) para reducir toxicidad y mejorar su tolerancia.
+Sus efectos secundarios más comunes son síndrome gripal, astenia y pérdida de peso.
+La afectación ocular es rara y la neuropatía óptica es una complicación infrecuente siendo más frecuente la retinopatía en el inicio del tratamiento.
+La hipótesis más aceptada como causa de la toxicidad es la existencia de complejos inmunes circulantes.
+Así pues es de vital importancia para el oftalmólogo conocer la toxicidad de este fármaco para saber retirar a tiempo el mismo, evitando una posible <dis>pérdida visual irreversible</dis>.

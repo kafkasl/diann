@@ -1,0 +1,8 @@
+Abstract
+ <dis>Sensorineural hearing loss</dis> is a caused by the loss of the cochlear hair cells with the consequent deafferentation of spiral ganglion neurons.
+Humans do not show endogenous cellular regeneration in the inner ear and there is no exogenous therapy that allows the replacement of the damaged hair cells.
+Currently, treatment is based on the use of hearing aids and cochlear implants that present different outcomes, some difficulties in auditory discrimination and a limited useful life.
+More advanced technology is hindered by the functional capacity of the remaining spiral ganglion neurons.
+The latest advances with stem cell therapy and cellular reprogramming have developed several possibilities to induce endogenous regeneration or stem cell transplantation to replace damaged inner ear hair cells and restore hearing function.
+With further knowledge of the cellular and molecular biology of the inner ear and its embryonic development, it will be possible to use induced stem cells as _in vitro_ models of disease and as replacement cellular therapy.
+Investigation in this area is focused on generating cellular therapy with clinical use for the treatment of <dis>profound sensorineural hearing loss</dis>.

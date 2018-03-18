@@ -1,0 +1,39 @@
+Objetivos.
+La Comisión Contra la Violencia del Hospital Clínico San Carlos (Madrid) puso en marcha en 2012 un plan integral de detección y seguimiento de los casos de sospecha de malos tratos al adulto mediante un registro hospitalario. 
+En este estudio se valoran los resultados de los primeros 3años analizando las diferencias en función de la edad (menores y mayores de 65años).
+
+Material y métodos.
+De acuerdo con el registro se han comparado los resultados de mayores y menores de 65años relativos a: sexo, lugar del registro, responsable de la notificación, historia de violencia previa, tipo de maltrato, recursos empleados y seguimiento. 
+También se recogió la tasa de fallecidos en el primer año. 
+El procesamiento y análisis de los datos se realizó mediante el paquete estadístico SPSS 18.0.
+
+Resultados.
+El número registrado de casos de sospecha durante los 3años (2013-2015) fue de 172. 
+GrupoA (15-64años): 140 casos. 
+GrupoB (>65años): 32 (22,8%). 
+Sexo: GrupoA: 93,5% mujeres. 
+GrupoB: 78,1% (p=0,014). 
+Lugar del registro: GrupoA: urgencias: 90,7%, hospitalización: 6,4%, consultas externas: 3,0%. 
+GrupoB: urgencias: 65,6%, hospitalización: 31,6%, consultas externas: 2,8% (p=0,001). 
+Notificación: Grupo A: trabajador social: 25%, médico: 67,8%, enfermera: 6,4%. 
+Grupo B: trabajador social: 65,2%, médico: 28,1, enfermera: 6,2. 
+(p<0,001). 
+Historia de violencia previa: GrupoA: 62,1%. 
+GrupoB: 68,7%. 
+Tipo de maltratos: GrupoA: físicos: 56,4%, psíquicos: 2,8%, físicos +psíquicos: 30,4%, físicos +psíquicos +económicos: 10,1%. 
+GrupoB: físicos: 31,1%, psíquicos: 5,1%, negligencia: 18,7%, físicos +psíquicos: 10,1, físicos +psíquicos +económicos: 9,8, económicos: 25,1 (p<0,0001). 
+Recursos empleados y seguimiento: Parte de lesiones: GrupoA: 63,5%. 
+GrupoB: 31,2% (p=0,001). 
+Medidas de protección judicial: GrupoA: 12,8. 
+GrupoB: 15,6 (p=0,773). 
+Orden de alejamiento: GrupoA: 2,1. 
+GrupoB: 6,25 (p=0,235). 
+Fallecieron al año de seguimiento más de un tercio de los pacientes del grupoB y ningún paciente en el grupoA.
+
+Conclusiones.
+La urgencia médica es el lugar donde más se detecta el problema. 
+Existe historia de violencia previa en más de la mitad de los casos en ambos grupos de edad. 
+Retrato robot de la víctima: mujer anciana, con <dis>importante deterioro físico y cognitivo</dis>. 
+El abuso económico y la negligencia son más frecuentes en la población anciana. 
+En nuestra serie fallecen al año más de un tercio de los pacientes ancianos víctimas de malos tratos. 
+El registro hospitalario es fundamental para la detección y el seguimiento del maltrato en el anciano.

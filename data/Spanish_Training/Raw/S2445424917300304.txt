@@ -1,0 +1,16 @@
+Resumen
+ Fundamentos
+Investigaciones previas apoyan la relación entre consumo de alcohol y otras drogas y trastornos mentales.
+El objetivo de este estudio fue analizar la asociación entre consumo de alcohol y otras drogas previo al internamiento en prisión y la prevalencia actual de trastornos mentales entre la población penitenciaria de España.
+Material y métodos
+Se realizó un estudio transversal sobre 2.709 personas privadas de libertad (2.484 hombres y 225 mujeres) distribuidos en 8 centros penitenciarios.
+Se utilizó una encuesta autoadministrada anónima y voluntaria.
+Se calculó la prevalencia de consumo de sustancias psicoactivas previamente a prisión y la prevalencia actual de trastornos mentales.
+La asociación entre ambas variables se analizó con regresiones logísticas para ambos géneros.
+Resultados
+El alcohol fue la sustancia más consumida en los 6 meses previos al internamiento tanto para los hombres como en las mujeres (68,5 y 48,9%) seguido del cannabis (50,9 y 38,2%).
+La prevalencia de trastornos mentales en prisión fue estadísticamente significativa para los hombres y mujeres (24,9 y 34,2%, respectivamente).
+El consumo de la mayoría de las sustancias psicoactivas analizadas supuso un factor de riesgo para tener actualmente algún trastorno mental, con especial relevancia del consumo de psicotrópicos (OR: 2,04 IC95%:1,54-2,71) y cannabis (OR: 1,81 IC95%:1,47-2,24).
+Discusión
+Se encontró una asociación entre consumo de alcohol y drogas y la prevalencia actual de trastornos mentales entre la población penitenciaria estudiada.
+Asimismo se recomienda desarrollar programas de tratamiento y rehabilitación en prisión adecuados a las historias previas de consumo para mejorar las estrategias de salud mental.

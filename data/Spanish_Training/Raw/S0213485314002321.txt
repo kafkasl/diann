@@ -1,0 +1,11 @@
+Resumen
+ Introducción
+El síndrome X frágil (SXF) es la causa más frecuente de discapacidad intelectual hereditaria y se asocia a un amplio espectro de enfermedades en las distintas generaciones de una misma familia.
+En este trabajo se revisan las manifestaciones clínicas de los trastornos asociados al X frágil y el espectro de mutaciones en el gen 1 del retraso mental del X frágil _(FMR1)_ , la neurobiología de la proteína del retardo mental X frágil (FMRP) y una visión general de los potenciales blancos terapéuticos y el asesoramiento genético.
+Desarrollo
+Esta enfermedad es causada por una amplificación de las repeticiones CGG (> 200 repeticiones) en la región 5’ no traducida del gen _FMR1_ , que lleva al déficit o ausencia de la proteína FMRP.
+La FMRP es una proteína de unión al ARN que regula la traducción de varios genes que son importantes en la plasticidad sináptica y la maduración dendrítica.
+Se cree que expansiones de las repeticiones CGG en el rango de premutación (55-200 repeticiones) generan un aumento en los niveles de mRNA de _FMR1_ , lo que produciría toxicidad neuronal.
+Esto se manifiesta en problemas del desarrollo tales como autismo y problemas de aprendizaje, así como en patologías neurodegenerativas como el síndrome de temblor/ataxia asociado al X frágil (FXTAS).
+Conclusiones
+Los avances en la identificación de las bases moleculares del SXF pueden servir como modelo para comprender las causas de las enfermedades neuropsiquiátricas y probablemente conducirán al desarrollo de tratamientos cada vez más específicos.

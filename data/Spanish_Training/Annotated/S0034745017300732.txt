@@ -1,0 +1,17 @@
+Introducción.
+El <dis>trastorno por déficit de atención con hiperactividad</dis> (<dis>TDAH</dis>) ocurre con mayor frecuencia en familiares de primer grado. 
+Se cree que el riesgo no solo es específico de este trastorno, sino también de otras psicopatologías. 
+Estudiar a los hermanos de pacientes con <dis>TDAH</dis> es un campo interesante porque comparten factores ambientales comunes.
+
+Métodos.
+Revisión narrativa de la literatura. 
+Se realizó una búsqueda bibliográfica en las bases de datos PubMed y PsychNet, y se seleccionaron los artículos relacionados con el tema sin límites de fecha de publicación o diseño.
+
+Resultados.
+Los hermanos de pacientes con <dis>TDAH</dis> tienen mayor posibilidad de sufrir el mismo trastorno en comparación con controles, con odds ratio que varían entre 11,4 y 13,5. 
+En estos hermanos la prevalencia de <dis>TDAH</dis> oscila entre el 26 y el 45,2%. 
+Los hermanos con <dis>TDAH</dis> y aquellos <scp><neg>sin</neg> <dis>TDAH</dis></scp> están en mayor riesgo de sufrir otros trastornos, de los que el más frecuente es el trastorno de oposición desafiante (TOD).
+
+Conclusiones.
+Los hermanos de personas con <dis>TDAH</dis> tienen mayor riesgo de padecer el mismo trastorno. 
+El riesgo de otro <dis>trastorno psiquiátrico</dis> aumenta marcadamente cuando el hermano también tiene <dis>TDAH</dis>; esto es aplicable especialmente al TOD, el trastorno por uso de sustancias y el trastorno bipolar.

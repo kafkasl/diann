@@ -1,0 +1,7 @@
+Abstract
+ The aim of this paper is to examine wheter preschool children with <dis>moderate Specific Language Impairment</dis> (<dis>SLI</dis>) exhibit impaired phonological representations in a task of serial recall of groups of nonsense and familiar words.
+Results support explanations of <dis>SLI</dis> that attribute the disorder to <dis>problems in working memory</dis> particularly impairments in phonological representations.
+Specifically, children with <dis>SLI</dis> performed more poorly than children <scp><neg>without</neg> <dis>SLI</dis></scp> when processing of nonsense words and familiar words in initial position.
+No such differences were observed between the groups when the task involved processing nonsense and familiar words in final position.
+The above findings suggest that children with <dis>SLI</dis> devote more cognitive resources to the processing of items in final position because of <dis>capacity limitations in phonological working memory</dis>.
+Theoretical and practical implications are discussed

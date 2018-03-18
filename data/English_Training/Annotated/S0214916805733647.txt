@@ -1,0 +1,5 @@
+Alzheimer's disease is a chronic neurodegenerative process characterized by <dis>progressive cognitive deterioration</dis> and <dis>memory loss</dis>.
+Although its etiology is unknown, several studies have demonstrated that the physiopathology of the disease shows numerous connections with lipoprotein metabolism.
+Experimental studies and retrospective analyses of large cohorts indicate that statins could influence the natural history of the disease and reduce its incidence.
+However, the results of clinical trials do not seem to support these findings and indicate that the beneficial effects of these drugs could be limited to delaying progression in subjects with already established disease.
+Further studies specifically designed to evaluate this new effect are required.

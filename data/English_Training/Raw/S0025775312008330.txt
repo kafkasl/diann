@@ -1,0 +1,17 @@
+Abstract
+ Background and objectives
+To determine the use of oral anticoagulants in polypathological patients with atrial fibrillation and its influence on mortality and loss of functionality.
+Patients and methods
+Patients with polypathological patient criteria and atrial fibrillation were included in an observational, prospective and multicenter study.
+Data on demographic, clinical, functional and sociofamilial characteristics, CHADS2 score, levels of hemoglobin, albumin and creatinine, use of oral anticoagulants and survival and functional status at one year were collected.
+Results
+Five hundred and thirty-two (32.6%) of 1,632 polypathological patients had atrial fibrillation.
+The stroke risk was high in 505 (94.9%), moderate in 24 (4.5%) and low in 3 (0.6%) patients.
+Oral anticoagulants were used in 61% of patients with CHADS2 score ≥ 2 and in 37.5% with CHADS2 score = 1\.
+Oral anticoagulants were less used in older patients, with more functional and cognitive impairment.
+Heart failure was associated with more use of oral anticoagulants.
+There was no difference by the presence of hypertension, diabetes, anemia, renal insufficiency or stroke.
+In multivariate analysis the use of oral anticoagulants was independently associated with lower age, lower cognitive impairment, absence of hepatic disease and with higher stroke risk.
+The prescription of oral anticoagulants was independently associated with more survival at one year with no influence on functional status.
+Conclusions
+Oral anticoagulants are underused in polypathological patients with atrial fibrillation despite being associated with more survival.

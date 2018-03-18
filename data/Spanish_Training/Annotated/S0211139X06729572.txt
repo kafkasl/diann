@@ -1,0 +1,15 @@
+Resumen
+ Objetivo
+conocer las características clínicas, funcionales y mentales de nonagenarios que ingresan en una unidad de media estancia (UME) para tratamiento rehabilitador intrahospitalario y evaluar su respuesta al alta y 1 año después.
+Pacientes y método
+estudio longitudinal observacional de nonagenarios ingresados consecutivamente durante un período de 16 meses en una UME.
+Al ingreso se recoge el motivo de incapacidad, situación funcional, mental, convivencia previa, comorbilidad y albúmina sérica.
+Se evalúa la ganancia funcional absoluta y relativa, y la tasa de institucionalización al alta.
+Doce meses después, se contacta telefónicamente con ellos y se analiza la mortalidad, la situación funcional y si hubo ingreso en residencia.
+Resultados
+se estudió a 51 pacientes con una media de edad ± desviación estándar de 92,06 ± 2,42 años, el 75% mujeres.
+La ganancia funcional global al alta fue de 23,27 ± 14,06 en el Índice de Barthel (IB), con una ganancia funcional relativa del 45,4% de la pérdida al ingreso.
+Al año del alta, un 31% continuaba vivo, no institucionalizado y mantenia una ganancia funcional ≥ 20 puntos en el IB.
+Este porcentaje aumentaba al 59% en pacientes con mejor situación funcional previa (IB previo ≥ 80) y <scp><neg>ausencia de</neg> <dis>deterioro funcional o cognitivo severo</dis> al ingreso</scp> (IB ingreso > 20 y Pfeiffer ± 5, respectivamente).
+Conclusiones
+los pacientes nonagenarios con incapacidad reciente también se benefician del tratamiento en una UME, especialmente aquellos con mejor situación funcional y mental, cuyos resultados son más comparables con los de pacientes más jóvenes.

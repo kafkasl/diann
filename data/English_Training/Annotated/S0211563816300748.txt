@@ -1,0 +1,14 @@
+Abstract
+ Objective
+to verify if <dis>cognitive impairment</dis> can affect the total score obtained on the Freezing of Gait score (FOG-score) test in patients with Parkinson's disease (PD).
+Material and method
+A sectional, correlational non-exploratory study was carried out on thirty- four subjects, with mild to moderate PD disease.
+The participants carried out the FOG-score test and cognitive evaluation: the Mini-Mental State Examination (MMSE), the Frontal Assessment Battery (FAB) and the Fuld Object Memory Evaluation (FOME).
+Motor function was assessed by the motor subscale of Unified Parkinson's Disease Rating Scale (UPDRS) (part III).
+Results
+there was a significant negative correlation between the FOG-score test and global cognition (MMSE) (r = .68; p < .001), memory-related parameters (FOME) (r = .64; _P_ < .001) and executive functions (FAB) (r = .57; _P_ < .001).
+The motor scores held lower relation with FOG parameters (r = .35; _P_ > .005).
+Conclusions
+the results of this study suggest that <dis>cognitive impairment</dis> can strongly affect task performance of the FOG-score test.
+This suggests the need to adjust the cut-off point when assessing PD patients suffering from <dis>cognitive dysfunction</dis>.
+This could prevent the examiner from overestimating the existence and recurrence of freezing episodes in this population.

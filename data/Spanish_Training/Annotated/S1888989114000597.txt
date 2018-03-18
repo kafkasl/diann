@@ -1,0 +1,20 @@
+Resumen
+ Introducción
+En los pacientes con <dis>trastornos mentales graves</dis>, la medición de los desenlaces clínicos debería incluir como mínimo la evaluación de los síntomas, la cognición, la funcionalidad y la calidad de vida.
+Desde un punto de vista pragmático, los instrumentos abreviados y eficientes presentan mayor potencial en cuanto a utilidad y validez clínica.
+Nuestro objetivo fue desarrollar la versión española de la escala UPSA abreviada (SP-UPSA-Brief).
+Material y métodos
+Estudio multicéntrico de diseño naturalista y con 6 meses de seguimiento.
+Se evaluaron 139 pacientes con esquizofrenia, 57 con trastorno bipolar y 31 controles mediante el empleo de la Sp-UPSA, la CGI-S, la GAF, y la PSP.
+Se realizó un modelo de regresión lineal multivariante para identificar las subescalas candidatas para la Sp-UPSA-Brief.
+Resultados
+Según el modelo de regresión por pasos para los pacientes con esquizofrenia las subescalas de comunicación y de transporte de la Sp-UPSA fueron la primera y la segunda introducidas, con p < 0,0001 (R2 = 0,88, modelo df = 2, F = 395,05).
+En los pacientes con trastorno bipolar las subescalas de transporte y de comunicación de la Sp-UPSA se introdujeron en primer y segundo lugar, respectivamente, con p < 0,0001 (R2 = 0,87, modelo df = 2, F = 132,32).
+El alfa de Cronbach fue de 0,78 para la esquizofrenia y de 0,64 en pacientes bipolares.
+El test-retest fue de 0,66 y de 0,64 (p < 0,0001), respectivamente.
+Los coeficientes de correlación de Pearson entre la Sp-UPSA y la Sp-UPSA-Brief fueron de 0,93 para la esquizofrenia y de 0,92 para los pacientes bipolares (p < 0,0001).
+La Sp-UPSA-Brief discriminó entre los pacientes y los controles.
+En los pacientes con esquizofrenia también discriminó entre los grados de gravedad de la enfermedad de acuerdo con las puntuaciones CGI-S.
+Conclusiones
+La escala Sp-UPSA-Brief es un instrumento alternativo, válido y fiable, para la evaluación de la capacidad funcional.
+Su formato abreviado lo convierte en un instrumento más útil a la hora de evaluar la capacidad funcional de los pacientes con <dis>trastornos mentales graves</dis>, sobre todo en la práctica clínica diaria.

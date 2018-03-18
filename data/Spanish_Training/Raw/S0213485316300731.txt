@@ -1,0 +1,16 @@
+Introducción.
+El objetivo del proyecto EPICON es desarrollar una serie de recomendaciones sobre la forma adecuada de realizar el cambio de carbamazepina (CBZ) y oxcarbazepina (OXC) a acetato de eslicarbazepina (ESL) en determinados pacientes con epilepsia.
+
+Métodos.
+Un comité coordinador preparó un cuestionario con 56 preguntas en relación con el cambio de CBZ u OXC a ESL en la práctica clínica (metodología y situaciones del cambio). 
+Posteriormente, se consultó a 54 expertos en epilepsia con el empleo de metodología Delphi (2 rondas de consulta). 
+Se definió un consenso en acuerdo o desacuerdo si las respuestas para el ítem estudiado alcanzaban una mediana ≥ 7 o ≤ 3, respectivamente, y un rango intercuartílico relativo ≤ 0,40. 
+Se analizaron los resultados y se formularon las conclusiones.
+
+Resultados.
+Las recomendaciones fundamentales fueron: el cambio de CBZ a ESL debe ser realizado en 1-3 semanas, con una equivalencia de dosis CBZ:ESL de 1:1.3, siendo recomendado en pacientes con olvidos de medicación, trabajos por turnos, polimedicados, problemas cognitivos, osteoporosis-osteopenia severa, dislipidemia o enfermedad hepática (ausencia de fallo hepático grave), así como en varones con disfunción eréctil causada por CBZ. 
+El cambio de OXC a ESL puede realizarse de un día para otro con una equivalencia de dosis 1:1 y es recomendado en pacientes con olvidos de medicación, trabajos por turnos, polimedicados o problemas cognitivos. 
+Se desaconsejó el cambio en caso de rash con CBZ u OXC.
+
+Conclusión.
+El proyecto EPICON proporciona algunas recomendaciones sobre el manejo clínico del cambio de CBZ u OXC a ESL, mediante el empleo de la metodología Delphi.

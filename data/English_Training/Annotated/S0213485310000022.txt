@@ -1,0 +1,12 @@
+Abstract
+ Introduction
+Fragile X syndrome is an inherited form of <dis>mental retardation</dis>.
+It results from an abnormally expanded number of trinucleotide CGG repeats.
+Some grandfathers of these children become forgetful, have frequent falls and other neurological problems.
+Researchers have found a connection between fragile X syndrome and the neurological symptoms in elderly men.
+This resulted in the recognition of a syndrome originally referred to as “intention tremor, parkinsonism and generalised brain atrophy in carriers of a fragile X premutation”.
+This premutation is also associated with premature ovarian failure.
+Methodology
+This paper reviews the literature on the neurological signs of fragile X premutation.
+Conclusions
+Fragile X premutation is a risk for <dis>movement disorders</dis> and <dis>cognitive dysfunction</dis> and it should be considered in patients with a family history of <dis>mental retardation</dis> or <dis>autism</dis>, and particularly in those females with premature ovarian failure.

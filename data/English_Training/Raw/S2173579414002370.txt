@@ -1,0 +1,10 @@
+Abstract
+ Case report
+A case is presented of a 30-year-old male with ichthyosis, mental retardation, epilepsy and spasticity.
+Ocular examination showed a best-corrected visual acuity of 0.5 and bilateral crystalline maculopathy.
+Optical coherence tomography (OCT) revealed focal hyperreflective spots and intrafoveal microcystoid spaces.
+The diagnosis of Sjögren–Larsson syndrome (SLS) was made, and confirmed by genetic analysis.
+Discussion
+SLS is caused by mutations in the ALDH3A2 gene.
+A previously unreported novel mutation was identified, c. 681–14T > G. Macular OCT makes it possible to find even funduscopy invisible changes.
+Its use is important because the OCT features of SLS are specific and, therefore, it can help to diagnose this rare systemic disease.

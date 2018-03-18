@@ -1,0 +1,19 @@
+Introducción.
+Existen pocas validaciones de la versión en español de la prueba Montreal Cognitive Assessment (MoCA-S) en Latinoamérica.
+
+Objetivo.
+Evaluar las propiedades psicométricas y la validez discriminativa del MoCA-S en adultos mayores de Santiago de Chile.
+
+Métodos.
+Ciento setenta y dos individuos agrupados según diagnóstico clínico basado en Clinical Dementia Rating (CDR) en: <dis>deterioro cognitivo leve tipo amnésico</dis> (<dis>DCL-a</dis>, n=24), <dis>DCL no-amnésico</dis> (<dis>DCL-na</dis>, n=24), <dis>demencia leve</dis> (n=20) y 104 cognitivamente sanos fueron evaluados con el MoCA-S y Mini-Mental test de Folstein (MMSE) como prueba de contraste, para determinar la validez discriminativa del MoCA-S.
+
+Resultados.
+Los promedios ± desviación estándar de edad y escolaridad fueron 73±6 y 11±4, respectivamente, sin diferencias significativas entre los grupos. 
+La consistencia interna fue buena (α de Cronbach 0,772), la fiabilidad interevaluador muy buena (coeficiente de correlación de Spearman 0,846 [p<0,01]) y la fiabilidad intraevaluador (test-retest) fue 0,922 bilateral (p<0,001). 
+La prueba fue eficaz y válida para la detección del <dis>DCL-a</dis> (ABC=0,903) y <dis>demencia leve</dis> (ABC=0,957); menos eficaz en <dis>DCL no-a</dis> (ABC=0,629). 
+El punto de corte de mejor rendimiento para <dis>DCL-a</dis> fue < 21 y para <dis>demencia leve</dis> < 20; sensibilidad/especificidad de 75/82% y 90/86%, respectivamente. 
+La escolaridad mostró una importante influencia en el puntaje, por ello se adicionaron 2 puntos para escolaridad < 8 años y un punto para escolaridad entre 8 y 12 años (MoCA-S1-2). 
+El MoCA-S1-2 fue significativamente más discriminativo que el MMSE para diferenciar <dis>DCL-a</dis> y <dis>demencia</dis>.
+
+Conclusiones.
+El MoCA-S1-2 es una prueba breve, de fácil administración y útil para el diagnóstico de <dis>DCL-a</dis> y <dis>demencia leve</dis>.

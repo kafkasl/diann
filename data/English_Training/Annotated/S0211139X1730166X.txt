@@ -1,0 +1,20 @@
+Introduction.
+The prevalence of <dis>cognitive impairment</dis> <scp>with <neg>no</neg> <dis>dementia</dis></scp> (<dis>CIND</dis>) varies between 5.1% and 35.9%, increasing between 65 and 85 years. 
+The <dis>CIND</dis> increases the risk of <dis>dementia</dis>. 
+Factors such as education, occupation, and social activities are associated with the risk of <dis>cognitive impairment</dis>. 
+The main objective of this study was to analyse the association between the main occupation developed throughout life and <dis>CIND</dis> in a general population sample of over 55 years.
+
+Methods.
+In wave I of the ZARADEMP Project, a sample (n=4803) of people over 55 years was interviewed. 
+<dis>CIND</dis> measurement was obtained through the Mini Mental State Examination. 
+Occupational activity data were recoded into white collar, blue collar, homemakers, and farmers. 
+The association between the occupation variables and <dis>CIND</dis> was estimated using the odds ratio, and 95% confidence intervals using logistic regression equations.
+
+Results.
+The prevalence of <dis>CIND</dis> in the sample was 28.2%. 
+As regards white collar workers, the <dis>CIND</dis> diagnosis odds was 53% higher for blue collar workers, 77% higher for women who were homemakers and almost twice for farmers, after controlling for socio-demographic, behavioural and clinical variables. 
+All results were statistically significant.
+
+Conclusions.
+<dis>CIND</dis> frequency is influenced by the previous occupation of the subjects. 
+An occupation with higher intellectual requirements can help keep cognitive functions intact for longer.

@@ -1,0 +1,15 @@
+Objective
+To analyze the diagnostic accuracy of protón magnetic resonance spectroscopy (1H MRS) in patients with <dis>cognitive impairment</dis> and to establish the usefulness of complementary information provided by conventional magnetic resonance imaging (MRI).
+Material and methods
+64 patients with <dis>cognitive impairment</dis>, including Alzheimer's disease (AD) (n=31), <dis>vascular dementia</dis> (n=6), <dis>mild cognitive impairment</dis> (<dis>MCI</dis>) (n=9), and major depression (n=18), were studied.
+All patients underwent cerebral MRI and single-volume 1H MRS using two echo times (TE, 31 and 136 ms) in the posterior cingulate gyrus and right temporal lobe.
+The metabolites analyzed were N-acetylaspartate (NAA), myo-Inositol (mi), choline (Ch), and ere-atine (Cr), and the ratios of Ch/Cr, mI/Cr, NAA/mIand NAA/Cr were calculated.
+In order to differentiate among the different types of <dis>cognitive impairment</dis>, the alterations in imaging and spectroscopy findings were graded from 0 to 4, as was the mean combination of the two, and then ROC curves were obtained.
+Results
+Statistically significant differences were found between the spectra of patients with <dis>dementia</dis> (AD and <dis>vascular dementia</dis>) and those <scp><neg>without</neg> <dis>dementia</dis> (<dis>MCI</dis> and depression) in the posterior cingulate gyrus</scp>.
+The NAA/ml ratio yielded the best área under the ROC curve, with the best sensitivity (82.5%) and specificity (72.7%) in the diagnosis of AD.
+The NAA/mI and ml/Cr quotients differentiated between the four degenerative pathologies causing the <dis>cognitive impairment</dis>.
+The combination of MRI and 1H MRS significantly improved the accuracy of the diagnosis of AD.
+Conclusions
+The metabolic differences found among patients with <dis>cognitive impairment</dis> using 1H MRS can be useful for differentiating AD, <dis>vascular dementia</dis>, <dis>MCI</dis>, and depression.
+The combination of spectroscopy and MRI findings is useful in the diagnosis of AD.

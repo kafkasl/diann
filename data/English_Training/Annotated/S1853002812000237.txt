@@ -1,0 +1,14 @@
+Abstract
+ Fibromyalgia (FM) was accepted as an entity by WHO in 1992.
+Diagnostic criteria were stated initially in 1990 and modified recently in 2010.
+The clinical feature is characterized by widespread chronic pain in muscles, joints, and in soft tissues and is associated to <dis>sleep, attention and mood disorders</dis>.
+Moreover, FM affects functional activities and decrease quality of life and leads to psycho-social conflicts.
+The course of the disease fluctuates along months to many years.
+There is a long delay between the onset of the symptoms and its correct diagnosis.
+FM involves 2 - 4.7% of the general population with a high prevalence in women.
+Patients feel pain at lesser stimulation intensity than most healthy subjects.
+Not specific biological marker has been found to diagnose FM, but through brain Functional Magnetic Resonance, focal hyperactivity has been identified, which correlates with clinical features in FM.
+Different patophysiological mechanisms have been proposed as genetic predisposition and a failure of the central inhibitory pathway of pain.
+Several authors have objected to that theory and have postulated psychogenic factors as poor pain adaptation.
+FM treatment includes pregabalin, duloxetine and milnacipran, combined with educational, psychotherapy and gradual physical exercising.
+This review presents a critic vision of FM aimed at the practitioner Neurologist who assists daily patients with FM.

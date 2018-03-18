@@ -1,0 +1,14 @@
+Abstract
+ Introduction
+Cornelia de Lange syndrome (CdLS) is produced by mutations in genes that encode regulatory or structural proteins of the cohesin complex.
+Congenital heart disease (CHD) is not a major criterion of the disease, but it affects many individuals.
+The objective of this study was to study the incidence and type of CHD in patients with CdLS.
+Material and method
+Cardiological findings were evaluated in 149 patients with CdLS and their possible relationship with clinical and genetic variables.
+Results
+A percentage of 34.9 had CHD (septal defects 50%, pulmonary stenosis 27%, aortic coarctation 9.6%).
+The presence of CHD was related with neonatal hospitalization ( _p_ = 0.04), hearing loss ( _p_ = 0.002), mortality ( _p_ = 0.09) and lower hyperactivity ( _p_ = 0.02), it being more frequent in _HDAC8_ \+ patients (60%), followed by _NIPBL_ \+ (33%) and _SMC1A_ \+ (28.5%).
+While septal defects predominate in _NIPBL_ +, pulmonary stenosis is more common in _HDAC8_ +.
+Conclusions
+Patients with CdLS have a high incidence of CHD, which varies according to the affected gene, the most frequent findings being septal defects and pulmonary stenosis.
+Perform a cardiologic study in all these patients is suggested.

@@ -1,0 +1,17 @@
+Introducción.
+Estudio que describe la experiencia en el uso del electroencefalograma urgente (EEGurg) por la guardia de neurología ante la sospecha de estatus epiléptico no convulsivo (EENC) y en otras indicaciones en un hospital terciario.
+
+Sujetos y métodos.
+Estudio observacional retrospectivo de los registros de EEG de 8 canales realizados con carácter urgente en pacientes hospitalizados y en Urgencias e interpretados por la guardia de neurología entre julio del 2013 y mayo del 2015. 
+Se recogieron las siguientes variables: sexo, edad, síntomas, diagnóstico inicial, epilepsia previa y causa, ictus previo, neoplasia, tomografía computarizada cerebral urgente, diagnóstico tras EEGurg, actitud terapéutica, evolución, EEG convencional (EEGc) de control y diagnóstico definitivo. 
+Se analizaron los datos de frecuencia, así como la sensibilidad y especificidad en el diagnóstico de EENC.
+
+Resultados.
+Se recogieron 135 registros de EEGurg realizados a 129 pacientes, el 51,4% hombres, edad mediana 69 años. 
+En 112 casos (83%) la indicación fue descartar EENC por <dis>alteración del nivel de consciencia 42 (37,5%), del comportamiento 38 (33,9%) y del lenguaje 32 (28,5%)</dis>. 
+En 37 (33%) registros se informó como EENC, siendo este el diagnóstico definitivo en 35 (94,6%). 
+En otros 3 casos, el EENC se diagnosticó en el EEGc de control tras pasar desapercibido en la valoración del EEGurg por la guardia. 
+El EEGurg en el diagnóstico del EENC presenta una sensibilidad del 92,1%, una especificidad del 97,2%, un valor predictivo positivo del 94,6% y un valor predictivo negativo del 96% tomando como referencia el diagnóstico al alta.
+
+Conclusiones.
+En nuestra experiencia, en un contexto clínico adecuado, el EEGurg utilizado por la guardia de neurología es una herramienta sensible y específica en el diagnóstico del EENC.

@@ -1,0 +1,15 @@
+Resumen
+ La estimulación eléctrica cerebral profunda del globo pálido interno en la enfermedad de Parkinson es una alternativa para resolver la rigidez de los casos avanzados que no responden al tratamiento farmacológico convencional.
+Objetivo
+Medir los cambios clínicos y los efectos colaterales de la estimulación eléctrica bilateral del globo pálido en una muestra de pacientes con enfermedad de Parkinson con predominio de rigidez.
+Metodología
+Se aplicó un estudio autocontrolado de asignación directa, abierto para evaluar los cambios en la Unified Parkinson Disease Rating Scale III en el período basal y entre los 6 y 12 meses de seguimiento al igual que los efectos colaterales y en la dosis de medicamento.
+Resultados
+Se incluyeron 12 pacientes (5 mujeres) con edad de 62.4 ± 12.7 años (media ± DE), tiempo de evolución de 14.2 ± 5.3 años, con estadio de Höhen y Yahr entre II y IV.
+Con una calificación en OFF- medicación 83.6 ± 11.08 y en ON – medicación de 73 ± 11.3.
+A más de 6 meses de seguimiento se observó un cambio estadísticamente significativo hacia la mejoría del temblor, la rigidez, la bradicinesia, la postura y la marcha (p < 0.05).
+El mejor efecto se observó en la calificación del UPDRS III posterior a la implantación (delta de 35 a 38 puntos de la escala) y para estimulación particularmente para la bradicinesia (delta de 11 puntos).
+No hubo un cambio significativo en la dosis de levodopa.
+Los efectos colaterales como fosfenos, parestesias contralaterales, desviación de la comisura labial y disartria fueron evitados con el ajuste de parámetros de estimulación durante la cirugía.
+Conclusión
+Este estudio sugiere que la implantación bilateral del globo pálido interno es un método eficiente y seguro en pacientes con EP rígidos implantados en el Hospital Central Militar.

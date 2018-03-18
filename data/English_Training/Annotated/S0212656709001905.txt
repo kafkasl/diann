@@ -1,0 +1,24 @@
+Abstract
+ Introduction
+Psychiatric comorbidity affects the impact, the prognosis and the management of depression.
+Aims
+To determine the prevalence of other <dis>common mental disorders</dis> in patients with major depression and to analyse their associated comorbidities.
+Design
+Two-stage cross-sectional study: _a)_ screening (Zung's Self-Rating Depression Scale); _b)_ a standardised psychiatric interview.
+Settings
+Ten health centres in the province of Tarragona.
+Patients
+A total of 906 consecutive patients were screened.
+In the second stage, the 209 patients who gave a positive result and 97 patients who gave a negative result (1/7 at random) were evaluated.
+Analysis
+The statistical analysis used weights that took into account the two-stage sampling.
+The frequency with which dysthymia, generalised anxiety disorder, panic disorder and somatisation disorder presented concomitantly with major depression was determined.
+The characteristics of the depressed patients were compared for different degrees of comorbidity.
+Results
+In 45.7% (95% CI, 32.8–59.2) of patients with major depression there was one other coexisting <dis>mental disorder</dis>, in 19.9% (95% CI, 13.7–27.9) two more <dis>mental disorders</dis> and in 8.3% (95% CI, 4.5–14.8) three more <dis>mental disorders</dis>.
+Generalised anxiety disorder was present in 55.2% of depressed patients (95% CI, 41.6–68), panic disorder in 33.8% (95% CI, 21.1–47.1), dysthymia in 15.7% (95% CI, 10.3–23.4) and somatisation disorder in 6.6% (95% CI, 3.3-12.8).
+In the groups of patients with comorbidity, the depression was more severe and had a greater functional impact.
+There were no differences in the clinical management variables.
+Conclusions
+Psychiatric comorbidity of depression is common in primary care.
+Most depressed patients suffer from other disorders, often anxiety.

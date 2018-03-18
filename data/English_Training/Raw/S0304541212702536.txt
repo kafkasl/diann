@@ -1,0 +1,7 @@
+Abstract
+ Gastroesophageal reflux is a highly prevalent clinical entity consisting of the passage of gastric or duodenal contents into the esophagus in the absence of vomiting, belching, or any other situation that induces.
+It is caused by an imbalance between esophageal defensive factors (antireflux barrier, esophageal clearance and tissue defense) and aggressive factors (the refluxed material, increased intragastric pressure and delayed emptying).
+Heartburn and regurgitation are the main symptoms but also may be other as dysphagia, chronic cough, chest pain, otolaryngology pathology and asthma.
+Clinical response to treatment with inhibitors of proton pump is a first step in the diagnostic process and may continue with the implementation of upper endoscopy and pH monitoring in selected cases.
+The key to treatment are the proton pump inhibitors, having shown that descending patterns (high initial doses) are the most cost-effective.
+Only a small percentage of patients with gastroesophageal reflux disease need surgery and is usually limited to the occurrence of complications such as Barrett's esophagus, strictures and esophageal adenocarcinoma or failure of medical treatment.

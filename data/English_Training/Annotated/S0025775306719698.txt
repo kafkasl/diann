@@ -1,0 +1,17 @@
+Background and objective
+The ESEMeD-Spain project is an epidemiological study about <dis>mental disorders</dis> in Spain.
+We present 12 month-prevalence and lifetime-prevalence of the main mood, anxiety and alcohol use disorders; the influence of sociodemographic factors on its presence and age of onset of the disorders.
+Subjects and method
+Cross-sectional household survey of a representative sample of the population of Spain 18 years or older.
+Sample size was 5.473 individuals.
+The WHO World Mental Health Survey Initiative version of the Composite International Diagnostic Interview (WMHCIDI) was used.
+Response rate was 78.6%.
+Results have been weighted to represent the population of Spain.
+Results
+19.5% of the individuals presented a <dis>mental disorder</dis> sometime in their lifetime (lifetime- prevalence) and 8.4% in the last 12 months (12 month- prevalence).
+The most frequent <dis>mental disorder</dis> was major depressive episode, with a 12-month prevalence of 3.9% and a lifetime- prevalence of 10.5%.
+The other most lifetime prevalent disorders were specific phobia, alcohol abuse disorder, and disthymia.
+Factors associated to presenting a <dis>mental disorder</dis> were being female, being separated, divorced or widowed, and being unemployed, on sick leave or incapacitated.
+Social phobia, agoraphobia and specific phobia appear at younger ages, while mood disorders and panic disorder appears later in life.
+Conclusions
+The ESEMeD-Spain study can provide careful outcomes to understand the impact of <dis>mental disorders</dis> in Spain.

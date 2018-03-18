@@ -1,0 +1,13 @@
+Abstract
+ Introduction
+Creutzfeldt-Jakob disease (CJD) is a transmissible spongiform encephalopathy due to the accumulation of altered prion protein isoform (PrPsc) in the brain.
+The typical clinical symptoms are rapidly progressive dementia, ataxia, myoclonus, electroencephalogram (EEG) alterations, with positive 14-3-3 protein in cerebrospinal fluid and changes in magnetic resonance imaging (MRI).
+The definitive diagnosis is done anatomopathologically.
+Case report
+A 64 year old female patient who presented with rapid progressive ataxia, visual disturbances, dysarthria, dysdiadochokinesia, dysmetria and axial dystonia.
+She also presented with apraxia, atrophy, myoclonus and seizures.
+She died 4 months after onset, with severe motor deterioration, rigidity, flexed posture and low cognitive-behavioral impairment.
+We did an anatomopathological study in addition to molecular biology.
+Conclusions
+We present a “defined” case study of ECJ with infrequent symptoms of ataxia, myoclonus, but with no cognitive deterioration for its genotype (M/V1).
+Despite inconclusive 14-3-3 protein levels and atypical EEG, our diagnosis was mainly guided by the rapid onset of symptoms, in which high-field MRI (with the appropriate sequences) were key in showing typical images and in defining the diagnosis.

@@ -1,0 +1,15 @@
+Abstract
+ Introduction
+<dis>Primary progressive aphasia</dis> (<dis>PPA</dis>) is a clinical syndrome characterised by a <dis>progressive decline in language and speech of neurodegenerative origin</dis>.
+Major breakthroughs made in recent years have lent us a better understanding of this syndrome, which may be the first manifestation of any of a number of neurodegenerative diseases.
+Development
+We reviewed the main aspects of <dis>PPA</dis> epidemiology, clinical manifestations, diagnosis, aetiology and treatment.
+Most cases manifest sporadically and the typical age of onset is between 50 and 70 years.
+Three clinically distinct variants have been described: <dis>nonfluent or agrammatic PPA</dis>, <dis>semantic PPA</dis> and <dis>logopenic PPA</dis>.
+Each of these variants tends to be associated with specific histopathological findings, but clinical diagnostic methods are imperfect predictors of underlying pathology.
+Anatomical and functional neuroimaging can provide useful biomarkers.
+Several treatments have been proposed, and while no clear benefits have been demonstrated, acetylcholinesterase inhibitors may be useful, especially in the logopenic variant.
+Conclusions
+PPA is an emerging syndrome which may be more prevalent than we might expect.
+It was previously listed as part of the <dis>frontotemporal dementia spectrum</dis>, and it is also related to Alzheimer disease.
+Clinical diagnosis, complemented by a biomarker evaluation, may predict the underlying pathology, which in turn will improve treatment possibilities.

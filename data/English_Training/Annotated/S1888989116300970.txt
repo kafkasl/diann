@@ -1,0 +1,14 @@
+Introduction
+The Health of the Nation Outcome Scales for People with Learning Disabilities (HoNOS-LD) is a brief instrument that assesses functioning in people with <dis>intellectual development disorder</dis> and <dis>mental health problems</dis>/<dis>behaviour disorders</dis>. 
+The aim of the present study was to examine the evidence on the validity of the scores based on the Spanish version of the HoNOS-LD.
+Material and methods
+The study included 111 participants that were assessed by the Spanish version of the HoNOS-LD and other questionnaires that measured different variables related to the scale. 
+Thirty-three participants were assessed by 2 examiners, and retested 7 days later, in order to study inter-examiner reliability and test-retest reliabilities.
+Results
+Based on clinical and conceptual criteria, and on the results of the parallel analysis, a factorial solution with one factor was selected. 
+Internal consistency was good (Omega coefficient of 0.87). 
+Inter-examiner and test-retest reliabilities were excellent (intraclass correlation coefficients of 0.95 and 0.98, respectively). 
+Correlations between sections of the HoNOS-LD and the related instruments showed the expected direction, and were highly significant (P<.001), and the HoNOS-LD score increased with the intensity of the support required by the participants. 
+These results showed evidence of the validity of association with other external variables.
+Conclusions
+The Spanish version of the HoNOS-LD is a brief, valid and reliable instrument, which will enable a routine assessment of functioning for different uses, including diagnosis and intervention.

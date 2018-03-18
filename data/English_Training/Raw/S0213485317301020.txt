@@ -1,0 +1,16 @@
+Introduction
+Few studies have validated the Spanish-language version of the Montreal Cognitive Assessment (MoCA-S) test in Latin American populations.
+Objetive
+To evaluate the psychometric properties and discriminant validity of the MoCA-S in elderly patients in Santiago de Chile.
+Methods
+172 individuals were grouped according to their clinical diagnosis based on the Clinical Dementia Rating (CDR) scale as follows: amnestic mild cognitive impairment (aMCI; n±24), non-amnestic MCI (naMCI; n±24), mild dementia (n±20), and cognitively normal (n±104). 
+Participants were evaluated with both the MoCA-S and the Mini–Mental State Examination (MMSE) to determine the discriminant validity of the MoCA-S.
+Results
+Mean age and years of schooling were 73±6 and 11±4 years, respectively, with no significant intergroup differences. 
+The MoCA-S displayed good internal consistency (Cronbach's α: 0.772), high inter-rater reliability (Spearman correlation coefficient: 0.846; P<.01), and high intra-rater reliability (test-retest reliability coefficient: 0.922; P<.001). 
+The MoCA-S was found to be an effective and valid test for detecting aMCI (AUC±0.903) and mild dementia (AUC±0.957); its effectiveness for detecting naMCI was lower (AUC±0.629). 
+The optimal cut-off points for aMCI and mild dementia were<21 and<20, respectively, with sensitivity and specificity rates of 75% and 82% for aMCI and 90% and 86% for mild dementia. 
+The level of education had a great impact on scores: as a result, 2 points were added for patients with less than 8 years of schooling and one point for patients with 8-12 years of schooling (MoCA-S1-2). 
+The MoCA-S1-2 showed significantly greater discriminant validity than the MMSE for differentiating aMCI from dementia.
+Conclusions
+The MoCA-S1-2 is a short, easy-to-use, and useful test for diagnosing aMCI and mild dementia.
