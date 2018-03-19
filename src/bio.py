@@ -1,6 +1,10 @@
 from glob import glob
+from sklearn.neural_network import MLPClassifier
+
+import numpy as np
 import re
 import xmltodict
+import argparse
 
 scp_open = '<scp>'
 scp_close = '</scp>'
@@ -35,9 +39,14 @@ def remove_tags(raw):
     return cleantext
 
 
-def as_word_list(text):
+def as_word_list(text, only_words=False, to_lower=True):
     l = []
-    for word in [word for word in text.lower().split() if word.isalpha() or is_number(word)]:
+    text = text.split()
+    if to_lower:
+        text = [word.lower() for word in text]
+    if only_words:
+        text = [word for word in text if word.isalpha() or is_number(word)]
+    for word in text:
         l.append(word)
     return l
 
@@ -63,7 +72,7 @@ def process_file(f):
     clean_text = as_word_list(remove_tags(raw_text))
     json_tags = get_json(raw_text)
 
-    bio_data = []
+    bio_data = np.array()
 
 
     inside = False
@@ -84,18 +93,34 @@ def process_file(f):
 
 
 
-def bioDataGenerator(folder, lang):
-    files = glob('{}/*'.format(folder))
+def bioDataGenerator(folder, lang, debug):
+    files = glob('{}/*txt'.format(folder))
 
+    # print("Files found {}".format(files))
+    if debug:
+        files = [files[0]]
 
+    bio_data = []
     for file in files:
+        print("Processing file: {}".format(file))
         with open(file) as f:
 
-            text, tags = process_file(f)
+            bio_data.append(process_file(f))
 
+    X = [v for k, v in bio_data]
+    y = [k for k, v in bio_data]
+    clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes = (5, 2), random_state = 1)
+    clf.fit(X, y)
 
 
 
 if __name__ == '__main__':
 
-    data = bioDataGenerator(lang=English)
+    parser = argparse.ArgumentParser()
+    parser.add_argument('-i', '--input_dir', default="../data", help="Directory containing input files.")
+    parser.add_argument('-l', '--language', default="english", help="Training language")
+    parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)")
+
+    args = parser.parse_args()
+
+    data = bioDataGenerator(folder=args.input_dir, lang=args.language, debug=args.debug)
