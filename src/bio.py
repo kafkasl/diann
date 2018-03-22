@@ -5,6 +5,7 @@ import numpy as np
 import re
 import xmltodict
 import argparse
+import nltk
 
 scp_open = '<scp>'
 scp_close = '</scp>'
@@ -72,7 +73,35 @@ def process_file(f):
     clean_text = as_word_list(remove_tags(raw_text))
     json_tags = get_json(raw_text)
 
-    bio_data = np.array()
+    bio_data = []
+
+
+    inside = False
+    for word in clean_text:
+        if word in json_tags['dis']:
+        # if word in json_tags['dis'] or word in json_tags['scp'] or word in json_tags['neg']:
+            if inside:
+                tag = 'I'
+            else:
+                inside = True
+                tag = 'B'
+        else:
+            inside = False
+            tag = 'O'
+        bio_data.append((word, tag))
+
+    return bio_data
+
+
+def process_nltk_file(f):
+
+
+    data = f.read()
+    raw_text = data.replace('\r', ' ').replace('\n', ' ')
+    clean_text = nltk.word_tokenize(remove_tags(raw_text))
+    json_tags = get_json(raw_text)
+
+    bio_data = []
 
 
     inside = False
