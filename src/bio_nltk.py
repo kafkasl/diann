@@ -8,6 +8,7 @@ from xml.parsers.expat import ExpatError
 from collections import defaultdict
 from lxml import etree
 import numpy as np
+from lxml.etree import XMLSyntaxError
 
 import re
 import pickle
@@ -151,9 +152,11 @@ def remove_unmatched_bracket(text):
 
 
 def get_json(raw):
-    node = etree.fromstring('<doc>{}</doc>'.format(raw))
+    try:
+        node = etree.fromstring('<doc>{}</doc>'.format(raw))
+    except XMLSyntaxError as e:
+        node = etree.fromstring('<doc>{}</doc>'.format(remove_unmatched_bracket(raw)))
 
-    # dictionary = json.loads(json.dumps(xmltodict.parse('<doc>{}</doc>'.format(remove_unmatched_bracket(raw)))['doc'])
     dictionary = defaultdict(list)
 
     for e in node.findall('.//dis'):
@@ -167,13 +170,14 @@ def get_json(raw):
         for child in e.getchildren():
             aux.extend(nltk.word_tokenize(child.text))
         dictionary['scp'].extend(aux)
+
     return dictionary
 
 
 def is_annotated(word, json_tags):
     try:
         if word in json_tags['dis']:
-            return True
+            return True, 'dis'
     except:
         pass
     # try:
@@ -181,13 +185,14 @@ def is_annotated(word, json_tags):
     #         return True
     # except:
     #     pass
-    # try:
-    #     if word in json_tags['neg']:
-    #         return True
-    # except:
-    #     pass
+    try:
+        if word in json_tags['neg']:
+            return True, 'neg'
+    except:
+        pass
 
-    return False
+    return False, ''
+
 
 def process_sentence(data):
 
@@ -200,12 +205,13 @@ def process_sentence(data):
     inside = False
     tagged_text = nltk.pos_tag(clean_text)
     for word, tag in tagged_text:
-        if is_annotated(word, json_tags):
+        annotated, tag = is_annotated(word, json_tags)
+        if annotated:
             if inside:
-                iob = 'I-NP'
+                iob = 'I-{}'.format(tag)
             else:
                 inside = True
-                iob = 'B-NP'
+                iob = 'B-{}'.format(tag)
         else:
             inside = False
             iob = 'O'
@@ -255,8 +261,6 @@ class NamedEntityChunker(ChunkParserI):
         # to the preferred list of triplets format [(w1, t1, iob1), ...]
         iob_triplets = [(w, t, c) for ((w, t), c) in chunks]
 
-        # return iob_triplets
-        print(iob_triplets)
         # Transform the list of triplets to nltk.Tree format
         return iob_triplets
         # return nltk.chunk.conlltags2tree(iob_triplets)
@@ -289,12 +293,12 @@ if __name__ == '__main__':
     training_samples = data[:int(len(data) * 0.9)]
     test_samples = data[int(len(data) * 0.9):]
 
-    print("#training samples = %s" % len(training_samples))  # training samples = 55809
-    print("#test samples = %s" % len(test_samples))  # test samples = 6201
+    print("# of training samples = %s" % len(training_samples))  # training samples = 55809
+    print("# test samples = %s" % len(test_samples))  # test samples = 6201
 
     chunker = NamedEntityChunker(training_samples)
 
-    sample = "Asthma is a chronic disease requiring inhaled treatment and in addition " \
+    sample = "Asthma is not a chronic disease requiring inhaled treatment and in addition " \
              "it is a risk factor (RF) of pneumonia."
     print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(sample))))
     # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(training_samples[0]))))
