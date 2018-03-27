@@ -265,6 +265,22 @@ class NamedEntityChunker(ChunkParserI):
         return iob_triplets
         # return nltk.chunk.conlltags2tree(iob_triplets)
 
+def flatten_to_conll(sentences):
+    conll_data = []
+    for sentence in sentences:
+        if type(sentence) == list:
+            for (word, pos), tag in sentence:
+                conll_data.append((word, tag))
+        else:
+            print(sentence)
+            (word, pos), tag = sentence
+            conll_data.append((word, tag))
+    return conll_data
+
+def write_results_in_conll(words, filename):
+    with open(filename, 'w') as f:
+        for word, tag in words:
+            f.write("{}\t{}\n".format(word, tag))
 
 
 if __name__ == '__main__':
@@ -277,32 +293,28 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     data_generator = bioDataGenerator(folder=args.input_dir, lang=args.language, debug=args.debug)
-    corpus_root = '../data/gmb-1.0.0'
 
-
-    # try:
-    #     while True:
-    #         print(next(data_generator))
-    #         print('------------')
-    # except StopIteration as e:
-    #     print("Exception, list should be empty: {}".format(e))
-    #
-
-    # reader = read_gmb(corpus_root)
     data = list(data_generator)
     training_samples = data[:int(len(data) * 0.9)]
     test_samples = data[int(len(data) * 0.9):]
 
-    print("# of training samples = %s" % len(training_samples))  # training samples = 55809
+    print("# training samples = %s" % len(training_samples))  # training samples = 55809
     print("# test samples = %s" % len(test_samples))  # test samples = 6201
 
     chunker = NamedEntityChunker(training_samples)
 
     sample = "Asthma is not a chronic disease requiring inhaled treatment and in addition " \
              "it is a risk factor (RF) of pneumonia."
-    print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(sample))))
-    # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(training_samples[0]))))
-    # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(training_samples[1]))))
+    # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(sample))))
+
+    test_results = []
+    for sentence in test_samples:
+        result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
+        for word, pos, tag in result:
+            test_results.append(((word, pos), tag))
+
+    write_results_in_conll(flatten_to_conll(test_results), 'test_results.txt')
+    write_results_in_conll(flatten_to_conll(test_samples), 'test_gold.txt')
 
 
     score = chunker.evaluate([nltk.chunk.conlltags2tree([(w, t, iob) for (w, t), iob in iobs]) for iobs in test_samples[:500]])
