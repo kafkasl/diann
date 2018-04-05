@@ -318,5 +318,5 @@ if __name__ == '__main__':
     nerc_evaluation(gold_data=gold_data, test_data=test_data)
 
 
-    score = chunker.evaluate([nltk.chunk.conlltags2tree([(w, t, iob) for (w, t), iob in iobs]) for iobs in test_samples[:500]])
-    print("Chunker.evaluate() score: {}".format(score.accuracy()))
+    # score = chunker.evaluate([nltk.chunk.conlltags2tree([(w, t, iob) for (w, t), iob in iobs]) for iobs in test_samples[:500]])
+    # print("Chunker.evaluate() score: {}".format(score.accuracy()))
