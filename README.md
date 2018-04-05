@@ -2,7 +2,11 @@
 Diann competition repo
 
 
-Notes 4 Lluis meeting
+Current notes:
+
+Negated expressions do not coincide with negex ( 'not have' vs 'not' ). Will have to modify ngx input probably. 
+
+Notes 1 Lluis meeting
 
 
 * Keep parenthesis (may help identify acronyms) keep them from
