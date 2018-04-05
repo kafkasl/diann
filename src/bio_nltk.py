@@ -9,7 +9,7 @@ from collections import defaultdict
 from lxml import etree
 import numpy as np
 from lxml.etree import XMLSyntaxError
-
+from nerc_evaluator import nerc_evaluation
 import re
 import pickle
 import xmltodict
@@ -122,6 +122,11 @@ def features(tokens, index, history):
 
         'next-all-caps': nextallcaps,
         'next-capitalized': nextcapitalized,
+
+        # word is in a list consult external disabilities
+        # create own list from the training
+        # be creative
+        # try to remove some which may add noise
     }
 
 
@@ -185,18 +190,17 @@ def is_annotated(word, json_tags):
     #         return True
     # except:
     #     pass
-    try:
-        if word in json_tags['neg']:
-            return True, 'neg'
-    except:
-        pass
+    # try:
+    #     if word in json_tags['neg']:
+    #         return True, 'neg'
+    # except:
+    #     pass
 
     return False, ''
 
 
 def process_sentence(data):
 
-    #data = data.replace('\r', ' ').replace('\n', ' ')
     clean_text = nltk.word_tokenize(remove_tags(data))
     json_tags = get_json(data)
 
@@ -222,7 +226,6 @@ def process_sentence(data):
 def bioDataGenerator(folder, lang, debug):
     files = glob('{}/*txt'.format(folder))
 
-    # print("Files found {}".format(files))
     if debug:
         files = [files[0]]
 
@@ -237,12 +240,6 @@ def bioDataGenerator(folder, lang, debug):
             for sentence in total:
                 iob_data = process_sentence(sentence)
                 yield iob_data
-
-            # X = [v for k, v in bio_data]
-            # y = [k for k, v in bio_data]
-            # clf = MLPClassifier(solver='lbfgs', alpha=1e-5, hidden_layer_sizes = (5, 2), random_state = 1)
-            # clf.fit(X, y)
-
 
 class NamedEntityChunker(ChunkParserI):
     def __init__(self, train_sents, **kwargs):
@@ -272,7 +269,6 @@ def flatten_to_conll(sentences):
             for (word, pos), tag in sentence:
                 conll_data.append((word, tag))
         else:
-            print(sentence)
             (word, pos), tag = sentence
             conll_data.append((word, tag))
     return conll_data
@@ -298,8 +294,8 @@ if __name__ == '__main__':
     training_samples = data[:int(len(data) * 0.9)]
     test_samples = data[int(len(data) * 0.9):]
 
-    print("# training samples = %s" % len(training_samples))  # training samples = 55809
-    print("# test samples = %s" % len(test_samples))  # test samples = 6201
+    print("\nTraining samples = %s" % len(training_samples))  # training samples = 55809
+    print("Test samples = %s" % len(test_samples))  # test samples = 6201
 
     chunker = NamedEntityChunker(training_samples)
 
@@ -316,6 +312,11 @@ if __name__ == '__main__':
     write_results_in_conll(flatten_to_conll(test_results), 'test_results.txt')
     write_results_in_conll(flatten_to_conll(test_samples), 'test_gold.txt')
 
+    test_data = flatten_to_conll(test_results)
+    gold_data = flatten_to_conll(test_samples)
+
+    nerc_evaluation(gold_data=gold_data, test_data=test_data)
+
 
     score = chunker.evaluate([nltk.chunk.conlltags2tree([(w, t, iob) for (w, t), iob in iobs]) for iobs in test_samples[:500]])
-    print(score.accuracy())
+    print("Chunker.evaluate() score: {}".format(score.accuracy()))
