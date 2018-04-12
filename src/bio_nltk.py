@@ -209,13 +209,13 @@ def process_sentence(data):
     inside = False
     tagged_text = nltk.pos_tag(clean_text)
     for word, tag in tagged_text:
-        annotated, tag = is_annotated(word, json_tags)
+        annotated, entity = is_annotated(word, json_tags)
         if annotated:
             if inside:
-                iob = 'I-{}'.format(tag)
+                iob = 'I-{}'.format(entity)
             else:
                 inside = True
-                iob = 'B-{}'.format(tag)
+                iob = 'B-{}'.format(entity)
         else:
             inside = False
             iob = 'O'
