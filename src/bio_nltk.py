@@ -9,6 +9,7 @@ from collections import defaultdict
 from lxml import etree
 import numpy as np
 from lxml.etree import XMLSyntaxError
+from multiprocessing import Pool
 from nerc_evaluator import nerc_evaluation
 import re
 import pickle
@@ -17,8 +18,7 @@ import argparse
 import nltk
 import json
 import string
-import os
-
+import sys
 
 
 def remove_tags(raw):
@@ -179,12 +179,13 @@ def get_json(raw):
     return dictionary
 
 
-def is_annotated(word, json_tags):
-    try:
-        if word in json_tags['dis']:
-            return True, 'dis'
-    except:
-        pass
+def is_annotated(word, json_tags, parsed_tags=('dis', 'neg')):
+    for parsed_tag in parsed_tags:
+        try:
+            if word in json_tags[parsed_tag]:
+                return True, parsed_tag
+        except:
+            pass
     # try:
     #     if word in json_tags['scp']:
     #         return True
@@ -206,18 +207,19 @@ def process_sentence(data):
 
     iob_data = []
 
-    inside = False
+    inside = {'dis': False, 'neg': False}
     tagged_text = nltk.pos_tag(clean_text)
     for word, tag in tagged_text:
-        annotated, tag = is_annotated(word, json_tags)
+        annotated, entity = is_annotated(word, json_tags)
         if annotated:
-            if inside:
-                iob = 'I-{}'.format(tag)
+            if inside[entity]:
+                iob = 'I-{}'.format(entity)
             else:
-                inside = True
-                iob = 'B-{}'.format(tag)
+                inside = {'dis': False, 'neg': False}
+                inside[entity] = True
+                iob = 'B-{}'.format(entity)
         else:
-            inside = False
+            inside = {'dis': False, 'neg': False}
             iob = 'O'
         iob_data.append(((word, tag), iob))
 
@@ -227,7 +229,7 @@ def bioDataGenerator(folder, lang, debug):
     files = glob('{}/*txt'.format(folder))
 
     if debug:
-        files = [files[0]]
+        files = files[0:30]
 
     for file in files:
         print("Processing file: {}".format(file))
@@ -242,8 +244,9 @@ def bioDataGenerator(folder, lang, debug):
                 yield iob_data
 
 class NamedEntityChunker(ChunkParserI):
-    def __init__(self, train_sents, **kwargs):
+    def __init__(self, train_sents, use_neg, **kwargs):
         assert isinstance(train_sents, Iterable)
+        training = []
 
         self.feature_detector = features
         self.tagger = ClassifierBasedTagger(
@@ -279,44 +282,76 @@ def write_results_in_conll(words, filename):
             f.write("{}\t{}\n".format(word, tag))
 
 
+def process_fold(input):
+
+    fold, training, validation = input
+
+    chunker = NamedEntityChunker(training, use_neg=True)
+
+    validation_results = []
+    for sentence in validation:
+        result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
+        for word, pos, tag in result:
+            validation_results.append(((word, pos), tag))
+
+
+
+    test_data = flatten_to_conll(validation_results)
+    gold_data = flatten_to_conll(validation)
+
+    precision, recall = nerc_evaluation(gold_data=gold_data, test_data=test_data)
+
+    write_results_in_conll(flatten_to_conll(validation_results), '../results/validation_results_{}.txt'.format(fold))
+    write_results_in_conll(flatten_to_conll(validation), '../results/test_gold_{}.txt'.format(fold))
+
+    return precision, recall
+
+
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input_dir', default="../data", help="Directory containing input files.")
     parser.add_argument('-l', '--language', default="english", help="Training language")
     parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)")
+    parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation")
+    parser.add_argument('-t', '--threads', default=4, help="Number of threads to use")
 
     args = parser.parse_args()
 
     data_generator = bioDataGenerator(folder=args.input_dir, lang=args.language, debug=args.debug)
 
     data = list(data_generator)
-    training_samples = data[:int(len(data) * 0.9)]
-    test_samples = data[int(len(data) * 0.9):]
+    chunk_size = len(data)//args.folds
+    threads = int(args.threads)
 
-    print("\nTraining samples = %s" % len(training_samples))  # training samples = 55809
-    print("Test samples = %s" % len(test_samples))  # test samples = 6201
+    precisions, recalls = [], []
 
-    chunker = NamedEntityChunker(training_samples)
+    inputs = []
+    for fold in range(args.folds):
+        training = [data[i] for i in
+                    [i for i in range(len(data)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
+        validation = [data[i] for i in
+                      [i for i in range(len(data)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
+        inputs.append((fold, training, validation))
 
-    sample = "Asthma is not a chronic disease requiring inhaled treatment and in addition " \
-             "it is a risk factor (RF) of pneumonia."
-    # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(sample))))
 
-    test_results = []
-    for sentence in test_samples:
-        result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
-        for word, pos, tag in result:
-            test_results.append(((word, pos), tag))
+    if threads > 1:
+        p = Pool(threads)
+        outputs = p.map(process_fold, inputs)
+    else:
+        outputs = [process_fold(inp) for inp in inputs]
 
-    write_results_in_conll(flatten_to_conll(test_results), 'test_results.txt')
-    write_results_in_conll(flatten_to_conll(test_samples), 'test_gold.txt')
+    precisions = [p for p, r in outputs]
+    recalls = [r for p, r in outputs]
 
-    test_data = flatten_to_conll(test_results)
-    gold_data = flatten_to_conll(test_samples)
+    print("Total precision: %.2f ± %.2f" % (np.mean(precisions), np.std(precisions)))
+    print("Total recall: %.2f ± %.2f" % (np.mean(recalls), np.std(recalls)))
 
-    nerc_evaluation(gold_data=gold_data, test_data=test_data)
+
 
 
     # score = chunker.evaluate([nltk.chunk.conlltags2tree([(w, t, iob) for (w, t), iob in iobs]) for iobs in test_samples[:500]])
     # print("Chunker.evaluate() score: {}".format(score.accuracy()))
+    # sample = "Asthma is not a chronic disease requiring inhaled treatment and in addition " \
+    #      "it is a risk factor (RF) of pneumonia."
+    # print(chunker.parse(nltk.pos_tag(nltk.word_tokenize(sample))))
