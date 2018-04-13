@@ -42,6 +42,8 @@ def nerc_evaluation(gold_data, test_data):
     print("Precision: {}".format(precision))
     print("Recall: {}".format(recall))
 
+    return precision, recall
+
 
 if __name__ == '__main__':
     print("Gold reference: {}".format(sys.argv[1]))

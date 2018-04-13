@@ -61,7 +61,7 @@ def convert_into_xml(tagged):
             xml_sent.append(sent)
 
 
-    print(xml_sent)
+    return xml_sent
 
 if __name__ == '__main__':
 
