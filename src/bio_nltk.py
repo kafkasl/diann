@@ -1,10 +1,10 @@
 from glob import glob
-
 from collections import defaultdict
 from lxml import etree
 from lxml.etree import XMLSyntaxError
 from multiprocessing import Pool
 from nerc_evaluator import nerc_evaluation
+from named_entity_chunker import NamedEntityChunker
 
 import numpy as np
 
@@ -158,14 +158,16 @@ def bioDataGenerator(folder, lang, debug):
                 yield iob_data
 
 
-def flatten_to_conll(sentences):
+def flatten_to_conll(sentences, contains_pos=False):
     conll_data = []
     for sentence in sentences:
         if type(sentence) == list:
-            for (word, pos), tag in sentence:
+            for word, tag in sentence:
+                if contains_pos: word, _ = word
                 conll_data.append((word, tag))
         else:
-            (word, pos), tag = sentence
+            word, tag = sentence
+            if contains_pos: word, _ = word
             conll_data.append((word, tag))
     return conll_data
 
@@ -175,22 +177,33 @@ def write_results_in_conll(words, filename):
             f.write("{}\t{}\n".format(word, tag))
 
 
+def train_and_predict(tagger):
+    chunker = NamedEntityChunker(training, tagger=tagger)
+    validation_results = []
+
+    if tagger == 'CRFTagger':
+        for sentence in validation:
+            result = chunker.parse([word for ((word, pos), tag) in sentence])
+            for word, tag in result:
+                validation_results.append((word, tag))
+    elif tagger == 'ClassifierBasedTagger':
+        for sentence in validation:
+            result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
+            for word, pos, tag in result:
+                validation_results.append((word, tag))
+
+    return validation_results
+
 def process_fold(input):
 
     fold, training, validation = input
 
-    chunker = NamedEntityChunker(training, use_neg=True)
-
-    validation_results = []
-    for sentence in validation:
-        result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
-        for word, pos, tag in result:
-            validation_results.append(((word, pos), tag))
-
+    validation_results = train_and_predict("CRFTagger")
+    # validation_results = train_and_predict("ClassifierBasedTagger")
 
 
     test_data = flatten_to_conll(validation_results)
-    gold_data = flatten_to_conll(validation)
+    gold_data = flatten_to_conll(validation, contains_pos=True)
 
     precision, recall = nerc_evaluation(gold_data=gold_data, test_data=test_data)
 

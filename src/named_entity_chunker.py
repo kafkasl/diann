@@ -86,13 +86,13 @@ class NamedEntityChunker(ChunkParserI):
     def __init__(self, train_sents, tagger, **kwargs):
         assert isinstance(train_sents, Iterable)
 
-        if isinstance(tagger, ClassifierBasedTagger):
+        if tagger == "ClassifierBasedTagger":
             self.feature_detector = iob_features
             self.tagger = ClassifierBasedTagger(
                 train=train_sents,
                 feature_detector=iob_features,
                 **kwargs)
-        elif isinstance(tagger, CRFTagger):
+        elif tagger == "CRFTagger":
             training = []
             for sentence in train_sents:
                 s = []
@@ -100,7 +100,8 @@ class NamedEntityChunker(ChunkParserI):
                     s.append((word, tag))
                 training.append(s)
             self.feature_detector = iob_features
-            self.tagger = CRFTagger().train(train_data=training)
+            self.tagger = CRFTagger()
+            self.tagger.train(train_data=training, model_file="../results/modelCRF")
         else:
             raise Exception('Unknown tagger')
 
@@ -110,8 +111,11 @@ class NamedEntityChunker(ChunkParserI):
 
         # Transform the result from [((w1, t1), iob1), ...]
         # to the preferred list of triplets format [(w1, t1, iob1), ...]
-        iob_triplets = [(w, t, c) for ((w, t), c) in chunks]
+        if self.tagger == ClassifierBasedTagger:
+            # chunks = [(w, tag) for ((w, pos), tag) in chunks]
+            chunks = [[(w, tag) for ((w, pos), tag) in sentence] for sentence in chunks]
+            # iob_triplets = [(w, t, c) for ((w, t), c) in chunks]
 
         # Transform the list of triplets to nltk.Tree format
-        return iob_triplets
+        return chunks
         # return nltk.chunk.conlltags2tree(iob_triplets)
