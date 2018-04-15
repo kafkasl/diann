@@ -196,19 +196,19 @@ def train_and_predict(tagger):
 
 def process_fold(input):
 
-    fold, training, validation = input
+    fold, training, gold = input
 
-    validation_results = train_and_predict("CRFTagger")
+    system = train_and_predict("CRFTagger")
     # validation_results = train_and_predict("ClassifierBasedTagger")
 
 
-    test_data = flatten_to_conll(validation_results)
-    gold_data = flatten_to_conll(validation, contains_pos=True)
+    system_data = flatten_to_conll(system)
+    gold_data = flatten_to_conll(gold, contains_pos=True)
 
-    precision, recall = nerc_evaluation(gold_data=gold_data, test_data=test_data)
+    precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
 
-    write_results_in_conll(flatten_to_conll(validation_results), '../results/validation_results_{}.txt'.format(fold))
-    write_results_in_conll(flatten_to_conll(validation), '../results/test_gold_{}.txt'.format(fold))
+    write_results_in_conll(flatten_to_conll(system), '../results/system/test_{}.txt'.format(fold))
+    write_results_in_conll(flatten_to_conll(validation), '../results/gold/test_{}.txt'.format(fold))
 
     return precision, recall
 
