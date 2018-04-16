@@ -142,8 +142,7 @@ def process_sentence(data):
 
     return iob_data
 
-def bioDataGenerator(folder, lang, debug):
-    files = glob('{}/*txt'.format(folder))
+def bioDataGenerator(files, lang, debug):
 
     if debug:
         files = files[0:30]
@@ -184,8 +183,8 @@ def write_results_in_conll(words, folder, filename):
             f.write("{}\t{}\n".format(word, tag))
 
 
-def train_and_predict(tagger):
-    chunker = NamedEntityChunker(training, tagger=tagger)
+def train_and_predict(tagger, chunker, validation):
+
     validation_results = []
 
     if tagger == 'CRFTagger':
@@ -201,12 +200,23 @@ def train_and_predict(tagger):
 
     return validation_results
 
-def process_fold(input):
 
-    fold, training, gold = input
+def process_fold(input, tagger="CRFTagger"):
 
-    system = train_and_predict("CRFTagger")
-    # validation_results = train_and_predict("ClassifierBasedTagger")
+    fold, training_files, gold_files = input
+
+    training = list(bioDataGenerator(files=training_files, lang=args.language, debug=args.debug))
+    gold = list(bioDataGenerator(files=gold_files, lang=args.language, debug=args.debug))
+
+    chunker = NamedEntityChunker(training, tagger=tagger)
+
+    predictions = {}
+    for file in gold_files:
+        validation = list(bioDataGenerator(files=[file], lang=args.language, debug=args.debug))
+        prediction = train_and_predict(tagger, chunker=chunker, validation=validation)
+        predictions[file] = prediction
+
+    system = train_and_predict(tagger, chunker=chunker, validation=gold)
 
     system_data = flatten_to_conll(system)
     gold_data = flatten_to_conll(gold, contains_pos=True)
@@ -214,15 +224,17 @@ def process_fold(input):
     precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
 
     system_conll = flatten_to_conll(system)
-    gold_conll = flatten_to_conll(validation)
+    gold_conll = flatten_to_conll(gold)
 
     write_results_in_conll(system_conll, '../results/system/conll/', 'test_{}.txt'.format(fold))
     write_results_in_conll(gold_conll, '../results/gold/conll/', 'test_{}.txt'.format(fold))
 
-    tagged = find_negated(data=system_conll)
-    xml = convert_into_xml(tagged)
-    with open('../results/system/xml/test_{}.txt'.format(fold)) as f:
-        f.write(xml)
+    for file, prediction in predictions.items():
+        pred_conll = flatten_to_conll(prediction)
+        tagged = find_negated(data=pred_conll)
+        xml = convert_into_xml(tagged)
+        with open('../results/system/xml/{}'.format(file.split("/")[-1]), 'w') as f:
+            f.write("\n".join(xml))
 
 
     return precision, recall
@@ -239,20 +251,17 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    data_generator = bioDataGenerator(folder=args.input_dir, lang=args.language, debug=args.debug)
-
-    data = list(data_generator)
-    chunk_size = len(data)//args.folds
+    files = glob('{}/*txt'.format(args.input_dir))
+    chunk_size = len(files)//args.folds
     threads = int(args.threads)
 
-    precisions, recalls = [], []
 
     inputs = []
     for fold in range(args.folds):
-        training = [data[i] for i in
-                    [i for i in range(len(data)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
-        validation = [data[i] for i in
-                      [i for i in range(len(data)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
+        training = [files[i] for i in
+                    [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
+        validation = [files[i] for i in
+                      [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
         inputs.append((fold, training, validation))
 
 

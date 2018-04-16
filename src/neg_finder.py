@@ -21,7 +21,7 @@ def get_entities_per_sentence(words):
     return sent_ent
 
 def find_negated(data):
-    rfile = open(r'./negex/negex_triggers.txt')
+    rfile = open(r'../src/negex/negex_triggers.txt')
     irules = sortRules(rfile.readlines())
     sent_ent = get_entities_per_sentence(data)
     output = []
