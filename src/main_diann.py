@@ -1,16 +1,19 @@
 from glob import glob
+from glob import glob
 from collections import defaultdict
 from lxml import etree
 from lxml.etree import XMLSyntaxError
 from multiprocessing import Pool
 from nerc_evaluator import nerc_evaluation
 from named_entity_chunker import NamedEntityChunker
+from neg_finder import find_negated, convert_into_xml
 
 import numpy as np
 
 import re
 import argparse
 import nltk
+import os
 
 
 def remove_tags(raw):
@@ -171,8 +174,12 @@ def flatten_to_conll(sentences, contains_pos=False):
             conll_data.append((word, tag))
     return conll_data
 
-def write_results_in_conll(words, filename):
-    with open(filename, 'w') as f:
+
+def write_results_in_conll(words, folder, filename):
+    if not os.path.exists(folder):
+        os.makedirs(folder)
+
+    with open(folder+filename, 'w') as f:
         for word, tag in words:
             f.write("{}\t{}\n".format(word, tag))
 
@@ -201,14 +208,22 @@ def process_fold(input):
     system = train_and_predict("CRFTagger")
     # validation_results = train_and_predict("ClassifierBasedTagger")
 
-
     system_data = flatten_to_conll(system)
     gold_data = flatten_to_conll(gold, contains_pos=True)
 
     precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
 
-    write_results_in_conll(flatten_to_conll(system), '../results/system/test_{}.txt'.format(fold))
-    write_results_in_conll(flatten_to_conll(validation), '../results/gold/test_{}.txt'.format(fold))
+    system_conll = flatten_to_conll(system)
+    gold_conll = flatten_to_conll(validation)
+
+    write_results_in_conll(system_conll, '../results/system/conll/', 'test_{}.txt'.format(fold))
+    write_results_in_conll(gold_conll, '../results/gold/conll/', 'test_{}.txt'.format(fold))
+
+    tagged = find_negated(data=system_conll)
+    xml = convert_into_xml(tagged)
+    with open('../results/system/xml/test_{}.txt'.format(fold)) as f:
+        f.write(xml)
+
 
     return precision, recall
 

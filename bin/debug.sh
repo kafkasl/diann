@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-python3 ../src/bio_nltk.py \
+python3 ../src/main_diann.py \
 --debug True \
 --language english \
 --threads 1 \

@@ -60,7 +60,6 @@ def convert_into_xml(tagged):
             sent = sent.replace('[PHRASE]', '</dis>', 1)
             xml_sent.append(sent)
 
-
     return xml_sent
 
 if __name__ == '__main__':
