@@ -3,7 +3,7 @@ Abstract
 <dis>Cerebral palsy</dis> (<dis>CP</dis>) is the most common <dis>chronic motor disorder</dis> in children and frequently associates sensorial pathology.
 The objective of our study was to establish the prevalence and characteristics of <dis>sensorineural hearing loss</dis> in children with <dis>CP</dis>.
 Methods
-We performed a retrospective study of patients born between the years 1975 and 2004, diagnosed of <dis>CP</dis> in the “Marqués de Valdecilla” University Hospital.
+We performed a retrospective study of patients born between the years 1975 and 2004, diagnosed of <dis>CP</dis> in the "Marqués de Valdecilla" University Hospital.
 Clinical data were collected including the presence of <dis>sensorineural hearing loss</dis>, age at diagnosis, treatment and associated pathology.
 Results
 Sixty four patients had confirmed <dis>CP</dis>.

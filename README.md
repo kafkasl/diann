@@ -4,7 +4,11 @@ Diann competition repo
 
 Current notes:
 
+Evaluator provided crashes in file S0001651906787155.txt because of non-standard quote marks
+
+
 Negated expressions do not coincide with negex ( 'not have' vs 'not' ). Will have to modify ngx input probably. 
+
 
 Notes 1 Lluis meeting
 

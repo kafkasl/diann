@@ -4,19 +4,34 @@ from nerc_evaluator import get_entities
 import sys
 
 
-def get_entities_per_sentence(words):
+# def get_entities_per_sentence(words):
+#     sent_ent = []
+#     start = 0
+#     end = 0
+#     while end < len(words):
+#         word, tag = words[end]
+#         if word == '.':
+#             sentence = words[start:end+1]
+#             es = list(set(get_entities(sentence)))
+#             str_sentence = " ".join([w for w, t in words[start:end+1]])
+#             sent_ent.append([str_sentence, es])
+#             start = end + 1
+#         end += 1
+#
+#     return sent_ent
+
+def get_entities_per_sentence(sentences):
     sent_ent = []
-    start = 0
-    end = 0
-    while end < len(words):
-        word, tag = words[end]
-        if word == '.':
-            sentence = words[start:end+1]
-            es = get_entities(sentence)
-            str_sentence = " ".join([w for w, t in words[start:end+1]])
-            sent_ent.append([str_sentence, es])
-            start = end + 1
-        end += 1
+
+    for sentence in sentences:
+        es = list(set(get_entities(sentence)))
+        str_sentence = ""
+        for i, (w, _) in enumerate(sentence):
+            if w != '.' and len(sentence)-1 > i > 0:
+                str_sentence += ' '
+            str_sentence += w
+
+        sent_ent.append([str_sentence, es])
 
     return sent_ent
 
@@ -47,9 +62,14 @@ def find_negated(data):
         #     break
     return output
 
+def remove_all_neg_tags(sent):
+    sent = sent.replace('[PREN]', '')
+    sent = sent.replace('[PSEU', '')
+    return sent
 
 def convert_into_xml(tagged):
     xml_sent = []
+    # print('First sentence: {}'.format(tagged[0]))
     for sent in tagged:
         while '[NEGATED]' in sent or '[PHRASE]' in sent:
             if '[NEGATED]' in sent:
@@ -64,11 +84,11 @@ def convert_into_xml(tagged):
                     sent = sent.replace('[PSEU]', '</neg>', 1)
                 sent = sent.replace('[NEGATED]', '<dis>', 1)
                 sent = sent.replace('[NEGATED]', '</dis></scp>', 1)
-                xml_sent.append(sent)
             elif '[PHRASE]' in sent:
                 sent = sent.replace('[PHRASE]', '<dis>', 1)
                 sent = sent.replace('[PHRASE]', '</dis>', 1)
-                xml_sent.append(sent)
+            else:
+                sent = remove_all_neg_tags(sent)
         xml_sent.append(sent)
 
     return xml_sent
@@ -79,4 +99,5 @@ if __name__ == '__main__':
 
     data = [l.strip().split('\t') for l in test]
     tagged = find_negated(data=data)
-    convert_into_xml(tagged)
+    xml = convert_into_xml(tagged)
+    print(xml)

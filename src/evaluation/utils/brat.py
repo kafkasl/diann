@@ -20,7 +20,12 @@ def generate_ann(anotated):
                     if d["end"]<0:
                         d["end"]=x-z
                 state = 5
-                inclu.remove(True)
+                # try:
+                #     print("Annotated of x+5: {}".format(anotated))
+                #     print("Inclu: [{}]".format(inclu))
+                # except Exception as e:
+                #     print(e)
+                # inclu.remove(True)
                 z+=1
             elif any(inclu):
                 for c in chest: 

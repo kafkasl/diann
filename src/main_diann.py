@@ -145,13 +145,22 @@ def process_sentence(data):
 def bioDataGenerator(files, lang):
 
     for file in files:
-        print("Processing file: {}".format(file))
+        # print("Processing file: {}".format(file))
         with open(file) as f:
             data = f.read().replace('&', '').replace('\t', '')
-            sentences = nltk.sent_tokenize(data)
-            total = []
-            for s in sentences:
-                total.extend(s.split('\n'))
+            total = [s.strip() for s in data.split('\n')]
+            for i, s in enumerate(total):
+                if len(s) == 0 or total[i][-1] != '.':
+                    total[i] += '.'
+            # sentences = nltk.sent_tokenize(data)
+            # total = []
+            # for s in sentences:
+            #     processed = s.split('\n')
+            #     if len(processed) > 1:
+            #         for i in range(0, (len(processed))):
+            #             if processed[i][-1] != '.':
+            #                 processed[i] += '.'
+            #     total.extend(processed)
             for sentence in total:
                 iob_data = process_sentence(sentence)
                 yield iob_data
@@ -159,41 +168,49 @@ def bioDataGenerator(files, lang):
 
 def flatten_to_conll(sentences, contains_pos=False):
     conll_data = []
+    print("Setnences: {}".format(sentences))
     for sentence in sentences:
+        s_aux = []
         if type(sentence) == list:
             for word, tag in sentence:
                 if contains_pos: word, _ = word
-                conll_data.append((word, tag))
+                s_aux.append((word, tag))
         else:
             word, tag = sentence
             if contains_pos: word, _ = word
-            conll_data.append((word, tag))
+            s_aux.append((word, tag))
+        conll_data.append(s_aux)
     return conll_data
 
 
-def write_results_in_conll(words, folder, filename):
-    if not os.path.exists(folder):
-        os.makedirs(folder)
+# def write_results_in_conll(words, folder, filename):
+#     if not os.path.exists(folder):
+#         os.makedirs(folder)
+#
+#     with open(folder+filename, 'w') as f:
+#         for word, tag in words:
+#             f.write("{}\t{}\n".format(word, tag))
 
-    with open(folder+filename, 'w') as f:
-        for word, tag in words:
-            f.write("{}\t{}\n".format(word, tag))
 
-
-def train_and_predict(tagger, chunker, validation):
+def predict(tagger, chunker, validation):
 
     validation_results = []
 
     if tagger == 'CRFTagger':
         for sentence in validation:
+            s_aux = []
             result = chunker.parse([word for ((word, pos), tag) in sentence])
             for word, tag in result:
-                validation_results.append((word, tag))
+                s_aux.append((word, tag))
+            validation_results.append(s_aux)
     elif tagger == 'ClassifierBasedTagger':
         for sentence in validation:
+            s_aux = []
             result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
             for word, pos, tag in result:
-                validation_results.append((word, tag))
+                s_aux.append((word, tag))
+            validation_results.append(s_aux)
+
 
     return validation_results
 
@@ -207,29 +224,28 @@ def process_fold(input, tagger="CRFTagger"):
         print("Input files length:\nTraining: {}\nGold: {}\n".format(len(training_files), len(gold_files)))
         print("Input files:\nTraining: {}\nGold: {}\n".format(training_files, gold_files))
 
-    training = list(bioDataGenerator(files=training_files, lang=args.language))
-    gold = list(bioDataGenerator(files=gold_files, lang=args.language))
-
-    chunker = NamedEntityChunker(training, tagger=tagger)
+    training_data = list(bioDataGenerator(files=training_files, lang=args.language))
+    chunker = NamedEntityChunker(training_data, tagger=tagger)
 
     predictions = {}
     for file in gold_files:
-        validation = list(bioDataGenerator(files=[file], lang=args.language))
-        prediction = train_and_predict(tagger, chunker=chunker, validation=validation)
+        validation_data = list(bioDataGenerator(files=[file], lang=args.language))
+        prediction = predict(tagger, chunker=chunker, validation=validation_data)
         predictions[file] = prediction
 
-    system = train_and_predict(tagger, chunker=chunker, validation=gold)
-
-    system_data = flatten_to_conll(system)
-    gold_data = flatten_to_conll(gold, contains_pos=True)
-
-    precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
-
-    system_conll = flatten_to_conll(system)
-    gold_conll = flatten_to_conll(gold)
-
-    write_results_in_conll(system_conll, '../results/system/conll/', 'test_{}.txt'.format(fold))
-    write_results_in_conll(gold_conll, '../results/gold/conll/', 'test_{}.txt'.format(fold))
+    # gold = list(bioDataGenerator(files=gold_files, lang=args.language))
+    # system = predict(tagger, chunker=chunker, validation=gold)
+    #
+    # system_data = flatten_to_conll(system)
+    # gold_data = flatten_to_conll(gold, contains_pos=True)
+    #
+    # precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
+    #
+    # system_conll = flatten_to_conll(system)
+    # gold_conll = flatten_to_conll(gold)
+    #
+    # write_results_in_conll(system_conll, '../results/system/conll/', 'test_{}.txt'.format(fold))
+    # write_results_in_conll(gold_conll, '../results/gold/conll/', 'test_{}.txt'.format(fold))
 
     for file, prediction in predictions.items():
         pred_conll = flatten_to_conll(prediction)
@@ -239,7 +255,7 @@ def process_fold(input, tagger="CRFTagger"):
             f.write("\n".join(xml))
 
 
-    return precision, recall
+            # return precision, recall
 
 
 if __name__ == '__main__':
@@ -273,11 +289,11 @@ if __name__ == '__main__':
     else:
         outputs = [process_fold(inp) for inp in inputs]
 
-    precisions = [p for p, r in outputs]
-    recalls = [r for p, r in outputs]
-
-    print("Total precision: %.2f ± %.2f" % (np.mean(precisions), np.std(precisions)))
-    print("Total recall: %.2f ± %.2f" % (np.mean(recalls), np.std(recalls)))
+    # precisions = [p for p, r in outputs]
+    # recalls = [r for p, r in outputs]
+    #
+    # print("Total precision: %.2f ± %.2f" % (np.mean(precisions), np.std(precisions)))
+    # print("Total recall: %.2f ± %.2f" % (np.mean(recalls), np.std(recalls)))
 
 
 
