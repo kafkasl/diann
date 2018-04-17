@@ -33,8 +33,14 @@ def nerc_evaluation(gold_data, test_data):
     test_entities = get_entities(test_data)
     matching_entities = len([x for x in test_entities if x in gold_entities])
 
-    precision = 1.0*matching_entities/len(test_entities)
-    recall = 1.0*matching_entities/len(gold_entities)
+    try:
+        precision = 1.0*matching_entities/len(test_entities)
+    except ZeroDivisionError:
+        precision = -1
+    try:
+        recall = 1.0*matching_entities/len(gold_entities)
+    except ZeroDivisionError:
+        recall = -1
 
     print("[GOLD] Number of entities: {}".format(len(gold_entities)))
     print("[TEST] Number of entities: {}\n".format(len(test_entities)))

@@ -142,10 +142,7 @@ def process_sentence(data):
 
     return iob_data
 
-def bioDataGenerator(files, lang, debug):
-
-    if debug:
-        files = files[0:30]
+def bioDataGenerator(files, lang):
 
     for file in files:
         print("Processing file: {}".format(file))
@@ -205,14 +202,19 @@ def process_fold(input, tagger="CRFTagger"):
 
     fold, training_files, gold_files = input
 
-    training = list(bioDataGenerator(files=training_files, lang=args.language, debug=args.debug))
-    gold = list(bioDataGenerator(files=gold_files, lang=args.language, debug=args.debug))
+    if args.debug:
+        training_files, gold_files = training_files[0:2], gold_files[0:1]
+        print("Input files length:\nTraining: {}\nGold: {}\n".format(len(training_files), len(gold_files)))
+        print("Input files:\nTraining: {}\nGold: {}\n".format(training_files, gold_files))
+
+    training = list(bioDataGenerator(files=training_files, lang=args.language))
+    gold = list(bioDataGenerator(files=gold_files, lang=args.language))
 
     chunker = NamedEntityChunker(training, tagger=tagger)
 
     predictions = {}
     for file in gold_files:
-        validation = list(bioDataGenerator(files=[file], lang=args.language, debug=args.debug))
+        validation = list(bioDataGenerator(files=[file], lang=args.language))
         prediction = train_and_predict(tagger, chunker=chunker, validation=validation)
         predictions[file] = prediction
 
@@ -245,9 +247,9 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('-i', '--input_dir', default="../data", help="Directory containing input files.")
     parser.add_argument('-l', '--language', default="english", help="Training language")
-    parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)")
-    parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation")
-    parser.add_argument('-t', '--threads', default=4, help="Number of threads to use")
+    parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)", type=bool)
+    parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation", type=int)
+    parser.add_argument('-t', '--threads', default=4, help="Number of threads to use", type=int)
 
     args = parser.parse_args()
 
