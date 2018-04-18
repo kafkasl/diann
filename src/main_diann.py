@@ -152,6 +152,8 @@ def bioDataGenerator(files, lang):
             for i, s in enumerate(total):
                 if len(s) == 0 or total[i][-1] != '.':
                     total[i] += '.'
+            if total[-1] == '.':
+                del total[-1]
             # sentences = nltk.sent_tokenize(data)
             # total = []
             # for s in sentences:
@@ -168,7 +170,7 @@ def bioDataGenerator(files, lang):
 
 def flatten_to_conll(sentences, contains_pos=False):
     conll_data = []
-    print("Setnences: {}".format(sentences))
+    # print("Setnences: {}".format(sentences))
     for sentence in sentences:
         s_aux = []
         if type(sentence) == list:
@@ -217,7 +219,7 @@ def predict(tagger, chunker, validation):
 
 def process_fold(input, tagger="CRFTagger"):
 
-    fold, training_files, gold_files = input
+    fold, training_files, gold_files, crf_model = input
 
     if args.debug:
         training_files, gold_files = training_files[0:2], gold_files[0:1]
@@ -225,10 +227,14 @@ def process_fold(input, tagger="CRFTagger"):
         print("Input files:\nTraining: {}\nGold: {}\n".format(training_files, gold_files))
 
     training_data = list(bioDataGenerator(files=training_files, lang=args.language))
-    chunker = NamedEntityChunker(training_data, tagger=tagger)
+    if not crf_model:
+        chunker = NamedEntityChunker(train_sents=training_data, tagger=tagger)
+    else:
+        chunker = NamedEntityChunker(tagger=tagger, model=crf_model)
 
     predictions = {}
     for file in gold_files:
+        print("Predicting file: {}".format(file))
         validation_data = list(bioDataGenerator(files=[file], lang=args.language))
         prediction = predict(tagger, chunker=chunker, validation=validation_data)
         predictions[file] = prediction
@@ -251,11 +257,14 @@ def process_fold(input, tagger="CRFTagger"):
         pred_conll = flatten_to_conll(prediction)
         tagged = find_negated(data=pred_conll)
         xml = convert_into_xml(tagged)
-        with open('../results/system/xml/{}'.format(file.split("/")[-1]), 'w') as f:
+        filename = '../results/system/xml/{}'.format(file.split("/")[-1])
+        with open(filename, 'w') as f:
             f.write("\n".join(xml))
+            print("Written results in {}".format(filename))
 
 
             # return precision, recall
+
 
 
 if __name__ == '__main__':
@@ -266,6 +275,7 @@ if __name__ == '__main__':
     parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)", type=bool)
     parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation", type=int)
     parser.add_argument('-t', '--threads', default=4, help="Number of threads to use", type=int)
+    parser.add_argument('-m', '--model', default=None, help="Trained model file for CRF")
 
     args = parser.parse_args()
 
@@ -280,8 +290,9 @@ if __name__ == '__main__':
                     [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
         validation = [files[i] for i in
                       [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
-        inputs.append((fold, training, validation))
+        inputs.append((fold, training, validation, args.model))
 
+    # print("Inputs: {}".format(inputs))
 
     if threads > 1:
         p = Pool(threads)

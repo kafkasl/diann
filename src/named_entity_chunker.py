@@ -83,8 +83,10 @@ def iob_features(tokens, index, history):
     }
 
 class NamedEntityChunker(ChunkParserI):
-    def __init__(self, train_sents, tagger, **kwargs):
-        assert isinstance(train_sents, Iterable)
+    def __init__(self, train_sents=None, tagger="ClassifierBasedTagger", model=None, **kwargs):
+
+        if not model:
+            assert isinstance(train_sents, Iterable)
 
         if tagger == "ClassifierBasedTagger":
             self.feature_detector = iob_features
@@ -92,16 +94,21 @@ class NamedEntityChunker(ChunkParserI):
                 train=train_sents,
                 feature_detector=iob_features,
                 **kwargs)
+
         elif tagger == "CRFTagger":
-            training = []
-            for sentence in train_sents:
-                s = []
-                for ((word, pos), tag) in sentence:
-                    s.append((word, tag))
-                training.append(s)
-            self.feature_detector = iob_features
-            self.tagger = CRFTagger()
-            self.tagger.train(train_data=training, model_file="../results/modelCRF")
+            if not model:
+                training = []
+                for sentence in train_sents:
+                    s = []
+                    for ((word, pos), tag) in sentence:
+                        s.append((word, tag))
+                    training.append(s)
+                self.feature_detector = iob_features
+                self.tagger = CRFTagger()
+                self.tagger.train(train_data=training, model_file="../results/modelCRF")
+            else:
+                self.tagger = CRFTagger()
+                self.tagger.set_model_file(model)
         else:
             raise Exception('Unknown tagger')
 

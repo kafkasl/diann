@@ -2,6 +2,7 @@ from negex.negex import negTagger, sortRules
 from nerc_evaluator import get_entities
 
 import sys
+import re
 
 
 # def get_entities_per_sentence(words):
@@ -51,6 +52,7 @@ def find_negated(data):
         # elem.append(tagger.getNegTaggedSentence())
         # elem.append(tagger.getNegationFlag())
         # elem = elem + tagger.getScopes()
+        # print("Element: {}".format(elem))
 
         output.append(tagger.getNegTaggedSentence())
 
@@ -63,32 +65,110 @@ def find_negated(data):
     return output
 
 def remove_all_neg_tags(sent):
-    sent = sent.replace('[PREN]', '')
-    sent = sent.replace('[PSEU', '')
+    while '[PREN]' in sent or '[PSEU]' in sent:
+        sent = sent.replace('[PREN]', '')
+        sent = sent.replace('[PSEU]', '')
+    return sent
+
+def replace_non_negated(sent):
+    while '[PHRASE]' in sent:
+        sent = sent.replace('[PHRASE]', '<dis>', 1)
+        sent = sent.replace('[PHRASE]', '</dis>', 1)
+    return sent
+
+def remove_tags_after_neg_phrase(sent):
+    s = '[NEGATED]'
+    negated_indices = [match.start() for match in re.finditer(re.escape(s), sent)]
+    neg_flags_indices = [match.start() for match in re.finditer(re.escape('[PREN]'), sent)]
+    neg_flags_indices.extend([match.start() for match in re.finditer(re.escape('[PSEU]'), sent)])
+
+    assert len(neg_flags_indices) % 2 == 0
+
+    s_aux = list(sent)
+    remove_idxs = [idx for idx in neg_flags_indices if idx > max(negated_indices)]
+    for i in remove_idxs:
+        idx = -1
+        try:
+            idx = sent.find('[PREN]', max(negated_indices))
+        except:
+            pass
+        try:
+            idx = sent.find('[PSEU]', max(negated_indices))
+        except:
+            pass
+        if idx == -1:
+            break
+        else:
+            del s_aux[idx:idx+6]
+            sent = "".join(s_aux)
+
+    sent = "".join(s_aux)
+    return sent
+
+def remove_tags_too_far_from_phrase(sent, distance=4):
+    s = '[NEGATED]'
+    negated_indices = [match.start() for match in re.finditer(re.escape(s), sent)]
+    neg_flags_indices = [match.start() for match in re.finditer(re.escape('[PREN]'), sent)]
+    neg_flags_indices.extend([match.start() for match in re.finditer(re.escape('[PSEU]'), sent)])
+
+    print("sent: {} Indices: {}\nlen: {} ".format(sent, neg_flags_indices, len(neg_flags_indices)))
+    if len(neg_flags_indices) % 2 != 0:
+        print("EXCEPTION: len {} found".format(len(neg_flags_indices)))
+
+    for i in range(1, len(neg_flags_indices), 2):
+        s_aux = list(sent)
+        idx0 = neg_flags_indices[i-1]
+        idx = neg_flags_indices[i]
+        try:
+            next_phrase_idx = sent.index(s, idx+6)
+        except ValueError:
+            return remove_all_neg_tags(sent)
+        frag = sent[idx+6:next_phrase_idx]
+        words = frag.split()
+        print("Frag: [{}]\nWords: {}\nDistance: {}\n".format(frag, words, len(words)))
+        if len(words) > distance:
+            del s_aux[idx0:idx0+6]
+            del s_aux[idx-6:idx]
+        sent = "".join(s_aux)
+
     return sent
 
 def convert_into_xml(tagged):
     xml_sent = []
     # print('First sentence: {}'.format(tagged[0]))
     for sent in tagged:
-        while '[NEGATED]' in sent or '[PHRASE]' in sent:
-            if '[NEGATED]' in sent:
-                if '[PREN]':
-                    sent = sent.replace('[PREN]', '<scp><neg>', 1)
-                    sent = sent.replace('[PREN]', '</neg>', 1)
-                elif '[PSEU]' in sent:
-                    if '[PSEU]with' in sent:
-                            sent = sent.replace('[PSEU]with', '<scp>with <neg>', 1)
-                    elif '[PSEU]presented' in sent:
-                        sent = sent.replace('[PSEU]presented', '<scp>presented <neg>', 1)
-                    sent = sent.replace('[PSEU]', '</neg>', 1)
-                sent = sent.replace('[NEGATED]', '<dis>', 1)
-                sent = sent.replace('[NEGATED]', '</dis></scp>', 1)
-            elif '[PHRASE]' in sent:
-                sent = sent.replace('[PHRASE]', '<dis>', 1)
-                sent = sent.replace('[PHRASE]', '</dis>', 1)
-            else:
-                sent = remove_all_neg_tags(sent)
+        # Non negated replaced by dis
+        sent = replace_non_negated(sent)
+        # If there is no negated tag (and non-negated have already been replaced)
+        print("Sentence:\n{}".format(sent))
+
+        if not '[NEGATED]' in sent:
+            sent = remove_all_neg_tags(sent)
+            print("Sentence:\n{}".format(sent))
+        # There are negated tags
+        else:
+            sent = remove_tags_after_neg_phrase(sent)
+            print("Sentence:\n{}".format(sent))
+            sent = remove_tags_too_far_from_phrase(sent)
+            print("Sentence:\n{}".format(sent))
+
+        # while '[NEGATED]' in sent or '[PHRASE]' in sent:
+        #     if '[NEGATED]' in sent:
+        #         if '[PREN]':
+        #             sent = sent.replace('[PREN]', '<scp><neg>', 1)
+        #             sent = sent.replace('[PREN]', '</neg>', 1)
+        #         elif '[PSEU]' in sent:
+        #             if '[PSEU]with' in sent:
+        #                     sent = sent.replace('[PSEU]with', '<scp>with <neg>', 1)
+        #             elif '[PSEU]presented' in sent:
+        #                 sent = sent.replace('[PSEU]presented', '<scp>presented <neg>', 1)
+        #             sent = sent.replace('[PSEU]', '</neg>', 1)
+        #         sent = sent.replace('[NEGATED]', '<dis>', 1)
+        #         sent = sent.replace('[NEGATED]', '</dis></scp>', 1)
+        #     elif '[PHRASE]' in sent:
+        #         sent = sent.replace('[PHRASE]', '<dis>', 1)
+        #         sent = sent.replace('[PHRASE]', '</dis>', 1)
+        # sent = remove_all_neg_tags(sent)
         xml_sent.append(sent)
 
     return xml_sent
