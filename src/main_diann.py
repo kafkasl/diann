@@ -198,28 +198,19 @@ def predict(tagger, chunker, validation):
 
     validation_results = []
 
-    if tagger == 'CRFTagger':
-        for sentence in validation:
-            s_aux = []
-            result = chunker.parse([word for ((word, pos), tag) in sentence])
-            for word, tag in result:
-                s_aux.append((word, tag))
-            validation_results.append(s_aux)
-    elif tagger == 'ClassifierBasedTagger':
-        for sentence in validation:
-            s_aux = []
-            result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
-            for word, pos, tag in result:
-                s_aux.append((word, tag))
-            validation_results.append(s_aux)
-
+    for sentence in validation:
+        s_aux = []
+        result = chunker.parse([(word, pos) for ((word, pos), tag) in sentence])
+        for (word, pos), tag in result:
+            s_aux.append((word, tag))
+        validation_results.append(s_aux)
 
     return validation_results
 
 
-def process_fold(input, tagger="CRFTagger"):
+def process_fold(input):
 
-    fold, training_files, gold_files, crf_model = input
+    fold, training_files, gold_files, crf_model, tagger = input
 
     if args.debug:
         training_files, gold_files = training_files[0:2], gold_files[0:1]
@@ -257,7 +248,7 @@ def process_fold(input, tagger="CRFTagger"):
         pred_conll = flatten_to_conll(prediction)
         tagged = find_negated(data=pred_conll)
         xml = convert_into_xml(tagged)
-        filename = '../results/system/xml/{}'.format(file.split("/")[-1])
+        filename = '../results/system/{}/{}'.format(tagger, file.split("/")[-1])
         with open(filename, 'w') as f:
             f.write("\n".join(xml))
             print("Written results in {}".format(filename))
@@ -274,14 +265,15 @@ if __name__ == '__main__':
     parser.add_argument('-l', '--language', default="english", help="Training language")
     parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)", type=bool)
     parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation", type=int)
-    parser.add_argument('-t', '--threads', default=4, help="Number of threads to use", type=int)
+    parser.add_argument('-n', '--number_of_threads', default=4, help="Number of threads to use", type=int)
     parser.add_argument('-m', '--model', default=None, help="Trained model file for CRF")
+    parser.add_argument('-t', '--tagger', default="CRFTagger", help="Tagger to use:  CRFTagger or ClassifierBasedTagger")
 
     args = parser.parse_args()
 
     files = glob('{}/*txt'.format(args.input_dir))
     chunk_size = len(files)//args.folds
-    threads = int(args.threads)
+    threads = int(args.number_of_threads)
 
 
     inputs = []
@@ -290,7 +282,7 @@ if __name__ == '__main__':
                     [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
         validation = [files[i] for i in
                       [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
-        inputs.append((fold, training, validation, args.model))
+        inputs.append((fold, training, validation, args.model, args.tagger))
 
     # print("Inputs: {}".format(inputs))
 

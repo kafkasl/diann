@@ -82,6 +82,83 @@ def iob_features(tokens, index, history):
         # try to remove some which may add noise
     }
 
+
+def crf_features(tokens, index):
+    """
+    `tokens`  = a POS-tagged sentence [(w1, t1), ...]
+    `index`   = the index of the token we want to extract features for
+    `history` = the previous predicted IOB tags
+    """
+
+    # init the stemmer
+    stemmer = SnowballStemmer('english')
+
+    # Pad the sequence with placeholders
+    tokens = [('[START2]', '[START2]'), ('[START1]', '[START1]')] + list(tokens) + [('[END1]', '[END1]'),
+                                                                                    ('[END2]', '[END2]')]
+
+    # shift the index with 2, to accommodate the padding
+    index += 2
+
+    # print("Tokens: {}".format(tokens[index]))
+
+    word, pos = tokens[index]
+    prevword, prevpos = tokens[index - 1]
+    prevprevword, prevprevpos = tokens[index - 2]
+    nextword, nextpos = tokens[index + 1]
+    nextnextword, nextnextpos = tokens[index + 2]
+    contains_dash = '-' in word
+    contains_dot = '.' in word
+    allascii = all([True for c in word if c in string.ascii_lowercase])
+
+    allcaps = word == word.capitalize()
+    capitalized = word[0] in string.ascii_uppercase
+
+    prevallcaps = prevword == prevword.capitalize()
+    prevcapitalized = prevword[0] in string.ascii_uppercase
+
+    nextallcaps = prevword == prevword.capitalize()
+    nextcapitalized = prevword[0] in string.ascii_uppercase
+
+    return {
+        'word': word,
+        'lemma': stemmer.stem(word),
+        'pos': pos,
+        'all-ascii': allascii,
+
+        'next-word': nextword,
+        'next-lemma': stemmer.stem(nextword),
+        'next-pos': nextpos,
+
+        'next-next-word': nextnextword,
+        'nextnextpos': nextnextpos,
+
+        'prev-word': prevword,
+        'prev-lemma': stemmer.stem(prevword),
+        'prev-pos': prevpos,
+
+        'prev-prev-word': prevprevword,
+        'prev-prev-pos': prevprevpos,
+
+
+        'contains-dash': contains_dash,
+        'contains-dot': contains_dot,
+
+        'all-caps': allcaps,
+        'capitalized': capitalized,
+
+        'prev-all-caps': prevallcaps,
+        'prev-capitalized': prevcapitalized,
+
+        'next-all-caps': nextallcaps,
+        'next-capitalized': nextcapitalized,
+
+        # word is in a list consult external disabilities
+        # create own list from the training
+        # be creative
+        # try to remove some which may add noise
+    }
+
 class NamedEntityChunker(ChunkParserI):
     def __init__(self, train_sents=None, tagger="ClassifierBasedTagger", model=None, **kwargs):
 
@@ -96,18 +173,19 @@ class NamedEntityChunker(ChunkParserI):
                 **kwargs)
 
         elif tagger == "CRFTagger":
+            # self.feature_detector = iob_features
             if not model:
-                training = []
-                for sentence in train_sents:
-                    s = []
-                    for ((word, pos), tag) in sentence:
-                        s.append((word, tag))
-                    training.append(s)
-                self.feature_detector = iob_features
-                self.tagger = CRFTagger()
-                self.tagger.train(train_data=training, model_file="../results/modelCRF")
+                training = train_sents
+                # training = []
+                # for sentence in train_sents:
+                #     s = []
+                #     for ((word, pos), tag) in sentence:
+                #         s.append((word, tag))
+                #     training.append(s)
+                self.tagger = CRFTagger(feature_func=crf_features)
+                self.tagger.train(train_data=training, model_file="../results/modelCRF_featured")
             else:
-                self.tagger = CRFTagger()
+                self.tagger = CRFTagger(feature_func=crf_features)
                 self.tagger.set_model_file(model)
         else:
             raise Exception('Unknown tagger')
@@ -118,9 +196,9 @@ class NamedEntityChunker(ChunkParserI):
 
         # Transform the result from [((w1, t1), iob1), ...]
         # to the preferred list of triplets format [(w1, t1, iob1), ...]
-        if self.tagger == ClassifierBasedTagger:
+        # if self.tagger == ClassifierBasedTagger:
             # chunks = [(w, tag) for ((w, pos), tag) in chunks]
-            chunks = [[(w, tag) for ((w, pos), tag) in sentence] for sentence in chunks]
+            # chunks = [[(w, tag) for ((w, pos), tag) in sentence] for sentence in chunks]
             # iob_triplets = [(w, t, c) for ((w, t), c) in chunks]
 
         # Transform the list of triplets to nltk.Tree format

@@ -1,3 +1,3 @@
 #!/bin/bash -e
 
-python3 ../src/main_diann.py --language english --input_dir ../data/English_Training/Annotated/
+python3 ../src/main_diann.py --language english --input_dir ../data/English_Training/Annotated/ --tagger ClassifierBasedTagger
