@@ -4,7 +4,7 @@ from collections import defaultdict
 from lxml import etree
 from lxml.etree import XMLSyntaxError
 from multiprocessing import Pool
-from nerc_evaluator import nerc_evaluation
+from nerc_evaluator import *
 from named_entity_chunker import NamedEntityChunker
 from neg_finder import find_negated, convert_into_xml
 
@@ -175,7 +175,8 @@ def flatten_to_conll(sentences, contains_pos=False):
         s_aux = []
         if type(sentence) == list:
             for word, tag in sentence:
-                if contains_pos: word, _ = word
+                if contains_pos:
+                    word, _ = word
                 s_aux.append((word, tag))
         else:
             word, tag = sentence
@@ -210,7 +211,7 @@ def predict(tagger, chunker, validation):
 
 def process_fold(input):
 
-    fold, training_files, gold_files, crf_model, tagger = input
+    fold, training_files, gold_files, provided, tagger, model_name = input
 
     if args.debug:
         training_files, gold_files = training_files[0:2], gold_files[0:1]
@@ -218,10 +219,19 @@ def process_fold(input):
         print("Input files:\nTraining: {}\nGold: {}\n".format(training_files, gold_files))
 
     training_data = list(bioDataGenerator(files=training_files, lang=args.language))
-    if not crf_model:
-        chunker = NamedEntityChunker(train_sents=training_data, tagger=tagger)
+    # print("training data: {}".format(training_data))
+    tr = []
+    for sentence in training_data:
+        for ((word, pos), tag) in sentence:
+            tr.append((word, tag))
+
+    entities = get_entities(tr)
+    # print("Entities: {}".format(entities))
+    if not provided:
+        chunker = NamedEntityChunker(train_sents=training_data, tagger=tagger,
+                                     model_name=model_name, entities=entities)
     else:
-        chunker = NamedEntityChunker(tagger=tagger, model=crf_model)
+        chunker = NamedEntityChunker(tagger=tagger, model=model_name, entities=entities)
 
     predictions = {}
     for file in gold_files:
@@ -266,7 +276,8 @@ if __name__ == '__main__':
     parser.add_argument('-d', '--debug', default=False, help="Run in debug mode (just use a single file)", type=bool)
     parser.add_argument('-f', '--folds', default=10, help="Number of folds for k-fold cross validation", type=int)
     parser.add_argument('-n', '--number_of_threads', default=4, help="Number of threads to use", type=int)
-    parser.add_argument('-m', '--model', default=None, help="Trained model file for CRF")
+    parser.add_argument('-m', '--model_name', default=None, help="Trained model files for CRF")
+    parser.add_argument('-p', '--provided_model', action='store_true')
     parser.add_argument('-t', '--tagger', default="CRFTagger", help="Tagger to use:  CRFTagger or ClassifierBasedTagger")
 
     args = parser.parse_args()
@@ -274,15 +285,17 @@ if __name__ == '__main__':
     files = glob('{}/*txt'.format(args.input_dir))
     chunk_size = len(files)//args.folds
     threads = int(args.number_of_threads)
-
+    model_name = args.model_name
+    provided_model = args.provided_model
 
     inputs = []
     for fold in range(args.folds):
+        model = "{}_{}".format(model_name, fold)
         training = [files[i] for i in
                     [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
         validation = [files[i] for i in
                       [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
-        inputs.append((fold, training, validation, args.model, args.tagger))
+        inputs.append((fold, training, validation, provided_model, args.tagger, model))
 
     # print("Inputs: {}".format(inputs))
 

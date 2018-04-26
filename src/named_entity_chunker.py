@@ -4,6 +4,18 @@ from nltk.chunk import ChunkParserI
 from nltk.stem.snowball import SnowballStemmer
 
 import string
+import pickle
+
+dis_list = [l.split() for l in open('../data/disability_tuples.txt', 'r').readlines()]
+
+starters = [l[0] for l in dis_list]
+insiders = []
+for l in dis_list:
+    insiders.extend(l[1:])
+
+precedents_list = [l.strip() for l in open('../data/precedents.txt', 'r').readlines()]
+
+
 
 def iob_features(tokens, index, history):
     """
@@ -76,91 +88,24 @@ def iob_features(tokens, index, history):
         'next-all-caps': nextallcaps,
         'next-capitalized': nextcapitalized,
 
-        # word is in a list consult external disabilities
-        # create own list from the training
-        # be creative
-        # try to remove some which may add noise
-    }
 
 
-def crf_features(tokens, index):
-    """
-    `tokens`  = a POS-tagged sentence [(w1, t1), ...]
-    `index`   = the index of the token we want to extract features for
-    `history` = the previous predicted IOB tags
-    """
-
-    # init the stemmer
-    stemmer = SnowballStemmer('english')
-
-    # Pad the sequence with placeholders
-    tokens = [('[START2]', '[START2]'), ('[START1]', '[START1]')] + list(tokens) + [('[END1]', '[END1]'),
-                                                                                    ('[END2]', '[END2]')]
-
-    # shift the index with 2, to accommodate the padding
-    index += 2
-
-    # print("Tokens: {}".format(tokens[index]))
-
-    word, pos = tokens[index]
-    prevword, prevpos = tokens[index - 1]
-    prevprevword, prevprevpos = tokens[index - 2]
-    nextword, nextpos = tokens[index + 1]
-    nextnextword, nextnextpos = tokens[index + 2]
-    contains_dash = '-' in word
-    contains_dot = '.' in word
-    allascii = all([True for c in word if c in string.ascii_lowercase])
-
-    allcaps = word == word.capitalize()
-    capitalized = word[0] in string.ascii_uppercase
-
-    prevallcaps = prevword == prevword.capitalize()
-    prevcapitalized = prevword[0] in string.ascii_uppercase
-
-    nextallcaps = prevword == prevword.capitalize()
-    nextcapitalized = prevword[0] in string.ascii_uppercase
-
-    return {
-        'word': word,
-        'lemma': stemmer.stem(word),
-        'pos': pos,
-        'all-ascii': allascii,
-
-        'next-word': nextword,
-        'next-lemma': stemmer.stem(nextword),
-        'next-pos': nextpos,
-
-        'next-next-word': nextnextword,
-        'nextnextpos': nextnextpos,
-
-        'prev-word': prevword,
-        'prev-lemma': stemmer.stem(prevword),
-        'prev-pos': prevpos,
-
-        'prev-prev-word': prevprevword,
-        'prev-prev-pos': prevprevpos,
-
-
-        'contains-dash': contains_dash,
-        'contains-dot': contains_dot,
-
-        'all-caps': allcaps,
-        'capitalized': capitalized,
-
-        'prev-all-caps': prevallcaps,
-        'prev-capitalized': prevcapitalized,
-
-        'next-all-caps': nextallcaps,
-        'next-capitalized': nextcapitalized,
 
         # word is in a list consult external disabilities
         # create own list from the training
         # be creative
         # try to remove some which may add noise
     }
+
+
+
 
 class NamedEntityChunker(ChunkParserI):
-    def __init__(self, train_sents=None, tagger="ClassifierBasedTagger", model=None, **kwargs):
+    def __init__(self, train_sents=None, tagger="ClassifierBasedTagger", model=None, model_name="../results/modelCRF_featured", entities=None, **kwargs):
+
+        self.starting_word_entities = []
+        self.inside_word_entities = []
+        self.entities = []
 
         if not model:
             assert isinstance(train_sents, Iterable)
@@ -173,19 +118,19 @@ class NamedEntityChunker(ChunkParserI):
                 **kwargs)
 
         elif tagger == "CRFTagger":
-            # self.feature_detector = iob_features
+            self.set_entities(entities)
             if not model:
-                training = train_sents
                 # training = []
                 # for sentence in train_sents:
                 #     s = []
                 #     for ((word, pos), tag) in sentence:
                 #         s.append((word, tag))
                 #     training.append(s)
-                self.tagger = CRFTagger(feature_func=crf_features)
-                self.tagger.train(train_data=training, model_file="../results/modelCRF_featured")
+                # self.tagger = CRFTagger()
+                self.tagger = CRFTagger(feature_func=self.crf_features)
+                self.tagger.train(train_data=train_sents, model_file="../results/{}".format(model_name))
             else:
-                self.tagger = CRFTagger(feature_func=crf_features)
+                self.tagger = CRFTagger(feature_func=self.crf_features)
                 self.tagger.set_model_file(model)
         else:
             raise Exception('Unknown tagger')
@@ -204,3 +149,172 @@ class NamedEntityChunker(ChunkParserI):
         # Transform the list of triplets to nltk.Tree format
         return chunks
         # return nltk.chunk.conlltags2tree(iob_triplets)
+
+    def set_entities(self, entities):
+        entities = [l.split() for l in entities]
+        if entities:
+            self.starting_word_entities = [l[0] for l in entities]
+            self.inside_word_entities = []
+            for l in entities:
+                self.inside_word_entities.extend(l[1:])
+            self.all_entities = []
+            for l in entities:
+                self.all_entities.extend(l)
+
+
+
+    # def is_followed_by_acronym(self, tokens, distance):
+    #     w = tokens[0]
+
+    def crf_features(self, tokens, index):
+        """
+        `tokens`  = a POS-tagged sentence [(w1, t1), ...]
+        `index`   = the index of the token we want to extract features for
+        `history` = the previous predicted IOB tags
+        """
+
+        # init the stemmer
+        stemmer = SnowballStemmer('english')
+
+        # Pad the sequence with placeholders
+        tokens = [('[START3]', '[START3]'), ('[START2]', '[START2]'), ('[START1]', '[START1]')] + list(tokens) +\
+                 [('[END1]', '[END1]'), ('[END2]', '[END2]'), ('[END3]', '[END3]'), ('[END4]', '[END4]'), ('[END5]', '[END5]')]
+
+        # shift the index with 2, to accommodate the padding
+        index += 3
+
+        # print("Tokens: {}".format(tokens[index]))
+
+        word, pos = tokens[index]
+        prevword, prevpos = tokens[index - 1]
+        prevprevword, prevprevpos = tokens[index - 2]
+        prevprevprevword, prevprevprevpos = tokens[index - 3]
+        nextword, nextpos = tokens[index + 1]
+        nextnextword, nextnextpos = tokens[index + 2]
+        nextnextnextword, nextnextnextpos = tokens[index + 3]
+        contains_dash = '-' in word
+        contains_dot = '.' in word
+        # prev_oparenthesis = '(' == prevword
+        # prev_cparenthesis = ')' == prevword
+        # next_oparenthesis = '(' == nextword
+        # next_cparenthesis = ')' == nextword
+        allascii = all([True for c in word if c in string.ascii_lowercase])
+
+        allcaps = word == word.capitalize()
+        capitalized = word[0] in string.ascii_uppercase
+
+        prevallcaps = prevword == prevword.capitalize()
+        prevcapitalized = prevword[0] in string.ascii_uppercase
+
+        nextallcaps = nextword == nextword.capitalize()
+        nextcapitalized = nextword[0] in string.ascii_uppercase
+
+        # nnallcaps = nextnextword == nextnextword.capitalize()
+        # nncapitalized = nextnextword[0] in string.ascii_uppercase
+        #
+        # nnnallcaps = nextnextnextword == nextnextnextword.capitalize()
+        # nnncapitalized = nextnextnextword[0] in string.ascii_uppercase
+        #
+        # if index + 4 < len(tokens):
+        #     nnnnallcaps = tokens[index+4][0] == tokens[index+4][0].capitalize()
+        #     # print("Token: [{}]".format(tokens[index+4][0]))
+        #     nnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
+        # else:
+        #     nnnnallcaps = False
+        #     nnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
+        #
+        #
+        # if len(tokens) > index + 5:
+        #     nnnnnallcaps = tokens[index+5][0] == tokens[index+5][0].capitalize()
+        #     nnnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
+        # else:
+        #     nnnnnallcaps = False
+        #     nnnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
+
+        starting_dis = word in starters
+        inside_dis = word in insiders
+
+        starting_ent = word in self.starting_word_entities
+        inside_ent = word in self.inside_word_entities
+
+        prev_starting_ent = prevword in self.starting_word_entities
+
+        # contained_in_ent = word in self.entities
+
+        # contains_y = 'y' in word
+        # followed_by_acronym = self.is_followed_by_acronym(tokens[index:])
+        # prevprecedent = prevword in precedents_list
+        # nextprecedent = nextword in precedents_list
+        # currentprecedent = word in precedents_list
+        return {
+            'word': word,
+            'lemma': stemmer.stem(word),
+            'pos': pos,
+            'all-ascii': allascii,
+
+            'next-word': nextword,
+            'next-lemma': stemmer.stem(nextword),
+            'next-pos': nextpos,
+
+            'next-next-word': nextnextword,
+            'next-next-pos': nextnextpos,
+
+            'next-next-next-word': nextnextnextword,
+            'next-next-next-pos': nextnextnextpos,
+
+            'prev-word': prevword,
+            'prev-lemma': stemmer.stem(prevword),
+            'prev-pos': prevpos,
+
+            'prev-prev-word': prevprevword,
+            'prev-prev-pos': prevprevpos,
+
+            'prev-prev-prev-word': prevprevprevword,
+            'prev-prev-prev-pos': prevprevprevpos,
+
+
+            'contains-dash': contains_dash,
+            'contains-dot': contains_dot,
+
+            'all-caps': allcaps,
+            'capitalized': capitalized,
+
+            'prev-all-caps': prevallcaps,
+            'prev-capitalized': prevcapitalized,
+
+            'next-all-caps': nextallcaps,
+            'next-capitalized': nextcapitalized,
+            # 'next-next-capitalized': nncapitalized,
+            # 'next-next-next-capitalized': nnncapitalized,
+            # 'next-next-next-next-capitalized': nnnncapitalized,
+            # 'next-next-next-next-next-capitalized': nnnnncapitalized,
+            #
+            # 'next-next-all-caps': nnallcaps,
+            # 'next-next-next-all-caps': nnnallcaps,
+            # 'next-next-next-next-all-caps': nnnnallcaps,
+            # 'next-next-next-next-next-all-caps': nnnnnallcaps,
+            #
+            'starting_dis': starting_dis,
+            'inside_dis': inside_dis,
+
+            'starting_ent': starting_ent,
+            'inside_ent': inside_ent,  # improves neg but decreases dis
+            # 'prev-starting-sent': prev_starting_ent,
+            # 'contained_in_ent': contained_in_ent,
+            # 'prev_oparenthesis': prev_oparenthesis,
+            # 'prev_cparenthesis ': prev_cparenthesis,
+            # 'next_oparenthesis': next_oparenthesis,
+            # 'next_cparenthesis': next_cparenthesis,
+            #
+            # 'prev-precedent': prevprecedent,
+            # 'next-precedent': nextprecedent,
+            # 'current-precedent': currentprecedent,
+
+
+
+            # word is in a list consult external disabilities
+            # create own list from the training
+            # be creative
+            # try to remove some which may add noise
+        }
+
