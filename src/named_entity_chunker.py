@@ -105,7 +105,7 @@ class NamedEntityChunker(ChunkParserI):
 
         self.starting_word_entities = []
         self.inside_word_entities = []
-        self.entities = []
+        self.all_entities = []
 
         if not model:
             assert isinstance(train_sents, Iterable)
@@ -153,13 +153,15 @@ class NamedEntityChunker(ChunkParserI):
     def set_entities(self, entities):
         entities = [l.split() for l in entities]
         if entities:
-            self.starting_word_entities = [l[0] for l in entities]
+            self.starting_word_entities = [l[0].lower() for l in entities]
             self.inside_word_entities = []
             for l in entities:
-                self.inside_word_entities.extend(l[1:])
+                self.inside_word_entities.extend([w.lower() for w in l[1:]])
             self.all_entities = []
             for l in entities:
-                self.all_entities.extend(l)
+                self.all_entities.extend([w.lower() for w in l])
+
+            # print("Entities: {}".format(self.all_entities))
 
 
 
@@ -194,19 +196,26 @@ class NamedEntityChunker(ChunkParserI):
         nextnextnextword, nextnextnextpos = tokens[index + 3]
         contains_dash = '-' in word
         contains_dot = '.' in word
+
+        prev2_words = prevprevword + "__" + prevword
+        prev2_pos = prevprevpos + "__" + prevpos
+
         # prev_oparenthesis = '(' == prevword
         # prev_cparenthesis = ')' == prevword
         # next_oparenthesis = '(' == nextword
         # next_cparenthesis = ')' == nextword
         allascii = all([True for c in word if c in string.ascii_lowercase])
 
-        allcaps = word == word.capitalize()
+        allcaps = word == word.upper()
+        firstcap = word == word.capitalize()
         capitalized = word[0] in string.ascii_uppercase
 
-        prevallcaps = prevword == prevword.capitalize()
+        prevallcaps = prevword == prevword.upper()
+        prevfirstcap = prevword == prevword.capitalize()
         prevcapitalized = prevword[0] in string.ascii_uppercase
 
-        nextallcaps = nextword == nextword.capitalize()
+        nextallcaps = nextword == nextword.upper()
+        nextfirstcap = nextword == nextword.capitalize()
         nextcapitalized = nextword[0] in string.ascii_uppercase
 
         # nnallcaps = nextnextword == nextnextword.capitalize()
@@ -231,21 +240,30 @@ class NamedEntityChunker(ChunkParserI):
         #     nnnnnallcaps = False
         #     nnnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
 
-        starting_dis = word in starters
-        inside_dis = word in insiders
+        starting_dis = word.lower() in starters
+        inside_dis = word.lower() in insiders
 
-        starting_ent = word in self.starting_word_entities
-        inside_ent = word in self.inside_word_entities
+        starting_ent = word.lower() in self.starting_word_entities
+        inside_ent = word.lower() in self.inside_word_entities
 
-        prev_starting_ent = prevword in self.starting_word_entities
+        prev_starting_ent = prevword.lower() in self.starting_word_entities
+        prev_ent = prevword.lower() in self.all_entities
+        next_ent = nextword.lower() in self.all_entities
 
-        # contained_in_ent = word in self.entities
+        # contained_in_ent = word in self.all_entities
 
         # contains_y = 'y' in word
         # followed_by_acronym = self.is_followed_by_acronym(tokens[index:])
         # prevprecedent = prevword in precedents_list
+
         # nextprecedent = nextword in precedents_list
         # currentprecedent = word in precedents_list
+
+        # add more or lesss features to dict
+        # example: if the word is inside a seen entity, report the position (or more than one feature if it's present in more than one)
+        # this word and the previous/next are inside some entity
+        # try to add lemmas in spanish
+
         return {
             'word': word,
             'lemma': stemmer.stem(word),
@@ -272,17 +290,22 @@ class NamedEntityChunker(ChunkParserI):
             'prev-prev-prev-word': prevprevprevword,
             'prev-prev-prev-pos': prevprevprevpos,
 
+            'prev2-pos': prev2_pos,
+            'prev2-word': prev2_words,
 
             'contains-dash': contains_dash,
             'contains-dot': contains_dot,
 
             'all-caps': allcaps,
+            'first-caps': firstcap,
             'capitalized': capitalized,
 
             'prev-all-caps': prevallcaps,
+            'prev-first-caps': prevfirstcap,
             'prev-capitalized': prevcapitalized,
 
             'next-all-caps': nextallcaps,
+            'next-first-caps': nextfirstcap,
             'next-capitalized': nextcapitalized,
             # 'next-next-capitalized': nncapitalized,
             # 'next-next-next-capitalized': nnncapitalized,
@@ -293,13 +316,17 @@ class NamedEntityChunker(ChunkParserI):
             # 'next-next-next-all-caps': nnnallcaps,
             # 'next-next-next-next-all-caps': nnnnallcaps,
             # 'next-next-next-next-next-all-caps': nnnnnallcaps,
-            #
+
             'starting_dis': starting_dis,
             'inside_dis': inside_dis,
 
             'starting_ent': starting_ent,
             'inside_ent': inside_ent,  # improves neg but decreases dis
-            # 'prev-starting-sent': prev_starting_ent,
+            'prev-starting-sent': prev_starting_ent,
+
+            # 'next-ent': next_ent,  #decreases
+            # 'prev-sent': prev_ent, #decreases
+
             # 'contained_in_ent': contained_in_ent,
             # 'prev_oparenthesis': prev_oparenthesis,
             # 'prev_cparenthesis ': prev_cparenthesis,

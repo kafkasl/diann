@@ -134,13 +134,13 @@ def remove_tags_too_far_from_phrase(sent, distance=3):
         words = frag.split()
 
         neg_sent = "".join(sent[idx0+6:idx])
-        print("neg_sent: {}".format(neg_sent.split()))
+        # print("neg_sent: {}".format(neg_sent.split()))
         neg_word = neg_sent.split()
         if len(neg_word) > 0:
             neg_word = neg_word[0]
         else:
             neg_word = ""
-        print("Frag: [{}]\nWords: {}\nDistance: {}\nNeg word: {}".format(frag, words, len(words), neg_word))
+        # print("Frag: [{}]\nWords: {}\nDistance: {}\nNeg word: {}".format(frag, words, len(words), neg_word))
         if len(words) > distance or (neg_word == 'without' and len(words) > 0):
             del s_aux[idx0:idx0+6]
             del s_aux[idx-6:idx]

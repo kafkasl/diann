@@ -46,9 +46,18 @@ global_system_anotations    = {
 			"Neg":{"fp":0, "tp":0,"fn":0},
             "Disability+Scope+Neg":{"fp":0, "tp":0,"fn":0}				
                         }
+
+
 errors = []
 print("\n\n")
 for fi in gs_files:
+
+    file_system_anotations = {
+        "Disability": {"fp": 0, "tp": 0, "fn": 0},
+        "Scope": {"fp": 0, "tp": 0, "fn": 0},
+        "Neg": {"fp": 0, "tp": 0, "fn": 0},
+        "Disability+Scope+Neg": {"fp": 0, "tp": 0, "fn": 0}
+    }
     gs_text = open(sys.argv[1]+"/"+fi,"rb").read().decode("utf-8").strip().split("\n")
     try:
         system_text = open(sys.argv[2]+"/"+fi,"rb").read().decode("utf-8").strip().split("\n")
@@ -65,17 +74,20 @@ for fi in gs_files:
 
     for l in range(len(gs_text)):
         for term in ["Disability","Scope","Neg"]:
-            an_disa    = [linea for linea in generate_ann(gs_text[l]).strip().split("\n")     if not linea=="" and term in linea.split("\t")[1]]
+            an_disa    = [linea for linea in generate_ann(gs_text[l]).strip().split("\n") if not linea=="" and term in linea.split("\t")[1]]
             an_system  = [linea for linea in generate_ann(system_text[l]).strip().split("\n") if not linea=="" and term in linea.split("\t")[1]]
             for an in list(an_disa):
                 if an in an_system:
                     an_system.remove(an)
                     an_disa.remove(an)
                     global_system_anotations[term]["tp"]+=1
+                    file_system_anotations[term]["tp"]+=1
                 else:
                     global_system_anotations[term]["fn"]+=1
+                    file_system_anotations[term]["fn"]+=1
             global_system_anotations[term]["fp"]+=len(an_system)
-        
+            file_system_anotations[term]["fp"]+=len(an_system)
+
         an_disa   = re.findall(r'(\<scp\>(.+?)\<\/scp\>)',gs_text[l])
         an_system = re.findall(r'(\<scp\>(.+?)\<\/scp\>)',system_text[l])
         for an in list(an_disa):
@@ -83,11 +95,17 @@ for fi in gs_files:
                an_system.remove(an)
                an_disa.remove(an)
                global_system_anotations["Disability+Scope+Neg"]["tp"]+=1
+               file_system_anotations["Disability+Scope+Neg"]["tp"]+=1
             else:
                global_system_anotations["Disability+Scope+Neg"]["fn"]+=1
+               file_system_anotations["Disability+Scope+Neg"]["fn"]+=1
         global_system_anotations["Disability+Scope+Neg"]["fp"]+=len(an_system)
+        file_system_anotations["Disability+Scope+Neg"]["fp"]+=len(an_system)
 
-
+    t = 4
+    if file_system_anotations["Disability"]["fn"] > t or file_system_anotations["Disability"]["fp"] > t or \
+       file_system_anotations["Neg"]["fn"] > t or file_system_anotations["Neg"]["fp"] > t:
+        print("kdiff3 {}/{} {}/{}\nDisability {} Neg {}".format(sys.argv[1], fi, sys.argv[2], fi,file_system_anotations["Disability"], file_system_anotations["Neg"]))
 print("\n\n\nResults:")
 for x in global_system_anotations.keys():
     print("=========================================================")
