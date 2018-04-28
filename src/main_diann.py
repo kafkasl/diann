@@ -195,7 +195,7 @@ def flatten_to_conll(sentences, contains_pos=False):
 #             f.write("{}\t{}\n".format(word, tag))
 
 
-def predict(tagger, chunker, validation):
+def predict(chunker, validation):
 
     validation_results = []
 
@@ -211,7 +211,7 @@ def predict(tagger, chunker, validation):
 
 def process_fold(input):
 
-    fold, training_files, gold_files, provided, tagger, model_name = input
+    fold, training_files, gold_files, provided, tagger, model_name, language = input
 
     if args.debug:
         training_files, gold_files = training_files[0:2], gold_files[0:1]
@@ -229,15 +229,22 @@ def process_fold(input):
     # print("Entities: {}".format(entities))
     if not provided:
         chunker = NamedEntityChunker(train_sents=training_data, tagger=tagger,
-                                     model_name=model_name, entities=entities)
+                                     model_name=model_name, entities=entities, language=language)
     else:
-        chunker = NamedEntityChunker(tagger=tagger, model=model_name, entities=entities)
+        chunker = NamedEntityChunker(tagger=tagger, model=model_name, entities=entities, language=language)
 
+    if gold_files:
+        test(tagger=tagger, gold_files=gold_files, chunker=chunker, language=language)
+    else:
+        test(tagger=tagger, gold_files=training_files, chunker=chunker, language=language)
+
+
+def test(tagger, gold_files, chunker, language):
     predictions = {}
     for file in gold_files:
         print("Predicting file: {}".format(file))
-        validation_data = list(bioDataGenerator(files=[file], lang=args.language))
-        prediction = predict(tagger, chunker=chunker, validation=validation_data)
+        validation_data = list(bioDataGenerator(files=[file], lang=language))
+        prediction = predict(chunker=chunker, validation=validation_data)
         predictions[file] = prediction
 
     # gold = list(bioDataGenerator(files=gold_files, lang=args.language))
@@ -256,9 +263,9 @@ def process_fold(input):
 
     for file, prediction in predictions.items():
         pred_conll = flatten_to_conll(prediction)
-        tagged = find_negated(data=pred_conll)
+        tagged = find_negated(data=pred_conll, language=language)
         xml = convert_into_xml(tagged)
-        filename = '../results/system/{}/{}'.format(tagger, file.split("/")[-1])
+        filename = '../results/system/{}/{}/{}'.format(tagger, language, file.split("/")[-1])
         with open(filename, 'w') as f:
             f.write("\n".join(xml))
             print("Written results in {}".format(filename))
@@ -279,6 +286,7 @@ if __name__ == '__main__':
     parser.add_argument('-m', '--model_name', default=None, help="Trained model files for CRF")
     parser.add_argument('-p', '--provided_model', action='store_true')
     parser.add_argument('-t', '--tagger', default="CRFTagger", help="Tagger to use:  CRFTagger or ClassifierBasedTagger")
+    parser.add_argument('--testing', action='store_true', default=False)
 
     args = parser.parse_args()
 
@@ -288,22 +296,35 @@ if __name__ == '__main__':
     model_name = args.model_name
     provided_model = args.provided_model
 
-    inputs = []
-    for fold in range(args.folds):
-        model = "{}_{}".format(model_name, fold)
-        training = [files[i] for i in
-                    [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
-        validation = [files[i] for i in
-                      [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
-        inputs.append((fold, training, validation, provided_model, args.tagger, model))
 
-    # print("Inputs: {}".format(inputs))
+    if not args.testing:
+        inputs = []
+        if args.folds > 1:
+            for fold in range(args.folds):
+                model = "{}_{}".format(model_name, fold)
+                training = [files[i] for i in
+                            [i for i in range(len(files)) if fold * chunk_size > i or i >= (fold + 1) * chunk_size]]
+                validation = [files[i] for i in
+                              [i for i in range(len(files)) if fold * chunk_size <= i < (fold + 1) * chunk_size]]
+                inputs.append((fold, training, validation, provided_model, args.tagger, model, args.language))
+                print("Training size: {}\nValidation size: {}".format(len(training), len(validation)))
+        else:
+            model = "{}_final".format(model_name)
+            print("Training final model: {} with {} elements".format(model, len(files)))
+            inputs = [(0, files, [], provided_model, args.tagger, model, args.language)]
+        # print("Inputs: {}".format(inputs))
 
-    if threads > 1:
-        p = Pool(threads)
-        outputs = p.map(process_fold, inputs)
+        if threads > 1:
+            p = Pool(threads)
+            p.map(process_fold, inputs)
+        else:
+            for inp in inputs:
+                process_fold(inp)
+
     else:
-        outputs = [process_fold(inp) for inp in inputs]
+        chunker = NamedEntityChunker(tagger=args.tagger, model=model_name, entities=None, language=args.language)
+        test(tagger=args.tagger, gold_files=files, chunker=chunker, language=args.language)
+
 
     # precisions = [p for p, r in outputs]
     # recalls = [r for p, r in outputs]

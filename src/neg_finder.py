@@ -42,9 +42,12 @@ def get_entities_per_sentence(sentences):
 
     return sent_ent
 
-def find_negated(data):
+def find_negated(data, language):
     # rfile = open(r'../src/negex/negex_triggers.txt')
-    rfile = open(r'../src/negex/custom_negex_triggers.txt')
+    if language == "english":
+        rfile = open(r'../src/negex/custom_negex_triggers.txt')
+    else:
+        rfile = open(r'../src/negex/spanish_custom_negex_triggers.txt')
     irules = sortRules(rfile.readlines())
     sent_ent = get_entities_per_sentence(data)
     output = []
