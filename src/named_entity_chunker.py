@@ -225,85 +225,47 @@ class NamedEntityChunker(ChunkParserI):
         # init the stemmer
         stemmer = SnowballStemmer(self.language)
 
+
         # Pad the sequence with placeholders
-        tokens = [('[START3]', '[START3]'), ('[START2]', '[START2]'), ('[START1]', '[START1]')] + list(tokens) + \
-                 [('[END1]', '[END1]'), ('[END2]', '[END2]'), ('[END3]', '[END3]'), ('[END4]', '[END4]'), ('[END5]', '[END5]')]
+        num_of_previous = 5
+        num_of_posterior = 3
+        tk = []
+        for i in range(0, num_of_previous):
+            tk.append(('[START{}]'.format(num_of_previous-i), '[START{}]'.format(num_of_previous-i)))
+
+        tk = tk + list(tokens)
+        for i in range(1, num_of_posterior+1):
+            tk.append(('[END{}]'.format(i), '[END{}]'.format(i)))
+
+        tokens = tk
 
         # shift the index with 2, to accommodate the padding
-        index += 3
-
-        # print("Tokens: {}".format(tokens[index]))
+        index += num_of_previous
+        # if index == num_of_previous:
+        # print("Tokens: {}".format(tokens))
+        # print("Index: {} / {}".format(index, len(tokens)))
 
         word, pos = tokens[index]
         prevword, prevpos = tokens[index - 1]
         prevprevword, prevprevpos = tokens[index - 2]
-        prevprevprevword, prevprevprevpos = tokens[index - 3]
-        nextword, nextpos = tokens[index + 1]
-        nextnextword, nextnextpos = tokens[index + 2]
-        nextnextnextword, nextnextnextpos = tokens[index + 3]
+
         contains_dash = ('–' in word or '-' in word or '_' in word)
         contains_dot = '.' in word
 
         prev2_words = prevprevword + "__" + prevword
         prev2_pos = prevprevpos + "__" + prevpos
 
-        prev_oparenthesis = '(' == prevword
-        prev_cparenthesis = ')' == prevword
-        next_oparenthesis = '(' == nextword
-        next_cparenthesis = ')' == nextword
+
         allascii = all([True for c in word if c in string.ascii_lowercase])
 
         allcaps = is_all_caps(word)
         firstcap = word == word.capitalize()
         capitalized = word[0] in string.ascii_uppercase
 
-        prevallcaps = is_all_caps(prevword)
-        prevfirstcap = prevword == prevword.capitalize()
-        prevcapitalized = prevword[0] in string.ascii_uppercase
-
-        nextallcaps = is_all_caps(nextword)
-        nextfirstcap = nextword == nextword.capitalize()
-        nextcapitalized = nextword[0] in string.ascii_uppercase
-
-        nnallcaps = nextnextword == nextnextword.capitalize()
-        nncapitalized = nextnextword[0] in string.ascii_uppercase
-
-        nnnallcaps = nextnextnextword == nextnextnextword.capitalize()
-        nnncapitalized = nextnextnextword[0] in string.ascii_uppercase
-
-        if index + 4 < len(tokens):
-            nnnnallcaps = tokens[index+4][0] == tokens[index+4][0].capitalize()
-            # print("Token: [{}]".format(tokens[index+4][0]))
-            nnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
-        else:
-            nnnnallcaps = False
-            nnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
-
-
-        if len(tokens) > index + 5:
-            nnnnnallcaps = tokens[index+5][0] == tokens[index+5][0].capitalize()
-            nnnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
-        else:
-            nnnnnallcaps = False
-            nnnnncapitalized = tokens[index+4][0][0] in string.ascii_uppercase
-
 
         starting_ent = word.lower() in self.starting_word_entities
-        inside_ent = word.lower() in self.inside_word_entities
-        in_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
+        inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
 
-        prev_starting_ent = prevword.lower() in self.starting_word_entities
-        prev_ent = prevword.lower() in self.starting_word_entities + self.inside_word_entities
-        next_ent = nextword.lower() in self.starting_word_entities + self.inside_word_entities
-
-        contained_in_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
-
-        # contains_y = 'y' in word
-        # followed_by_acronym = self.is_followed_by_acronym(tokens[index:])
-        # prevprecedent = prevword in self.precedents_list
-        #
-        # nextprecedent = nextword in precedents_list
-        # currentprecedent = word in precedents_list
 
         # add more or less features to dict
         # example: if the word is inside a seen entity, report the position (or more than one feature if it's present in more than one)
@@ -311,59 +273,19 @@ class NamedEntityChunker(ChunkParserI):
         # try to add lemmas in spanish
 
 
-        # best results were obtained when i added the prev2 attributes with the last results parameters
         features = {
+
             'word': word,
             'lemma': stemmer.stem(word),
             'pos': pos,
             'all-ascii': allascii,
 
-            'next-word': nextword,
-            'next-lemma': stemmer.stem(nextword),
-            'next-pos': nextpos,
-
-            # 'next-next-word': nextnextword,
-            # 'next-next-pos': nextnextpos,
-            #
-            # 'next-next-next-word': nextnextnextword,
-            # 'next-next-next-pos': nextnextnextpos,
-
-            'prev-word': prevword,
-            'prev-lemma': stemmer.stem(prevword),
-            'prev-pos': prevpos,
-
-            # 'prev-prev-word': prevprevword,
-            # 'prev-prev-pos': prevprevpos,
-            #
-            # 'prev-prev-prev-word': prevprevprevword,
-            # 'prev-prev-prev-pos': prevprevprevpos,
-
             'prev2-pos': prev2_pos,
             'prev2-word': prev2_words,
-
-            'starting-eng': starting_ent,
-            # 'next-next-capitalized': nncapitalized,
-            # 'next-next-next-capitalized': nnncapitalized,
-            # 'next-next-next-next-capitalized': nnnncapitalized,
-            # 'next-next-next-next-next-capitalized': nnnnncapitalized,
-            #
-            # 'next-next-all-caps': nnallcaps,
-            # 'next-next-next-all-caps': nnnallcaps,
-            # 'next-next-next-next-all-caps': nnnnallcaps,
-            # 'next-next-next-next-next-all-caps': nnnnnallcaps,
-            #
-            #
-            # 'next-ent': next_ent,  #decreases
-            # 'prev-sent': prev_ent, #decreases
-
-            'contained_in_ent': contained_in_ent,
-
-
-            # 'prev-precedent': prevprecedent,
-            # 'next-precedent': nextprecedent,
-            # 'current-precedent': currentprecedent
-
+            'starting_ent': starting_ent,
+            'contained_in_ent': inside_ent,  # improves neg but decreases dis
         }
+
         if contains_dash:
             features['contains-dash'] = contains_dash
         if contains_dot:
@@ -371,44 +293,75 @@ class NamedEntityChunker(ChunkParserI):
 
         if allcaps:
             features['all-caps'] = allcaps
-            # features['word-length'] = len(word)
-            # print("Word: {}".format(word))
         if firstcap:
             features['first-caps'] = firstcap
         if capitalized:
             features['capitalized'] = capitalized
 
-        # if prevallcaps:
-        #     features['prev-all-caps'] = prevallcaps
-        # if prevfirstcap:
-        #     features['prev-first-caps'] = prevfirstcap
-        # if prevcapitalized:
-        #     features['prev-capitalized'] = prevcapitalized
-        #
-        # if nextallcaps:
-        #     features['next-all-caps'] = nextallcaps
-        # if nextfirstcap:
-        #     features['next-first-caps'] = nextfirstcap
-        # if nextcapitalized:
-        #     features['next-capitalized'] = nextcapitalized
-        #
 
-        # if prev_oparenthesis:
-        #     features['prev_oparenthesis'] = prev_oparenthesis
-        # if prev_cparenthesis:
-        #     features['prev_cparenthesis'] = prev_cparenthesis
-        # if next_oparenthesis:
-        #     features['next_oparenthesis'] = next_oparenthesis
-        # if next_cparenthesis:
-        #     features['next_cparenthesis'] = next_cparenthesis
-        # if starting_ent:
-        #     features['starting-ent'] = starting_ent
-        # if in_ent:
-        #     positions = self.get_position(word)
-        #     for i, p in enumerate(positions):
-        #         features['inside-ent-{}'.format(i)] = p
-        # if prev_starting_ent:
-        #     features['prev-starting-sent'] = prev_starting_ent
+
+        # best results were obtained when i added the prev2 attributes with the last results parameters
+
+        for i in range(1, num_of_previous+1):
+            word, pos = tokens[index - i]
+            allcaps = is_all_caps(word)
+            firstcap = word == word.capitalize()
+            capitalized = word[0] in string.ascii_uppercase
+            starting_ent = word.lower() in self.starting_word_entities
+            inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
+            lemma = stemmer.stem(word)
+
+            features['prev-{}-word'.format(num_of_previous-i)] = word
+            features['prev-{}-pos'.format(num_of_previous-i)] = pos
+            if allcaps:
+                features['prev-{}-all-caps'.format(num_of_previous-i)] = allcaps
+            if firstcap:
+                features['prev-{}-first-cap'.format(num_of_previous-i)] = firstcap
+            if capitalized:
+                features['prev-{}-capitalized'.format(num_of_previous-i)] = capitalized
+            if starting_ent:
+                features['prev-{}-starting-ent'.format(num_of_previous-i)] = starting_ent
+            # features['prev-{}-inside-ent'.format(num_of_previous-i)] = inside_ent
+            features['prev-{}-lemma'.format(num_of_previous-i)] = lemma
+
+        for i in range(1, num_of_posterior + 1):
+            word, pos = tokens[index + i]
+            allcaps = is_all_caps(word)
+            firstcap = prevword == word.capitalize()
+            capitalized = word[0] in string.ascii_uppercase
+            inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
+            lemma = stemmer.stem(word)
+
+            features['next-{}-word'.format(num_of_posterior + i)] = word
+            features['next-{}-pos'.format(num_of_posterior + i)] = pos
+            if allcaps:
+                features['next-{}-all-caps'.format(num_of_posterior + i)] = allcaps
+            if firstcap:
+                features['next-{}-first-cap'.format(num_of_posterior + i)] = firstcap
+            if capitalized:
+                features['next-{}-capitalized'.format(num_of_posterior + i)] = capitalized
+            if inside_ent:
+                features['next-{}-inside-ent'.format(num_of_posterior + i)] = inside_ent
+            features['next-{}-lemma'.format(num_of_posterior + i)] = lemma
+
+        if contains_dash:
+            features['contains-dash'] = contains_dash
+        if contains_dot:
+            features['contains-dot'] = contains_dot
+
+        if allcaps:
+            features['all-caps'] = allcaps
+        if firstcap:
+            features['first-caps'] = firstcap
+        if capitalized:
+            features['capitalized'] = capitalized
+
+        if '(' == tokens[index-1][0]:
+            features['prev_oparenthesis'] = True
+
+        # print("Tokens[{}-1] = {}".format(index, tokens[index]))
+        if index+1 < len(tokens) and ')' == tokens[index+1][0]:
+            features['next_cparenthesis'] = True
 
         return features
 

@@ -242,7 +242,7 @@ def process_fold(input):
 def test(tagger, gold_files, chunker, language):
     predictions = {}
     for file in gold_files:
-        print("Predicting file: {}".format(file))
+        # print("Predicting file: {}".format(file))
         validation_data = list(bioDataGenerator(files=[file], lang=language))
         prediction = predict(chunker=chunker, validation=validation_data)
         predictions[file] = prediction
