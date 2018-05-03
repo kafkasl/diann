@@ -1,0 +1,7 @@
+sin		[PREN]
+no		[PREN]
+sin evidencia		[PREN]
+ausencia de		[PREN]
+ausencia		[PREN]
+sin signos		[PREN]
+libre de		[PREN]

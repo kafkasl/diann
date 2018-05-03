@@ -1,43 +1,43 @@
-ningún cambio sospechoso		[PSEU]
-ningún cambio significativo		[PSEU]
-ningún cambio		[PSEU]
-ningún aumento		[PSEU]
-ningún intervalo cambia		[PSEU]
-sin cambio definitivo		[PSEU]
-el cambio en el intervalo no es significativo		[PSEU]
-No extienda		[PSEU]
-no causa		[PSEU]
-No drena		[PSEU]
-no es seguro que		[PSEU]
-no se sabe si		[PSEU]
-no sin dificultad		[PSEU]
-no necesariamente		[PSEU]
-no sólo		[PSEU]
-no sOlo		[PSEU]
-ausencia de		[PREN]
-no puede		[PREN]
-no puede ver		[PREN]
-rechazado		[PREN]
-rechazo		[PREN]
-rechazó		[PREN]
-rechaza		[PREN]
-negativo en		[PREN]
-no revela		[PREN]
-sin		[PREN]
-negativo para		[PREN]
-Nunca desarrollado		[PREN]
-nunca ha tenido		[PREN]
-nunca ha desarrollado		[PREN]
-nunca tuvo		[PREN]
-nada anormal		[PREN]
-ninguna causa de		[PREN]
-no hay quejas de		[PREN]
-hay evidencia		[PREN]
-no hay nuevas pruebas		[PREN]
-ninguna otra evidencia		[PREN]
-ninguna evidencia que sugiera		[PREN]
-no hay resultados de		[PREN]
-no hay resultados que indiquen		[PREN]
-hay pruebas de mamografía de		[PREN]
-HEMENDIK NOA		[PREN]
-
+<scp><neg>no</neg> presentaban <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>trastorno mental</dis></scp>
+<scp><neg>sin</neg> <dis>alteraciones psiquiátricas</dis></scp>
+<scp><neg>sin</neg> <dis>TDAH</dis></scp>
+<scp>en <neg>ausencia</neg> de <dis>trastornos elementales sensitivos o motores</dis></scp>
+<scp>la <neg>no</neg> <dis>afasia</dis></scp>
+<scp><neg>sin</neg> <dis>disfunción social</dis></scp>
+<scp><neg>ausencia</neg> de <dis>deterioro cognoscitivo</dis></scp>general. 
+<scp><neg>no</neg> se reportaron niños con <dis>ceguera</dis> por ROP</scp>
+<scp><neg>sin evidencia</neg> de leucomalacia y <dis>parálisis cerebral</dis></scp>
+<scp><neg>no</neg> presentar ninguna enfermedad potencialmente mortal ni <dis>deterioro cognoscitivo</dis></scp>
+<scp><neg>ausencia de</neg> <dis>deterioro funcional o cognitivo severo</dis> al ingreso</scp>
+<scp><neg>no</neg> <dis>dependientes para la marcha</dis></scp>
+<scp><neg>sin evidencia</neg> de <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>deterioro cognitivo grave</dis></scp>
+<scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>
+<scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>
+<scp><neg>libre de</neg> <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>
+<scp><neg>no</neg> tenían <dis>demencia</dis> ni depresión al comienzo del seguimiento</scp>
+<scp><neg>sin signos</neg> <dis>disautonómicos</dis></scp>
+<scp><neg>no</neg> condujo a <dis>deterioro cognitivo global</dis> a los 5 años de la cirugía</scp>
+<scp><neg>sin</neg> <dis>PM</dis></scp>
+<scp><neg>sin</neg> <dis>TEL</dis></scp>
+S021446030970138X.txt  (2 usages found)
+<scp><neg>sin</neg> <dis>deterioro cognitivo</dis></scp>
+<scp><neg>no</neg> presentan <dis>deterioro cognitivo</dis></scp>
+<scp><neg>no</neg> tuvieron <dis>problemas cognitivos</dis> o <dis>trastornos mentales</dis> en fase aguda</scp>
+<scp><neg>sin</neg> <dis>afectación cognitiva</dis></scp>
+<scp><neg>sin</neg> <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>demencia</dis></scp>base comunitaria formada por personas de edad igual o superior a 65 años (estudio ESPRIT).
+S1138207408700150.txt  (2 usages found)
+<scp><neg>sin</neg> <dis>demencia</dis></scp>
+<scp><neg>sin</neg> <dis>demencia</dis></scp>
+<scp><neg>No</neg> hay <dis>hipoacusia</dis>, síntomas urinarios ni cardiológicos</scp>
+<scp><neg>sin</neg> <dis>deterioro cognitivo</dis> para su genotipo</scp>
+S2173573508701947.txt  (2 usages found)
+<scp><neg>sin</neg> <dis>hipoacusia</dis></scp>
+<scp><neg>sin</neg> <dis>hipoacusia</dis></scp>
+S2173573508702199.txt  (2 usages found)
+<scp><neg>no</neg> se encuadraba en la <dis>hipoacusia unilateral</dis></scp>
+<scp><neg>sin</neg> <dis>hipoacusia</dis></scp>
