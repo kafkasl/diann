@@ -113,9 +113,8 @@ def iob_features(tokens, index, history):
 class NamedEntityChunker(ChunkParserI):
     def __init__(self, train_sents=None, tagger="ClassifierBasedTagger", model=None, model_name="../results/modelCRF_featured", entities=None, language="english", **kwargs):
 
-        self.starting_word_entities = []
-        self.inside_word_entities = []
         self.all_entities = []
+        self.acronyms = []
         self.language = language
 
         if not model:
@@ -168,52 +167,69 @@ class NamedEntityChunker(ChunkParserI):
                 positions.append(e.index(w))
         return positions
 
+    def get_positions(self, tokens, index):
+        w = tokens[index][0]
+        prev = tokens[index-1][0]
+        next = tokens[index+1][0]
+        positions = []
+        for e in self.all_entities:
+            if w in e and prev in e and next in e:
+                positions.append(e.index(w))
+        return list(set(positions))
+
+
     def set_entities(self, entities):
         if entities:
-            dis_list = [l.split() for l in open('../data/disability_tuples.txt', 'r').readlines()]
-
-            self.starting_word_entities = [l[0] for l in dis_list]
-            for l in dis_list:
-                self.inside_word_entities.extend(l[1:])
-
-            for l in dis_list:
-                self.all_entities.append([w.lower() for w in l])
+            # dis_list = [l.split() for l in open('../data/disability_tuples.txt', 'r').readlines()]
+            #
+            # for l in dis_list:
+            #     self.all_entities.append([w.lower() for w in l])
 
             entities = [l.split() for l in entities]
 
-            self.starting_word_entities.extend([l[0].lower() for l in entities])
             for l in entities:
-                self.inside_word_entities.extend([w.lower() for w in l[1:]])
-            for l in entities:
-                self.all_entities.append([w.lower() for w in l])
+                if len(l) == 1 and is_all_caps(l[0]):
+                    self.acronyms.append(l[0].lower())
+                    # self.all_entities.append([w.lower() for w in l])
+                else:
+                    self.all_entities.append([w.lower() for w in l])
+                    # if len(l) > 1:
+                    #     acronym = "".join([w[0] for w in l])
+                    #     if acronym not in self.acronyms:
+                    #         # self.all_entities.apend(acronym.lower
+                    #         # print("Acronym: [{}], Original: [{}]".format(acronym, " ".join(l)))
+                    #         self.acronyms.append(acronym.lower())
             # print("Total entities to be written: {}".format(len(self.all_entities)))
             # print(self.all_entities)
 
-            self.starting_word_entities = list(set(self.starting_word_entities))
-            self.inside_word_entities = list(set(self.inside_word_entities))
             self.all_entities = list(set([tuple(entity) for entity in self.all_entities]))
+            self.acronyms = list(set(self.acronyms))
+
+            # for e in self.all_entities:
+            #     if len(e) > 1:
+            #         acronym = "".join([w[0] for w in e])
+            #         if acronym not in self.all_entities:
+            #             self.all_entities.append(tuple(acronym))
 
             with open('../data/entities_{}.txt'.format(self.language), 'w') as f:
+                f.write("\n".join([" ".join(line) for line in self.all_entities]))
+
+            with open('../data/acronyms_{}.txt'.format(self.language), 'w') as f:
                 f.write("\n".join([" ".join(line) for line in self.all_entities]))
         else:
             with open('../data/entities_{}.txt'.format(self.language), 'r') as f:
                 for line in f:
                     self.all_entities.append(line.strip().split())
 
-                self.starting_word_entities.extend([l[0].lower() for l in self.all_entities])
-                for l in self.all_entities:
-                    self.inside_word_entities.extend([w.lower() for w in l[1:]])
+            with open('../data/acronyms_{}.txt'.format(self.language), 'r') as f:
+                for line in f:
+                    self.acronyms.append(line.strip())
 
-            self.starting_word_entities = list(set(self.starting_word_entities))
-            self.inside_word_entities = list(set(self.inside_word_entities))
             self.all_entities = list(set([tuple(entity) for entity in self.all_entities]))
+            self.acronyms = list(set(self.acronyms))
 
-
-
-
-
-    # def is_followed_by_acronym(self, tokens, distance):
-    #     w = tokens[0]
+        # print("Acronyms: {}".format(self.acronyms))
+        # print("Entities: {}".format(self.all_entities))
 
     def crf_features(self, tokens, index):
         """
@@ -227,8 +243,8 @@ class NamedEntityChunker(ChunkParserI):
 
 
         # Pad the sequence with placeholders
-        num_of_previous = 5
-        num_of_posterior = 3
+        num_of_previous = 3
+        num_of_posterior = 2
         tk = []
         for i in range(0, num_of_previous):
             tk.append(('[START{}]'.format(num_of_previous-i), '[START{}]'.format(num_of_previous-i)))
@@ -239,129 +255,119 @@ class NamedEntityChunker(ChunkParserI):
 
         tokens = tk
 
-        # shift the index with 2, to accommodate the padding
         index += num_of_previous
-        # if index == num_of_previous:
-        # print("Tokens: {}".format(tokens))
-        # print("Index: {} / {}".format(index, len(tokens)))
+
 
         word, pos = tokens[index]
-        prevword, prevpos = tokens[index - 1]
-        prevprevword, prevprevpos = tokens[index - 2]
+
 
         contains_dash = ('–' in word or '-' in word or '_' in word)
         contains_dot = '.' in word
 
-        prev2_words = prevprevword + "__" + prevword
-        prev2_pos = prevprevpos + "__" + prevpos
+        prev3_words = tokens[index-3][0] + "_._" + tokens[index-2][0]
+        prev3_pos = tokens[index-3][1] + "_._" + tokens[index-2][1]
 
+        prev2_words = tokens[index-2][0] + "_._" + tokens[index-1][0]
+        prev2_pos = tokens[index-2][1] + "_._" + tokens[index-1][1]
+        # prev2_lemma = stemmer.stem(tokens[index-2][0]) + "_._" + stemmer.stem(tokens[index-1][0])
 
-        allascii = all([True for c in word if c in string.ascii_lowercase])
+        prev1_words = tokens[index-1][0] + "_._" + tokens[index][0]
+        prev1_pos = tokens[index-1][1] + "_._" + tokens[index][1]
+        prev1_lemma = stemmer.stem(tokens[index-1][0]) + "_._" + stemmer.stem(tokens[index][0])
+
+        next1_words = tokens[index][0] + "_._" + tokens[index+1][0]
+        next1_pos = tokens[index][1] + "_._" + tokens[index+1][1]
+
+        next2_words = tokens[index+1][0] + "_._" + tokens[index+2][0]
+        next2_pos = tokens[index+1][1] + "_._" + tokens[index+2][1]
 
         allcaps = is_all_caps(word)
-        firstcap = word == word.capitalize()
-        capitalized = word[0] in string.ascii_uppercase
+        strange_cap = word[0] not in string.ascii_uppercase and word != word.lower()
 
 
-        starting_ent = word.lower() in self.starting_word_entities
-        inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
-
-
-        # add more or less features to dict
-        # example: if the word is inside a seen entity, report the position (or more than one feature if it's present in more than one)
-        # this word and the previous/next are inside some entity
-        # try to add lemmas in spanish
-
-
+        # starting_ent = word.lower() in self.starting_entities
+        # prev_starting_ent = tokens[index-1][0].lower() in self.starting_entities
+        inside_ent = word.lower() in self.all_entities
+        is_acronym = word.lower() in self.acronyms
         features = {
 
             'word': word,
             'lemma': stemmer.stem(word),
             'pos': pos,
-            'all-ascii': allascii,
+            'all-caps': allcaps,
+            'strange-cap': strange_cap,
+
+            # 'prev3-pos': prev3_pos,
+            # 'prev3-word': prev3_words,
 
             'prev2-pos': prev2_pos,
             'prev2-word': prev2_words,
-            'starting_ent': starting_ent,
-            'contained_in_ent': inside_ent,  # improves neg but decreases dis
+
+            'prev1-pos': prev1_pos,
+            'prev1-word': prev1_words,
+            'prev1-lemma': prev1_lemma,
+
+            'next1-pos': next1_pos,
+            'next1-word': next1_words,
+
+            'next2-pos': next2_pos,
+            'next2-word': next2_words,
+
+
+
+            # 'prev-starting_ent': prev_starting_ent,
+            # 'contained_in_ent': inside_ent,  # improves neg but decreases dis
         }
+        #
+        # # Word features
+        # if inside_ent:
+        features['inside-entities'] = inside_ent
+        positions = self.get_position(word.lower())
+        for p in positions:
+            features['position-{}'.format(p)] = True
+        if is_acronym:
+            features['is-acronym'] = is_acronym
 
         if contains_dash:
             features['contains-dash'] = contains_dash
         if contains_dot:
             features['contains-dot'] = contains_dot
 
-        if allcaps:
-            features['all-caps'] = allcaps
-        if firstcap:
-            features['first-caps'] = firstcap
-        if capitalized:
-            features['capitalized'] = capitalized
 
-
-
-        # best results were obtained when i added the prev2 attributes with the last results parameters
-
+        # # best results were obtained when i added the prev2 attributes with the last results parameters
+        #
         for i in range(1, num_of_previous+1):
             word, pos = tokens[index - i]
-            allcaps = is_all_caps(word)
-            firstcap = word == word.capitalize()
-            capitalized = word[0] in string.ascii_uppercase
-            starting_ent = word.lower() in self.starting_word_entities
-            inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
             lemma = stemmer.stem(word)
 
-            features['prev-{}-word'.format(num_of_previous-i)] = word
-            features['prev-{}-pos'.format(num_of_previous-i)] = pos
-            if allcaps:
-                features['prev-{}-all-caps'.format(num_of_previous-i)] = allcaps
-            if firstcap:
-                features['prev-{}-first-cap'.format(num_of_previous-i)] = firstcap
-            if capitalized:
-                features['prev-{}-capitalized'.format(num_of_previous-i)] = capitalized
-            if starting_ent:
-                features['prev-{}-starting-ent'.format(num_of_previous-i)] = starting_ent
-            # features['prev-{}-inside-ent'.format(num_of_previous-i)] = inside_ent
-            features['prev-{}-lemma'.format(num_of_previous-i)] = lemma
+            features['prev-{}-word'.format(i)] = word
+            features['prev-{}-pos'.format(i)] = pos
+
+            features['prev-{}-lemma'.format(i)] = lemma
 
         for i in range(1, num_of_posterior + 1):
             word, pos = tokens[index + i]
-            allcaps = is_all_caps(word)
-            firstcap = prevword == word.capitalize()
-            capitalized = word[0] in string.ascii_uppercase
-            inside_ent = word.lower() in self.starting_word_entities + self.inside_word_entities
-            lemma = stemmer.stem(word)
+            inside_ent = word.lower() in self.all_entities
 
-            features['next-{}-word'.format(num_of_posterior + i)] = word
-            features['next-{}-pos'.format(num_of_posterior + i)] = pos
-            if allcaps:
-                features['next-{}-all-caps'.format(num_of_posterior + i)] = allcaps
-            if firstcap:
-                features['next-{}-first-cap'.format(num_of_posterior + i)] = firstcap
-            if capitalized:
-                features['next-{}-capitalized'.format(num_of_posterior + i)] = capitalized
-            if inside_ent:
-                features['next-{}-inside-ent'.format(num_of_posterior + i)] = inside_ent
-            features['next-{}-lemma'.format(num_of_posterior + i)] = lemma
+            features['next-{}-word'.format(i)] = word
+            features['next-{}-pos'.format(i)] = pos
+            features['next-{}-inside-ent'.format(i)] = inside_ent
 
-        if contains_dash:
-            features['contains-dash'] = contains_dash
-        if contains_dot:
-            features['contains-dot'] = contains_dot
+            # features['next-{}-lemma'.format(num_of_posterior + i)] = lemma # worsens a lot
 
-        if allcaps:
-            features['all-caps'] = allcaps
-        if firstcap:
-            features['first-caps'] = firstcap
-        if capitalized:
-            features['capitalized'] = capitalized
+        #
+        #
+        #
+        #
+        # if '(' == tokens[index-1][0]:
+        #     features['prev_oparenthesis'] = True
+        #
+        # # print("Tokens[{}-1] = {}".format(index, tokens[index]))
+        # if index+1 < len(tokens) and ')' == tokens[index+1][0]:
+        #     features['next_cparenthesis'] = True
 
-        if '(' == tokens[index-1][0]:
-            features['prev_oparenthesis'] = True
-
-        # print("Tokens[{}-1] = {}".format(index, tokens[index]))
-        if index+1 < len(tokens) and ')' == tokens[index+1][0]:
-            features['next_cparenthesis'] = True
+        # if is_acronym:
+        #     print(features)
 
         return features
 
