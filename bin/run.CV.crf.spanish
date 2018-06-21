@@ -1,10 +1,12 @@
 #!/bin/bash -e
 
+find ../src/ -name '*.pyc' -exec rm -rf {} \;
+
 python3 ../src/main_diann.py \
     --language spanish \
     --input_dir ../data/Spanish_Training/Annotated/ \
     --tagger CRFTagger \
-    --folds 8 \
+    --folds 16 \
     --model_name crf_model_featured
 
 python ../src/evaluation/matching.py ../data/Spanish_Training/Annotated/ ../results/system/CRFTagger/spanish/

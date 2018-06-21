@@ -52,6 +52,7 @@ errors = []
 print("\n\n")
 for fi in gs_files:
 
+    print("File to evaluate: {}".format(fi))
     file_system_anotations = {
         "Disability": {"fp": 0, "tp": 0, "fn": 0},
         "Scope": {"fp": 0, "tp": 0, "fn": 0},

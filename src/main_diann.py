@@ -154,15 +154,7 @@ def bioDataGenerator(files, lang):
                     total[i] += '.'
             if total[-1] == '.':
                 del total[-1]
-            # sentences = nltk.sent_tokenize(data)
-            # total = []
-            # for s in sentences:
-            #     processed = s.split('\n')
-            #     if len(processed) > 1:
-            #         for i in range(0, (len(processed))):
-            #             if processed[i][-1] != '.':
-            #                 processed[i] += '.'
-            #     total.extend(processed)
+
             for sentence in total:
                 iob_data = process_sentence(sentence)
                 yield iob_data
@@ -170,7 +162,6 @@ def bioDataGenerator(files, lang):
 
 def flatten_to_conll(sentences, contains_pos=False):
     conll_data = []
-    # print("Setnences: {}".format(sentences))
     for sentence in sentences:
         s_aux = []
         if type(sentence) == list:
@@ -184,16 +175,6 @@ def flatten_to_conll(sentences, contains_pos=False):
             s_aux.append((word, tag))
         conll_data.append(s_aux)
     return conll_data
-
-
-# def write_results_in_conll(words, folder, filename):
-#     if not os.path.exists(folder):
-#         os.makedirs(folder)
-#
-#     with open(folder+filename, 'w') as f:
-#         for word, tag in words:
-#             f.write("{}\t{}\n".format(word, tag))
-
 
 def predict(chunker, validation):
 
@@ -226,7 +207,6 @@ def process_fold(input):
             tr.append((word, tag))
 
     entities = get_entities(tr)
-    # print("Entities: {}".format(entities))
     if not provided:
         chunker = NamedEntityChunker(train_sents=training_data, tagger=tagger,
                                      model_name=model_name, entities=entities, language=language)
@@ -239,40 +219,21 @@ def process_fold(input):
         test(tagger=tagger, gold_files=training_files, chunker=chunker, language=language)
 
 
-def test(tagger, gold_files, chunker, language):
+def test(tagger, gold_files, chunker, language, testing=""):
     predictions = {}
     for file in gold_files:
-        # print("Predicting file: {}".format(file))
         validation_data = list(bioDataGenerator(files=[file], lang=language))
         prediction = predict(chunker=chunker, validation=validation_data)
         predictions[file] = prediction
-
-    # gold = list(bioDataGenerator(files=gold_files, lang=args.language))
-    # system = predict(tagger, chunker=chunker, validation=gold)
-    #
-    # system_data = flatten_to_conll(system)
-    # gold_data = flatten_to_conll(gold, contains_pos=True)
-    #
-    # precision, recall = nerc_evaluation(gold_data=gold_data, test_data=system_data)
-    #
-    # system_conll = flatten_to_conll(system)
-    # gold_conll = flatten_to_conll(gold)
-    #
-    # write_results_in_conll(system_conll, '../results/system/conll/', 'test_{}.txt'.format(fold))
-    # write_results_in_conll(gold_conll, '../results/gold/conll/', 'test_{}.txt'.format(fold))
 
     for file, prediction in predictions.items():
         pred_conll = flatten_to_conll(prediction)
         tagged = find_negated(data=pred_conll, language=language)
         xml = convert_into_xml(tagged)
-        filename = '../results/system/{}/{}/{}'.format(tagger, language, file.split("/")[-1])
+        filename = '../results/system/{}/{}/{}/{}'.format(testing, tagger, language, file.split("/")[-1])
         with open(filename, 'w') as f:
             f.write("\n".join(xml))
             print("Written results in {}".format(filename))
-
-
-            # return precision, recall
-
 
 
 if __name__ == '__main__':
@@ -323,7 +284,7 @@ if __name__ == '__main__':
 
     else:
         chunker = NamedEntityChunker(tagger=args.tagger, model=model_name, entities=None, language=args.language)
-        test(tagger=args.tagger, gold_files=files, chunker=chunker, language=args.language)
+        test(tagger=args.tagger, gold_files=files, chunker=chunker, language=args.language, testing=args.testing)
 
 
     # precisions = [p for p, r in outputs]
